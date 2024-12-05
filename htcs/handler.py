@@ -2,7 +2,8 @@ import os
 from typing import Dict
 
 from .utils import regex_replace, load_data
-from .configs import ReplacementType, BondReplacementType, merge_keys, replace_keys, MasterType
+from .configs import merge_keys, replace_keys
+from .configs import ReplacementType, BondReplacementType, MasterType
 
 modified_master_dir = 'data'
 
