@@ -401,7 +401,7 @@
     {
         "id": 141,
         "title": "故事完整閱讀",
-        "description": "根據完整閱讀主線/活動劇情的章節數（未跳過或快進）\n可獲得相應的獎勵。",
+        "description": "根據完整閱讀主線\/活動劇情的章節數（未跳過或快進）\n可獲得相應的獎勵。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
@@ -421,7 +421,7 @@
     },
     {
         "id": 1043,
-        "title": "這也是為了Leo/need！",
+        "title": "這也是為了Leo\/need！",
         "assetbundleName": "comic_0043",
         "fromUserRank": 1,
         "toUserRank": 999

@@ -13,6 +13,11 @@ async def load_data(file_path: str) -> Union[Dict, List]:
         return json.loads(content)
 
 
+async def save_data(file_path: str, data: Union[Dict, List]) -> None:
+    async with aiofiles.open(file_path, 'w', encoding='utf-8') as f:
+        await f.write(json.dumps(data, indent=4, ensure_ascii=False))
+
+
 async def regex_replace(text: str, replace_type: Union[ReplacementType, BondReplacementType]) -> str:
     if isinstance(replace_type, ReplacementType):
         for pattern, replacement in replace_type.value:

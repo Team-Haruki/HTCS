@@ -1301,7 +1301,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
-        "value": "要用{0}\n交換{1}か？\n※各招募最多可以交換10次（相當於100張）。"
+        "value": "要用{0}\n交換{1}？\n※各招募最多可以交換10次（相當於100張）。"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
@@ -1837,7 +1837,7 @@
     },
     {
         "wordingKey": "MSG_MULTI_RESULT_WAITING",
-        "value": "正在等待其他玩家……（{0}/{1}）"
+        "value": "正在等待其他玩家……（{0}\/{1}）"
     },
     {
         "wordingKey": "MSG_MULTI_WAITING",
@@ -1858,6 +1858,14 @@
     {
         "wordingKey": "MSG_MUSIC_ORIGIN_CONFIRM",
         "value": "觀賞原曲影片，要移動到外部網站。\n確定執行？"
+    },
+    {
+        "wordingKey": "MSG_MUSIC_SAVE_CAPACITY_DESCRIPTION",
+        "value": "可以透過減少裝置中儲存的歌曲Vocal版本資料來降低使用容量。\n超過設定上限的歌曲Vocal版本資料將由舊至新依序刪除，並於播放時重新下載。"
+    },
+    {
+        "wordingKey": "MSG_MUSIC_SAVE_NUM_SETTING_CONFIRM",
+        "value": "歌曲Vocal版本資料數量上限是否設定如下？"
     },
     {
         "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
@@ -1881,7 +1889,7 @@
     },
     {
         "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_EXPLANATION",
-        "value": "您可以透過減少裝置中儲存的MV資料來降低使用容量。\n超過設定上限的MV資料將由舊至新依序刪除，並於播放時重新下載。"
+        "value": "可以透過減少裝置中儲存的MV資料來降低使用容量。\n超過設定上限的MV資料將由舊至新依序刪除，並於播放時重新下載。"
     },
     {
         "wordingKey": "MSG_MYLISTNAME_INPUT",
@@ -5809,7 +5817,7 @@
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_ITEM_PROVISION",
-        "value": "アイテム提供割合"
+        "value": "道具出現概率"
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_ITEM_REWARD_SELECT_TITLE",
@@ -5817,7 +5825,7 @@
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_SUMMARY",
-        "value": "ガチャボーナスについて"
+        "value": "關於招募獎勵"
     },
     {
         "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
@@ -7204,6 +7212,10 @@
         "value": "歌曲資訊"
     },
     {
+        "wordingKey": "WORD_MUSIC_DATA_SAVE_CAPACITY",
+        "value": "Vocal版本資料"
+    },
+    {
         "wordingKey": "WORD_MUSIC_DECIDE",
         "value": "決定歌曲"
     },
@@ -7238,6 +7250,22 @@
     {
         "wordingKey": "WORD_MUSIC_REWARD",
         "value": "歌曲報酬"
+    },
+    {
+        "wordingKey": "WORD_MUSIC_SAVE_ALL",
+        "value": "全部儲存"
+    },
+    {
+        "wordingKey": "WORD_MUSIC_SAVE_NONE",
+        "value": "不儲存"
+    },
+    {
+        "wordingKey": "WORD_MUSIC_SAVE_NUM_CAPTION",
+        "value": "Vocal版本"
+    },
+    {
+        "wordingKey": "WORD_MUSIC_SAVE_NUM_FORMAT",
+        "value": "{0}首"
     },
     {
         "wordingKey": "WORD_MUSIC_SELECT",
@@ -9148,10 +9176,6 @@
         "value": "確認再次入場"
     },
     {
-        "wordingKey": "WORD_STREAMING_LIVE_SHOP_CONFIRM_DUPLICATE",
-        "value": "已購入的特別物品組合中含有此物品。\n以下包含在組合的物品\n再度購買也無法重複獲得。"
-    },
-    {
         "wordingKey": "WORD_STREAMING_LIVE_TICKET_PURCHASED",
         "value": "已購買「{0}」。"
     },
@@ -10034,17 +10058,5 @@
     {
         "wordingKey": "WORD_YES",
         "value": "是"
-    },
-    {
-        "wordingKey": "WORD_MUSIC_DATA_SAVE_CAPACITY",
-        "value": "Vocal版本資料"
-    },
-    {
-        "wordingKey": "MSG_MUSIC_SAVE_CAPACITY_DESCRIPTION",
-        "value": "通過減少儲存在裝置中的樂曲Vocal版本資料數量，可以減少容量。\n超出設定上限的樂曲Vocal版本資料將按照時間順序被刪除，\n在遊玩時重新下載。"
-    },
-    {
-        "wordingKey": "MSG_MUSIC_SAVE_NUM_SETTING_CONFIRM",
-        "value": "將樂曲的Vocal版本資料數量上限設定如下。\n確定？"
     }
 ]

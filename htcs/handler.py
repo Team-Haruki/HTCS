@@ -1,20 +1,23 @@
 import os
 from typing import Dict
 
-from .utils import regex_replace, load_data
+from .utils import regex_replace, load_data, save_data
 from .configs import merge_keys, replace_keys
 from .configs import ReplacementType, BondReplacementType, MasterType
 
 modified_master_dir = 'data'
-
+save_modified_data = True
 
 async def master_handler(original_master: Dict) -> Dict:
     for key, values in original_master.items():
+        modified_file_path = None
+        is_not_replace = True
         match key:
             case key if key in replace_keys:
                 modified_file_path = os.path.join(modified_master_dir, 'replace', f"{key}.json")
                 if os.path.exists(modified_file_path):
                     original_master[key] = await load_data(modified_file_path)
+                    is_not_replace = False
             case key if key in merge_keys:
                 modified_file_path = os.path.join(modified_master_dir, 'merge', f"{key}.json")
                 if os.path.exists(modified_file_path):
@@ -73,5 +76,8 @@ async def master_handler(original_master: Dict) -> Dict:
             case MasterType.MUSIC_VOCALS.value:
                 for data in values:
                     data['caption'] = await regex_replace(data['caption'], ReplacementType.MUSIC_VOCALS)
+
+        if save_modified_data and modified_file_path and is_not_replace:
+            await save_data(modified_file_path, values)
 
     return original_master

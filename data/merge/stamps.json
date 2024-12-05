@@ -5119,7 +5119,7 @@
         "id": 485,
         "stampType": "illustration",
         "seq": 4850,
-        "name": "[貼圖] Leo/need未來：你要好好珍惜那個心願",
+        "name": "[貼圖] Leo\/need未來：你要好好珍惜那個心願",
         "assetbundleName": "stamp0485",
         "balloonAssetbundleName": "balloon_stamp_01",
         "characterId1": 21,
@@ -5895,7 +5895,7 @@
         "characterId1": 12,
         "gameCharacterUnitId": 12,
         "archivePublishedAt": 1233284400000,
-        "description": "參加「close game/OFFLINE AFTER LIVE」"
+        "description": "參加「close game\/OFFLINE AFTER LIVE」"
     },
     {
         "id": 551,
@@ -6978,7 +6978,7 @@
         "id": 641,
         "stampType": "text",
         "seq": 3952,
-        "name": "[文字貼圖]Leo/need！",
+        "name": "[文字貼圖]Leo\/need！",
         "assetbundleName": "stamp0641",
         "balloonAssetbundleName": "balloon_stamp_05",
         "archiveDisplayType": "none",
@@ -8516,7 +8516,7 @@
         "characterId1": 2,
         "gameCharacterUnitId": 2,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 774,
@@ -8528,7 +8528,7 @@
         "characterId1": 7,
         "gameCharacterUnitId": 7,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 775,
@@ -8540,7 +8540,7 @@
         "characterId1": 9,
         "gameCharacterUnitId": 9,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 776,
@@ -8552,7 +8552,7 @@
         "characterId1": 15,
         "gameCharacterUnitId": 15,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 777,
@@ -8564,7 +8564,7 @@
         "characterId1": 20,
         "gameCharacterUnitId": 20,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 778,
@@ -8576,7 +8576,7 @@
         "characterId1": 3,
         "gameCharacterUnitId": 3,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 779,
@@ -8588,7 +8588,7 @@
         "characterId1": 8,
         "gameCharacterUnitId": 8,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 780,
@@ -8600,7 +8600,7 @@
         "characterId1": 11,
         "gameCharacterUnitId": 11,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 781,
@@ -8612,7 +8612,7 @@
         "characterId1": 13,
         "gameCharacterUnitId": 13,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 782,
@@ -8624,7 +8624,7 @@
         "characterId1": 19,
         "gameCharacterUnitId": 19,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 783,
@@ -8636,7 +8636,7 @@
         "characterId1": 22,
         "gameCharacterUnitId": 22,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 784,
@@ -8648,7 +8648,7 @@
         "characterId1": 23,
         "gameCharacterUnitId": 23,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 785,
@@ -8660,7 +8660,7 @@
         "characterId1": 24,
         "gameCharacterUnitId": 24,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 786,
@@ -8672,7 +8672,7 @@
         "characterId1": 25,
         "gameCharacterUnitId": 25,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 787,
@@ -8684,7 +8684,7 @@
         "characterId1": 26,
         "gameCharacterUnitId": 26,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 788,
@@ -8696,7 +8696,7 @@
         "characterId1": 4,
         "gameCharacterUnitId": 4,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 789,
@@ -8708,7 +8708,7 @@
         "characterId1": 5,
         "gameCharacterUnitId": 5,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 790,
@@ -8720,7 +8720,7 @@
         "characterId1": 12,
         "gameCharacterUnitId": 12,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 791,
@@ -8732,7 +8732,7 @@
         "characterId1": 14,
         "gameCharacterUnitId": 14,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 792,
@@ -8744,7 +8744,7 @@
         "characterId1": 18,
         "gameCharacterUnitId": 18,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 793,
@@ -8756,7 +8756,7 @@
         "characterId1": 1,
         "gameCharacterUnitId": 1,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 794,
@@ -8768,7 +8768,7 @@
         "characterId1": 6,
         "gameCharacterUnitId": 6,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 795,
@@ -8780,7 +8780,7 @@
         "characterId1": 10,
         "gameCharacterUnitId": 10,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 796,
@@ -8792,7 +8792,7 @@
         "characterId1": 16,
         "gameCharacterUnitId": 16,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 797,
@@ -8804,7 +8804,7 @@
         "characterId1": 17,
         "gameCharacterUnitId": 17,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 798,

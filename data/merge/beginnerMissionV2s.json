@@ -257,7 +257,7 @@
     {
         "id": 16,
         "seq": 16,
-        "sentence": "觀賞Leo/need的序幕吧。",
+        "sentence": "觀賞Leo\/need的序幕吧。",
         "beginnerMissionV2Type": "read_unit_story",
         "conditionValue": 1,
         "beginnerMissionV2Category": "normal",
