@@ -1508,7 +1508,7 @@
         "seq": 1,
         "honorMissionType": "read_story_no_skip",
         "requirement": 100,
-        "sentence": "不跳過、不快轉並觀看100章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看100章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 340,
@@ -1524,7 +1524,7 @@
         "seq": 2,
         "honorMissionType": "read_story_no_skip",
         "requirement": 200,
-        "sentence": "不跳過、不快轉並觀看200章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看200章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6259,
@@ -1540,7 +1540,7 @@
         "seq": 3,
         "honorMissionType": "read_story_no_skip",
         "requirement": 300,
-        "sentence": "不跳過、不快轉並觀看300章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看300章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6260,
@@ -1556,7 +1556,7 @@
         "seq": 4,
         "honorMissionType": "read_story_no_skip",
         "requirement": 400,
-        "sentence": "不跳過、不快轉並觀看400章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看400章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6261,
@@ -1572,7 +1572,7 @@
         "seq": 5,
         "honorMissionType": "read_story_no_skip",
         "requirement": 500,
-        "sentence": "不跳過、不快轉並觀看500章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看500章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6262,
@@ -1588,7 +1588,7 @@
         "seq": 6,
         "honorMissionType": "read_story_no_skip",
         "requirement": 600,
-        "sentence": "不跳過、不快轉並觀看600章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看600章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6263,
@@ -1604,7 +1604,7 @@
         "seq": 7,
         "honorMissionType": "read_story_no_skip",
         "requirement": 700,
-        "sentence": "不跳過、不快轉並觀看700章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看700章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6264,
@@ -1620,7 +1620,7 @@
         "seq": 8,
         "honorMissionType": "read_story_no_skip",
         "requirement": 800,
-        "sentence": "不跳過、不快轉並觀看800章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看800章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6265,
@@ -1636,7 +1636,7 @@
         "seq": 9,
         "honorMissionType": "read_story_no_skip",
         "requirement": 900,
-        "sentence": "不跳過、不快轉並觀看900章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看900章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6266,
@@ -1652,7 +1652,7 @@
         "seq": 10,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1000,
-        "sentence": "不跳過、不快轉並觀看1000章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看1000章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6267,
@@ -1668,7 +1668,7 @@
         "seq": 11,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1100,
-        "sentence": "不跳過、不快轉並觀看1100章「主線劇情」或「支線劇情」吧。",
+        "sentence": "不跳過、不快轉並觀看1100章「主線劇情」或「卡片劇情」吧。",
         "rewards": [
             {
                 "id": 6268,

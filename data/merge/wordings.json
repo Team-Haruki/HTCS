@@ -1009,7 +1009,7 @@
     },
     {
         "wordingKey": "MSG_EPISODE_NONE",
-        "value": "此成員沒有支線劇情。"
+        "value": "此成員沒有卡片劇情。"
     },
     {
         "wordingKey": "MSG_EPISODE_READ_CONFIRM",
@@ -1017,7 +1017,7 @@
     },
     {
         "wordingKey": "MSG_EPISODE_UNLOCK",
-        "value": "已解鎖支線劇情！"
+        "value": "已解鎖卡片劇情！"
     },
     {
         "wordingKey": "MSG_EPISODE_UNLOCK_CONFIRM",
@@ -4109,7 +4109,7 @@
     },
     {
         "wordingKey": "WORD_CARD_EPISODE_CHARACTER",
-        "value": "{0}的支線劇情"
+        "value": "{0}的卡片劇情"
     },
     {
         "wordingKey": "WORD_CARD_EPISODE_FIRST",
@@ -4117,7 +4117,7 @@
     },
     {
         "wordingKey": "WORD_CARD_EPISODE_OTHER_CHARACTER",
-        "value": "其他成員的支線劇情"
+        "value": "其他成員的卡片劇情"
     },
     {
         "wordingKey": "WORD_CARD_EPISODE_SECOND",
@@ -5217,7 +5217,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE",
-        "value": "支線劇情"
+        "value": "卡片劇情"
     },
     {
         "wordingKey": "WORD_EPISODE_ALREADY_READ_ALL",
@@ -5229,7 +5229,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_CHARACTER",
-        "value": "已解鎖支線劇情！"
+        "value": "已解鎖卡片劇情！"
     },
     {
         "wordingKey": "WORD_EPISODE_FIRST_UNREAD",
@@ -5253,7 +5253,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_REWARD_BONUS",
-        "value": "支線劇情獎勵"
+        "value": "卡片劇情獎勵"
     },
     {
         "wordingKey": "WORD_EPISODE_SKIP_OR_FAST",
@@ -5261,7 +5261,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_UNLOCK",
-        "value": "解鎖支線劇情"
+        "value": "解鎖卡片劇情"
     },
     {
         "wordingKey": "WORD_EPISODE_UNREAD",
@@ -7105,7 +7105,7 @@
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_RARE",
-        "value": "專精等級提升★4、Birthday 、Anniversary!"
+        "value": "專精等級提升★4、BD、AN"
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_MASTER_RANK_UP_STANDARD",
@@ -7125,15 +7125,15 @@
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_FIRST",
-        "value": "支線劇情前篇"
+        "value": "卡片劇情前篇"
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_READ_CARD_EPISODE_SECOND",
-        "value": "支線劇情後篇"
+        "value": "卡片劇情後篇"
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_RARE",
-        "value": "技能等級提升★4、Birthday 、Anniversary!"
+        "value": "技能等級提升★4、BD 、AN"
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_SKILL_LEVEL_UP_STANDARD",
@@ -8021,7 +8021,7 @@
     },
     {
         "wordingKey": "WORD_PRICE",
-        "value": "NT${0}"
+        "value": "{0}原石"
     },
     {
         "wordingKey": "WORD_PRIVATE_ROOM",
@@ -8269,7 +8269,7 @@
     },
     {
         "wordingKey": "WORD_RELATION_SIDE_STORY",
-        "value": "相關支線劇情"
+        "value": "相關卡片劇情"
     },
     {
         "wordingKey": "WORD_RELATION_SITE",
@@ -8757,7 +8757,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_3_NL",
-        "value": " "
+        "value": "特商法・資金結算法"
     },
     {
         "wordingKey": "WORD_SHOP_COLORFUL_PATH_DETAIL",
@@ -8785,7 +8785,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_PRICE",
-        "value": "<color={0}>NT${1}<\/color>"
+        "value": "<color={0}>{1}原石<\/color>"
     },
     {
         "wordingKey": "WORD_SHOP_PURCHASE",
@@ -8813,7 +8813,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_PURCHASE_PRICE",
-        "value": "價格NT${0}"
+        "value": "價格原石{0}"
     },
     {
         "wordingKey": "WORD_SHOP_RE_REFLECT",
@@ -8821,15 +8821,15 @@
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW",
-        "value": "  "
+        "value": "根據特定商業交易法的表示"
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_12_6",
-        "value": "  "
+        "value": "根據特定商業交易法第12條第6款的表示"
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_SHORT",
-        "value": "  "
+        "value": "特商法"
     },
     {
         "wordingKey": "WORD_SHOP_YEAR",
@@ -9481,7 +9481,7 @@
     },
     {
         "wordingKey": "WORD_TRANSACTION_LAW_DIALOG_TITLE",
-        "value": "特商法、資金結算法"
+        "value": "特商法・資金結算法"
     },
     {
         "wordingKey": "WORD_TWITTER",
@@ -9601,7 +9601,7 @@
     },
     {
         "wordingKey": "WORD_USE_SIDE_STORY_RELEASE_TICKET_UNLOCK",
-        "value": "支線劇情\n用票券解鎖"
+        "value": "卡片劇情\n用票券解鎖"
     },
     {
         "wordingKey": "WORD_VALUE_SET_GACHA_TICKET",
@@ -9609,7 +9609,7 @@
     },
     {
         "wordingKey": "WORD_VALUE_SHOP_NL",
-        "value": "超值組合包"
+        "value": "超値組合包"
     },
     {
         "wordingKey": "WORD_VIRTUAL_COIN",
