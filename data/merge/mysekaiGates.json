@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "unit": "light_sound",
+        "name": "教室的「世界」之門",
+        "assetbundleName": "mdl_non0006_gate_lon1"
+    },
+    {
+        "id": 2,
+        "unit": "idol",
+        "name": "舞台的「世界」之門",
+        "assetbundleName": "mdl_non0006_gate_mmj1"
+    },
+    {
+        "id": 3,
+        "unit": "street",
+        "name": "街頭的「世界」之門",
+        "assetbundleName": "mdl_non0006_gate_vbs1"
+    },
+    {
+        "id": 4,
+        "unit": "theme_park",
+        "name": "奇幻樂園的「世界」之門",
+        "assetbundleName": "mdl_non0006_gate_wns1"
+    },
+    {
+        "id": 5,
+        "unit": "school_refusal",
+        "name": "空無一人的「世界」之門",
+        "assetbundleName": "mdl_non0006_gate_nig1"
+    }
+]

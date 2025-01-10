@@ -9311,6 +9311,18 @@
         "description": "「HAPPY BIRTHDAYライブ\n穂波 2024」に参加"
     },
     {
+        "id": 842,
+        "stampType": "illustration",
+        "seq": 10670,
+        "name": "[スタンプ]志歩：HAPPY BIRTHDAY",
+        "assetbundleName": "stamp0842",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 4,
+        "gameCharacterUnitId": 4,
+        "archivePublishedAt": 1736143200000,
+        "description": "「HAPPY BIRTHDAYライブ\n志歩 2025」に参加"
+    },
+    {
         "id": 844,
         "stampType": "illustration",
         "seq": 10500,
@@ -9345,6 +9357,30 @@
         "gameCharacterUnitId": 11,
         "archivePublishedAt": 1731218400000,
         "description": "「HAPPY BIRTHDAYライブ \n彰人 2024」に参加"
+    },
+    {
+        "id": 860,
+        "stampType": "illustration",
+        "seq": 10640,
+        "name": "[スタンプ]リン：HAPPY ANNIVERSARY",
+        "assetbundleName": "stamp0860",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 22,
+        "gameCharacterUnitId": 22,
+        "archivePublishedAt": 1735106400000,
+        "description": "「HAPPY ANNIVERSARYライブ\nリン 2024」に参加"
+    },
+    {
+        "id": 861,
+        "stampType": "illustration",
+        "seq": 10650,
+        "name": "[スタンプ]レン：HAPPY ANNIVERSARY",
+        "assetbundleName": "stamp0861",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 23,
+        "gameCharacterUnitId": 23,
+        "archivePublishedAt": 1735106400000,
+        "description": "「HAPPY ANNIVERSARYライブ\nレン 2024」に参加"
     },
     {
         "id": 863,
@@ -9405,6 +9441,54 @@
         "gameCharacterUnitId": 19,
         "archivePublishedAt": 1732946400000,
         "description": "「傷だらけの手で、私達は\nアフターライブ」に参加"
+    },
+    {
+        "id": 869,
+        "stampType": "illustration",
+        "seq": 10620,
+        "name": "[スタンプ]雫：背負いたい！",
+        "assetbundleName": "stamp0869",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 8,
+        "gameCharacterUnitId": 8,
+        "archivePublishedAt": 1733896800000,
+        "description": "「Grow glorious glow\nアフターライブ」に参加"
+    },
+    {
+        "id": 870,
+        "stampType": "illustration",
+        "seq": 10630,
+        "name": "[スタンプ]類：それが僕の役目だ",
+        "assetbundleName": "stamp0870",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 16,
+        "gameCharacterUnitId": 16,
+        "archivePublishedAt": 1734760800000,
+        "description": "「Special present for YOU！\nアフターライブ」に参加"
+    },
+    {
+        "id": 871,
+        "stampType": "illustration",
+        "seq": 10660,
+        "name": "[スタンプ]彰人：いいスタートかもな",
+        "assetbundleName": "stamp0871",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "gameCharacterUnitId": 11,
+        "archivePublishedAt": 1735624800000,
+        "description": "「Unfading wishing\nアフターライブ」に参加"
+    },
+    {
+        "id": 872,
+        "stampType": "illustration",
+        "seq": 10680,
+        "name": "[スタンプ]冬弥：心が震えるな",
+        "assetbundleName": "stamp0872",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 12,
+        "gameCharacterUnitId": 12,
+        "archivePublishedAt": 1736575200000,
+        "description": "「Time to take off！\nアフターライブ」に参加"
     },
     {
         "id": 101021,

@@ -1378,5 +1378,13 @@
         "flavorText": "大家的心意綻放出的花朵。可在幸運花卉遊行兌換所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
+    },
+    {
+        "id": 168,
+        "seq": 200000,
+        "name": "五彩的記憶",
+        "flavorText": "閃耀著五彩光芒的記憶碎片。\n可在交換特定記憶碎片時使用。",
+        "canUse": false,
+        "materialType": "common"
     }
 ]

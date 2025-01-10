@@ -275,7 +275,7 @@
     {
         "id": 105,
         "title": "挑戰LIVE的EX STAGE",
-        "description": "若將「挑戰LIVE」的STAGE升到100，\n將會變為EX STAGE。",
+        "description": "若將「挑戰LIVE」的STAGE升到150，\n將會變為EX STAGE。",
         "fromUserRank": 250,
         "toUserRank": 999
     },
@@ -402,6 +402,41 @@
         "id": 141,
         "title": "故事完整閱讀",
         "description": "根據完整閱讀主線\/活動劇情的章節數（未跳過或快進）\n可獲得相應的獎勵。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 142,
+        "title": "什麼是我的「世界」？",
+        "description": "我的「世界」是未完成的屬於你的「世界」。\n蒐集各種素材與家具，自由裝飾你的「世界」吧！",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 143,
+        "title": "轉換機",
+        "description": "多餘的物品可以使用「我的「世界」」的轉換機，\n將其轉換成其他物品。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 144,
+        "title": "透過畫布提升表現力",
+        "description": "在我的「世界」中將成員畫於畫布上，\n可以提升該成員的表現力。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 145,
+        "title": "透過門提升表現力",
+        "description": "提升我的「世界」的門等級，\n可以提升該隊伍的表現力。",
+        "fromUserRank": 1,
+        "toUserRank": 999
+    },
+    {
+        "id": 146,
+        "title": "透過玩偶提升表現力",
+        "description": "在我的「世界」中製作玩偶，\n可以提升該角色的表現力。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
