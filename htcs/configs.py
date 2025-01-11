@@ -53,7 +53,9 @@ merge_keys = {
     'mysekaiTools': ['name', 'description'],
     'mysekaiToolTabs': ['name'],
     'mysekaiNormalMissions': ['sentence'],
-    'mysekaiMaterials': ['name', 'description']
+    'mysekaiMaterials': ['name', 'description'],
+    'mysekaiFixtures': ['name', 'flavorText'],
+    'mysekaiFixtureTags': ['name']
 }
 replace_keys = [
     'areaItemLevels',
