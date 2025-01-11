@@ -14,7 +14,7 @@
     },
     {
         "id": 3,
-        "name": "小物",
+        "name": "裝飾品",
         "groupId": 3,
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_small_furniture"
