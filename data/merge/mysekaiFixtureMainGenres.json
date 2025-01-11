@@ -28,7 +28,7 @@
     },
     {
         "id": 5,
-        "name": "展示",
+        "name": "展示品",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_custom_furniture"
     },
@@ -40,7 +40,7 @@
     },
     {
         "id": 7,
-        "name": "牆",
+        "name": "墻壁",
         "groupId": 4,
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_wall"
@@ -92,7 +92,7 @@
     },
     {
         "id": 15,
-        "name": "Leo/need",
+        "name": "Leo\/need",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "logo_unit_s_outline_02_ln"
     },
@@ -170,13 +170,13 @@
     },
     {
         "id": 28,
-        "name": "玩偶",
+        "name": "成員",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_chr_member"
     },
     {
         "id": 29,
-        "name": "布偶",
+        "name": "玩偶",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_stuffed_toy"
     },

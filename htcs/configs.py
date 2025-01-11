@@ -55,7 +55,9 @@ merge_keys = {
     'mysekaiNormalMissions': ['sentence'],
     'mysekaiMaterials': ['name', 'description'],
     'mysekaiFixtures': ['name', 'flavorText'],
-    'mysekaiFixtureTags': ['name']
+    'mysekaiFixtureTags': ['name'],
+    'billingShopTabParents': ['name'],
+    'billingShopTabChildren': ['name'],
 }
 replace_keys = [
     'areaItemLevels',

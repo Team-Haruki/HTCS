@@ -89,7 +89,7 @@
     },
     {
         "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
-        "value": "將設置為{0}。\n確定？\n\n<color=#FF5588>直到次日05:00無法領取記憶。\n在{1}天內無法重新設置門。\n若已發送邀請函，則將被取消。</color>"
+        "value": "將設置為{0}。\n確定？\n\n<color=#FF5588>直到次日05:00無法領取記憶。\n在{1}天內無法重新設置門。\n若已發送邀請函，則將被取消。<\/color>"
     },
     {
         "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
@@ -101,15 +101,15 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_CONVERT_SLOT_NO",
-        "value": "<size=36><color=#0faf9d>SLOT</color></size><size=80><color=#0faf9d>0{0}</color></size>"
+        "value": "<size=36><color=#0faf9d>SLOT<\/color><\/size><size=80><color=#0faf9d>0{0}<\/color><\/size>"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
-        "value": "由於世界通行證已過期{0}天，\n保存於我的「世界」的擴展預設槽的內容將被刪除。\n是否購買以保留內容？"
+        "value": "由於世界通行證已過期{0}天，\n保存於『我的「世界」』的擴展預設槽的內容將被刪除。\n是否購買以保留內容？"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_GATE_MAX_LEVEL",
-        "value": "{0} <size=28>MAX</size>"
+        "value": "{0} <size=28>MAX<\/size>"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
@@ -121,7 +121,7 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PHOTO_FILM_QUANTITY",
@@ -129,11 +129,11 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PUT_LIMIT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_COUNT",
-        "value": "{0}/{1}次"
+        "value": "{0}\/{1}次"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_SITE_LAYOUT_SIZE",
@@ -149,7 +149,7 @@
     },
     {
         "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
-        "value": "使用<color=#ff5599>{0}顆</color>水晶購買{1}。\n確定？"
+        "value": "使用<color=#ff5599>{0}顆<\/color>水晶購買{1}。\n確定？"
     },
     {
         "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
@@ -185,7 +185,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT",
-        "value": "觀看完一天一次「LIVE P＆心願碎片禮物」的廣告後，即可獲得LIVE P<color=#ff5599>30點</color>。"
+        "value": "觀看完一天一次「LIVE P＆心願碎片禮物」的廣告後，即可獲得LIVE P<color=#ff5599>30點<\/color>。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT_TITLE",
@@ -193,7 +193,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
-        "value": "每通過一項活動期間內舉辦的獎勵任務，\n可<color=#ff5599>獲得50點</color>LIVE P。\n此外，通過所有任務將可再<color=#ff5599>獲得150點</color>LIVE P。"
+        "value": "每通過一項活動期間內舉辦的獎勵任務，\n可<color=#ff5599>獲得50點<\/color>LIVE P。\n此外，通過所有任務將可再<color=#ff5599>獲得150點<\/color>LIVE P。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
@@ -201,7 +201,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT",
-        "value": "每通過一次可<color=#ff5599>獲得30點</color>LIVE P。"
+        "value": "每通過一次可<color=#ff5599>獲得30點<\/color>LIVE P。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT_TITLE",
@@ -209,7 +209,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-        "value": "每通過1次LIVE，即可獲得<color=#FF5599>1</color>LIVE P。\n若消耗LIVE BONUS即可增加獲得量。"
+        "value": "每通過1次LIVE，即可獲得<color=#FF5599>1<\/color>LIVE P。\n若消耗LIVE BONUS即可增加獲得量。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT_TITLE",
@@ -217,7 +217,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT",
-        "value": "每通過一次「多人LIVE、Cheerful LIVE」\n可<color=#ff5599>獲得10點</color>LIVE P，每天最多3次。"
+        "value": "每通過一次「多人LIVE、Cheerful LIVE」\n可<color=#ff5599>獲得10點<\/color>LIVE P，每天最多3次。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
@@ -225,11 +225,11 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_CONTENT",
-        "value": "普通體力時，消耗1記憶體力可獲得<color=#ff55AA>1點LIVE P</color>。\n提升體力時，消耗1記憶體力可獲得<color=#ff55AA>5點LIVE P</color>。\n可能出現小數點以下的LIVE P。\n小數點以下的LIVE P每累積到1點時會加入總LIVE P。\n小數點以下的LIVE P每月0:00重置，請注意。"
+        "value": "普通體力時，消耗1記憶體力可獲得<color=#ff55AA>1點LIVE P<\/color>。\n提升體力時，消耗1記憶體力可獲得<color=#ff55AA>5點LIVE P<\/color>。\n可能出現小數點以下的LIVE P。\n小數點以下的LIVE P每累積到1點時會加入總LIVE P。\n小數點以下的LIVE P每月0:00重置，請注意。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_TITLE",
-        "value": "我的「世界」 採集"
+        "value": "『我的「世界」』 採集"
     },
     {
         "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -265,11 +265,11 @@
     },
     {
         "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
-        "value": "觀看廣告可恢復5點LIVE BONUS。\n確定觀看か？\n<size=24><color=#ff5599>點選觀看一定時間後出現的「關閉圖示」即可獲得。</color></size>"
+        "value": "觀看廣告可恢復5點LIVE BONUS。\n確定觀看？\n<size=24><color=#ff5599>點選觀看一定時間後出現的「關閉圖示」即可獲得。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
-        "value": "要開始觀看廣告か？\n<size=24><color=#ff5599>點選觀看一定時間後出現的「關閉圖示」即可獲得。</color></size>"
+        "value": "要開始觀看廣告？\n<size=24><color=#ff5599>點選觀看一定時間後出現的「關閉圖示」即可獲得。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_COTION",
@@ -361,7 +361,7 @@
     },
     {
         "wordingKey": "MSG_AND_NAVY",
-        "value": "<color=#444466>和</color>{0}"
+        "value": "<color=#444466>和<\/color>{0}"
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_BODY",
@@ -369,11 +369,11 @@
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_NOTES",
-        "value": "<color=#ff5588>※需要將成員的專精等級提升至2。</color>"
+        "value": "<color=#ff5588>※需要將成員的專精等級提升至2。<\/color>"
     },
     {
         "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
-        "value": "提升「{0} {1}」的\n<color=#FF3366>專精等級</color>後，\n會解鎖其他顏色。"
+        "value": "提升「{0} {1}」的\n<color=#FF3366>專精等級<\/color>後，\n會解鎖其他顏色。"
     },
     {
         "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -433,7 +433,7 @@
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-        "value": "已回收以退費額購買的付費水晶。\n\n{0}個 -> {1}個\n<color=#FF5599>※少於購買時單價的部分，已從較早購買的部分回收同數量的付費水晶。</color>"
+        "value": "已回收以退費額購買的付費水晶。\n\n{0}個 -> {1}個\n<color=#FF5599>※少於購買時單價的部分，已從較早購買的部分回收同數量的付費水晶。<\/color>"
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
@@ -477,7 +477,7 @@
     },
     {
         "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-        "value": "請選擇要確認與「<color=#77eedd>{0}</color>」的情誼等級的角色。"
+        "value": "請選擇要確認與「<color=#77eedd>{0}<\/color>」的情誼等級的角色。"
     },
     {
         "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -505,7 +505,7 @@
     },
     {
         "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-        "value": "要使用<color=#ff5599>{0}</color>水晶\n恢復<color=#ff5599>{1}</color>LIVE BONUS？"
+        "value": "要使用<color=#ff5599>{0}<\/color>水晶\n恢復<color=#ff5599>{1}<\/color>LIVE BONUS？"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_HARVEST_SPEED",
@@ -517,15 +517,15 @@
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_CONFIRM",
-        "value": "恢復<color=#ff5599>{0}</color>記憶體力並繼續提升。\n確定？"
+        "value": "恢復<color=#ff5599>{0}<\/color>記憶體力並繼續提升。\n確定？"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_JEWEL_CONFIRM",
-        "value": "使用<color=#ff5599>{0}</color>顆水晶恢復<color=#ff5599>{1}</color>記憶體力，並繼續提升。"
+        "value": "使用<color=#ff5599>{0}<\/color>顆水晶恢復<color=#ff5599>{1}<\/color>記憶體力，並繼續提升。"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_LIVE_BONUS_CONFIRM",
-        "value": "消耗<color=#ff5599>{0}</color>LIVE BONUS恢復<color=#ff5599>{1}</color>記憶體力，並繼續提升。"
+        "value": "消耗<color=#ff5599>{0}<\/color>LIVE BONUS恢復<color=#ff5599>{1}<\/color>記憶體力，並繼續提升。"
     },
     {
         "wordingKey": "MSG_BORDER_RANKING",
@@ -541,7 +541,7 @@
     },
     {
         "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
-        "value": "在我的「世界」中將此成員畫於畫布上會提升表現力。"
+        "value": "在『我的「世界」』中將此成員畫於畫布上會提升表現力。"
     },
     {
         "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -573,7 +573,7 @@
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-        "value": "<color=#ff5599>※每週一4點會重置印章。</color>"
+        "value": "<color=#ff5599>※每週一4點會重置印章。<\/color>"
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
@@ -649,11 +649,11 @@
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
-        "value": "決定為<color=#ff5588>「{0}」</color>團體，\n確定？"
+        "value": "決定為<color=#ff5588>「{0}」<\/color>團體，\n確定？"
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
-        "value": "欸……你、你也跟朋友走散了か？\n我正想去朋友在的那個團體，\n要一起去？"
+        "value": "欸……你、你也跟朋友走散了？\n我正想去朋友在的那個團體，\n要一起去？"
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_SECOND",
@@ -673,11 +673,11 @@
     },
     {
         "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-        "value": "消耗{0}<color=#FF5599>{1}個</color>能開<color=#FF5599>{2}次</color>\n{3}。\n確定？"
+        "value": "消耗{0}<color=#FF5599>{1}個<\/color>能開<color=#FF5599>{2}次<\/color>\n{3}。\n確定？"
     },
     {
         "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
-        "value": "<size=24>開啟</size>{0}次"
+        "value": "<size=24>開啟<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_COLORFUL_PASS_ALERT",
@@ -801,11 +801,11 @@
     },
     {
         "wordingKey": "MSG_CONFIRME_KICK_DIALOG",
-        "value": "將此玩家從我的「世界」中踢出。\n確定？"
+        "value": "將此玩家從『我的「世界」』中踢出。\n確定？"
     },
     {
         "wordingKey": "MSG_CONFIRME_OTHER_PLAYER_MYSEKAI_VISIT",
-        "value": "前往{0}的我的「世界」。\n確定？"
+        "value": "前往{0}的『我的「世界」』。\n確定？"
     },
     {
         "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -817,7 +817,7 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
-        "value": "退出{0}的我的「世界」。\n確定？"
+        "value": "退出{0}的『我的「世界」』。\n確定？"
     },
     {
         "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -825,19 +825,19 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_ANDROID",
-        "value": "\"GooglePlay中有連携的玩家資料。\n要解除原本的連携，並連携現在的玩家資料か？\""
+        "value": "\"GooglePlay中有連携的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？\""
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_DATA_LINK_IOS",
-        "value": "\"GameCenter中有連携的玩家資料。\n要解除原本的連携，並連携現在的玩家資料か？\""
+        "value": "\"GameCenter中有連携的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？\""
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_APPLE",
-        "value": "有連携Apple ID的玩家資料。\n要解除原本的連携，並連携現在的玩家資料か？？"
+        "value": "有連携Apple ID的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？？"
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_GOOGLE",
-        "value": "有連携Google的玩家資料。\n要解除原本的連携，並連携現在的玩家資料か？？"
+        "value": "有連携Google的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？？"
     },
     {
         "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
@@ -845,7 +845,7 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_RANDOM_VISIT",
-        "value": "隨機前往我的「世界」。\n確定？"
+        "value": "隨機前往『我的「世界」』。\n確定？"
     },
     {
         "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
@@ -877,11 +877,11 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
-        "value": "由於七彩通行證～PRECIOUS～的有效期限已經結束，\n因此LIVE中斷了。\n\n<color=#FF77AA>※將會顯示到中斷前的LIVE結果。</color>"
+        "value": "由於七彩通行證～PRECIOUS～的有效期限已經結束，\n因此LIVE中斷了。\n\n<color=#FF77AA>※將會顯示到中斷前的LIVE結果。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_EVENT_MAINTENANCE",
-        "value": "活動正在維護中，\n因此AUTO LIVE已中斷。\n\n<color=#FF77AA>※至中斷為止前的LIVE結果仍有效。\n※不會獲得進入維護後的活動P、章節徽章。</color>"
+        "value": "活動正在維護中，\n因此AUTO LIVE已中斷。\n\n<color=#FF77AA>※至中斷為止前的LIVE結果仍有效。\n※不會獲得進入維護後的活動P、章節徽章。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -889,11 +889,11 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_ENDED_LIMITED_MUSIC",
-        "value": "歌曲的公開期間已結束，\n因此AUTO LIVE已中斷。\n\n<color=#FF77AA>※至中斷為止的LIVE結果仍有效。</color>"
+        "value": "歌曲的公開期間已結束，\n因此AUTO LIVE已中斷。\n\n<color=#FF77AA>※至中斷為止的LIVE結果仍有效。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-        "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF77AA>※將顯示中斷前的LIVE結果。</color>"
+        "value": "由於LIVE BONUS不足，AUTO LIVE已中斷。\n\n<color=#FF77AA>※將顯示中斷前的LIVE結果。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
@@ -929,7 +929,7 @@
     },
     {
         "wordingKey": "MSG_CONSUME_SIZE_NUM_FORMAT",
-        "value": "消耗<size={0}>{1}</size>"
+        "value": "消耗<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_CHOICE_DESCRIPTION",
@@ -969,7 +969,7 @@
     },
     {
         "wordingKey": "MSG_CONVERT_SLOT_SHORTEN_CONFIRM",
-        "value": "消耗<color=#ff5588>{0}顆水晶</color>\n跳過{1}的轉換時間。\n確定？"
+        "value": "消耗<color=#ff5588>{0}顆水晶<\/color>\n跳過{1}的轉換時間。\n確定？"
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
@@ -1077,11 +1077,11 @@
     },
     {
         "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM",
-        "value": "\"要解除目前連携中的玩家資料か？\n<color=#ff5599>※解除後還可再次連携。</color>\""
+        "value": "\"要解除目前連携中的玩家資料？\n<color=#ff5599>※解除後還可再次連携。<\/color>\""
     },
     {
         "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM_HINT",
-        "value": "<color=#ff5599>※解除後，可以再次連携。</color>"
+        "value": "<color=#ff5599>※解除後，可以再次連携。<\/color>"
     },
     {
         "wordingKey": "MSG_DATA_LINK_WARNING_OVERWRITE",
@@ -1089,7 +1089,7 @@
     },
     {
         "wordingKey": "MSG_DATE_LIMIT",
-        "value": "到{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}為止"
+        "value": "到{0:D4}\/{1:D2}\/{2:D2} {3:D2}:{4:D2}為止"
     },
     {
         "wordingKey": "MSG_DECIDE_CURRENT_MEMBER",
@@ -1133,11 +1133,11 @@
     },
     {
         "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
-        "value": "因連線中斷，將返回主畫面。<size=28>({0})</size>"
+        "value": "因連線中斷，將返回主畫面。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_DL_MYSEKAI_VOICE",
-        "value": "是否下載我的「世界」語音？\n\n<color=#ff5599>大約{0}MB</color>\n\n可享受我的「世界」中完整語音的對話。\n※可稍後於我的「世界」設定中打開。"
+        "value": "是否下載『我的「世界」』語音？\n\n<color=#ff5599>大約{0}MB<\/color>\n\n可享受『我的「世界」』中完整語音的對話。\n※可稍後於『我的「世界」』設定中打開。"
     },
     {
         "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
@@ -1205,11 +1205,11 @@
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
-        "value": "將消耗「{0}」<color=#ff5588>{1}張</color>入場。\n確認執行？"
+        "value": "將消耗「{0}」<color=#ff5588>{1}張<\/color>入場。\n確認執行？"
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
-        "value": "即將消耗<color=#ff5588>{1}張</color>\n{0}入場，\n確定？"
+        "value": "即將消耗<color=#ff5588>{1}張<\/color>\n{0}入場，\n確定？"
     },
     {
         "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -1265,7 +1265,7 @@
     },
     {
         "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-        "value": "活動期間的消耗數量最多可設定為<color=#FF5599>{0}</color>。"
+        "value": "活動期間的消耗數量最多可設定為<color=#FF5599>{0}<\/color>。"
     },
     {
         "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
@@ -1277,7 +1277,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_CONFIRM_DIALOG_FREEBIE",
-        "value": "因為重複獲得、能夠獲取道具獎勵。\n<color=#ff5588>※曾獲得過的成員已被送至休息室。</color>"
+        "value": "因為重複獲得、能夠獲取道具獎勵。\n<color=#ff5588>※曾獲得過的成員已被送至休息室。<\/color>"
     },
     {
         "wordingKey": "MSG_EXCHANGE_ERROR",
@@ -1305,7 +1305,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_JEWEL_TO_VIRTUAL_COIN",
-        "value": "要用<color={0}>{1}個</color>水晶\n交換<color={0}>{2}枚</color>虛擬硬幣？"
+        "value": "要用<color={0}>{1}個<\/color>水晶\n交換<color={0}>{2}枚<\/color>虛擬硬幣？"
     },
     {
         "wordingKey": "MSG_EXCHANGE_MATERIAL",
@@ -1337,7 +1337,7 @@
     },
     {
         "wordingKey": "MSG_EXP_FRONT_SIZE_FORMAT",
-        "value": "EXP<size={0}>{1}</size>"
+        "value": "EXP<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_EXP_PLUS",
@@ -1357,11 +1357,11 @@
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-        "value": "<color=#07a>{0}、</color>以及{1}人推薦"
+        "value": "<color=#07a>{0}、<\/color>以及{1}人推薦"
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-        "value": "<color=#07a>{0}</color>推薦"
+        "value": "<color=#07a>{0}<\/color>推薦"
     },
     {
         "wordingKey": "MSG_FEEDBACK",
@@ -1473,7 +1473,7 @@
     },
     {
         "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
-        "value": "<color=#ff5588>{0}</color>已讀完\n{1}、{2}、\n{3}的主線劇情，\n並達成了邀請任務，因此獲得了報酬。"
+        "value": "<color=#ff5588>{0}<\/color>已讀完\n{1}、{2}、\n{3}的主線劇情，\n並達成了邀請任務，因此獲得了報酬。"
     },
     {
         "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1529,7 +1529,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
-        "value": "要消耗<color=#FF5599>{1}張</color>{0}\n來交換道具？"
+        "value": "要消耗<color=#FF5599>{1}張<\/color>{0}\n來交換道具？"
     },
     {
         "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
@@ -1561,15 +1561,15 @@
     },
     {
         "wordingKey": "MSG_GACHA_SPIN",
-        "value": "將消耗<color=#FF5599>{1}個</color>{0}來抽<color=#FF5599>{2}次</color>\n「{3}」，\n確定？"
+        "value": "將消耗<color=#FF5599>{1}個<\/color>{0}來抽<color=#FF5599>{2}次<\/color>\n「{3}」，\n確定？"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT",
-        "value": "<size=24>招募</size>{0}次"
+        "value": "<size=24>招募<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
-        "value": "<size=32>招募</size>{0}次<size=32>（付費）</size>"
+        "value": "<size=32>招募<\/size>{0}次<size=32>（付費）<\/size>"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_ERROR",
@@ -1581,7 +1581,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_TICKET_SPIN",
-        "value": "將消耗<color=#FF5599>{1}張</color>{0}來抽<color=#FF5599>{2}次</color>\n「{3}」，\n確定？"
+        "value": "將消耗<color=#FF5599>{1}張<\/color>{0}來抽<color=#FF5599>{2}次<\/color>\n「{3}」，\n確定？"
     },
     {
         "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1617,15 +1617,15 @@
     },
     {
         "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
-        "value": "已獲得設計圖，但由於已擁有，作為「<color=#ff5588>{0}</color>」獲得。"
+        "value": "已獲得設計圖，但由於已擁有，作為「<color=#ff5588>{0}<\/color>」獲得。"
     },
     {
         "wordingKey": "MSG_GET_SURPLUS_RECORD",
-        "value": "已獲得唱片，但由於已擁有，作為「<color=#ff5588>多餘唱片</color>」獲得。"
+        "value": "已獲得唱片，但由於已擁有，作為「<color=#ff5588>多餘唱片<\/color>」獲得。"
     },
     {
         "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-        "value": "在道具設定完成前，\n將無法進行歡樂包招募。\n要稍後再設定道具か？\n\n<color=#ff5599>※在進行招募前，\n可以自由變更道具。</color>"
+        "value": "在道具設定完成前，\n將無法進行歡樂包招募。\n要稍後再設定道具？\n\n<color=#ff5599>※在進行招募前，\n可以自由變更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT",
@@ -1633,7 +1633,7 @@
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-        "value": "將設定此道具，確定か？\n<color=#ff5599>※在進行招募前，可以自由變更道具。</color>"
+        "value": "將設定此道具，確定？\n<color=#ff5599>※在進行招募前，可以自由變更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -1641,7 +1641,7 @@
     },
     {
         "wordingKey": "MSG_GIVE_LIVE_BONUS",
-        "value": "<color=#ff5588>「{0}」</color>\n贈送LIVE BONUS×{1}給你。"
+        "value": "<color=#ff5588>「{0}」<\/color>\n贈送LIVE BONUS×{1}給你。"
     },
     {
         "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
@@ -1653,11 +1653,11 @@
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
-        "value": "達到最高分<color=#FF5599>{0}</color>的報酬"
+        "value": "達到最高分<color=#FF5599>{0}<\/color>的報酬"
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-        "value": "每次刷新最高分<color=#FF5599>{0}</color>的報酬"
+        "value": "每次刷新最高分<color=#FF5599>{0}<\/color>的報酬"
     },
     {
         "wordingKey": "MSG_HOME_SITE_SIZE_EXPAND",
@@ -1685,7 +1685,7 @@
     },
     {
         "wordingKey": "MSG_INHERIT_LIMIT_START",
-        "value": "您的活動排行已達到<color=#ff5588>300名以內</color>。\n\n為維護活動的公平性，\n排名達到<color=#ff5588>300名以內</color>的玩家\n在該活動期間的資料繼承次數將受到限制。\n\n限制期間：到活動結束（{0}）為止\n限制次數：剩下{1}次\n\n感謝您的諒解。"
+        "value": "您的活動排行已達到<color=#ff5588>300名以內<\/color>。\n\n為維護活動的公平性，\n排名達到<color=#ff5588>300名以內<\/color>的玩家\n在該活動期間的資料繼承次數將受到限制。\n\n限制期間：到活動結束（{0}）為止\n限制次數：剩下{1}次\n\n感謝您的諒解。"
     },
     {
         "wordingKey": "MSG_INHERIT_LIMT_REST",
@@ -1749,7 +1749,7 @@
     },
     {
         "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
-        "value": "由於玩家設定變更，已被踢出。\n返回自己的我的「世界」。"
+        "value": "由於玩家設定變更，已被踢出。\n返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_KICKOUT_TO_HOME",
@@ -1769,7 +1769,7 @@
     },
     {
         "wordingKey": "MSG_LAYOUT_UPDATE",
-        "value": "正在更新我的「世界」…"
+        "value": "正在更新『我的「世界」』…"
     },
     {
         "wordingKey": "MSG_LB_RECEIVE_LIMIT",
@@ -1785,7 +1785,7 @@
     },
     {
         "wordingKey": "MSG_LEARN_PHENOMENA",
-        "value": "遇到了新的天氣「<color=#ff5588>{0}</color>」，可以於我的家中設定了。"
+        "value": "遇到了新的天氣「<color=#ff5588>{0}<\/color>」，可以於我的家中設定了。"
     },
     {
         "wordingKey": "MSG_LEAVE_CHARACTER",
@@ -1837,11 +1837,11 @@
     },
     {
         "wordingKey": "MSG_LIVE_CONTINUE",
-        "value": "要消耗<color=#FF5599>{0}</color>個水晶恢復全部體力，\n並繼續進行LIVE？"
+        "value": "要消耗<color=#FF5599>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE？"
     },
     {
         "wordingKey": "MSG_LIVE_FAILED",
-        "value": "體力已耗盡。\n可以消耗<color=#FF5599>{0}</color>個水晶恢復全部體力，\n並繼續進行LIVE。"
+        "value": "體力已耗盡。\n可以消耗<color=#FF5599>{0}<\/color>個水晶恢復全部體力，\n並繼續進行LIVE。"
     },
     {
         "wordingKey": "MSG_LIVE_IS_FULL",
@@ -1865,7 +1865,7 @@
     },
     {
         "wordingKey": "MSG_LOGINBONUS_RECEIVE",
-        "value": "獲得了<color=#FF5599>{0}</color> ！"
+        "value": "獲得了<color=#FF5599>{0}<\/color> ！"
     },
     {
         "wordingKey": "MSG_LV_TEXT",
@@ -1881,7 +1881,7 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE",
-        "value": "將消耗<color={2}>{1}</color>個{0}，\n進行專精特訓。\n確定？"
+        "value": "將消耗<color={2}>{1}<\/color>個{0}，\n進行專精特訓。\n確定？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION",
@@ -1889,11 +1889,11 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION_ITEM",
-        "value": "{0}<color={2}>{1}</color>個"
+        "value": "{0}<color={2}>{1}<\/color>個"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "要使用<color=#FF5599>{0}</color>個心願碎片\n交換道具？"
+        "value": "要使用<color=#FF5599>{0}<\/color>個心願碎片\n交換道具？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_NOTHING",
@@ -1905,15 +1905,15 @@
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-        "value": "<color=#FF77AAFF>等級1</color>解鎖"
+        "value": "<color=#FF77AAFF>等級1<\/color>解鎖"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-        "value": "<color=#FF77AAFF>等級3</color>解鎖"
+        "value": "<color=#FF77AAFF>等級3<\/color>解鎖"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-        "value": "<color=#FF77AAFF>等級5</color>解鎖"
+        "value": "<color=#FF77AAFF>等級5<\/color>解鎖"
     },
     {
         "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -1945,11 +1945,11 @@
     },
     {
         "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "要消耗<color=#FF5599>{1}</color>個{0}\n交換道具？"
+        "value": "要消耗<color=#FF5599>{1}<\/color>個{0}\n交換道具？"
     },
     {
         "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
-        "value": "要消耗<color=#FF5599>{1}</color>個{0} \n交換道具？"
+        "value": "要消耗<color=#FF5599>{1}<\/color>個{0} \n交換道具？"
     },
     {
         "wordingKey": "MSG_MATERIAL_POSSESSION",
@@ -2121,7 +2121,7 @@
     },
     {
         "wordingKey": "MSG_MULTI_RESULT_WAITING",
-        "value": "正在等待其他玩家……（{0}/{1}）"
+        "value": "正在等待其他玩家……（{0}\/{1}）"
     },
     {
         "wordingKey": "MSG_MULTI_WAITING",
@@ -2165,7 +2165,7 @@
     },
     {
         "wordingKey": "MSG_MV_DELETE_TOTAL_SIZE",
-        "value": "資料容量將減少<color=#ff5599>{0}MB</color>。"
+        "value": "資料容量將減少<color=#ff5599>{0}MB<\/color>。"
     },
     {
         "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
@@ -2197,11 +2197,11 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
-        "value": "我的家中可放置<color=#ff5599>柵欄和道路</color>的最大數量已提升。"
+        "value": "我的家中可放置<color=#ff5599>柵欄和道路<\/color>的最大數量已提升。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
-        "value": "我的家中可放置<color=#ff5599>家具</color>的最大數量已提升。"
+        "value": "我的家中可放置<color=#ff5599>家具<\/color>的最大數量已提升。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
@@ -2233,11 +2233,11 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_COMPLETED",
-        "value": "已邀請{0}來到我的「世界」。"
+        "value": "已邀請{0}來到『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_CONFIRM",
-        "value": "是否發送邀請函給{0}？\n<color=#FF3366>發送後需等待{1}天才能再次發送邀請函。</color>"
+        "value": "是否發送邀請函給{0}？\n<color=#FF3366>發送後需等待{1}天才能再次發送邀請函。<\/color>"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SKIN_NOT_SETUP",
@@ -2257,7 +2257,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
-        "value": "因可訪問的人數已達上限，無法進入此玩家的我的「世界」。"
+        "value": "因可訪問的人數已達上限，無法進入此玩家的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
@@ -2269,7 +2269,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
-        "value": "正在搜尋我的「世界」…"
+        "value": "正在搜尋『我的「世界」』…"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
@@ -2289,7 +2289,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_OWNER_LEAVE",
-        "value": "連線已中斷。\n返回自己的我的「世界」。"
+        "value": "連線已中斷。\n返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_PHOTO_RELEASE_INFO",
@@ -2333,7 +2333,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_HAS_NOT_FIXTURE",
-        "value": "此我的「世界」中無可描繪的家具。"
+        "value": "此『我的「世界」』中無可描繪的家具。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
@@ -2361,11 +2361,11 @@
     },
     {
         "wordingKey": "MSG_NEED_COLORFUL_SELECT_LIST_SETTING",
-        "value": "需要設定Pick Up清單才能開始招募。\n\n<color=#ff5599>※必須設定所有成員欄位。</color>"
+        "value": "需要設定Pick Up清單才能開始招募。\n\n<color=#ff5599>※必須設定所有成員欄位。<\/color>"
     },
     {
         "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
-        "value": "需要設定選擇清單才能開始招募。\n\n<color=#ff5599>※必須設定所有成員欄位。</color>"
+        "value": "需要設定選擇清單才能開始招募。\n\n<color=#ff5599>※必須設定所有成員欄位。<\/color>"
     },
     {
         "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
@@ -2373,7 +2373,7 @@
     },
     {
         "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
-        "value": "{0}的劇情\n<color=#ff77AA>{1:MM/dd HH:mm}解鎖</color>"
+        "value": "{0}的劇情\n<color=#ff77AA>{1:MM\/dd HH:mm}解鎖<\/color>"
     },
     {
         "wordingKey": "MSG_NGWORD_BALLOON",
@@ -2625,19 +2625,19 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
-        "value": "<color=#FF5599>{0}～報名開始！</color>"
+        "value": "<color=#FF5599>{0}～報名開始！<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
-        "value": "<color=#FF5599>持續購買七彩通行證後可以報名。\n※計算方式為在超過有效期限的隔天購買。</color>"
+        "value": "<color=#FF5599>持續購買七彩通行證後可以報名。\n※計算方式為在超過有效期限的隔天購買。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
-        "value": "<color=#FF5599>報名期間 {0}～{1}為止</color>"
+        "value": "<color=#FF5599>報名期間 {0}～{1}為止<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
-        "value": "<color=#FF5599>沒有達成需要持續期間{0}個月，\n因此無法報名這裡的活動。</color>"
+        "value": "<color=#FF5599>沒有達成需要持續期間{0}個月，\n因此無法報名這裡的活動。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
@@ -2645,11 +2645,11 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
-        "value": "※在抽票報名網站需要報名ID。\n<color=#ff5588>※報名ID是個人專用ID\n請絕對不要告知他人。</color>"
+        "value": "※在抽票報名網站需要報名ID。\n<color=#ff5588>※報名ID是個人專用ID\n請絕對不要告知他人。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
-        "value": "{0} ～ \n{1}\n<color=#ff5588>※必須在此期間</color>\n<color=#ff5588>達成所需持續時間。</color>"
+        "value": "{0} ～ \n{1}\n<color=#ff5588>※必須在此期間<\/color>\n<color=#ff5588>達成所需持續時間。<\/color>"
     },
     {
         "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
@@ -2681,7 +2681,7 @@
     },
     {
         "wordingKey": "MSG_OTHER_MYSEKAI_NAME",
-        "value": "{0}的我的「世界」"
+        "value": "{0}的『我的「世界」』"
     },
     {
         "wordingKey": "MSG_OTHER_UNIT",
@@ -2713,11 +2713,11 @@
     },
     {
         "wordingKey": "MSG_OWNER_JOIN_NOTICE",
-        "value": "{0}已返回我的「世界」。"
+        "value": "{0}已返回『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_OWNER_LEAVE_NOTICE",
-        "value": "{0}已退出。\n{1}秒後返回自己的我的「世界」。"
+        "value": "{0}已退出。\n{1}秒後返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2781,23 +2781,23 @@
     },
     {
         "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
-        "value": "距離決定起始等級\n還剩<color=#FF5599>{0}</color>次配對"
+        "value": "距離決定起始等級\n還剩<color=#FF5599>{0}<\/color>次配對"
     },
     {
         "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
-        "value": "已將此玩家從我的「世界」封鎖並踢出。"
+        "value": "已將此玩家從『我的「世界」』封鎖並踢出。"
     },
     {
         "wordingKey": "MSG_PLAYER_KICKOUT_RESULT",
-        "value": "已將此玩家從我的「世界」踢出。"
+        "value": "已將此玩家從『我的「世界」』踢出。"
     },
     {
         "wordingKey": "MSG_PLAYER_LEAVE_NOTICE",
-        "value": "{0}已退出我的「世界」。"
+        "value": "{0}已退出『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_PLAYER_VISIT_NOTICE",
-        "value": "{0}來訪了我的「世界」。"
+        "value": "{0}來訪了『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_PLEASE_SELECT_REWARD",
@@ -2905,7 +2905,7 @@
     },
     {
         "wordingKey": "MSG_RANK_FORMAT",
-        "value": "等級<size={0}>{1}</size>／{2}"
+        "value": "等級<size={0}>{1}<\/size>／{2}"
     },
     {
         "wordingKey": "MSG_RANK_LIVE_END_SEASON",
@@ -2941,7 +2941,7 @@
     },
     {
         "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
-        "value": "距離決定起始等級\n還剩<size=80> {} </size>次配對"
+        "value": "距離決定起始等級\n還剩<size=80> {} <\/size>次配對"
     },
     {
         "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
@@ -2989,7 +2989,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
-        "value": "獲得了演出服裝。\n<color=#ff77AA>可在服飾店製作其他角色的服裝了。</color>"
+        "value": "獲得了演出服裝。\n<color=#ff77AA>可在服飾店製作其他角色的服裝了。<\/color>"
     },
     {
         "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
@@ -3061,7 +3061,7 @@
     },
     {
         "wordingKey": "MSG_RECONNECT_CODE",
-        "value": "再次連線中。<size=28>({0})</size>"
+        "value": "再次連線中。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
@@ -3081,7 +3081,7 @@
     },
     {
         "wordingKey": "MSG_RELEASING_AT_MYSEKAI_MISSION_PASS_PURCHASE",
-        "value": "購買我的「世界」任務通行證後解鎖"
+        "value": "購買『我的「世界」』任務通行證後解鎖"
     },
     {
         "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
@@ -3089,7 +3089,7 @@
     },
     {
         "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
-        "value": "還剩<size={0}>{1}次</size>"
+        "value": "還剩<size={0}>{1}次<\/size>"
     },
     {
         "wordingKey": "MSG_REPAIR_TOOL",
@@ -3261,7 +3261,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
-        "value": "<color={0}>有效期限 {1} </color>"
+        "value": "<color={0}>有效期限 {1} <\/color>"
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE_2",
@@ -3377,7 +3377,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-        "value": "集章卡的設定還沒完成。\n集章任務要選擇{0}張集章卡，\n點選「任務開始」後即可開始。\n集章卡要稍等再設定か？\n\n<color=#ff5588>※集章卡在「任務開始」前\n可以不限次數變更。</color>"
+        "value": "集章卡的設定還沒完成。\n集章任務要選擇{0}張集章卡，\n點選「任務開始」後即可開始。\n集章卡要稍等再設定？\n\n<color=#ff5588>※集章卡在「任務開始」前\n可以不限次數變更。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -3397,7 +3397,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
-        "value": "<color=#ff5588>※集章卡決定後無法變更。</color>"
+        "value": "<color=#ff5588>※集章卡決定後無法變更。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
@@ -3589,7 +3589,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_FROM_BUY_MYSEKAI_MISSION_PASS",
-        "value": "購買我的「世界」任務通行證後解鎖"
+        "value": "購買『我的「世界」』任務通行證後解鎖"
     },
     {
         "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -3601,7 +3601,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
-        "value": "綜合力{0}以上解鎖／<color={1}>目前{2}</color>"
+        "value": "綜合力{0}以上解鎖／<color={1}>目前{2}<\/color>"
     },
     {
         "wordingKey": "MSG_UNLOCK_WORLD_BLOOM_EVENTSTORY_BODY",
@@ -3625,7 +3625,7 @@
     },
     {
         "wordingKey": "MSG_USE_120FPS_DIALOG",
-        "value": "將LIVE的流暢度(FPS)從最高60 FPS設定至120 FPS。\n\n<color=#FF3366>※此選項為預先發布功能。\n若該功能未正常運作，\n請將設定變更為「標準」，並透過「聯絡我們」進行回報。</color>"
+        "value": "將LIVE的流暢度(FPS)從最高60 FPS設定至120 FPS。\n\n<color=#FF3366>※此選項為預先發布功能。\n若該功能未正常運作，\n請將設定變更為「標準」，並透過「聯絡我們」進行回報。<\/color>"
     },
     {
         "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
@@ -3633,7 +3633,7 @@
     },
     {
         "wordingKey": "MSG_USE_VSYNC_DIALOG",
-        "value": "根據裝置性能自動調整LIVE的流暢度(FPS)。\n\n<color=#FF3366>※此選項為預先發布功能。\n若該功能未正常運作，\n請將設定變更為ON，並透過「聯絡我們」進行回報。</color>"
+        "value": "根據裝置性能自動調整LIVE的流暢度(FPS)。\n\n<color=#FF3366>※此選項為預先發布功能。\n若該功能未正常運作，\n請將設定變更為ON，並透過「聯絡我們」進行回報。<\/color>"
     },
     {
         "wordingKey": "MSG_VALID_SET_UP_IN_FLOOR",
@@ -3781,11 +3781,11 @@
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_1",
-        "value": "・獲得「<color=#FF77AAFF>[{0}]{1}</color>」後，\n可讓<color=#FF77AAFF>{1}</color>穿著「<color=#FF77AAFF>{2}</color>」。"
+        "value": "・獲得「<color=#FF77AAFF>[{0}]{1}<\/color>」後，\n可讓<color=#FF77AAFF>{1}<\/color>穿著「<color=#FF77AAFF>{2}<\/color>」。"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-        "value": "・獲得「<color=#FF77AAFF>[{0}] {1}</color>」後，\n服飾店將會新增「<color=#FF77AAFF>{2}</color>」。\n\n若在服飾店裡指定可穿著「<color=#FF77AAFF>{2}</color>」的角色並製作服裝，"
+        "value": "・獲得「<color=#FF77AAFF>[{0}] {1}<\/color>」後，\n服飾店將會新增「<color=#FF77AAFF>{2}<\/color>」。\n\n若在服飾店裡指定可穿著「<color=#FF77AAFF>{2}<\/color>」的角色並製作服裝，"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -3861,7 +3861,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_INHERIT_LIMIT_START",
-        "value": "您的章節{0}排行已達到<color=#ff5588>{1}名</color>以內。\n\n為維護活動的公平性，\n章節排行達到<color=#ff5588>{2}名</color>以內的玩家\n在該章節期間的資料繼承次數將受到限制。\n\n限制期間：到章節結束（{3}）為止\n限制次數：剩下{4}次\n<color=#ff3366>※限制次數與綜合排行共通。</color>\n\n感謝您的諒解。"
+        "value": "您的章節{0}排行已達到<color=#ff5588>{1}名<\/color>以內。\n\n為維護活動的公平性，\n章節排行達到<color=#ff5588>{2}名<\/color>以內的玩家\n在該章節期間的資料繼承次數將受到限制。\n\n限制期間：到章節結束（{3}）為止\n限制次數：剩下{4}次\n<color=#ff3366>※限制次數與綜合排行共通。<\/color>\n\n感謝您的諒解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_YOUR_TOTAL_EVENT_POINT",
@@ -3869,7 +3869,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
-        "value": "您的活動綜合排行已達到<color=#ff5588>{0}名</color>以內。\n\n為維護活動的公平性，\n綜合排行達到<color=#ff5588>{1}名</color>以內的玩家\n在該活動期間的資料繼承次數將受到限制。\n\n限制期間：到活動結束（{2}）為止\n限制次數：剩下{3}次\n<color=#ff3366>※限制次數與各章節的排行共通。</color>\n\n感謝您的諒解。"
+        "value": "您的活動綜合排行已達到<color=#ff5588>{0}名<\/color>以內。\n\n為維護活動的公平性，\n綜合排行達到<color=#ff5588>{1}名<\/color>以內的玩家\n在該活動期間的資料繼承次數將受到限制。\n\n限制期間：到活動結束（{2}）為止\n限制次數：剩下{3}次\n<color=#ff3366>※限制次數與各章節的排行共通。<\/color>\n\n感謝您的諒解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
@@ -3901,11 +3901,11 @@
     },
     {
         "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
-        "value": "將刪除保存於我的「世界」擴展預設槽的內容並遊玩我的「世界」。\n確定？"
+        "value": "將刪除保存於『我的「世界」』擴展預設槽的內容並遊玩『我的「世界」』。\n確定？"
     },
     {
         "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_DELETE",
-        "value": "刪除並前往我的「世界」"
+        "value": "刪除並前往『我的「世界」』"
     },
     {
         "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
@@ -4201,7 +4201,7 @@
     },
     {
         "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-        "value": "到{0}/{1} {2}:{3:00}為止"
+        "value": "到{0}\/{1} {2}:{3:00}為止"
     },
     {
         "wordingKey": "WORD_ALL",
@@ -4369,7 +4369,7 @@
     },
     {
         "wordingKey": "WORD_AROUND_DATE_TIME",
-        "value": "{0:00}/{1:00}\n{2}點左右"
+        "value": "{0:00}\/{1:00}\n{2}點左右"
     },
     {
         "wordingKey": "WORD_ARRANGEMENT_DETERMINING",
@@ -4525,7 +4525,7 @@
     },
     {
         "wordingKey": "WORD_BLOCK_PLAYER_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BODY",
@@ -4653,7 +4653,7 @@
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FULL_COMBO_FORMAT",
@@ -4773,11 +4773,11 @@
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS_DESCRIPTION",
-        "value": "「{0} {1}」的表現力提升<color=#FF5588>{2}</color>。（每位成員僅限一次）"
+        "value": "「{0} {1}」的表現力提升<color=#FF5588>{2}<\/color>。（每位成員僅限一次）"
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
-        "value": "於我的「世界」的畫布上描繪可提升表現力<color=#ff5599>{0}</color>。"
+        "value": "於『我的「世界」』的畫布上描繪可提升表現力<color=#ff5599>{0}<\/color>。"
     },
     {
         "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
@@ -5345,7 +5345,7 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_OTHER_PURCHASED",
-        "value": "<color=#ffffff>正在使用其他七彩通行證</color>"
+        "value": "<color=#ffffff>正在使用其他七彩通行證<\/color>"
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_SHOP_DETAIL_TAB",
@@ -5513,7 +5513,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
-        "value": "<size=60><color=#f280b7>{0}</color></size><size=60><color=#ffffff>/</color></size><size=32><color=#ffffff>{1}</color></size>"
+        "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
     },
     {
         "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
@@ -5521,7 +5521,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_FIXTURE_LEVEL_RELEASE",
-        "value": "完成我的「世界」任務\n解鎖"
+        "value": "完成『我的「世界」』任務\n解鎖"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_END_AT",
@@ -5569,7 +5569,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
-        "value": "<size=60><color=#f280b7>{0}</color></size><size=60><color=#ffffff>/</color></size><size=32><color=#ffffff>{1}</color></size>"
+        "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
@@ -5693,7 +5693,7 @@
     },
     {
         "wordingKey": "WORD_CREATE_CONFIRM",
-        "value": "將製作{0} <color=#ff5599>{1}個</color>。\n確定？"
+        "value": "將製作{0} <color=#ff5599>{1}個<\/color>。\n確定？"
     },
     {
         "wordingKey": "WORD_CREATE_PRIVATE_ROOM",
@@ -5745,7 +5745,7 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_DISPLAY_TITLE",
-        "value": "展示"
+        "value": "展示品"
     },
     {
         "wordingKey": "WORD_CUSTOM_FURNITURE",
@@ -5777,15 +5777,15 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_MAX_FORMAT",
-        "value": "<color=#ff5588>{0}/{1}</color>"
+        "value": "<color=#ff5588>{0}\/{1}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_NUM_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
-        "value": "<color=#ff5588>{0}</color>"
+        "value": "<color=#ff5588>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
@@ -6149,7 +6149,7 @@
     },
     {
         "wordingKey": "WORD_END_AT_FORMAT",
-        "value": "到{0}/{1:00}/{2:00} {3:00}:{4:00}為止"
+        "value": "到{0}\/{1:00}\/{2:00} {3:00}:{4:00}為止"
     },
     {
         "wordingKey": "WORD_ENTER_LIMIT",
@@ -6241,7 +6241,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_UNREAD_OR_SKIP_OR_FAST",
-        "value": "未讀/跳過・快轉"
+        "value": "未讀\/跳過・快轉"
     },
     {
         "wordingKey": "WORD_EQUIP_MEMBER",
@@ -6385,7 +6385,7 @@
     },
     {
         "wordingKey": "WORD_EXCHANGE_LIMIT_FORMAT",
-        "value": "{0}/{01:00}/{02:00} {03:00}:{04:00}"
+        "value": "{0}\/{01:00}\/{02:00} {03:00}:{04:00}"
     },
     {
         "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
@@ -6421,7 +6421,7 @@
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_ADD_COMPLETE",
-        "value": "已將「{0}」EX任務達成次數添加<color=#FF77AA>{1}</color>次。"
+        "value": "已將「{0}」EX任務達成次數添加<color=#FF77AA>{1}<\/color>次。"
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
@@ -6481,7 +6481,7 @@
     },
     {
         "wordingKey": "WORD_FAST_LATE_FLICK",
-        "value": "LATE/FAST/FLICK"
+        "value": "LATE\/FAST\/FLICK"
     },
     {
         "wordingKey": "WORD_FAVORITE",
@@ -6573,7 +6573,7 @@
     },
     {
         "wordingKey": "WORD_FIRST_CRAFT_BONUS",
-        "value": "首次製作獎勵<size=32>＋{0}</size>"
+        "value": "首次製作獎勵<size=32>＋{0}<\/size>"
     },
     {
         "wordingKey": "WORD_FIRST_REWARD",
@@ -6593,11 +6593,11 @@
     },
     {
         "wordingKey": "WORD_FIXTURE_BONUS_DESCRIPTION",
-        "value": "{0}的表現力提升<color=#FF5588>{1}%</color>。（每種大小限一次）"
+        "value": "{0}的表現力提升<color=#FF5588>{1}%<\/color>。（每種大小限一次）"
     },
     {
         "wordingKey": "WORD_FIXTURE_CRAFT_CONFIRM",
-        "value": "將製作{0} <color=#ff5599>{1}個</color>。\n確定？"
+        "value": "將製作{0} <color=#ff5599>{1}個<\/color>。\n確定？"
     },
     {
         "wordingKey": "WORD_FIXTURE_CREATE_RESULT",
@@ -6701,7 +6701,7 @@
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE",
-        "value": "從<color=#ff5599>{0}</color>收到了LIVE的邀請。"
+        "value": "從<color=#ff5599>{0}<\/color>收到了LIVE的邀請。"
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -6765,7 +6765,7 @@
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
-        "value": "收到了<color=#ff5599>{0}</color>\n的好友申請。"
+        "value": "收到了<color=#ff5599>{0}<\/color>\n的好友申請。"
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
@@ -6985,7 +6985,7 @@
     },
     {
         "wordingKey": "WORD_GET_COSTUME_DIALOG",
-        "value": "{0} {1}\\n\\n<color={2}>{3}</color>"
+        "value": "{0} {1}\\n\\n<color={2}>{3}<\/color>"
     },
     {
         "wordingKey": "WORD_GET_EXCLAMATION_MARK",
@@ -7161,7 +7161,7 @@
     },
     {
         "wordingKey": "WORD_GO_TO_FRIEND_MYSEKAI_LIST",
-        "value": "前往好友的\n我的「世界」"
+        "value": "前往好友的\n『我的「世界」』"
     },
     {
         "wordingKey": "WORD_GO_TO_MYSEKAI",
@@ -7173,11 +7173,11 @@
     },
     {
         "wordingKey": "WORD_GO_TO_MY_SEKAI",
-        "value": "前往我的「世界」"
+        "value": "前往『我的「世界」』"
     },
     {
         "wordingKey": "WORD_GO_TO_OTHER_MYSEKAI",
-        "value": "前往別人的\n我的「世界」"
+        "value": "前往別人的\n『我的「世界」』"
     },
     {
         "wordingKey": "WORD_GO_TO_STREAMING_LIVE_TICKET_SHOP",
@@ -7245,15 +7245,15 @@
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-        "value": "・若將「<color=#FF3366>{0} {1}</color>」的專精等級提升至2，即可解鎖髮型。"
+        "value": "・若將「<color=#FF3366>{0} {1}<\/color>」的專精等級提升至2，即可解鎖髮型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
-        "value": "・「<color=#FF3366>{0}</color>」是僅有<color=#FF3366>{1}</color>才可設定的髮型。"
+        "value": "・「<color=#FF3366>{0}<\/color>」是僅有<color=#FF3366>{1}<\/color>才可設定的髮型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-        "value": "・「<color=#FF3366>{0}</color>」無法和部分專用飾品同時設定。"
+        "value": "・「<color=#FF3366>{0}<\/color>」無法和部分專用飾品同時設定。"
     },
     {
         "wordingKey": "WORD_HAIR_TYPE",
@@ -7581,7 +7581,7 @@
     },
     {
         "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
-        "value": "是否移動到{0}？\n<color=#FF3366>※目前天氣無法採集此材料。</color>"
+        "value": "是否移動到{0}？\n<color=#FF3366>※目前天氣無法採集此材料。<\/color>"
     },
     {
         "wordingKey": "WORD_ITEM",
@@ -7689,7 +7689,7 @@
     },
     {
         "wordingKey": "WORD_LEVEL_FORMAT",
-        "value": "Lv. {0}/<size=24>{1}</size>"
+        "value": "Lv. {0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_LEVEL_UP",
@@ -8041,7 +8041,7 @@
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_NEXT_REFRESH",
-        "value": "於{0}/{1} {2}:{3}重置"
+        "value": "於{0}\/{1} {2}:{3}重置"
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_REMAINING_NUM",
@@ -8133,7 +8133,7 @@
     },
     {
         "wordingKey": "WORD_MEMBER_CANVAS_CRAFT_CONFIRM",
-        "value": "將為以下成員製作<color=#ff5599>{0}個</color>畫布。\n確定？"
+        "value": "將為以下成員製作<color=#ff5599>{0}個<\/color>畫布。\n確定？"
     },
     {
         "wordingKey": "WORD_MEMBER_CONFIRM",
@@ -8157,7 +8157,7 @@
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
-        "value": "先前已經獲得，要交換か？\n<color=#ff5588>※已獲得的成員將會被送至休息室。</color>"
+        "value": "先前已經獲得，要交換？\n<color=#ff5588>※已獲得的成員將會被送至休息室。<\/color>"
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
@@ -8205,7 +8205,7 @@
     },
     {
         "wordingKey": "WORD_MENU_MYSEKAI_RANK",
-        "value": "我的「世界」等級"
+        "value": "『我的「世界」』等級"
     },
     {
         "wordingKey": "WORD_MESSAGE",
@@ -8269,7 +8269,7 @@
     },
     {
         "wordingKey": "WORD_MISSION_PROGRESS_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_MISSION_START",
@@ -8301,7 +8301,7 @@
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_COLLECT_MYSEKAI_FIXTURE",
-        "value": "我的「世界」家具"
+        "value": "『我的「世界」』家具"
     },
     {
         "wordingKey": "WORD_MISSION_TITLE_COLLECT_STAMP",
@@ -8561,7 +8561,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI",
-        "value": "我的「世界」"
+        "value": "『我的「世界」』"
     },
     {
         "wordingKey": "WORD_MYSEKAI_CAN_PUT",
@@ -8633,7 +8633,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_INFO",
-        "value": "我的「世界」 資訊"
+        "value": "『我的「世界」』 資訊"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
@@ -8685,7 +8685,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_RANK",
-        "value": "我的「世界」 等級"
+        "value": "『我的「世界」』 等級"
     },
     {
         "wordingKey": "WORD_MYSEKAI_RANK_UP_ICON_TITLE",
@@ -8701,7 +8701,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_VOICE",
-        "value": "我的「世界」 語音"
+        "value": "『我的「世界」』 語音"
     },
     {
         "wordingKey": "WORD_MYSEKAI_WEEKLY_UPDATE",
@@ -9169,7 +9169,7 @@
     },
     {
         "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_PANEL_MISSION",
@@ -9417,7 +9417,7 @@
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_FORMAT",
-        "value": "{0}/<size=24>{1}</size>"
+        "value": "{0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
@@ -9429,7 +9429,7 @@
     },
     {
         "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
-        "value": "<size=28>打開</size>{0}次"
+        "value": "<size=28>打開<\/size>{0}次"
     },
     {
         "wordingKey": "WORD_PREMIUM",
@@ -9481,7 +9481,7 @@
     },
     {
         "wordingKey": "WORD_PRESET_DELETE_CONFIRMATION",
-        "value": "將刪除<color=#F59>{0}</color>。\n確定？"
+        "value": "將刪除<color=#F59>{0}<\/color>。\n確定？"
     },
     {
         "wordingKey": "WORD_PRESET_DELETE_FINISH",
@@ -9489,15 +9489,15 @@
     },
     {
         "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於我的「世界」。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※目前已配置的家具將先被收起後再配置預設方案。</color>"
+        "value": "將配置預設方案<color=#F59>{0}<\/color>於『我的「世界」』。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※目前已配置的家具將先被收起後再配置預設方案。<\/color>"
     },
     {
         "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於我的「世界」。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※預設方案中包含的未持有家具將無法配置。</color>"
+        "value": "將配置預設方案<color=#F59>{0}<\/color>於『我的「世界」』。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※預設方案中包含的未持有家具將無法配置。<\/color>"
     },
     {
         "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
-        "value": "將目前預設方案覆蓋保存至<color=#F59>{0}</color>。\n先前保存的內容將被覆蓋，確定？"
+        "value": "將目前預設方案覆蓋保存至<color=#F59>{0}<\/color>。\n先前保存的內容將被覆蓋，確定？"
     },
     {
         "wordingKey": "WORD_PRESET_SAVE_FINISH",
@@ -9509,7 +9509,7 @@
     },
     {
         "wordingKey": "WORD_PRESET_SET_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於我的「世界」。\n目前配置的家具將被收起，確定？"
+        "value": "將配置預設方案<color=#F59>{0}<\/color>於『我的「世界」』。\n目前配置的家具將被收起，確定？"
     },
     {
         "wordingKey": "WORD_PRESET_SET_FINISH",
@@ -9649,7 +9649,7 @@
     },
     {
         "wordingKey": "WORD_QUALITY_SETTING",
-        "value": "我的「世界」 品質設定"
+        "value": "『我的「世界」』 品質設定"
     },
     {
         "wordingKey": "WORD_RANGE",
@@ -9681,7 +9681,7 @@
     },
     {
         "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
-        "value": "×<color=#bb99ff>{0}</color>"
+        "value": "×<color=#bb99ff>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
@@ -9693,7 +9693,7 @@
     },
     {
         "wordingKey": "WORD_RANK_REACHING_BY_RELEASE",
-        "value": "達到我的「世界」等級{0}即可解鎖"
+        "value": "達到『我的「世界」』等級{0}即可解鎖"
     },
     {
         "wordingKey": "WORD_RARITY",
@@ -10185,11 +10185,11 @@
     },
     {
         "wordingKey": "WORD_SEKAI_MISSION",
-        "value": "我的「世界」 任務"
+        "value": "『我的「世界」』 任務"
     },
     {
         "wordingKey": "WORD_SEKAI_RANK_EXP",
-        "value": "我的「世界」 等級EXP"
+        "value": "『我的「世界」』 等級EXP"
     },
     {
         "wordingKey": "WORD_SEKAI_VERSION",
@@ -10429,7 +10429,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_MYSEKAI_MISSION_PASS_DETAIL",
-        "value": "我的「世界」 任務通行證詳情"
+        "value": "『我的「世界」』 任務通行證詳情"
     },
     {
         "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
@@ -10437,7 +10437,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_PRICE",
-        "value": "<color={0}>{1}原石</color>"
+        "value": "<color={0}>{1}原石<\/color>"
     },
     {
         "wordingKey": "WORD_SHOP_PURCHASE",
@@ -10557,7 +10557,7 @@
     },
     {
         "wordingKey": "WORD_SITE_RELEASE",
-        "value": "達到我的「世界」等級{0}"
+        "value": "達到『我的「世界」』等級{0}"
     },
     {
         "wordingKey": "WORD_SIZE",
@@ -10829,7 +10829,7 @@
     },
     {
         "wordingKey": "WORD_STOP_PERIOD",
-        "value": "停止期間 {0}到/{1:00}/{2:00} {3:00}:{4:00}為止"
+        "value": "停止期間 {0}到\/{1:00}\/{2:00} {3:00}:{4:00}為止"
     },
     {
         "wordingKey": "WORD_STORY",
@@ -10889,7 +10889,7 @@
     },
     {
         "wordingKey": "WORD_STREAMING_LIVE_EXIT_DIALOG_MESSAGE",
-        "value": "中途退場，會回到等待區域か？\n根據票券的使用狀況，能再次入場的期間會有所不同。"
+        "value": "中途退場，會回到等待區域？\n根據票券的使用狀況，能再次入場的期間會有所不同。"
     },
     {
         "wordingKey": "WORD_STREAMING_LIVE_PART",
@@ -11037,11 +11037,11 @@
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_FROAMT",
-        "value": "到{0}/{1:00}/{2:00} {3:00}:{4:00}為止"
+        "value": "到{0}\/{1:00}\/{2:00} {3:00}:{4:00}為止"
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
-        "value": "{0}/{01:00}/{02:00} {03:00}:{04:00} ~ {5}/{06:00}/{07:00} {08:00}:{09:00}"
+        "value": "{0}\/{01:00}\/{02:00} {03:00}:{04:00} ~ {5}\/{06:00}\/{07:00} {08:00}:{09:00}"
     },
     {
         "wordingKey": "WORD_TIME_TO_APPEARANCE",
@@ -11513,7 +11513,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_EXIT_DIALOG_MESSAGE",
-        "value": "要中途退場，並回到等待區域か？\n在LIVE結束前，可隨時再次入場。"
+        "value": "要中途退場，並回到等待區域？\n在LIVE結束前，可隨時再次入場。"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_EXIT_DIALOG_OK",
@@ -11909,7 +11909,7 @@
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_DATE_PERIOD",
-        "value": "{0:MM/dd HH:mm} ～ {1:MM/dd HH:mm}為止"
+        "value": "{0:MM\/dd HH:mm} ～ {1:MM\/dd HH:mm}為止"
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_ENG",
