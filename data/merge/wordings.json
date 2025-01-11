@@ -73,7 +73,7 @@
     },
     {
         "wordingKey": "FORMAT_CONVERT_SHORTEN_TIME_HAVE_JOINED_PASS",
-        "value": "Pass加入縮短{0}%"
+        "value": "世界通行證加入縮短{0}%轉換時間"
     },
     {
         "wordingKey": "FORMAT_DAY",
@@ -113,7 +113,7 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
-        "value": "門等級{0}之後來訪的角色"
+        "value": "大門等級{0}之後來訪的角色"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_HARVEST_TOOL_QUANTITY",
@@ -941,7 +941,7 @@
     },
     {
         "wordingKey": "MSG_CONVERT_ITEM_NONE",
-        "value": "沒有可轉換的物品。"
+        "value": "沒有可轉換的道具。"
     },
     {
         "wordingKey": "MSG_CONVERT_MESSAGE",
@@ -949,7 +949,7 @@
     },
     {
         "wordingKey": "MSG_CONVERT_NOT_ENOUGH_CONSUMED_RESOURCE",
-        "value": "必要的素材不足"
+        "value": "必要的材料不足"
     },
     {
         "wordingKey": "MSG_CONVERT_NOT_EXPIRED_PASS",
@@ -985,7 +985,7 @@
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_TITLE",
-        "value": "請選擇要轉換的唱片單元。"
+        "value": "請選擇要轉換的團體唱片。"
     },
     {
         "wordingKey": "MSG_CONVERT_UPPER_LIMIT_PASS",
@@ -1013,7 +1013,7 @@
     },
     {
         "wordingKey": "MSG_CRAFT_NOT_ENOUGH_MATERIAL",
-        "value": "必要的素材不足"
+        "value": "必要的材料不足"
     },
     {
         "wordingKey": "MSG_CRAFT_REACHED_POSSESSION_LIMIT",
@@ -1137,7 +1137,7 @@
     },
     {
         "wordingKey": "MSG_DL_MYSEKAI_VOICE",
-        "value": "是否下載我的「世界」語音？\n\n<color=#ff5599>大約{0}MB</color>\n\n可享受我的「世界」中完整語音的對話。\n※可稍後於我的「世界」設定中啟用。"
+        "value": "是否下載我的「世界」語音？\n\n<color=#ff5599>大約{0}MB</color>\n\n可享受我的「世界」中完整語音的對話。\n※可稍後於我的「世界」設定中打開。"
     },
     {
         "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
@@ -1593,7 +1593,7 @@
     },
     {
         "wordingKey": "MSG_GATE_LEVEL_UP_INCREASE_VISITS",
-        "value": "提升門等級後，多人來訪次數將增加。"
+        "value": "當大門等級提升時，會有更多人來訪。"
     },
     {
         "wordingKey": "MSG_GATE_SEND_INVITATION_CHARACTER_SELECT",
@@ -1721,7 +1721,7 @@
     },
     {
         "wordingKey": "MSG_INVENTORY_OVER",
-        "value": "物品欄已滿。"
+        "value": "道具欄已滿。"
     },
     {
         "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
@@ -1749,7 +1749,7 @@
     },
     {
         "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
-        "value": "由於玩家設定變更，已被退出。\n返回自己的我的「世界」。"
+        "value": "由於玩家設定變更，已被踢出。\n返回自己的我的「世界」。"
     },
     {
         "wordingKey": "MSG_KICKOUT_TO_HOME",
@@ -1953,7 +1953,7 @@
     },
     {
         "wordingKey": "MSG_MATERIAL_POSSESSION",
-        "value": "素材的持有上限提升。"
+        "value": "材料的持有上限提升。"
     },
     {
         "wordingKey": "MSG_MAX_ANOUNCE",
@@ -2193,7 +2193,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
-        "value": "七彩通行證已過期。\n是否重新購買？"
+        "value": "世界通行證已過期。\n是否重新購買？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
@@ -2209,7 +2209,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
-        "value": "※同一虛擬歌手的子團體也能獲得加成。\n※原創虛擬歌手只能從加成最高的一個門獲益。"
+        "value": "※同一虛擬歌手的子團體也能獲得加成。\n※原創虛擬歌手只能從加成最高的一個大門獲益。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
@@ -2221,11 +2221,11 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_NOT_ENOUGH_MATERIAL_TO_LEVEL_UP",
-        "value": "升級所需的素材不足"
+        "value": "升級所需的材料不足"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_REACHED_TO_MAX_LEVEL",
-        "value": "門的等級已達上限"
+        "value": "大門的等級已達上限"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION",
@@ -2265,7 +2265,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_MATCHING_MODEL_ROOM_DESCRIPTION",
-        "value": "正在搜尋模型房…"
+        "value": "正在搜尋樣品屋…"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
@@ -2337,7 +2337,7 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
-        "value": "由於為特殊家具，無法描繪。"
+        "value": "無法描繪特殊家具。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
@@ -2489,7 +2489,7 @@
     },
     {
         "wordingKey": "MSG_NOT_EDIT_LAYOUT_VISITING_CHARACTER_FROM_GATE",
-        "value": "角色正在使用門期間無法修改佈局。"
+        "value": "角色正在使用大門期間無法修改佈局。"
     },
     {
         "wordingKey": "MSG_NOT_ENOUGH_CURRENCY",
@@ -2769,7 +2769,7 @@
     },
     {
         "wordingKey": "MSG_PHOTOSHOT_UNSAVE",
-        "value": "將放棄拍攝的照片並返回拍攝前的狀態。\n確定？"
+        "value": "將放棄拍攝的相片並返回拍攝前的狀態。\n確定？"
     },
     {
         "wordingKey": "MSG_PIN_THE_LEADER",
@@ -2805,7 +2805,7 @@
     },
     {
         "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
-        "value": "由於物品持有數量已達上限，無法接收物品。"
+        "value": "由於道具持有數量已達上限，無法領取道具。"
     },
     {
         "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2845,7 +2845,7 @@
     },
     {
         "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
-        "value": "每抽取一次扭蛋，即可隨機獲得各種獎品。\n\n※獎品的抽取將於扭蛋結果畫面進行。\n※獎品根據提供比例進行逐次抽取。例如，提供比例為1%的物品並不保證100次中一定出現1次。\n※獎品中的「[2025新春]Bloom Festival扭蛋專用券」僅能在「[2025新春]Bloom Festival扭蛋」中使用，活動期限過後將無法使用。\n※獎品中的「[2025新春]新年免費扭蛋券」僅能在「[2025新春]新年免費扭蛋」中使用，活動期限過後將無法使用，請注意。"
+        "value": "每抽取一次扭蛋，即可隨機獲得各種獎品。\n\n※獎品的抽取將於扭蛋結果畫面進行。\n※獎品根據提供比例進行逐次抽取。例如，提供比例為1%的道具並不保證100次中一定出現1次。\n※獎品中的「[2025新春]Bloom Festival扭蛋專用券」僅能在「[2025新春]Bloom Festival扭蛋」中使用，活動期限過後將無法使用。\n※獎品中的「[2025新春]新年免費扭蛋券」僅能在「[2025新春]新年免費扭蛋」中使用，活動期限過後將無法使用，請注意。"
     },
     {
         "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -2977,7 +2977,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
-        "value": "已接收轉換的物品。"
+        "value": "已領取轉換的道具。"
     },
     {
         "wordingKey": "MSG_RECEIVED_COSTUME",
@@ -2997,7 +2997,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_PARTIAL_REWARD_DUE_TO_POSSESSION_LIMIT",
-        "value": "由於物品持有數量已達上限，部分物品無法接收。"
+        "value": "由於道具持有數量已達上限，部分道具無法接收。"
     },
     {
         "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
@@ -3541,7 +3541,7 @@
     },
     {
         "wordingKey": "MSG_TUTORIAL_HARVEST_LIMIT",
-        "value": "已採集到足夠的素材。"
+        "value": "已採集到足夠的材料。"
     },
     {
         "wordingKey": "MSG_TUTORIAL_NEXT_CONFIRM",
@@ -4777,7 +4777,7 @@
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
-        "value": "於我的「世界」的畫布上繪製可提升表現力<color=#ff5599>{0}</color>。"
+        "value": "於我的「世界」的畫布上描繪可提升表現力<color=#ff5599>{0}</color>。"
     },
     {
         "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
@@ -5237,7 +5237,7 @@
     },
     {
         "wordingKey": "WORD_CHEST_MATERIAL_NUM",
-        "value": "擁有的素材總數"
+        "value": "擁有的材料總數"
     },
     {
         "wordingKey": "WORD_CLASS",
@@ -5425,7 +5425,7 @@
     },
     {
         "wordingKey": "WORD_COMPLETE_REWARD",
-        "value": "完成獎勵"
+        "value": "完成報酬"
     },
     {
         "wordingKey": "WORD_COMPOSER",
@@ -5537,11 +5537,11 @@
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SELECT",
-        "value": "選擇物品"
+        "value": "選擇道具"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SELECT_TAB",
-        "value": "製作物品"
+        "value": "製作道具"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_FIXTURE_MAIN_GENRE_CHOICE",
@@ -5553,7 +5553,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_CATEGORY_CHOICE",
-        "value": "一個隨機唱片\n（從單一單位中隨機）"
+        "value": "一個隨機唱片\n（在某一團體中隨機）"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_RANDOM",
@@ -5561,7 +5561,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_MACHINE_LEVEL",
-        "value": "機器等級達到Lv.{0}"
+        "value": "轉換機等級達到Lv.{0}"
     },
     {
         "wordingKey": "WORD_CONVERT_NOTIFICATION",
@@ -5573,19 +5573,19 @@
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
-        "value": "接收全部"
+        "value": "領取全部"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_PART",
-        "value": "接收完成部分"
+        "value": "領取完成部分"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS",
-        "value": "正在轉換物品"
+        "value": "正在轉換道具"
     },
     {
         "wordingKey": "WORD_CONVERT_SLOT_COMPLETED_MOBILE_NOTIFICATION",
-        "value": "物品轉換已完成。"
+        "value": "道具轉換已完成。"
     },
     {
         "wordingKey": "WORD_CONVERT_SLOT_SHORTEN_DECIDE",
@@ -5753,11 +5753,11 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_GOODS_DISPLAY",
-        "value": "選擇展示商品的展示台。"
+        "value": "選擇展示周邊的展示台。"
     },
     {
         "wordingKey": "WORD_CUSTOM_PHOTO_DISPLAY",
-        "value": "選擇展示照片的展示台。"
+        "value": "選擇展示相片的展示台。"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE",
@@ -6009,7 +6009,7 @@
     },
     {
         "wordingKey": "WORD_DRAW_MEMBER",
-        "value": "繪製成員"
+        "value": "描繪成員"
     },
     {
         "wordingKey": "WORD_DURING_SHOW",
@@ -6017,7 +6017,7 @@
     },
     {
         "wordingKey": "WORD_EARN_MATERIAL",
-        "value": "獲得素材"
+        "value": "獲得材料"
     },
     {
         "wordingKey": "WORD_EASY_FILTER",
@@ -6061,11 +6061,11 @@
     },
     {
         "wordingKey": "WORD_ELEMENT",
-        "value": "素材"
+        "value": "材料"
     },
     {
         "wordingKey": "WORD_ELEMENT_COUNT",
-        "value": "素材持有數量"
+        "value": "材料持有數量"
     },
     {
         "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
@@ -6081,7 +6081,7 @@
     },
     {
         "wordingKey": "WORD_EMPTY_CHEKI",
-        "value": "沒有可顯示的照片。"
+        "value": "沒有可顯示的相片。"
     },
     {
         "wordingKey": "WORD_EMPTY_COLLECTION",
@@ -6097,11 +6097,11 @@
     },
     {
         "wordingKey": "WORD_EMPTY_ITEM",
-        "value": "沒有物品。"
+        "value": "沒有道具。"
     },
     {
         "wordingKey": "WORD_EMPTY_MATERIAL",
-        "value": "沒有素材。"
+        "value": "沒有材料。"
     },
     {
         "wordingKey": "WORD_EMPTY_MEMBER",
@@ -6569,7 +6569,7 @@
     },
     {
         "wordingKey": "WORD_FIND_FROM_SONG_TITLE_CREATOR_NAME",
-        "value": "從歌曲名稱或創作者名稱搜尋"
+        "value": "搜尋歌曲名稱或創作者名稱"
     },
     {
         "wordingKey": "WORD_FIRST_CRAFT_BONUS",
@@ -6613,7 +6613,7 @@
     },
     {
         "wordingKey": "WORD_FIXTURE_RECYCLE_RESULT",
-        "value": "已回收家具並獲得物品。"
+        "value": "已回收家具並獲得道具。"
     },
     {
         "wordingKey": "WORD_FLICK",
@@ -6961,7 +6961,7 @@
     },
     {
         "wordingKey": "WORD_GATE_CONTENT_UNIT",
-        "value": "單位"
+        "value": "團體"
     },
     {
         "wordingKey": "WORD_GENERAL",
@@ -7581,7 +7581,7 @@
     },
     {
         "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
-        "value": "是否移動到{0}？\n<color=#FF3366>※目前天氣無法採集此素材。</color>"
+        "value": "是否移動到{0}？\n<color=#FF3366>※目前天氣無法採集此材料。</color>"
     },
     {
         "wordingKey": "WORD_ITEM",
@@ -7589,7 +7589,7 @@
     },
     {
         "wordingKey": "WORD_ITEM_CRYSTAL",
-        "value": "物品與水晶"
+        "value": "道具與水晶"
     },
     {
         "wordingKey": "WORD_ITEM_DETAIL",
@@ -8109,11 +8109,11 @@
     },
     {
         "wordingKey": "WORD_MATERIAL_POSSESSION",
-        "value": "素材持有上限提升"
+        "value": "材料持有上限提升"
     },
     {
         "wordingKey": "WORD_MATERIAL_RECYCLE_RESULT",
-        "value": "已回收素材並獲得硬幣。"
+        "value": "已回收材料並獲得硬幣。"
     },
     {
         "wordingKey": "WORD_MAX",
@@ -8357,7 +8357,7 @@
     },
     {
         "wordingKey": "WORD_MODEL_ROOM",
-        "value": "樣板間"
+        "value": "樣品屋"
     },
     {
         "wordingKey": "WORD_MODE_SETTING",
@@ -8581,7 +8581,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_THUMBNAIL",
-        "value": "缺\n貨"
+        "value": "缺貨"
     },
     {
         "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
@@ -8597,7 +8597,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
-        "value": "可放置物件的數量"
+        "value": "可放置家具的數量"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
@@ -8605,11 +8605,11 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_LEVEL",
-        "value": "門等級"
+        "value": "大門等級"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_RATE",
-        "value": "表現加成"
+        "value": "表現獎勵"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_UNIT",
@@ -8641,7 +8641,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
-        "value": "有不正確放置的家具。\n是否捨棄所有變更並返回首頁？"
+        "value": "有不正確放置的家具。\n是否捨棄所有變更並返回？"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_PUT_SPACE",
@@ -8665,11 +8665,11 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CRYSTAL_SHOP",
-        "value": "前往\n水晶商店"
+        "value": "前往水晶商店"
     },
     {
         "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_EMPTY",
-        "value": "尚未保存任何照片。"
+        "value": "尚未保存任何相片。"
     },
     {
         "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_NAME",
@@ -8717,7 +8717,7 @@
     },
     {
         "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
-        "value": "七彩記憶"
+        "value": "五彩的記憶"
     },
     {
         "wordingKey": "WORD_NAME",
@@ -9249,7 +9249,7 @@
     },
     {
         "wordingKey": "WORD_PHOTO",
-        "value": "照片"
+        "value": "相片"
     },
     {
         "wordingKey": "WORD_PHOTO_STAND",
@@ -9293,11 +9293,11 @@
     },
     {
         "wordingKey": "WORD_PLACEHOLDER_SEARCH_KEYWORD_TAG",
-        "value": "從關鍵字或標籤搜尋"
+        "value": "搜尋關鍵字或標籤"
     },
     {
         "wordingKey": "WORD_PLACEHOLDER_SEARCH_TAG",
-        "value": "從標籤搜尋"
+        "value": "搜尋標籤"
     },
     {
         "wordingKey": "WORD_PLANT",
@@ -9325,7 +9325,7 @@
     },
     {
         "wordingKey": "WORD_PLAYER_RANK_EXP",
-        "value": "玩家等級經驗值"
+        "value": "玩家等級EXP"
     },
     {
         "wordingKey": "WORD_PLAYER_RANK_REWARD",
@@ -9377,7 +9377,7 @@
     },
     {
         "wordingKey": "WORD_PLEASE_SELECT_MEMBER",
-        "value": "請選擇要繪製於畫布上的成員。"
+        "value": "請選擇要描繪於畫布上的成員。"
     },
     {
         "wordingKey": "WORD_PLUS_PERCENT_VALUE",
@@ -9741,7 +9741,7 @@
     },
     {
         "wordingKey": "WORD_REACTION_CHARACTER",
-        "value": "觸發反應的角色"
+        "value": "進行互動的角色"
     },
     {
         "wordingKey": "WORD_READ",
@@ -9817,11 +9817,11 @@
     },
     {
         "wordingKey": "WORD_RECYCLE_MATERIAL",
-        "value": "回收素材"
+        "value": "回收材料"
     },
     {
         "wordingKey": "WORD_RECYCLE_MATERIAL_CONFIRM",
-        "value": "將回收選定的素材。\n確定？"
+        "value": "將回收選定的材料。\n確定？"
     },
     {
         "wordingKey": "WORD_RECYCLE_TOOL",
@@ -10189,7 +10189,7 @@
     },
     {
         "wordingKey": "WORD_SEKAI_RANK_EXP",
-        "value": "我的「世界」 等級經驗值"
+        "value": "我的「世界」 等級EXP"
     },
     {
         "wordingKey": "WORD_SEKAI_VERSION",
@@ -10321,7 +10321,7 @@
     },
     {
         "wordingKey": "WORD_SETTING_MYSITE",
-        "value": "設置我的家園"
+        "value": "我的家設定中"
     },
     {
         "wordingKey": "WORD_SETTING_UP",
@@ -10333,7 +10333,7 @@
     },
     {
         "wordingKey": "WORD_SET_MYSITE",
-        "value": "設置我的家園"
+        "value": "設定我的家"
     },
     {
         "wordingKey": "WORD_SET_PROFILE",
@@ -10341,7 +10341,7 @@
     },
     {
         "wordingKey": "WORD_SET_PURCHASE",
-        "value": "成套購買"
+        "value": "購買組合包"
     },
     {
         "wordingKey": "WORD_SHAPE",
@@ -10417,7 +10417,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_MISSION_PASS_SET_DETAIL",
-        "value": "任務通行證套裝詳情"
+        "value": "任務通行證組合包詳情"
     },
     {
         "wordingKey": "WORD_SHOP_MONTH",
@@ -10565,7 +10565,7 @@
     },
     {
         "wordingKey": "WORD_SKETCH",
-        "value": "素描"
+        "value": "描繪"
     },
     {
         "wordingKey": "WORD_SKILL",
@@ -11089,11 +11089,11 @@
     },
     {
         "wordingKey": "WORD_TITLE_SEARCH_KEYWORD_TAG",
-        "value": "關鍵字或標籤搜尋"
+        "value": "搜尋關鍵字或標籤"
     },
     {
         "wordingKey": "WORD_TITLE_SEARCH_TAG",
-        "value": "標籤搜尋"
+        "value": "搜尋標籤"
     },
     {
         "wordingKey": "WORD_TITLE_STAND",
@@ -11153,7 +11153,7 @@
     },
     {
         "wordingKey": "WORD_TOTAL_FURNITURE_IS_CREATED",
-        "value": "已達物品上限"
+        "value": "已達道具上限"
     },
     {
         "wordingKey": "WORD_TOTAL_MATCH_COUNT",
@@ -11177,7 +11177,7 @@
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_BONUS_RATE",
-        "value": "表現加成"
+        "value": "表現獎勵"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_CARD",
@@ -11213,11 +11213,11 @@
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
-        "value": "家具加成"
+        "value": "家具獎勵"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_GATE_BONUS",
-        "value": "門加成"
+        "value": "大門獎勵"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
@@ -11669,7 +11669,7 @@
     },
     {
         "wordingKey": "WORD_VISITING_MYSEKAI",
-        "value": "正在外出"
+        "value": "正在訪問"
     },
     {
         "wordingKey": "WORD_VISIT_JP",

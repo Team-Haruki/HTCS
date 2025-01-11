@@ -14,9 +14,9 @@
     {
         "id": 2,
         "mysekaiPhenomenaBrightnessType": "bright",
-        "name": "晚霞",
+        "name": "霞",
         "englishName": "EVENING",
-        "description": "晚霞",
+        "description": "霞",
         "mysekaiPhenomenaTimePeriodType": "evening",
         "mysekaiPhenomenaBackgroundColorId": 2,
         "assetbundleName": "002_evening",

@@ -83,7 +83,7 @@
         "id": 300,
         "mysekaiNormalMissionSheetId": 3,
         "seq": 1,
-        "sentence": "創建一個大家可以一起遊玩的庭院吧！",
+        "sentence": "打造一個大家可以一起玩的庭院吧！",
         "mysekaiNormalMissionType": "complete_sheet",
         "mysekaiNormalMissionCategory": "complete",
         "requirement1": 3
@@ -183,11 +183,10 @@
         "mysekaiNormalMissionSheetId": 5,
         "seq": 5,
         "sentence": "將製作好的小物放置在家內的某處",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
+        "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
         "mysekaiNormalMissionCategory": "normal",
         "requirement1": 1,
-        "conditionValue1": 317,
-        "conditionValue2": 2
+        "conditionValue1": 317
     },
     {
         "id": 600,
@@ -575,7 +574,7 @@
         "id": 1500,
         "mysekaiNormalMissionSheetId": 15,
         "seq": 1,
-        "sentence": "裝飾你的商品吧！",
+        "sentence": "裝飾你的周邊吧！",
         "mysekaiNormalMissionType": "complete_sheet",
         "mysekaiNormalMissionCategory": "complete",
         "requirement1": 2
@@ -594,7 +593,7 @@
         "id": 1502,
         "mysekaiNormalMissionSheetId": 15,
         "seq": 3,
-        "sentence": "透過「レイアウト」選擇「商品」，並將其放置在某處",
+        "sentence": "透過「レイアウト」選擇「周邊」，並將其放置在某處",
         "mysekaiNormalMissionType": "put_mysekai_fixture_specific_mysekai_fixture_main_genre",
         "mysekaiNormalMissionCategory": "normal",
         "requirement1": 1,
@@ -999,7 +998,7 @@
         "id": 3200,
         "mysekaiNormalMissionSheetId": 32,
         "seq": 1,
-        "sentence": "發現新的區域吧！",
+        "sentence": "探索新區域吧！",
         "mysekaiNormalMissionType": "complete_sheet",
         "mysekaiNormalMissionCategory": "complete",
         "requirement1": 1
@@ -1144,7 +1143,7 @@
         "id": 4800,
         "mysekaiNormalMissionSheetId": 48,
         "seq": 1,
-        "sentence": "發現新的區域吧！",
+        "sentence": "探索新區域吧！",
         "mysekaiNormalMissionType": "complete_sheet",
         "mysekaiNormalMissionCategory": "complete",
         "requirement1": 1
