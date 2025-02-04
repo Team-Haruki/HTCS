@@ -2,7 +2,7 @@
     {
         "id": 1,
         "shortDescription": "スコア{{1;v}}%ＵＰ",
-        "description": "{{1;d}}秒內 分數提升{{1;v}}%",
+        "description": "{{1;d}}秒內，得分提高{{1;v}}%",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -46,7 +46,7 @@
     {
         "id": 2,
         "shortDescription": "スコア{{2;v}}%ＵＰ",
-        "description": "{{2;d}}秒內 分數提升{{2;v}}%",
+        "description": "{{2;d}}秒內，得分提高{{2;v}}%",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -90,7 +90,7 @@
     {
         "id": 3,
         "shortDescription": "スコア{{3;v}}%ＵＰ",
-        "description": "{{3;d}}秒內 分數提升{{3;v}}%",
+        "description": "{{3;d}}秒內，得分提高{{3;v}}%",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -134,7 +134,7 @@
     {
         "id": 4,
         "shortDescription": "スコア{{4;v}}%ＵＰ",
-        "description": "{{4;d}}秒內 分數提升{{4;v}}%",
+        "description": "{{4;d}}秒內，得分提高{{4;v}}%",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 1,
         "skillEffects": [
@@ -178,7 +178,7 @@
     {
         "id": 5,
         "shortDescription": "判定強化(小)\\n＆スコア{{5;v}}%ＵＰ",
-        "description": "{{8;d}}秒內GREAT轉為PERFECT，\n{{5;d}}秒內分數提升{{5;v}}%",
+        "description": "{{8;d}}秒内，GREAT变为PERFECT，{{5;d}}秒内，得分提高{{5;v}}％。",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -257,7 +257,7 @@
     {
         "id": 6,
         "shortDescription": "判定強化(中)\\n＆スコア{{6;v}}%ＵＰ",
-        "description": "{{9;d}}秒內GOOD以上轉為PERFECT，\n{{6;d}}秒內分數提升{{6;v}}%",
+        "description": "{{9;d}}秒内，GOOD及以上变为PERFECT，{{6;d}}秒内，得分提高{{6;v}}％。",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -336,7 +336,7 @@
     {
         "id": 7,
         "shortDescription": "判定強化(大)\\n＆スコア{{7;v}}%ＵＰ",
-        "description": "{{10;d}}秒內BAD以上轉為PERFECT，\n{{7;d}}秒內分數提升{{7;v}}%",
+        "description": "{{10;d}}秒内，BAD及以上变为PERFECT，{{7;d}}秒内，得分提高{{7;v}}％。",
         "descriptionSpriteName": "judgment_up",
         "skillFilterId": 3,
         "skillEffects": [
@@ -415,7 +415,7 @@
     {
         "id": 8,
         "shortDescription": "ライフ{{14;v}}回復\\n＆スコア{{11;v}}%ＵＰ",
-        "description": "體力恢復{{14;v}}，\n{{11;d}}秒內分數提升{{11;v}}%",
+        "description": "恢复生命值{{14;v}}，{{11;d}}秒内，得分提高{{11;v}}%。",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -493,7 +493,7 @@
     {
         "id": 9,
         "shortDescription": "ライフ{{15;v}}回復\\n＆スコア{{12;v}}%ＵＰ",
-        "description": "體力恢復{{15;v}}，\n{{12;d}}秒內分數提升{{12;v}}%",
+        "description": "恢复生命值{{15;v}}，{{12;d}}秒内，得分提高{{12;v}}%。",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -571,7 +571,7 @@
     {
         "id": 10,
         "shortDescription": "ライフ{{16;v}}回復\\n＆スコア{{13;v}}%ＵＰ",
-        "description": "體力恢復{{16;v}}，\n{{13;d}}秒內分數提升{{13;v}}%",
+        "description": "恢复生命值{{16;v}}，{{13;d}}秒内，得分提高{{13;v}}%。",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -649,7 +649,7 @@
     {
         "id": 11,
         "shortDescription": "PERFECTのときのみ\\nスコア{{17;v}}%ＵＰ",
-        "description": "{{17;d}}秒內僅PERFECT時分數提升{{17;v}}%",
+        "description": "{{17;d}}秒内，仅在PERFECT时得分提高{{17;v}}%。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -693,7 +693,7 @@
     {
         "id": 12,
         "shortDescription": "発動時ライフが800未満ならスコア{{39;v}}%UP、\\n800以上ならスコア{{38;v}}%UP、更にライフが10増加毎に+1%UP（最大{{18;v}}%)",
-        "description": "{{38;d}}秒內 發動時若體力未滿800則分數提升{{39;v}}%，\n800以上則提升{{38;v}}%。\n之後體力每增加10則提升1%（上限為{{18;v}}%）",
+        "description": "{{38;d}}秒内，发动时若生命值不满800，则得分提高{{39;v}}%；\\n 若达到800，则得分提高{{38;v}}%，且生命值每增加10，得分多提高1%（最多{{18;v}}%)。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1494,7 +1494,7 @@
     {
         "id": 13,
         "shortDescription": "スコア{{41;v}}％UP、GOOD以下を出すまではスコア{{40;v}}％UP",
-        "description": "{{40;d}}秒內 分數提升{{41;v}}％，\n若判定保持GOOD以上則提升{{40;v}}％",
+        "description": "{{40;d}}秒内，得分提高{{41;v}}％。\\n 在出现GOOD及以下评价之前得分提高{{40;v}}％。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1573,7 +1573,7 @@
     {
         "id": 14,
         "shortDescription": "ライフ{{42;v}}回復\\n＆PERFECTのときのみ\\nスコア{{43;v}}%ＵＰ",
-        "description": "體力恢復{{42;v}}，\n{{43;d}}秒內僅PERFECT時分數提升{{43;v}}%",
+        "description": "恢复生命值{{42;v}}，{{43;d}}秒内，仅在PERFECT时得分提高{{43;v}}%。",
         "descriptionSpriteName": "life_recovery",
         "skillFilterId": 4,
         "skillEffects": [
@@ -1651,7 +1651,7 @@
     {
         "id": 15,
         "shortDescription": "スコア{{44;v}}%UP、自身を除き「Leo\/need」メンバーを1人編成する毎にスコア{{44;e}}%UP、全員一致で更に{{44;e}}%UP",
-        "description": "{{44;d}}秒內 分數提升{{44;v}}%\n除了自己以外，每以1位「Leo\/need」成員編組，分數提升{{44;e}}%。全員一致則再提升{{44;e}}%。（最多{{44;m}}%）",
+        "description": "{{44;d}}秒内，得分提高{{44;v}}%。\\n 除自身以外，每编组1名“Leo\\/need”成员，得分提高{{44;e}}%，若所有成员所属组合相同则再提高{{44;e}}%（最多{{44;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1706,7 +1706,7 @@
     {
         "id": 16,
         "shortDescription": "スコア{{45;v}}%UP、自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコア{{45;e}}%UP、全員一致で更に{{45;e}}%UP（最大{{45;m}}%)",
-        "description": "{{45;d}}秒內 分數提升{{45;v}}%\n除了自己以外，每以1位「MORE MORE JUMP！」成員編組，分數提升{{45;e}}%。全員一致則再提升{{45;e}}%。（最多{{45;m}}%）",
+        "description": "{{45;d}}秒内，得分提高{{45;v}}%。\\n 除自身以外，每编组1名“MORE MORE JUMP！”成员，得分提高{{45;e}}%，若所有成员所属组合相同则再提高{{45;e}}%（最多{{45;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1761,7 +1761,7 @@
     {
         "id": 17,
         "shortDescription": "スコア{{46;v}}%UP、自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコア{{46;e}}%UP、全員一致で更に{{46;e}}%UP（最大{{46;m}}%)",
-        "description": "{{46;d}}秒內 分數提升{{46;v}}%\n除了自己以外，每以1位「Vivid BAD SQUAD」成員編組，分數提升{{46;e}}%。全員一致則再提升{{46;e}}%。（最多{{46;m}}%）",
+        "description": "{{46;d}}秒内，得分提高{{46;v}}%。\\n 除自身以外，每编组1名“Vivid BAD SQUAD”成员，得分提高{{46;e}}%，若所有成员所属组合相同则再提高{{46;e}}%（最多{{46;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1816,7 +1816,7 @@
     {
         "id": 18,
         "shortDescription": "スコア{{47;v}}%UP、自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコア{{47;e}}%UP、全員一致で更に{{47;e}}%UP（最大{{47;m}}%)",
-        "description": "{{47;d}}秒內 分數提升{{47;v}}%\n除了自己以外，每以1位「Wonderlands×Showtime」成員編組，分數提升{{47;e}}%。全員一致則再提升{{47;e}}%。（最多{{47;m}}%）",
+        "description": "{{47;d}}秒内，得分提高{{47;v}}%。\\n 除自身以外，每编组1名“Wonderlands×Showtime”成员，得分提高{{47;e}}%，若所有成员所属组合相同则再提高{{47;e}}%（最多{{47;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1871,7 +1871,7 @@
     {
         "id": 19,
         "shortDescription": "スコア{{48;v}}%UP、自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコア{{48;e}}%UP、全員一致で更に{{48;e}}%UP（最大{{48;m}}%)",
-        "description": "{{48;d}}秒內 分數提升{{48;v}}%\n除了自己以外，每以1位「25點，Nightcord見。」成員編組，分數提升{{48;e}}%。全員一致則再提升{{48;e}}%。（最多{{48;m}}%）",
+        "description": "{{48;d}}秒内，得分提高{{48;v}}%。\\n 除自身以外，每编组1名“25点，Nightcord见。”成员，得分提高{{48;e}}%，若所有成员所属组合相同则再提高{{48;e}}%（最多{{48;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1926,7 +1926,7 @@
     {
         "id": 22,
         "shortDescription": "{{53;d}}秒間 スコアが{{53;v}}%UP、更に「{{0;c}}」のキャラクターランクによって{{54,103;r}}%UPする（ランク2毎に+1%、現在の合計{{53,103;s}}%\/最大{{53,103;v}}%)",
-        "description": "{{53;d}}秒內，分數提升{{53;v}}%，另外根據「{{0;c}}」的角色等級，額外提升{{54,103;r}}%（每提升2級增加1%，當前總加成{{53,103;s}}%\/最大{{53,103;v}}%）。",
+        "description": "{{53;d}}秒內，得分提升{{53;v}}%，另外根据「{{0;c}}」的角色等级，额外提升{{54,103;r}}%（每提升2级增加1%，当前总加成{{53,103;s}}%\/最大{{53,103;v}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -3820,7 +3820,7 @@
     {
         "id": 23,
         "shortDescription": "5秒間  スコアが{{104;v}}%UP、更に編成からランダムに選んだメンバー1人が持つスキルのスコアUP最大値の{{105;v}}%をUP（最大で合計{{104,105;o}}%）",
-        "description": "5秒內，分數提升{{104;v}}%，另外隨機選擇編隊中的其他成員一人，基於其技能分數提升效果的最大值，額外提升{{105;v}}%（最高總加成{{104,105;o}}%）。",
+        "description": "5秒內，得分提升{{104;v}}%，另外随机选择队伍中的其他成员一人，基于其技能得分提升效果的最大值，额外提升{{105;v}}%（最高总加成{{104,105;o}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -3903,7 +3903,7 @@
     {
         "id": 24,
         "shortDescription": "5秒間スコアが{{106;v}}%UP\n自身と異なるユニットを最大2種類まで、1種類編成する毎にスコアが30%UPする(最大{{106,038;u}}%)",
-        "description": "5秒內，分數提升{{106;v}}%\n若編隊中包含與自身不同的最多2種隊伍，每加入1種隊伍，分數額外提升30%（最高可達{{106,108;u}}%）。",
+        "description": "5秒內，得分提升{{106;v}}%\n若编队中包含与自身不同的最多2种团队，每加入1种团队，得分额外提升30%（最高可达{{106,108;u}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [

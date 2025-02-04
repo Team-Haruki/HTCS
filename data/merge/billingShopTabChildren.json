@@ -4,14 +4,14 @@
         "seq": 1,
         "billingShopTabParentId": 1,
         "billingShopItemType": "jewel",
-        "name": "購買水晶"
+        "name": "购买水晶"
     },
     {
         "id": 201,
         "seq": 1,
         "billingShopTabParentId": 2,
         "billingShopItemType": "value_set",
-        "name": "超値組合包"
+        "name": "超值组合包"
     },
     {
         "id": 301,
@@ -25,27 +25,27 @@
         "seq": 1,
         "billingShopTabParentId": 4,
         "billingShopItemType": "live_mission_pass",
-        "name": "高階\n任務通行證"
+        "name": "高级\n任务通行证"
     },
     {
         "id": 402,
         "seq": 2,
         "billingShopTabParentId": 4,
         "billingShopItemType": "mysekai_mission_pass",
-        "name": "我的「世界」\n任務通行證"
+        "name": "我的「世界」\n任务通行证"
     },
     {
         "id": 501,
         "seq": 1,
         "billingShopTabParentId": 5,
         "billingShopItemType": "colorful_pass",
-        "name": "七彩通行證"
+        "name": "七彩通行证"
     },
     {
         "id": 502,
         "seq": 2,
         "billingShopTabParentId": 5,
         "billingShopItemType": "mysekai_colorful_pass",
-        "name": "世界通行證"
+        "name": "世界通行证"
     }
 ]

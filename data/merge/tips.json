@@ -1,637 +1,637 @@
 [
     {
         "id": 2,
-        "title": "LIVE任務通行證",
-        "description": "購買「高階任務通行證」後，\n可在LIVE任務中獲得更加豪華的報酬。",
+        "title": "演出任务通行证",
+        "description": "购买“白金任务通行证”\n可在演出任务中获得更丰厚的奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 3,
-        "title": "七彩通行證",
-        "description": "在購買「七彩通行證」後，\n用於LIVE任務的LIVEP獲得量會變為2倍。",
+        "title": "缤纷通行证",
+        "description": "购买“缤纷通行证”能获得2倍\n完成演出任务所需的演出积分。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 7,
-        "title": "各個「世界」裡的虛擬歌手是什麼？",
-        "description": "初音未來等虛擬歌手會隨著「世界」改變姿態，\n幫助大家找尋「真正心願」。",
+        "title": "各个「世界」的虚拟歌手是指？",
+        "description": "初音未来等虚拟歌手会在不同「世界」以不同形象出现，\n协助大家找到自己“真正的心愿”。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 9,
-        "title": "「世界」是如何產生的？",
-        "description": "「世界」是個不可思議的地方，\n從某個人的「真正心願」中誕生的。",
+        "title": "「世界」是如何产生的？",
+        "description": "「世界」是由\n“真正的心愿”所构成的奇幻之地。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 13,
-        "title": "Untitled是什麼？",
-        "description": "《Untitled》沒有旋律也沒有歌詞，\n是和「世界」相連繫的無聲歌曲。",
+        "title": "Untitled是什么？",
+        "description": "《Untitled》既没有旋律也没有歌词，\n是一首通往「世界」的无声歌曲。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 16,
-        "title": "練習譜的使用方式&取得方式①",
-        "description": "可在「練習」中\n使成員升級。",
+        "title": "练习乐谱的使用&获得方式①",
+        "description": "通过“练习”能提升成员的等级。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 17,
-        "title": "音樂卡的使用方式&取得方式",
-        "description": "可在「唱片行」\n交換在LIVE中遊玩的歌曲。",
+        "title": "音乐卡的使用&获得方式",
+        "description": "音乐卡可以在“音乐商店”兑换在演出中的歌曲。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 18,
-        "title": "音樂卡的使用方式&取得方式",
-        "description": "可透過劇情或通過任務獲得\n交換歌曲用的「音樂卡」。",
+        "title": "音乐卡的使用&获得方式",
+        "description": "用于兑换歌曲的“音乐卡”是\n通过观看剧情或完成任务获得的。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 19,
-        "title": "奇蹟寶石的使用方式&取得方式",
-        "description": "可讓★3以上的成員進行「特訓」，\n提升素質與上限Lv.。",
+        "title": "奇迹晶石的使用&获得方式",
+        "description": "可供★3、★4成员进行“特训”，\n提升能力数值和等级上限。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 21,
-        "title": "服裝素材的使用方式&取得方式",
-        "description": "可在購物中心的「服飾店」中，\n製作角色的演出服裝。",
+        "title": "服装材料的使用&获得方式",
+        "description": "在购物中心的“服装商店”里可以制作\n角色的演出服装。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 22,
-        "title": "LIVE BONUS可使用數量為0～5個",
-        "description": "「LIVE BONUS」最多可使用5個。\n活動期間最多可使用10個。",
+        "title": "可使用0～5个演出能量",
+        "description": "“演出能量”平时最多可使用5个。\n活动期间最多可使用10个。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 25,
-        "title": "可由選項調整節奏遊戲的設定",
-        "description": "「音符速度」\n隨時都可以從選項中更改。",
+        "title": "节奏游戏的设置可以在选项里调整",
+        "description": "“音符速度”可以随时在选项里更改。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 32,
-        "title": "造型服裝的取得方式",
-        "description": "虛擬LIVE用的造型服裝\n可於等待區域的「虛擬商店」交換。",
+        "title": "虚拟形象服装的获得方式",
+        "description": "虚拟演唱会用的虚拟形象服装\n可在等候区域的“虚拟商店”里兑换。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 34,
-        "title": "虛擬LIVE報酬",
-        "description": "「虛擬LIVE」\n會在生日或活動後等特別的日子裡舉辦。",
+        "title": "虚拟演唱会的奖励",
+        "description": "“虚拟演唱会”\n会在生日以及活动后等特别时期举办。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 36,
-        "title": "變更服裝",
-        "description": "可在「演出服裝」中\n自由變更角色LIVE時的服裝。",
+        "title": "更换服装",
+        "description": "可在“演出服装”中自由更换演出时\n角色的服装。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 41,
-        "title": "應援P的使用方式&取得方式",
-        "description": "使用虛擬道具後可獲得「應援P」，\nLIVE後可獲得心願碎片。",
+        "title": "应援积分的使用&获得方式",
+        "description": "使用虚拟道具即可获得“应援积分”，\n演唱会后还可获得心愿碎片。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 47,
-        "title": "什麼是MVP和SUPER STAR",
-        "description": "「多人LIVE」中分數最傑出的玩家\n會成為「SUPER STAR」。",
+        "title": "关于MVP和SUPER STAR",
+        "description": "在“多人演出”中得分特别突出的玩家\n即为“SUPER STAR”。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 48,
-        "title": "多人LIVE裡的活躍中是什麼？",
-        "description": "在「多人LIVE」中，\n如果接COMBO都不中斷而表現活躍的話，\n所有人都會得到分數獎勵。",
+        "title": "在“多人演出”中表现出色是指？",
+        "description": "在“多人演出”中连击数超过一定数量、表现活跃时，\n所有人将获得得分奖励。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 50,
-        "title": "觀看卡片劇情後素質會上升",
-        "description": "觀看成員的「卡片劇情」後\n綜合力會上升。",
+        "title": "观看卡牌剧情可以提升能力数值",
+        "description": "观看角色剧情可以提升能力数值",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 53,
-        "title": "挑戰LIVE的好處",
-        "description": "當「挑戰LIVE」的最高分超過一定值，\n可獲得水晶。",
+        "title": "挑战演出的好处",
+        "description": "在“挑战演出”中超过指定的最高得分\n即可获得水晶。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 54,
-        "title": "關於區域道具的基本效果",
-        "description": "「區域道具」可使成員或團體的\n綜合力上升。",
+        "title": "区域道具的基础效果",
+        "description": "“区域道具”可以提升\n成员和组合的综合力。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 60,
-        "title": "獲得★4卡片解鎖服裝做法",
-        "description": "若迎來附有服裝的★4成員，\n則可獲得特別的服裝，服飾店亦會進貨。",
+        "title": "获得★4卡牌即可解锁服装图纸。",
+        "description": "获得带服装的★4成员即可获得特别服装，\n同时服装商店里也会解锁该服装。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 62,
-        "title": "心願結晶的使用方式&取得方式",
-        "description": "需要「心願純結晶」、「心願碎片」\n才能進行專精特訓或技能升級。",
+        "title": "心愿结晶的使用&获得方式",
+        "description": "专家训练和技能升级需要\n“心愿结晶”和“心愿碎片”。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 63,
-        "title": "心願結晶的使用方式&取得方式",
-        "description": "「心願純結晶」可在休息室\n用★4成員交換獲得。",
+        "title": "心愿结晶的使用&获得方式",
+        "description": "“心愿结晶”可以在休息室\n用★4成员兑换获得。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 68,
-        "title": "角色等級的提升方式&報酬",
-        "description": "依不同的「角色等級」\n會得到不同的角色綜合力加成。",
+        "title": "角色等级的提升方式&奖励",
+        "description": "“角色等级”会给角色的综合力\n带来相应的奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 72,
-        "title": "LIVE任務的LIVE點數重置",
-        "description": "「LIVE任務」會在\n每月1日0點切換為新的任務。",
+        "title": "演出任务的演出积分将被重置",
+        "description": "“演出任务”会在每月第1天0点更新。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 75,
-        "title": "區域道具的成長方式&優點",
-        "description": "若要升級「區域道具」，\n需要碎片、寶石或不可思議的種子等物品。",
+        "title": "区域道具的培养方式&好处",
+        "description": "提升“区域道具”等级\n需要碎片、晶石、奇异种子等。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 79,
-        "title": "專精等級提升後素質會上升",
-        "description": "「專精等級」提升後綜合力會上升。",
+        "title": "提升专家等级可以提升能力数值",
+        "description": "提升“专家等级”即可提升综合力。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 80,
-        "title": "專精等級提升後素質會上升",
-        "description": "若提升附有服裝★4成員的「專精等級」，\n可獲得其他顏色服裝。",
+        "title": "提升专家等级可以提升能力数值",
+        "description": "提升带服装的★4成员的“专家等级”即可获得\n其他颜色服装。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 83,
-        "title": "購買歌曲的Another Vocal ver",
-        "description": "在唱片行的「Another Vocal商店」中\n可購得「Another Vocal ver.」。",
+        "title": "购买Another Vocal ver.歌曲",
+        "description": "在音乐商店的“Another Vocal商店”处可以购买\n“Another Vocal ver.”歌曲。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 87,
-        "title": "關於多人LIVE的報酬1",
-        "description": "在「多人LIVE」中\n可獲得的報酬會大幅增加。",
+        "title": "关于“多人演出”的奖励1",
+        "description": "在“多人演出”中，\n获得的奖励将大幅增加。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 88,
-        "title": "貼圖的取得方式",
-        "description": "在「貼圖商店」可用貼圖交換券\n交換喜歡的貼圖。",
+        "title": "表情的获得方式",
+        "description": "可在“表情商店”用表情兑换券\n兑换喜欢的表情。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 89,
-        "title": "貼圖交換券的取得方式",
-        "description": "可透過活動或提升角色等級等方式\n取得「貼圖交換券」。",
+        "title": "表情兑换券的获得方式",
+        "description": "可在“表情商店”用表情兑换券\n兑换喜欢的表情。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 90,
-        "title": "關於虛擬LIVE／等待區域1",
-        "description": "在虛擬LIVE的「等待區域」\n可一邊等待開場一邊和其他玩家交流。",
+        "title": "关于虚拟演唱会_等候区域1",
+        "description": "在虚拟演唱会的“等候区域”可以\n边等候开演边和其他玩家进行交流。",
         "fromUserRank": 10,
         "toUserRank": 50
     },
     {
         "id": 93,
-        "title": "更換主唱",
-        "description": "在LIVE開始前透過「更換主唱」\n可將歌曲改為喜歡的ver.。",
+        "title": "更换歌手",
+        "description": "在演出开始前可通过“更换歌手”\n来更换喜欢的歌曲版本。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 94,
-        "title": "設定最愛的貼圖",
-        "description": "可由「設定最愛貼圖」\n將常用的貼圖設為最愛。",
+        "title": "收藏表情的设置",
+        "description": "在“收藏表情设置”处可以设置常用的表情。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 95,
-        "title": "提升分數的方法1",
-        "description": "LIVE分數\n會隨綜合力上升而提升。",
+        "title": "提升得分的方式1",
+        "description": "演出的得分会随着\n综合力的提升而提升。",
         "fromUserRank": 1,
         "toUserRank": 100
     },
     {
         "id": 101,
         "title": "AUTO LIVE",
-        "description": "在「單人LIVE」和「挑戰LIVE」中，可以使用自動進行的AUTO LIVE功能。",
+        "description": "在「单人LIVE」和「挑战LIVE」中，可以使用自动运行的AUTO LIVE功能。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 103,
-        "title": "活動劇情",
-        "description": "可從「劇情」中\n觀看過去舉辦的活動劇情。",
+        "title": "活动剧情",
+        "description": "可在“剧情”处观看过去举办的活动剧情。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 105,
-        "title": "挑戰LIVE的EX STAGE",
-        "description": "若將「挑戰LIVE」的STAGE升到150，\n將會變為EX STAGE。",
+        "title": "挑战演出的EX舞台",
+        "description": "“挑战演出”的舞台等级达到150后\n就会变成EX舞台。",
         "fromUserRank": 250,
         "toUserRank": 999
     },
     {
         "id": 110,
-        "title": "髮型",
-        "description": "將附帶「髮型」成員的「專精等級」提升到2之後，\n便可取得「髮型」。",
+        "title": "发型",
+        "description": "将附带“发型”成员的\n“专家等级”升至2级，即可获得“发型”。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 115,
-        "title": "個人資料",
-        "description": "「自製個人資料」可透過編輯素材來製作原創的個人資料。",
+        "title": "个人资料",
+        "description": "在“自定义个人资料”中，可通过编辑材料制作原创个人资料。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 117,
-        "title": "成員交換所",
-        "description": "在「成員交換所」\n可以交換過去曾經登場過的常駐成員。",
+        "title": "成员兑换所",
+        "description": "可在“成员兑换所”中\n兑换曾登场过的常规成员。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 119,
-        "title": "情誼等級",
-        "description": "若提升「情誼等級」，兩位角色可獲得特別稱號和報酬。",
+        "title": "牵绊等级",
+        "description": "提升“牵绊等级”，\n即可获得两位角色的特别称号与奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 123,
-        "title": "段位配對",
-        "description": "「段位配對」是指讓玩家們互相競爭的，以季為一期的1vs1 LIVE。",
+        "title": "排位赛",
+        "description": "“排位赛”以赛季为单位，\n是玩家间比拼实力的演出对决。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 126,
-        "title": "角色紀錄",
-        "description": "「角色紀錄」可以確認各個角色的成員、演出服裝、貼圖的獲得狀況。",
+        "title": "角色档案",
+        "description": "可在“表情商店”用表情兑换券\n兑换喜欢的表情。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 127,
-        "title": "我的播放清單",
-        "description": "可在「播放清單」添加自己最愛的歌曲。",
+        "title": "我的歌单",
+        "description": "可以把喜欢的歌曲收藏到“我的歌单”中。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 128,
-        "title": "獲得LIVE P的方式",
-        "description": "通過「多人LIVE」可獲得每日獎勵，\n每天最多3次。",
+        "title": "获得演出积分的方式",
+        "description": "完成“多人演出”可获得每日奖励。\n1天最多可获得3次。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 130,
-        "title": "影音商店",
-        "description": "等待區域的「影音商店」\n可購買並觀看過去的特別虛擬LIVE。",
+        "title": "碟片商店",
+        "description": "可在等候区域的“碟片商店”\n购买并观看曾举办过的虚拟演唱会。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 133,
-        "title": "書籤",
-        "description": "在劇情途中插入「書籤」，\n即可隨時觀看後續劇情。",
+        "title": "书签",
+        "description": "在观看剧情时插入“书签”后，\n即可随时继续观看后续剧情。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 134,
-        "title": "記憶碎片",
-        "description": "透過「記憶碎片」窺探過去，\n可觀看年級提升前的區域對話。",
+        "title": "记忆碎片",
+        "description": "可通过“记忆碎片”查看过去，\n 观看角色升年级前的区域对话。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 135,
-        "title": "難易度APPEND",
-        "description": "難易度「APPEND」\n是遊玩時需要用到三根手指以上的特殊難易度。",
+        "title": "难度APPEND",
+        "description": "难度“APPEND”为\n演奏时至少需要用到三根手指的特殊难度。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 136,
-        "title": "音符種類",
-        "description": "可由「選項」變更\n節奏遊戲的音符或SE的種類。",
+        "title": "音符种类",
+        "description": "节奏游戏的音符、音效种类可以在“选项”里调整。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 137,
-        "title": "3DMV特殊片段",
-        "description": "將團體活動限定成員的專精等級提升到2之後，\n便會解鎖特別的3DMV特殊片段。",
+        "title": "3DMV特殊镜头",
+        "description": "将组合活动限定成员的专家等级升至2级，\n即可解锁3DMV的特殊镜头。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 138,
-        "title": "在LIVE中體力變成0時",
-        "description": "就算在LIVE中體力變成0後，\n也能遊玩到最後。",
+        "title": "演出中生命值变成0的时候",
+        "description": "在演出中即使生命值变成0\n也能游玩到最后。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 139,
-        "title": "廣告功能",
-        "description": "每天觀看「廣告」即可獲得各種獎勵。",
+        "title": "广告功能",
+        "description": "每天观看「广告」即可获得各种奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 140,
-        "title": "FULL COMBO・ALL PERFECT專屬的LIVE結果台詞",
-        "description": "當達成FULL COMBO或ALL PERFECT時\n將播放專屬的LIVE結果台詞。",
+        "title": "FULL COMBO・ALL PERFECT专属的LIVE结果台词",
+        "description": "当达成FULL COMBO或ALL PERFECT时\n将播放专属的LIVE结果台词。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 141,
-        "title": "故事完整閱讀",
-        "description": "根據完整閱讀主線\/活動劇情的章節數（未跳過或快進）\n可獲得相應的獎勵。",
+        "title": "剧情完整阅读",
+        "description": "根据完阅读主线/活动剧情的章节数（未跳过或快进）\n可获得相应的奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 142,
-        "title": "什麼是『我的「世界」』？",
-        "description": "『我的「世界」』是未完成的屬於你的「世界」。\n蒐集各種素材與家具，自由裝飾你的「世界」吧！",
+        "title": "什么是『我的「世界」』？",
+        "description": "『我的「世界」』是未完成的属于你的「世界」。\n收集各种材料与家具，自由装饰你的「世界」吧！",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 143,
-        "title": "轉換機",
-        "description": "多餘的物品可以使用『我的「世界」』的轉換機，\n將其轉換成其他物品。",
+        "title": "转换机",
+        "description": "多余的物品可以使用『我的「世界」』的转换机，\n将其转换成其他物品。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 144,
-        "title": "透過畫布提升表現力",
-        "description": "在『我的「世界」』中將成員畫於畫布上，\n可以提升該成員的表現力。",
+        "title": "通过画布提升表现力",
+        "description": "在『我的「世界」』中将成员画于画布上，\n可以提升该成员的表现力。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 145,
-        "title": "透過大門提升表現力",
-        "description": "提升『我的「世界」』的門等級，\n可以提升該隊伍的表現力。",
+        "title": "通过大门提升表现力",
+        "description": "提升『我的「世界」』的大门等级，\n可以提升该团队的表现力。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 146,
-        "title": "透過玩偶提升表現力",
-        "description": "在『我的「世界」』中製作玩偶，\n可以提升該角色的表現力。",
+        "title": "通过玩偶提升表现力",
+        "description": "在『我的「世界」』中制作玩偶，\n可以提升该角色的表现力。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1041,
-        "title": "成為職業樂手就代表",
+        "title": "成为职业乐队意味着",
         "assetbundleName": "comic_0041",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1042,
-        "title": "成長的證明",
+        "title": "成长的证明",
         "assetbundleName": "comic_0042",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1043,
-        "title": "這也是為了Leo\/need！",
+        "title": "这也是为了Leo/need！",
         "assetbundleName": "comic_0043",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1044,
-        "title": "學分班的辛勞",
+        "title": "学分制的难处",
         "assetbundleName": "comic_0044",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1045,
-        "title": "實乃理的成長",
+        "title": "实乃理的成长",
         "assetbundleName": "comic_0045",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1046,
-        "title": "保健室的女神",
+        "title": "医务室的女神",
         "assetbundleName": "comic_0046",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1047,
-        "title": "特訓・為了超越",
+        "title": "为了超越的特训",
         "assetbundleName": "comic_0047",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1048,
-        "title": "神秘的心羽資料夾",
+        "title": "心羽秘密资料",
         "assetbundleName": "comic_0048",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1049,
-        "title": "練習後的熱量攝取",
+        "title": "练习后摄取卡路里",
         "assetbundleName": "comic_0049",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1050,
-        "title": "奔出奇幻舞台",
+        "title": "飞出奇幻舞台",
         "assetbundleName": "comic_0050",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1051,
-        "title": "為了夢想鍛鍊體力",
+        "title": "为了梦想提升体能",
         "assetbundleName": "comic_0051",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1052,
-        "title": "笑夢機器人誕生？",
+        "title": "小梦机器人诞生？",
         "assetbundleName": "comic_0052",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1053,
-        "title": "嶄新的工作情形",
+        "title": "崭新的工作情景",
         "assetbundleName": "comic_0053",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1054,
-        "title": "美容保健的健走",
+        "title": "为了健康和美容的健走",
         "assetbundleName": "comic_0054",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1055,
-        "title": "既然瑞希都這麼說了……",
+        "title": "既然瑞希都这么说了……",
         "assetbundleName": "comic_0055",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1056,
-        "title": "來自「世界」的夾縫",
+        "title": "来自「世界」的狭缝",
         "assetbundleName": "comic_0056",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1057,
-        "title": "後輩的努力",
+        "title": "学妹的努力",
         "assetbundleName": "comic_0057",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1058,
-        "title": "貫徹偶像之路吧！",
+        "title": "贯彻偶像之路吧！",
         "assetbundleName": "comic_0058",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1059,
-        "title": "料理就靠愛情！",
+        "title": "做饭靠的是爱！",
         "assetbundleName": "comic_0059",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1060,
-        "title": "排練中請安靜",
+        "title": "排练中请安静",
         "assetbundleName": "comic_0060",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1061,
-        "title": "有某人在的「世界」",
+        "title": "有人在的「世界」",
         "assetbundleName": "comic_0061",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1062,
-        "title": "神高2-A「陽光＆陰鬱」",
+        "title": "神高二年一班“阳光与忧郁”",
         "assetbundleName": "comic_0062",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1063,
-        "title": "神高2-B「超越課堂的講解」",
+        "title": "神高二年二班“超越课本的讲解”",
         "assetbundleName": "comic_0063",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1064,
-        "title": "宮女2-A「宮女動物治療？」",
+        "title": "宫益坂学园二年一班“学园动物治疗？”",
         "assetbundleName": "comic_0064",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1065,
-        "title": "宮女2-B「名產SSE三明治」",
+        "title": "宫益坂学园二年二班“特产SSE三明治”",
         "assetbundleName": "comic_0065",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1066,
-        "title": "宮女2-D「有我推在的教室」",
+        "title": "宫益坂学园二年四班“有偶像在的教室”",
         "assetbundleName": "comic_0066",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1067,
-        "title": "神高3-C「奇異點誕生」",
+        "title": "神高三年三班“奇点诞生”",
         "assetbundleName": "comic_0067",
         "fromUserRank": 1,
         "toUserRank": 999
     },
     {
         "id": 1068,
-        "title": "宮女3-E「永遠的同班同學」",
+        "title": "宫益坂学园三年五班“永远的同班同学”",
         "assetbundleName": "comic_0068",
         "fromUserRank": 1,
         "toUserRank": 999

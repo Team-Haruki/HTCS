@@ -4,7 +4,7 @@
     "unitName": "Leo\/need",
     "unitProfileName": "Leo\/need",
     "seq": 2,
-    "profileSentence": "由於種種原因，星乃一歌和兒時夥伴們漸行漸遠。然而在其中一個長年養病的朋友──天馬咲希回到學校後，以此為契機，曾經疏遠的四個人的距離開始發生變化。",
+    "profileSentence": "由于各种原因，星乃一歌和儿时的朋友们渐行渐远。然而一直在疗养中的朋友——天马咲希回到学校后，让疏远的四个人之间的距离发生了变化。",
     "colorCode": "#4455dd"
   },
   {
@@ -12,7 +12,7 @@
     "unitName": "MORE MORE JUMP！",
     "unitProfileName": "MORE MORE JUMP！",
     "seq": 3,
-    "profileSentence": "花里實乃理雖然夢想成為偶像，但卻屢屢在徵選中落選。即便如此，她依然銘記她崇拜的偶像「桐谷遙」的話語，百折不撓地努力著。然而桐谷遙卻突然辭去偶像的工作，退出了演藝圈。",
+    "profileSentence": "花里实乃理虽梦想成为偶像，却一直在试镜中落选。即便如此，她依然将崇拜的偶像“桐谷遥”深藏于心，并继续努力着。然而桐谷遥却突然辞去偶像的工作，退出了演艺圈。",
     "colorCode": "#88dd44"
   },
   {
@@ -20,7 +20,7 @@
     "unitName": "Vivid BAD SQUAD",
     "unitProfileName": "Vivid BAD SQUAD",
     "seq": 4,
-    "profileSentence": "小豆澤心羽十分內向怕生，不管做什麼都畏首畏尾。有一天，她被小巷中傳來的音樂與歌聲震撼。而後，她在演唱者白石杏的引導下踏入了街頭音樂的世界。",
+    "profileSentence": "小豆泽心羽十分害羞怕生，不管做什么都畏首畏尾。某天，她在一个小巷中听到的音乐与歌声给予了她心灵强烈的震撼。随后在歌曲演唱者白石杏的引导下踏入了街头音乐的世界。",
     "colorCode": "#ee1166"
   },
   {
@@ -28,23 +28,23 @@
     "unitName": "Wonderlands×Showtime",
     "unitProfileName": "Wonderlands×Showtime",
     "seq": 5,
-    "profileSentence": "天馬司夢想成為世界第一的戲劇明星，他被一家主題樂園雇用，開始作為演員在那裡兼職。然而，他卻被分配到一處無人光顧的老舊舞台工作。在那裡，他認識了想靠自己的力量讓這座舞台重振光輝的鳳笑夢。",
+    "profileSentence": "天马司梦想着成为世界第一的舞台明星。他被备受欢迎的主题乐园雇用为兼职演员。然而，他被安排在没有客人光顾的舞台处工作。在那里，他遇到了努力想让舞台复活的凤笑梦。",
     "colorCode": "#ff9900"
   },
   {
     "unit": "school_refusal",
-    "unitName": "25點，Nightcord見。",
-    "unitProfileName": "25點，Nightcord見。",
+    "unitName": "25点，Nightcord见。",
+    "unitProfileName": "25点，Nightcord见。",
     "seq": 6,
-    "profileSentence": "宵崎奏每天都會透過語音聊天軟體「Nightcord」與音樂社團的夥伴們交流作曲。雖然她們互不知道彼此的長相和姓名，但依然配合得很有默契。然而有一天，社團中的一個成員突然失去了音訊。",
+    "profileSentence": "宵崎奏每天都通过语音聊天软件“Nightcord”，和音乐社团的伙伴们交流作曲。虽然她们不了解彼此的长相和姓名，但依然配合得很默契。然而某天，社团中的一个成员和大家失去了联系。",
     "colorCode": "#884499"
   },
   {
     "unit": "piapro",
-    "unitName": "虛擬歌手",
-    "unitProfileName": "虛擬歌手",
+    "unitName": "虚拟歌手",
+    "unitProfileName": "虚拟歌手",
     "seq": 1,
-    "profileSentence": "在現實世界中，初音未來等人的身分是虛擬歌手。而心懷「真正心願」的少年少女們，會在神奇的「世界」裡遇見與認知中似乎不太一樣的初音未來等人，並啟程去尋找自己的心願。",
+    "profileSentence": "初音未来等人是存在于现实世界的虚拟歌手。心怀“真正的心愿”的少男少女们，在神奇的「世界」里遇到了与他们认知中略有差异的未来等人后，逐渐正视起了自己的心愿。",
     "colorCode": "#ffffff"
   }
 ]

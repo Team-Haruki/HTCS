@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "mysekaiPhenomenaBrightnessType": "normal",
+        "name": "晴天",
+        "englishName": "SUNNY",
+        "description": "晴天",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 1,
+        "assetbundleName": "001_sunny",
+        "rampTextureAssetbundleName": "001_sunny",
+        "iconAssetbundleName": "env_sunny"
+    },
+    {
+        "id": 2,
+        "mysekaiPhenomenaBrightnessType": "bright",
+        "name": "霞",
+        "englishName": "EVENING",
+        "description": "霞",
+        "mysekaiPhenomenaTimePeriodType": "evening",
+        "mysekaiPhenomenaBackgroundColorId": 2,
+        "assetbundleName": "002_evening",
+        "rampTextureAssetbundleName": "002_evening",
+        "iconAssetbundleName": "env_evening"
+    },
+    {
+        "id": 3,
+        "mysekaiPhenomenaBrightnessType": "dark",
+        "name": "黑夜",
+        "englishName": "NIGHT",
+        "description": "黑夜",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "003_night",
+        "rampTextureAssetbundleName": "003_night",
+        "iconAssetbundleName": "env_night"
+    },
+    {
+        "id": 4,
+        "mysekaiPhenomenaBrightnessType": "bright",
+        "name": "夏日",
+        "englishName": "FINE",
+        "description": "夏日",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 1,
+        "assetbundleName": "004_fine",
+        "rampTextureAssetbundleName": "004_fine",
+        "iconAssetbundleName": "env_fine"
+    },
+    {
+        "id": 5,
+        "mysekaiPhenomenaBrightnessType": "normal",
+        "name": "滿月",
+        "englishName": "FULLMOON",
+        "description": "滿月",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "005_fullmoon",
+        "rampTextureAssetbundleName": "005_fullmoon",
+        "iconAssetbundleName": "env_fullmoon"
+    },
+    {
+        "id": 6,
+        "mysekaiPhenomenaBrightnessType": "dark",
+        "name": "雨天",
+        "englishName": "RAIN",
+        "description": "雨天",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 4,
+        "assetbundleName": "006_rain",
+        "rampTextureAssetbundleName": "006_rain",
+        "iconAssetbundleName": "env_rain"
+    },
+    {
+        "id": 7,
+        "mysekaiPhenomenaBrightnessType": "dark",
+        "name": "雨夜",
+        "englishName": "RAINNIGHT",
+        "description": "雨夜",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "007_rainnight",
+        "rampTextureAssetbundleName": "007_rainnight",
+        "iconAssetbundleName": "env_rainnight"
+    },
+    {
+        "id": 9,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "流星群",
+        "englishName": "METEOR SHOWER",
+        "description": "流星群",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "009_meteorshower",
+        "rampTextureAssetbundleName": "009_meteorshower",
+        "iconAssetbundleName": "env_meteorshower"
+    },
+    {
+        "id": 10,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "下雪",
+        "englishName": "SNOW",
+        "description": "下雪",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 4,
+        "assetbundleName": "010_snow",
+        "rampTextureAssetbundleName": "010_snow",
+        "iconAssetbundleName": "env_snow"
+    },
+    {
+        "id": 11,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "雪夜",
+        "englishName": "SNOWNIGHT",
+        "description": "雪夜",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "011_snownight",
+        "rampTextureAssetbundleName": "011_snownight",
+        "iconAssetbundleName": "env_snownight"
+    }
+]

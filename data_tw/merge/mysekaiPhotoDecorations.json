@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "音符白框",
+        "seq": 1,
+        "description": "音符白框",
+        "assetbundleName": "decoflame_simple_0001"
+    },
+    {
+        "id": 2,
+        "name": "星星藍框",
+        "seq": 2,
+        "description": "星星藍框",
+        "assetbundleName": "decoflame_unit_0001"
+    },
+    {
+        "id": 3,
+        "name": "四葉草綠框",
+        "seq": 3,
+        "description": "四葉草綠框",
+        "assetbundleName": "decoflame_unit_0002"
+    },
+    {
+        "id": 4,
+        "name": "鮮豔紅框",
+        "seq": 4,
+        "description": "鮮豔紅框",
+        "assetbundleName": "decoflame_unit_0003"
+    },
+    {
+        "id": 5,
+        "name": "奇妙橙框",
+        "seq": 5,
+        "description": "奇妙橙框",
+        "assetbundleName": "decoflame_unit_0004"
+    },
+    {
+        "id": 6,
+        "name": "夜晚紫框",
+        "seq": 6,
+        "description": "夜晚紫框",
+        "assetbundleName": "decoflame_unit_0005"
+    },
+    {
+        "id": 8,
+        "name": "粉彩流行框",
+        "seq": 8,
+        "description": "粉彩流行框",
+        "assetbundleName": "decoflame_theme_0001"
+    },
+    {
+        "id": 9,
+        "name": "直播風框",
+        "seq": 9,
+        "description": "直播風框",
+        "assetbundleName": "decoflame_theme_0002"
+    },
+    {
+        "id": 10,
+        "name": "音樂播放器風框",
+        "seq": 10,
+        "description": "音樂播放器風框",
+        "assetbundleName": "decoflame_theme_0003"
+    },
+    {
+        "id": 11,
+        "name": "復古瀏覽器風框",
+        "seq": 11,
+        "description": "復古瀏覽器風框",
+        "assetbundleName": "decoflame_theme_0004"
+    },
+    {
+        "id": 12,
+        "name": "生日快樂框",
+        "seq": 12,
+        "description": "生日快樂框",
+        "assetbundleName": "decoflame_anv_0001"
+    },
+    {
+        "id": 13,
+        "name": "週年紀念框",
+        "seq": 13,
+        "description": "週年紀念框",
+        "assetbundleName": "decoflame_anv_0002"
+    }
+]
