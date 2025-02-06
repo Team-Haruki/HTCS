@@ -5119,7 +5119,7 @@
         "id": 485,
         "stampType": "illustration",
         "seq": 4850,
-        "name": "[貼圖] Leo/need未來：你要好好珍惜那個心願",
+        "name": "[貼圖] Leo\/need未來：你要好好珍惜那個心願",
         "assetbundleName": "stamp0485",
         "balloonAssetbundleName": "balloon_stamp_01",
         "characterId1": 21,
@@ -5895,7 +5895,7 @@
         "characterId1": 12,
         "gameCharacterUnitId": 12,
         "archivePublishedAt": 1233284400000,
-        "description": "参加“close game/OFFLINE\n后日谈·演唱会”"
+        "description": "参加“close game\/OFFLINE\n后日谈·演唱会”"
     },
     {
         "id": 551,
@@ -6978,7 +6978,7 @@
         "id": 641,
         "stampType": "text",
         "seq": 3952,
-        "name": "[表情文字]：Leo/need！",
+        "name": "[表情文字]：Leo\/need！",
         "assetbundleName": "stamp0641",
         "balloonAssetbundleName": "balloon_stamp_05",
         "archiveDisplayType": "none",
@@ -8516,7 +8516,7 @@
         "characterId1": 2,
         "gameCharacterUnitId": 2,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 774,
@@ -8528,7 +8528,7 @@
         "characterId1": 7,
         "gameCharacterUnitId": 7,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 775,
@@ -8540,7 +8540,7 @@
         "characterId1": 9,
         "gameCharacterUnitId": 9,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 776,
@@ -8552,7 +8552,7 @@
         "characterId1": 15,
         "gameCharacterUnitId": 15,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 777,
@@ -8564,7 +8564,7 @@
         "characterId1": 20,
         "gameCharacterUnitId": 20,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 778,
@@ -8576,7 +8576,7 @@
         "characterId1": 3,
         "gameCharacterUnitId": 3,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 779,
@@ -8588,7 +8588,7 @@
         "characterId1": 8,
         "gameCharacterUnitId": 8,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 780,
@@ -8600,7 +8600,7 @@
         "characterId1": 11,
         "gameCharacterUnitId": 11,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 781,
@@ -8612,7 +8612,7 @@
         "characterId1": 13,
         "gameCharacterUnitId": 13,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 782,
@@ -8624,7 +8624,7 @@
         "characterId1": 19,
         "gameCharacterUnitId": 19,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 783,
@@ -8636,7 +8636,7 @@
         "characterId1": 22,
         "gameCharacterUnitId": 22,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 784,
@@ -8648,7 +8648,7 @@
         "characterId1": 23,
         "gameCharacterUnitId": 23,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 785,
@@ -8660,7 +8660,7 @@
         "characterId1": 24,
         "gameCharacterUnitId": 24,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 786,
@@ -8672,7 +8672,7 @@
         "characterId1": 25,
         "gameCharacterUnitId": 25,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 787,
@@ -8684,7 +8684,7 @@
         "characterId1": 26,
         "gameCharacterUnitId": 26,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 788,
@@ -8696,7 +8696,7 @@
         "characterId1": 4,
         "gameCharacterUnitId": 4,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 789,
@@ -8708,7 +8708,7 @@
         "characterId1": 5,
         "gameCharacterUnitId": 5,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 790,
@@ -8720,7 +8720,7 @@
         "characterId1": 12,
         "gameCharacterUnitId": 12,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 791,
@@ -8732,7 +8732,7 @@
         "characterId1": 14,
         "gameCharacterUnitId": 14,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 792,
@@ -8744,7 +8744,7 @@
         "characterId1": 18,
         "gameCharacterUnitId": 18,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 793,
@@ -8756,7 +8756,7 @@
         "characterId1": 1,
         "gameCharacterUnitId": 1,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 794,
@@ -8768,7 +8768,7 @@
         "characterId1": 6,
         "gameCharacterUnitId": 6,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 795,
@@ -8780,7 +8780,7 @@
         "characterId1": 10,
         "gameCharacterUnitId": 10,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 796,
@@ -8792,7 +8792,7 @@
         "characterId1": 16,
         "gameCharacterUnitId": 16,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 797,
@@ -8804,7 +8804,7 @@
         "characterId1": 17,
         "gameCharacterUnitId": 17,
         "archivePublishedAt": 1711767600000,
-        "description": "[2024/3/30～2024/5/14]\n3900's交換所で獲得"
+        "description": "[2024\/3\/30～2024\/5\/14]\n3900's交換所で獲得"
     },
     {
         "id": 798,
@@ -9359,6 +9359,18 @@
         "description": "「HAPPY BIRTHDAYライブ \n彰人 2024」に参加"
     },
     {
+        "id": 856,
+        "stampType": "illustration",
+        "seq": 10710,
+        "name": "[スタンプ]まふゆ：HAPPY BIRTHDAY",
+        "assetbundleName": "stamp0856",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 18,
+        "gameCharacterUnitId": 18,
+        "archivePublishedAt": 1737784800000,
+        "description": "「HAPPY BIRTHDAYライブ\nまふゆ 2025」に参加"
+    },
+    {
         "id": 860,
         "stampType": "illustration",
         "seq": 10640,
@@ -9381,6 +9393,18 @@
         "gameCharacterUnitId": 23,
         "archivePublishedAt": 1735106400000,
         "description": "「HAPPY ANNIVERSARYライブ\nレン 2024」に参加"
+    },
+    {
+        "id": 862,
+        "stampType": "illustration",
+        "seq": 10720,
+        "name": "[スタンプ]ルカ：HAPPY ANNIVERSARY",
+        "assetbundleName": "stamp0862",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 24,
+        "gameCharacterUnitId": 24,
+        "archivePublishedAt": 1738044000000,
+        "description": "「HAPPY ANNIVERSARYライブ\nルカ 2025」に参加"
     },
     {
         "id": 863,
@@ -9489,6 +9513,43 @@
         "gameCharacterUnitId": 12,
         "archivePublishedAt": 1736575200000,
         "description": "「Time to take off！\nアフターライブ」に参加"
+    },
+    {
+        "id": 873,
+        "stampType": "illustration",
+        "seq": 10700,
+        "name": "[スタンプ]奏：…着こなせるかな？",
+        "assetbundleName": "stamp0873",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 17,
+        "gameCharacterUnitId": 17,
+        "archivePublishedAt": 1737439200000,
+        "description": "「Show your shine\nアフターライブ」に参加"
+    },
+    {
+        "id": 874,
+        "stampType": "illustration",
+        "seq": 10690,
+        "name": "[スタンプ]ミク：私の想い、届くといいな",
+        "assetbundleName": "stamp0874",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 21,
+        "gameCharacterUnitId": 21,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1737039600000,
+        "description": "劇場版プロジェクトセカイ連動\nスタンプラリーで獲得"
+    },
+    {
+        "id": 875,
+        "stampType": "illustration",
+        "seq": 10730,
+        "name": "[スタンプ]雫：ひと針ひと針、丁寧に",
+        "assetbundleName": "stamp0875",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 8,
+        "gameCharacterUnitId": 8,
+        "archivePublishedAt": 1738303200000,
+        "description": "「このひと針に想いを込めて\nアフターライブ」に参加"
     },
     {
         "id": 101021,
@@ -10103,6 +10164,18 @@
         "description": "志步和司的牵绊等级达到66级时获得"
     },
     {
+        "id": 104151,
+        "stampType": "illustration",
+        "seq": 10750,
+        "name": "[スタンプ]志歩と寧々：セッション、楽しいね",
+        "assetbundleName": "stamp104151",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 4,
+        "characterId2": 15,
+        "archivePublishedAt": 1738290600000,
+        "description": "志歩と寧々のキズナランク66で獲得"
+    },
+    {
         "id": 104211,
         "stampType": "illustration",
         "seq": 7560,
@@ -10497,6 +10570,18 @@
         "characterId2": 14,
         "archivePublishedAt": 1695999600000,
         "description": "爱莉和笑梦的牵绊等级达到66级时获得"
+    },
+    {
+        "id": 107171,
+        "stampType": "illustration",
+        "seq": 10740,
+        "name": "[スタンプ]愛莉と奏：いつでも頼ってね♪",
+        "assetbundleName": "stamp107171",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 7,
+        "characterId2": 17,
+        "archivePublishedAt": 1738290600000,
+        "description": "愛莉と奏のキズナランク66で獲得"
     },
     {
         "id": 107191,
@@ -11505,6 +11590,18 @@
         "characterId2": 18,
         "archivePublishedAt": 1722391200000,
         "description": "類とまふゆのキズナランク66で獲得"
+    },
+    {
+        "id": 116191,
+        "stampType": "illustration",
+        "seq": 10760,
+        "name": "[スタンプ]類と絵名：話してくれて、ありがとう",
+        "assetbundleName": "stamp116191",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 16,
+        "characterId2": 19,
+        "archivePublishedAt": 1738290600000,
+        "description": "類と絵名のキズナランク66で獲得"
     },
     {
         "id": 116201,

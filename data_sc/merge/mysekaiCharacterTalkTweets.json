@@ -33518,14 +33518,14 @@
     },
     {
         "id": 14978,
-        "motionName": "mov_cw_silent_tilthead002",
+        "motionName": "mov_cw_adult_tiltheadl003",
         "expressionEyeName": "normal",
         "expressionMouthName": "smile01",
         "text": "今天是滿月呢。\n你已經看到月亮了嗎？"
     },
     {
         "id": 14979,
-        "motionName": "mov_cw_adult_tiltheadl003",
+        "motionName": "mov_cw_silent_tilthead002",
         "expressionEyeName": "normal",
         "expressionMouthName": "smile01",
         "text": "今天也辛苦了。\n有沒有什麼事情沒做完？"
@@ -33560,16 +33560,16 @@
     },
     {
         "id": 14984,
-        "motionName": "mov_cw_adult_notice001",
+        "motionName": "mov_cw_adult_nod001",
         "expressionEyeName": "normal",
-        "expressionMouthName": "normal02",
+        "expressionMouthName": "smile01",
         "text": "快看，好大的\n一輪月亮呢。"
     },
     {
         "id": 14985,
-        "motionName": "mov_cw_adult_nod001",
+        "motionName": "mov_cw_adult_notice001",
         "expressionEyeName": "normal",
-        "expressionMouthName": "smile01",
+        "expressionMouthName": "normal02",
         "text": "啊，\n已經這個時間了啊。"
     },
     {
@@ -36604,5 +36604,19 @@
         "expressionEyeName": "normal",
         "expressionMouthName": "normal01",
         "text": "其實，我從父親的朋友\n那裡聽到了以前……"
+    },
+    {
+        "id": 15797,
+        "motionName": "mov_cw_silent_nod004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この前、天馬さんの\n課題の手伝いで……"
+    },
+    {
+        "id": 15798,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この前、朝比奈さん達と\n一緒に刺繍入りの……"
     }
 ]

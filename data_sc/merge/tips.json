@@ -401,7 +401,7 @@
     {
         "id": 141,
         "title": "剧情完整阅读",
-        "description": "根据完阅读主线/活动剧情的章节数（未跳过或快进）\n可获得相应的奖励。",
+        "description": "根据完阅读主线\/活动剧情的章节数（未跳过或快进）\n可获得相应的奖励。",
         "fromUserRank": 1,
         "toUserRank": 999
     },
@@ -456,7 +456,7 @@
     },
     {
         "id": 1043,
-        "title": "这也是为了Leo/need！",
+        "title": "这也是为了Leo\/need！",
         "assetbundleName": "comic_0043",
         "fromUserRank": 1,
         "toUserRank": 999

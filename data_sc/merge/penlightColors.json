@@ -243,8 +243,8 @@
     {
         "id": 28,
         "seq": 8,
-        "name": "Leo/need主题色",
-        "description": "Leo/needカラー",
+        "name": "Leo\/need主题色",
+        "description": "Leo\/needカラー",
         "colorCode": "#4455dd",
         "unit": "light_sound"
     },

@@ -8,8 +8,8 @@
         "voice": "system_logbo_001_001",
         "motion": "w-cool-tilthead04",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -21,8 +21,8 @@
         "voice": "system_logbo_001_002",
         "motion": "w-cool-nod01",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -34,8 +34,8 @@
         "voice": "system_logbo_001_003",
         "motion": "w-normal-tilthead06",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -47,8 +47,8 @@
         "voice": "system_logbo_002_001",
         "motion": "w-cute-glad05",
         "expression": "face_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -60,8 +60,8 @@
         "voice": "system_logbo_002_002",
         "motion": "w-cute-tilthead07",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -73,8 +73,8 @@
         "voice": "system_logbo_002_003",
         "motion": "w-cute-glad03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -86,8 +86,8 @@
         "voice": "system_logbo_003_001",
         "motion": "w-normal-nod05",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -99,8 +99,8 @@
         "voice": "system_logbo_003_002",
         "motion": "w-adult-nod02",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -112,8 +112,8 @@
         "voice": "system_logbo_003_003",
         "motion": "w-adult-trouble01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -125,8 +125,8 @@
         "voice": "system_logbo_004_001",
         "motion": "w-cool-angry01",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -138,8 +138,8 @@
         "voice": "system_logbo_004_002",
         "motion": "w-cool-nod02",
         "expression": "face_normal_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -151,8 +151,8 @@
         "voice": "system_logbo_004_003",
         "motion": "w-cool-tilthead03",
         "expression": "face_sharp_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -164,8 +164,8 @@
         "voice": "system_logbo_005_001",
         "motion": "w-cute-nod02",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -177,8 +177,8 @@
         "voice": "system_logbo_005_002",
         "motion": "w-cute-glad04",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -190,8 +190,8 @@
         "voice": "system_logbo_005_003",
         "motion": "w-cute-tilthead02",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -203,8 +203,8 @@
         "voice": "system_logbo_006_001",
         "motion": "w-cool-nod03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -216,8 +216,8 @@
         "voice": "system_logbo_006_002",
         "motion": "w-happy-nod01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -229,8 +229,8 @@
         "voice": "system_logbo_006_003",
         "motion": "w-normal-nod01",
         "expression": "face_smile_06",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -242,8 +242,8 @@
         "voice": "system_logbo_007_001",
         "motion": "w-happy-tilthead02",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -255,8 +255,8 @@
         "voice": "system_logbo_007_002",
         "motion": "w-happy-nod03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -268,8 +268,8 @@
         "voice": "system_logbo_007_003",
         "motion": "w-happy-glad02",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -281,8 +281,8 @@
         "voice": "system_logbo_008_001",
         "motion": "w-adult-nod03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -294,8 +294,8 @@
         "voice": "system_logbo_008_002",
         "motion": "w-adult-glad02",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -307,8 +307,8 @@
         "voice": "system_logbo_008_003",
         "motion": "w-adult-tilthead01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -320,8 +320,8 @@
         "voice": "system_logbo_009_001",
         "motion": "w-animal-tilthead01",
         "expression": "face_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -333,8 +333,8 @@
         "voice": "system_logbo_009_002",
         "motion": "w-animal-nod02",
         "expression": "face_serious_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -346,8 +346,8 @@
         "voice": "system_logbo_009_003",
         "motion": "w-animal-nod02",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -359,8 +359,8 @@
         "voice": "system_logbo_010_001",
         "motion": "w-cool-trouble01",
         "expression": "face_shy_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -372,8 +372,8 @@
         "voice": "system_logbo_010_002",
         "motion": "w-cool-glad01",
         "expression": "face_smile_06",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -385,8 +385,8 @@
         "voice": "system_logbo_010_003",
         "motion": "w-happy-angry01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -398,8 +398,8 @@
         "voice": "system_logbo_011_001",
         "motion": "m-normal-nod01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -411,8 +411,8 @@
         "voice": "system_logbo_011_002",
         "motion": "m-cool-nod01",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -424,8 +424,8 @@
         "voice": "system_logbo_011_003",
         "motion": "m-cool-tilthead04",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -437,8 +437,8 @@
         "voice": "system_logbo_012_001",
         "motion": "m-adult-tilthead02",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -450,8 +450,8 @@
         "voice": "system_logbo_012_002",
         "motion": "m-adult-nod01",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -463,8 +463,8 @@
         "voice": "system_logbo_012_003",
         "motion": "m-adult-nod03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -476,8 +476,8 @@
         "voice": "system_logbo_013_001",
         "motion": "m-normal-smug01",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -489,8 +489,8 @@
         "voice": "system_logbo_013_002",
         "motion": "m-tsukasa-tilthead01",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -502,8 +502,8 @@
         "voice": "system_logbo_013_003",
         "motion": "m-tsukasa-angry02",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -515,8 +515,8 @@
         "voice": "system_logbo_014_001",
         "motion": "w-happy-wandahoi01",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -528,8 +528,8 @@
         "voice": "system_logbo_014_002",
         "motion": "w-happy-glad02",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -541,8 +541,8 @@
         "voice": "system_logbo_014_003",
         "motion": "w-happy-glad01",
         "expression": "face_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -554,8 +554,8 @@
         "voice": "system_logbo_015_001",
         "motion": "w-normal-tilthead06",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -567,8 +567,8 @@
         "voice": "system_logbo_015_002",
         "motion": "w-normal-nod01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -580,8 +580,8 @@
         "voice": "system_logbo_015_003",
         "motion": "w-cool-tilthead04",
         "expression": "face_normal_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -593,8 +593,8 @@
         "voice": "system_logbo_016_001",
         "motion": "m-cool-tilthead03",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -606,8 +606,8 @@
         "voice": "system_logbo_016_002",
         "motion": "m-tsukasa-tilthead01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -619,8 +619,8 @@
         "voice": "system_logbo_016_003",
         "motion": "m-cool-tilthead01",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -632,8 +632,8 @@
         "voice": "system_logbo_017_001",
         "motion": "w-kanade-tilthead01",
         "expression": "face_normal_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -645,8 +645,8 @@
         "voice": "system_logbo_017_002",
         "motion": "w-kanade-lookdown01",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -658,8 +658,8 @@
         "voice": "system_logbo_017_003",
         "motion": "w-kanade-tilthead02",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -671,8 +671,8 @@
         "voice": "system_logbo_018_001",
         "motion": "w-normal-tilthead03",
         "expression": "face_normal_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -684,8 +684,8 @@
         "voice": "system_logbo_018_002",
         "motion": "w-cool-tilthead04",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -697,8 +697,8 @@
         "voice": "system_logbo_018_003",
         "motion": "w-happy-tilthead04",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -710,8 +710,8 @@
         "voice": "system_logbo_019_001",
         "motion": "w-cute-tilthead02",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -723,8 +723,8 @@
         "voice": "system_logbo_019_002",
         "motion": "w-cute-smug01",
         "expression": "face_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -736,8 +736,8 @@
         "voice": "system_logbo_019_003",
         "motion": "w-cute-nod04",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -749,8 +749,8 @@
         "voice": "system_logbo_020_001",
         "motion": "w-normal-tilthead06",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -762,8 +762,8 @@
         "voice": "system_logbo_020_002",
         "motion": "w-cool-nod02",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -775,8 +775,8 @@
         "voice": "system_logbo_020_003",
         "motion": "w-cute-tilthead04",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -788,8 +788,8 @@
         "voice": "partvoice_28_021_piapro",
         "motion": "w-cute-nod05",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -801,8 +801,8 @@
         "voice": "partvoice_20_021_piapro",
         "motion": "w-normal-tilthead06",
         "expression": "face_closeeye_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -814,8 +814,8 @@
         "voice": "partvoice_24_021_piapro",
         "motion": "w-normal-nod01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -827,8 +827,8 @@
         "voice": "partvoice_20_021_band",
         "motion": "w-cool-tilthead04",
         "expression": "face_band_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -840,8 +840,8 @@
         "voice": "partvoice_07_021_band",
         "motion": "w-cool-nod03",
         "expression": "face_band_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -853,8 +853,8 @@
         "voice": "partvoice_10_021_band",
         "motion": "w-cool-tilthead02",
         "expression": "face_band_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -866,8 +866,8 @@
         "voice": "partvoice_07_021_idol",
         "motion": "w-cute-glad03",
         "expression": "face_idol_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -879,8 +879,8 @@
         "voice": "partvoice_20_021_idol",
         "motion": "w-normal-purpose01",
         "expression": "face_idol_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -892,8 +892,8 @@
         "voice": "partvoice_02_021_idol",
         "motion": "w-cute-nod02",
         "expression": "face_idol_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -905,8 +905,8 @@
         "voice": "partvoice_27_021_street",
         "motion": "w-cool-nod01",
         "expression": "face_street_smile_05",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -918,8 +918,8 @@
         "voice": "partvoice_10_021_street",
         "motion": "w-cool-tilthead04",
         "expression": "face_street_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -931,8 +931,8 @@
         "voice": "partvoice_20_021_street",
         "motion": "w-cool-tilthead03",
         "expression": "face_street_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -944,8 +944,8 @@
         "voice": "partvoice_32_021_wonder",
         "motion": "w-happy-glad01",
         "expression": "face_wonder_closeeye_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -957,8 +957,8 @@
         "voice": "partvoice_07_021_wonder",
         "motion": "w-happy-glad02",
         "expression": "face_wonder_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -970,8 +970,8 @@
         "voice": "partvoice_20_021_wonder",
         "motion": "w-cute-glad05",
         "expression": "face_wonder_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -983,8 +983,8 @@
         "voice": "partvoice_08_021_night",
         "motion": "w-normal-trouble01",
         "expression": "face_night_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -996,8 +996,8 @@
         "voice": "partvoice_20_021_night",
         "motion": "w-normal-tilthead04",
         "expression": "face_night_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1009,8 +1009,8 @@
         "voice": "partvoice_09_021_night",
         "motion": "w-normal-tilthead05",
         "expression": "face_night_smallmouth_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1022,8 +1022,8 @@
         "voice": "partvoice_07_022",
         "motion": "w-cute-glad06",
         "expression": "face_closeeye_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1035,8 +1035,8 @@
         "voice": "partvoice_20_022",
         "motion": "w-cute-tilthead08",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1048,8 +1048,8 @@
         "voice": "partvoice_27_022",
         "motion": "w-normal-forward01",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1061,8 +1061,8 @@
         "voice": "partvoice_01_023",
         "motion": "n-cool-tilthead01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1074,8 +1074,8 @@
         "voice": "partvoice_28_023",
         "motion": "n-normal-nod04",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1087,8 +1087,8 @@
         "voice": "partvoice_07_023",
         "motion": "n-len-angry02",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1100,8 +1100,8 @@
         "voice": "partvoice_27_024",
         "motion": "w-adult-nod02",
         "expression": "face_smile_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1113,8 +1113,8 @@
         "voice": "partvoice_20_024",
         "motion": "w-adult-nod03",
         "expression": "face_closeeye_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1126,8 +1126,8 @@
         "voice": "partvoice_01_024",
         "motion": "w-cool-tilthead04",
         "expression": "face_smile_04",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1139,8 +1139,8 @@
         "voice": "partvoice_01_025",
         "motion": "w-cool-glad01",
         "expression": "face_closeeye_02",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1152,8 +1152,8 @@
         "voice": "partvoice_20_025",
         "motion": "w-adult-tilthead02",
         "expression": "face_smile_03",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1165,8 +1165,8 @@
         "voice": "partvoice_24_025",
         "motion": "w-cool-nod01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1178,8 +1178,8 @@
         "voice": "partvoice_01_026",
         "motion": "m-cool-tilthead01",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1191,8 +1191,8 @@
         "voice": "partvoice_08_026",
         "motion": "m-normal-forward01",
         "expression": "face_surprise_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1204,8 +1204,8 @@
         "voice": "partvoice_28_026",
         "motion": "m-adult-nod03",
         "expression": "face_smile_01",
-        "publishedAt": 1556683200000,
-        "closedAt": 1696003199000,
+        "publishedAt": 1556679600000,
+        "closedAt": 1695999599000,
         "weight": 1
     },
     {
@@ -1217,8 +1217,8 @@
         "voice": "system_logbo_001_004",
         "motion": "w-normal01-nod",
         "expression": "face_ncsmile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1230,8 +1230,8 @@
         "voice": "system_logbo_001_005",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1243,8 +1243,8 @@
         "voice": "system_logbo_001_006",
         "motion": "w-normal03-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1256,8 +1256,8 @@
         "voice": "system_logbo_002_004",
         "motion": "w-cute11-tilthead02",
         "expression": "face_sad_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1269,8 +1269,8 @@
         "voice": "system_logbo_002_005",
         "motion": "w-cute11-forward",
         "expression": "face_sparkling_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1282,8 +1282,8 @@
         "voice": "system_logbo_002_006",
         "motion": "w-cute02-nodB",
         "expression": "face_ncsmile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1295,8 +1295,8 @@
         "voice": "system_logbo_003_004",
         "motion": "w-adult01-think",
         "expression": "face_ncsmile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1308,8 +1308,8 @@
         "voice": "system_logbo_003_005",
         "motion": "w-adult05-nod",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1321,8 +1321,8 @@
         "voice": "system_logbo_003_006",
         "motion": "w-adult02-tilthead",
         "expression": "face_nccloseeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1334,8 +1334,8 @@
         "voice": "system_logbo_004_004",
         "motion": "w-cool09-tilthead",
         "expression": "face_smile_06",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1347,8 +1347,8 @@
         "voice": "system_logbo_004_005",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1360,8 +1360,8 @@
         "voice": "system_logbo_004_006",
         "motion": "w-cool06-nod",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1373,8 +1373,8 @@
         "voice": "system_logbo_005_004",
         "motion": "w-cute11-glad",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1386,8 +1386,8 @@
         "voice": "system_logbo_005_005",
         "motion": "w-cute01-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1399,8 +1399,8 @@
         "voice": "system_logbo_005_006",
         "motion": "w-cute11-guts",
         "expression": "face_doya_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1412,8 +1412,8 @@
         "voice": "system_logbo_006_004",
         "motion": "w-cool10-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1425,8 +1425,8 @@
         "voice": "system_logbo_006_005",
         "motion": "w-normal01-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1438,8 +1438,8 @@
         "voice": "system_logbo_006_006",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1451,8 +1451,8 @@
         "voice": "system_logbo_007_004",
         "motion": "w-happy14-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1464,8 +1464,8 @@
         "voice": "system_logbo_007_005",
         "motion": "w-happy14-tilthead",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1477,8 +1477,8 @@
         "voice": "system_logbo_007_006",
         "motion": "w-happy02-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1490,8 +1490,8 @@
         "voice": "system_logbo_008_004",
         "motion": "w-adult05-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1503,8 +1503,8 @@
         "voice": "system_logbo_008_005",
         "motion": "w-adult05-think",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1516,8 +1516,8 @@
         "voice": "system_logbo_008_006",
         "motion": "w-adult11-nod",
         "expression": "face_sparkling_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1529,8 +1529,8 @@
         "voice": "system_logbo_009_004",
         "motion": "w-normal01-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1542,8 +1542,8 @@
         "voice": "system_logbo_009_005",
         "motion": "w-normal03-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1555,8 +1555,8 @@
         "voice": "system_logbo_009_006",
         "motion": "w-animal01-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1568,8 +1568,8 @@
         "voice": "system_logbo_010_004",
         "motion": "w-cool02-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1581,8 +1581,8 @@
         "voice": "system_logbo_010_005",
         "motion": "w-cool02-guts",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1594,8 +1594,8 @@
         "voice": "system_logbo_010_006",
         "motion": "w-cool10-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1607,8 +1607,8 @@
         "voice": "system_logbo_011_004",
         "motion": "m-proud07-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1620,8 +1620,8 @@
         "voice": "system_logbo_011_005",
         "motion": "m-cool01-nod",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1633,8 +1633,8 @@
         "voice": "system_logbo_011_006",
         "motion": "m-normal13-tilthead",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1646,8 +1646,8 @@
         "voice": "system_logbo_012_004",
         "motion": "m-adult05-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1659,8 +1659,8 @@
         "voice": "system_logbo_012_005",
         "motion": "m-adult16-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1672,8 +1672,8 @@
         "voice": "system_logbo_012_006",
         "motion": "m-adult10-nod",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1685,8 +1685,8 @@
         "voice": "system_logbo_013_004",
         "motion": "m-proud11-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1698,8 +1698,8 @@
         "voice": "system_logbo_013_005",
         "motion": "m-proud17-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1711,8 +1711,8 @@
         "voice": "system_logbo_013_006",
         "motion": "m-proud01-angry",
         "expression": "face_sharp_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1724,8 +1724,8 @@
         "voice": "system_logbo_014_004",
         "motion": "w-happy11-guts",
         "expression": "face_ncsmile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1737,8 +1737,8 @@
         "voice": "system_logbo_014_005",
         "motion": "w-happy02-nod",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1750,8 +1750,8 @@
         "voice": "system_logbo_014_006",
         "motion": "w-happy14-glad",
         "expression": "face_ncsmile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1763,8 +1763,8 @@
         "voice": "system_logbo_015_004",
         "motion": "w-normal03-tilthead",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1776,8 +1776,8 @@
         "voice": "system_logbo_015_005",
         "motion": "w-normal01-tilthead",
         "expression": "face_smile_07",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1789,8 +1789,8 @@
         "voice": "system_logbo_015_006",
         "motion": "w-animal12-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1802,8 +1802,8 @@
         "voice": "system_logbo_016_004",
         "motion": "m-cool01-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1815,8 +1815,8 @@
         "voice": "system_logbo_016_005",
         "motion": "m-cool01-disgust",
         "expression": "face_smug_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1828,8 +1828,8 @@
         "voice": "system_logbo_016_006",
         "motion": "m-cool08-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1841,8 +1841,8 @@
         "voice": "system_logbo_017_004",
         "motion": "w-kanade16-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1854,8 +1854,8 @@
         "voice": "system_logbo_017_005",
         "motion": "w-kanade07-tilthead",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1867,8 +1867,8 @@
         "voice": "system_logbo_017_006",
         "motion": "w-normal03-relief",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1880,8 +1880,8 @@
         "voice": "system_logbo_018_004",
         "motion": "w-normal07-tilthead",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1893,8 +1893,8 @@
         "voice": "system_logbo_018_005",
         "motion": "w-normal15-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1906,8 +1906,8 @@
         "voice": "system_logbo_018_006",
         "motion": "w-normal15-nod",
         "expression": "face_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1919,8 +1919,8 @@
         "voice": "system_logbo_019_004",
         "motion": "w-cute12-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1932,8 +1932,8 @@
         "voice": "system_logbo_019_005",
         "motion": "w-cute02-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1945,8 +1945,8 @@
         "voice": "system_logbo_019_006",
         "motion": "w-cute13-tilthead",
         "expression": "face_trouble_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1958,8 +1958,8 @@
         "voice": "system_logbo_020_004",
         "motion": "w-cute01-nod04",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1971,8 +1971,8 @@
         "voice": "system_logbo_020_005",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1984,8 +1984,8 @@
         "voice": "system_logbo_020_006",
         "motion": "w-cute14-nod",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -1997,8 +1997,8 @@
         "voice": "system_logbo_021_piapro_001",
         "motion": "w-normal03-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2010,8 +2010,8 @@
         "voice": "system_logbo_021_piapro_002",
         "motion": "w-cute12-tilthead",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2023,8 +2023,8 @@
         "voice": "system_logbo_021_piapro_003",
         "motion": "w-normal15-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2036,8 +2036,8 @@
         "voice": "system_logbo_021_light_sound_001",
         "motion": "w-cool09-tilthead",
         "expression": "face_band_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2049,8 +2049,8 @@
         "voice": "system_logbo_021_light_sound_002",
         "motion": "w-cool10-nod",
         "expression": "face_band_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2062,8 +2062,8 @@
         "voice": "system_logbo_021_light_sound_003",
         "motion": "w-cool02-tilthead",
         "expression": "face_band_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2075,8 +2075,8 @@
         "voice": "system_logbo_021_idol_001",
         "motion": "w-cute02-glad",
         "expression": "face_idol_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2088,8 +2088,8 @@
         "voice": "system_logbo_021_idol_002",
         "motion": "w-cute02-nod",
         "expression": "face_idol_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2101,8 +2101,8 @@
         "voice": "system_logbo_021_idol_003",
         "motion": "w-cute12-nod",
         "expression": "face_idol_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2114,8 +2114,8 @@
         "voice": "system_logbo_021_street_001",
         "motion": "w-normal01-tilthead",
         "expression": "face_street_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2127,8 +2127,8 @@
         "voice": "system_logbo_021_street_002",
         "motion": "w-cool06-nod",
         "expression": "face_street_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2140,8 +2140,8 @@
         "voice": "system_logbo_021_street_003",
         "motion": "w-cool02-tilthead",
         "expression": "face_street_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2153,8 +2153,8 @@
         "voice": "system_logbo_021_theme_park_001",
         "motion": "w-happy02-nod",
         "expression": "face_wonder_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2166,8 +2166,8 @@
         "voice": "system_logbo_021_theme_park_002",
         "motion": "w-cute11-glad",
         "expression": "face_wonder_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2179,8 +2179,8 @@
         "voice": "system_logbo_021_theme_park_003",
         "motion": "w-cute12-nod",
         "expression": "face_wonder_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2192,8 +2192,8 @@
         "voice": "system_logbo_021_school_refusal_001",
         "motion": "w-normal03-tilthead",
         "expression": "face_night_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2205,8 +2205,8 @@
         "voice": "system_logbo_021_school_refusal_002",
         "motion": "w-normal15-nod",
         "expression": "face_night_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2218,8 +2218,8 @@
         "voice": "system_logbo_021_school_refusal_003",
         "motion": "w-normal07-nod",
         "expression": "face_night_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2231,8 +2231,8 @@
         "voice": "system_logbo_022_piapro_001",
         "motion": "w-happy16-tilthead",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2244,8 +2244,8 @@
         "voice": "system_logbo_022_piapro_002",
         "motion": "w-happy02-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2257,8 +2257,8 @@
         "voice": "system_logbo_022_piapro_003",
         "motion": "w-animal12-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2270,8 +2270,8 @@
         "voice": "system_logbo_022_light_sound_001",
         "motion": "w-cute02-tilthead",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2283,8 +2283,8 @@
         "voice": "system_logbo_022_light_sound_002",
         "motion": "w-cute13-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2296,8 +2296,8 @@
         "voice": "system_logbo_022_light_sound_003",
         "motion": "w-cute11-forward",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2309,8 +2309,8 @@
         "voice": "system_logbo_022_idol_001",
         "motion": "w-cute02-guts",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2322,8 +2322,8 @@
         "voice": "system_logbo_022_idol_002",
         "motion": "w-cute01-nod04",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2335,8 +2335,8 @@
         "voice": "system_logbo_022_idol_003",
         "motion": "w-cute12-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2348,8 +2348,8 @@
         "voice": "system_logbo_022_street_001",
         "motion": "w-normal01-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2361,8 +2361,8 @@
         "voice": "system_logbo_022_street_002",
         "motion": "w-cool02-guts",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2374,8 +2374,8 @@
         "voice": "system_logbo_022_street_003",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2387,8 +2387,8 @@
         "voice": "system_logbo_022_theme_park_001",
         "motion": "w-happy14-forward",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2400,8 +2400,8 @@
         "voice": "system_logbo_022_theme_park_002",
         "motion": "w-happy02-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2413,8 +2413,8 @@
         "voice": "system_logbo_022_theme_park_003",
         "motion": "w-cute11-glad",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2426,8 +2426,8 @@
         "voice": "system_logbo_022_school_refusal_001",
         "motion": "w-normal15-tilthead",
         "expression": "face_darksmallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2439,8 +2439,8 @@
         "voice": "system_logbo_022_school_refusal_002",
         "motion": "w-normal07-tilthead",
         "expression": "face_darknormal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2452,8 +2452,8 @@
         "voice": "system_logbo_022_school_refusal_003",
         "motion": "w-normal03-tilthead",
         "expression": "face_darknormal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2465,8 +2465,8 @@
         "voice": "system_logbo_023_piapro_001",
         "motion": "l-normal13-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2478,8 +2478,8 @@
         "voice": "system_logbo_023_piapro_002",
         "motion": "l-proud01-angry",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2491,8 +2491,8 @@
         "voice": "system_logbo_023_piapro_003",
         "motion": "l-proud11-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2504,8 +2504,8 @@
         "voice": "system_logbo_023_light_sound_001",
         "motion": "l-proud07-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2517,8 +2517,8 @@
         "voice": "system_logbo_023_light_sound_002",
         "motion": "l-cool01-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2530,8 +2530,8 @@
         "voice": "system_logbo_023_light_sound_003",
         "motion": "l-normal13-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2543,8 +2543,8 @@
         "voice": "system_logbo_023_idol_001",
         "motion": "l-adult05-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2556,8 +2556,8 @@
         "voice": "system_logbo_023_idol_002",
         "motion": "l-cool01-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2569,8 +2569,8 @@
         "voice": "system_logbo_023_idol_003",
         "motion": "l-normal13-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2582,8 +2582,8 @@
         "voice": "system_logbo_023_street_001",
         "motion": "l-cool08-nod",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2595,8 +2595,8 @@
         "voice": "system_logbo_023_street_002",
         "motion": "l-proud11-nod",
         "expression": "face_smile_05",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2608,8 +2608,8 @@
         "voice": "system_logbo_023_street_003",
         "motion": "l-normal16-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2621,8 +2621,8 @@
         "voice": "system_logbo_023_theme_park_001",
         "motion": "l-normal13-tilthead",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2634,8 +2634,8 @@
         "voice": "system_logbo_023_theme_park_002",
         "motion": "l-proud17-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2647,8 +2647,8 @@
         "voice": "system_logbo_023_theme_park_003",
         "motion": "l-proud07-nod",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2660,8 +2660,8 @@
         "voice": "system_logbo_023_school_refusal_001",
         "motion": "l-night15-nod",
         "expression": "face_night_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2673,8 +2673,8 @@
         "voice": "system_logbo_023_school_refusal_002",
         "motion": "l-night12-tilthead",
         "expression": "face_night_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2686,8 +2686,8 @@
         "voice": "system_logbo_023_school_refusal_003",
         "motion": "l-night03-tilthead",
         "expression": "face_night_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2699,8 +2699,8 @@
         "voice": "system_logbo_024_piapro_001",
         "motion": "w-adult02-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2712,8 +2712,8 @@
         "voice": "system_logbo_024_piapro_002",
         "motion": "w-adult12-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2725,8 +2725,8 @@
         "voice": "system_logbo_024_piapro_003",
         "motion": "w-adult05-tilthead",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2738,8 +2738,8 @@
         "voice": "system_logbo_024_light_sound_001",
         "motion": "w-cool10-nod",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2751,8 +2751,8 @@
         "voice": "system_logbo_024_light_sound_002",
         "motion": "w-adult01-tilthead",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2764,8 +2764,8 @@
         "voice": "system_logbo_024_light_sound_003",
         "motion": "w-adult05-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2777,8 +2777,8 @@
         "voice": "system_logbo_024_idol_001",
         "motion": "w-adult01-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2790,8 +2790,8 @@
         "voice": "system_logbo_024_idol_002",
         "motion": "w-adult02-tilthead",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2803,8 +2803,8 @@
         "voice": "system_logbo_024_idol_003",
         "motion": "w-adult05-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2816,8 +2816,8 @@
         "voice": "system_logbo_024_street_001",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2829,8 +2829,8 @@
         "voice": "system_logbo_024_street_002",
         "motion": "w-normal01-tilthead",
         "expression": "face_sparkling_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2842,8 +2842,8 @@
         "voice": "system_logbo_024_street_003",
         "motion": "w-happy02-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2855,8 +2855,8 @@
         "voice": "system_logbo_024_theme_park_001",
         "motion": "w-normal15-tilthead",
         "expression": "face_sleepy_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2868,8 +2868,8 @@
         "voice": "system_logbo_024_theme_park_002",
         "motion": "w-normal03-tilthead",
         "expression": "face_sleepy_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2881,8 +2881,8 @@
         "voice": "system_logbo_024_theme_park_003",
         "motion": "w-normal01-tilthead",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2894,8 +2894,8 @@
         "voice": "system_logbo_024_school_refusal_001",
         "motion": "w-cool02-tilthead",
         "expression": "face_darksmile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2907,8 +2907,8 @@
         "voice": "system_logbo_024_school_refusal_002",
         "motion": "w-normal07-tilthead",
         "expression": "face_darksmile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2920,8 +2920,8 @@
         "voice": "system_logbo_024_school_refusal_003",
         "motion": "w-adult01-tilthead",
         "expression": "face_darksmile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2933,8 +2933,8 @@
         "voice": "system_logbo_025_piapro_001",
         "motion": "w-cute01-nod04",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2946,8 +2946,8 @@
         "voice": "system_logbo_025_piapro_002",
         "motion": "w-cool10-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2959,8 +2959,8 @@
         "voice": "system_logbo_025_piapro_003",
         "motion": "w-happy09-tilthead",
         "expression": "face_smile_06",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2972,8 +2972,8 @@
         "voice": "system_logbo_025_light_sound_001",
         "motion": "w-normal01-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2985,8 +2985,8 @@
         "voice": "system_logbo_025_light_sound_002",
         "motion": "w-cool06-nod",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -2998,8 +2998,8 @@
         "voice": "system_logbo_025_light_sound_003",
         "motion": "w-cool02-tilthead",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3011,8 +3011,8 @@
         "voice": "system_logbo_025_idol_001",
         "motion": "w-adult01-tilthead",
         "expression": "face_twinkle_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3024,8 +3024,8 @@
         "voice": "system_logbo_025_idol_002",
         "motion": "w-adult05-think",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3037,8 +3037,8 @@
         "voice": "system_logbo_025_idol_003",
         "motion": "w-cute02-nodB",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3050,8 +3050,8 @@
         "voice": "system_logbo_025_street_001",
         "motion": "w-cool06-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3063,8 +3063,8 @@
         "voice": "system_logbo_025_street_002",
         "motion": "w-cool02-tilthead",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3076,8 +3076,8 @@
         "voice": "system_logbo_025_street_003",
         "motion": "w-normal01-tilthead",
         "expression": "face_smile_03",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3089,8 +3089,8 @@
         "voice": "system_logbo_025_theme_park_001",
         "motion": "w-happy14-forward",
         "expression": "face_twinkle_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3102,8 +3102,8 @@
         "voice": "system_logbo_025_theme_park_002",
         "motion": "w-happy09-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3115,8 +3115,8 @@
         "voice": "system_logbo_025_theme_park_003",
         "motion": "w-happy02-purpose",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3128,8 +3128,8 @@
         "voice": "system_logbo_025_school_refusal_001",
         "motion": "w-normal16-tilthead",
         "expression": "face_darknormal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3141,8 +3141,8 @@
         "voice": "system_logbo_025_school_refusal_002",
         "motion": "w-normal07-nod",
         "expression": "face_darkcloseeye_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3154,8 +3154,8 @@
         "voice": "system_logbo_025_school_refusal_003",
         "motion": "w-normal07-tilthead",
         "expression": "face_darknormal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3167,8 +3167,8 @@
         "voice": "system_logbo_026_piapro_001",
         "motion": "m-cool01-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3180,8 +3180,8 @@
         "voice": "system_logbo_026_piapro_002",
         "motion": "m-proud07-tilthead",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3193,8 +3193,8 @@
         "voice": "system_logbo_026_piapro_003",
         "motion": "m-cool08-tilthead",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3206,8 +3206,8 @@
         "voice": "system_logbo_026_light_sound_001",
         "motion": "m-normal13-nod",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3219,8 +3219,8 @@
         "voice": "system_logbo_026_light_sound_002",
         "motion": "m-normal14-tilthead",
         "expression": "face_smallmouth_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3232,8 +3232,8 @@
         "voice": "system_logbo_026_light_sound_003",
         "motion": "m-adult05-nod",
         "expression": "face_smile_04",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3245,8 +3245,8 @@
         "voice": "system_logbo_026_idol_001",
         "motion": "m-proud07-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3258,8 +3258,8 @@
         "voice": "system_logbo_026_idol_002",
         "motion": "m-proud17-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3271,8 +3271,8 @@
         "voice": "system_logbo_026_idol_003",
         "motion": "m-cool01-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3284,8 +3284,8 @@
         "voice": "system_logbo_026_street_001",
         "motion": "m-proud11-nod",
         "expression": "face_smile_06",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3297,8 +3297,8 @@
         "voice": "system_logbo_026_street_002",
         "motion": "m-cool08-nod",
         "expression": "face_trouble_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3310,8 +3310,8 @@
         "voice": "system_logbo_026_street_003",
         "motion": "m-cool01-nod",
         "expression": "face_closeeye_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3323,8 +3323,8 @@
         "voice": "system_logbo_026_theme_park_001",
         "motion": "m-adult05-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3336,8 +3336,8 @@
         "voice": "system_logbo_026_theme_park_002",
         "motion": "m-cool01-nod",
         "expression": "face_smile_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3349,8 +3349,8 @@
         "voice": "system_logbo_026_theme_park_003",
         "motion": "m-normal13-nod",
         "expression": "face_smile_02",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3362,8 +3362,8 @@
         "voice": "system_logbo_026_school_refusal_001",
         "motion": "m-normal14-pride",
         "expression": "face_night_stunned_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3375,8 +3375,8 @@
         "voice": "system_logbo_026_school_refusal_002",
         "motion": "m-normal13-tilthead",
         "expression": "face_night_normal_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     },
     {
@@ -3388,8 +3388,8 @@
         "voice": "system_logbo_026_school_refusal_003",
         "motion": "m-cool01-tilthead",
         "expression": "face_night_serious_01",
-        "publishedAt": 1727539200000,
-        "closedAt": 4102459200000,
+        "publishedAt": 1695999600000,
+        "closedAt": 4102455600000,
         "weight": 1
     }
 ]

@@ -1616,6 +1616,10 @@
         "value": "已获得唱片。"
     },
     {
+        "wordingKey": "MSG_GET_SERIAL_CODE_STAMP_RALLY_REWARD",
+        "value": "報酬を獲得しました。"
+    },
+    {
         "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
         "value": "已获得设计圖，但由于已拥有，作为「<color=#ff5588>{0}<\/color>」获得。"
     },
@@ -2370,6 +2374,10 @@
     {
         "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
         "value": "连接失败。"
+    },
+    {
+        "wordingKey": "MSG_NEW_AREA_RELEASE",
+        "value": "新しいエリアが解放されました。"
     },
     {
         "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
@@ -3214,6 +3222,10 @@
     {
         "wordingKey": "MSG_SERCH_MATCHING_OPPONENT",
         "value": "正在匹配……"
+    },
+    {
+        "wordingKey": "MSG_SERIAL_CODE_STAMP_RALLY_COSTUME_GET",
+        "value": "ライブ衣装を獲得しました。"
     },
     {
         "wordingKey": "MSG_SETTABLE_FROM_OPTION",
@@ -4114,6 +4126,10 @@
     {
         "wordingKey": "WORD_ACTION",
         "value": "动作"
+    },
+    {
+        "wordingKey": "WORD_ACTION_SET_RELEASE_FORMAT",
+        "value": "「{0}」の新しいエリア会話が解放されました。"
     },
     {
         "wordingKey": "WORD_ACTIVATED_W_SKILL",
@@ -6990,6 +7006,10 @@
     {
         "wordingKey": "WORD_GET_EXCLAMATION_MARK",
         "value": "获得！"
+    },
+    {
+        "wordingKey": "WORD_GET_FIRST_PURCHASE_BONUS",
+        "value": "初回購入特典を獲得しました。"
     },
     {
         "wordingKey": "WORD_GET_ITEM",
@@ -11028,6 +11048,10 @@
         "value": "……"
     },
     {
+        "wordingKey": "WORD_THUMBNAIL_COUNT_FORMAT",
+        "value": "×{0}"
+    },
+    {
         "wordingKey": "WORD_TICKET_EXCHANGE_SHOP",
         "value": "票券兑换所"
     },
@@ -11654,6 +11678,14 @@
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_UPDATE_AVATAR",
         "value": "是否更换为已购买的道具？"
+    },
+    {
+        "wordingKey": "WORD_VIRTUAL_SHOP_BONUS",
+        "value": "（ボーナス）"
+    },
+    {
+        "wordingKey": "WORD_VIRTUAL_SHOP_FIRST_BONUS",
+        "value": "<color=#FF5588>（初回購入特典）<\/color>"
     },
     {
         "wordingKey": "WORD_VIRTUAL_SINGER_VERSION",

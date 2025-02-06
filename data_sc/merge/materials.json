@@ -394,7 +394,7 @@
     {
         "id": 50,
         "seq": 10328,
-        "name": "Leo/need\n歌手卡兑换券",
+        "name": "Leo\/need\n歌手卡兑换券",
         "flavorText": "可在歌手卡兑换所兑换该组合角色的歌手卡。",
         "canUse": false,
         "materialType": "vocal_card_ticket"
@@ -743,7 +743,7 @@
         "id": 87,
         "seq": 10601,
         "name": "3900's券",
-        "flavorText": "可在3900's兑换所里兑换奖励。\n使用期限：2025/05/14 23:59",
+        "flavorText": "可在3900's兑换所里兑换奖励。\n使用期限：2025\/05\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -751,7 +751,7 @@
         "id": 88,
         "seq": 20001,
         "name": "「Connect Live RESONANCE BEATS!!」Connect Live ver. 主唱卡交换券",
-        "flavorText": "可交换在「Connect Live Leo/need × Vivid BAD SQUAD RESONANCE BEATS!!」公演中演唱的乐曲的 Connect Live 版本的 Vocal。",
+        "flavorText": "可交换在「Connect Live Leo\/need × Vivid BAD SQUAD RESONANCE BEATS!!」公演中演唱的乐曲的 Connect Live 版本的 Vocal。",
         "canUse": false,
         "materialType": "auto_exchange_music_vocal_ticket"
     },
@@ -759,7 +759,7 @@
         "id": 89,
         "seq": 10602,
         "name": "白色的花瓣",
-        "flavorText": "虚拟歌手成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "虚拟歌手成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -767,7 +767,7 @@
         "id": 90,
         "seq": 10603,
         "name": "蓝色的花瓣",
-        "flavorText": "Leo/need成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Leo\/need成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -775,7 +775,7 @@
         "id": 91,
         "seq": 10604,
         "name": "緑色的花瓣",
-        "flavorText": "MORE MORE JUMP！成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "MORE MORE JUMP！成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -783,7 +783,7 @@
         "id": 92,
         "seq": 10605,
         "name": "红色的花瓣",
-        "flavorText": "Vivid BAD SQUAD成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Vivid BAD SQUAD成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -791,7 +791,7 @@
         "id": 93,
         "seq": 10606,
         "name": "橙色的花瓣",
-        "flavorText": "Wonderlands×Showtime成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Wonderlands×Showtime成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -799,7 +799,7 @@
         "id": 94,
         "seq": 10607,
         "name": "紫色的花瓣",
-        "flavorText": "25点，Nightcord见。成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "25点，Nightcord见。成员的心意绽放出的花瓣。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -807,7 +807,7 @@
         "id": 95,
         "seq": 10608,
         "name": "白色的幸运花",
-        "flavorText": "虚拟歌手成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "虚拟歌手成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -815,7 +815,7 @@
         "id": 96,
         "seq": 10609,
         "name": "蓝色的幸运花",
-        "flavorText": "Leo/need成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Leo\/need成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -823,7 +823,7 @@
         "id": 97,
         "seq": 10610,
         "name": "綠色的幸运花",
-        "flavorText": "MORE MORE JUMP！成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "MORE MORE JUMP！成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -831,7 +831,7 @@
         "id": 98,
         "seq": 10611,
         "name": "红色的幸运花",
-        "flavorText": "Vivid BAD SQUAD成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Vivid BAD SQUAD成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -839,7 +839,7 @@
         "id": 99,
         "seq": 10612,
         "name": "橙色的幸运花",
-        "flavorText": "Wonderlands×Showtime成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "Wonderlands×Showtime成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -847,7 +847,7 @@
         "id": 100,
         "seq": 10613,
         "name": "紫色的幸运花",
-        "flavorText": "25点，Nightcord见。成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "25点，Nightcord见。成员的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
     },
@@ -1062,8 +1062,8 @@
     {
         "id": 127,
         "seq": 10128,
-        "name": "Leo/need的心愿碎片",
-        "flavorText": "Leo/need的成员技能升级所需的道具。",
+        "name": "Leo\/need的心愿碎片",
+        "flavorText": "Leo\/need的成员技能升级所需的道具。",
         "canUse": false,
         "materialType": "master_lesson"
     },
@@ -1318,8 +1318,8 @@
     {
         "id": 159,
         "seq": 10228,
-        "name": "Leo/need的心愿结晶",
-        "flavorText": "Leo/need的成员技能升级所需的道具。",
+        "name": "Leo\/need的心愿结晶",
+        "flavorText": "Leo\/need的成员技能升级所需的道具。",
         "canUse": false,
         "materialType": "master_lesson"
     },
@@ -1375,9 +1375,17 @@
         "id": 166,
         "seq": 10614,
         "name": "野性的幸运花",
-        "flavorText": "大家的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024/11/14 23:59",
+        "flavorText": "大家的心意绽放出的花朵。可在幸运花卉游行交换所中使用。\n使用期限：2024\/11\/14 23:59",
         "canUse": false,
         "materialType": "common"
+    },
+    {
+        "id": 167,
+        "seq": 165167,
+        "name": "[劇場版]★2メンバーチケット",
+        "flavorText": "[劇場版]★2メンバーチケット交換所で好きな★2メンバーを交換することができる。",
+        "canUse": false,
+        "materialType": "card_ticket"
     },
     {
         "id": 168,
@@ -1386,5 +1394,13 @@
         "flavorText": "闪耀着五彩光芒的记忆碎片。\n可在交换特定记忆碎片时使用。",
         "canUse": false,
         "materialType": "common"
+    },
+    {
+        "id": 169,
+        "seq": 200001,
+        "name": "「コネクトライブ Ensemble in SEKAI」コネクトライブver. ボーカル引き換えカード",
+        "flavorText": "「コネクトライブ 特別版 プロジェクトセカイ×あんさんぶるスターズ！！Ensemble in SEKAI」の公演内で披露された楽曲のコネクトライブver. ボーカルと引き換えることができる。",
+        "canUse": false,
+        "materialType": "auto_exchange_music_vocal_ticket"
     }
 ]
