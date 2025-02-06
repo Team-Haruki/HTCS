@@ -21,7 +21,7 @@
     },
     {
         "id": 4,
-        "name": "牆掛",
+        "name": "墙挂",
         "groupId": 2,
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_wall_furniture"
@@ -34,7 +34,7 @@
     },
     {
         "id": 6,
-        "name": "畫布",
+        "name": "画布",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_canvas"
     },
@@ -80,13 +80,13 @@
     },
     {
         "id": 13,
-        "name": "柵欄",
+        "name": "栅栏",
         "mysekaiFixtureMainGenreType": "fence",
         "assetbundleName": "icon_fence"
     },
     {
         "id": 14,
-        "name": "虛擬歌手",
+        "name": "虚拟歌手",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "logo_unit_s_outline_01_vs"
     },
@@ -116,7 +116,7 @@
     },
     {
         "id": 19,
-        "name": "25點，Nightcord見。",
+        "name": "25点，Nightcord见。",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "logo_unit_s_outline_06_25"
     },
@@ -128,7 +128,7 @@
     },
     {
         "id": 21,
-        "name": "羈絆",
+        "name": "牵绊",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_all"
     },
@@ -140,19 +140,19 @@
     },
     {
         "id": 23,
-        "name": "活動",
+        "name": "活动",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_all"
     },
     {
         "id": 24,
-        "name": "斧頭",
+        "name": "斧头",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_axe"
     },
     {
         "id": 25,
-        "name": "鎬",
+        "name": "镐",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_pickaxe"
     },
@@ -164,13 +164,13 @@
     },
     {
         "id": 27,
-        "name": "周邊",
+        "name": "周边",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_goods"
     },
     {
         "id": 28,
-        "name": "成員",
+        "name": "成员",
         "mysekaiFixtureMainGenreType": "none",
         "assetbundleName": "icon_chr_member"
     },

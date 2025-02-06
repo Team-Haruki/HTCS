@@ -2,37 +2,37 @@
     {
         "id": 1,
         "unit": "piapro",
-        "name": "虛擬歌手皮膚",
+        "name": "虛擬歌手皮肤",
         "assetbundleName": "mdl_non0006_gate_lon1"
     },
     {
         "id": 2,
         "unit": "theme_park",
-        "name": "WS皮膚",
+        "name": "WS皮肤",
         "assetbundleName": "mdl_non0006_gate_mmj1"
     },
     {
         "id": 3,
         "unit": "idol",
-        "name": "MMJ皮膚",
+        "name": "MMJ皮肤",
         "assetbundleName": "mdl_non0006_gate_vbs1"
     },
     {
         "id": 4,
         "unit": "street",
-        "name": "VBS皮膚",
+        "name": "VBS皮肤",
         "assetbundleName": "mdl_non0006_gate_wns1"
     },
     {
         "id": 5,
         "unit": "light_sound",
-        "name": "LN皮膚",
+        "name": "LN皮肤",
         "assetbundleName": "mdl_non0006_gate_nig1"
     },
     {
         "id": 6,
         "unit": "school_refusal",
-        "name": "25點皮膚",
+        "name": "25点皮肤",
         "assetbundleName": "mdl_non0006_gate_ppr1"
     }
 ]

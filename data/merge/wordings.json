@@ -73,7 +73,7 @@
     },
     {
         "wordingKey": "FORMAT_CONVERT_SHORTEN_TIME_HAVE_JOINED_PASS",
-        "value": "世界通行證加入縮短{0}%轉換時間"
+        "value": "世界通行证有效期中缩短{0}%转换时间"
     },
     {
         "wordingKey": "FORMAT_DAY",
@@ -85,35 +85,35 @@
     },
     {
         "wordingKey": "FORMAT_MSG_CONFIRM_CANCEL_INVITATION",
-        "value": "確定要取消對{0}的邀請嗎？"
+        "value": "确定要取消对{0}的邀请吗？"
     },
     {
         "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE",
-        "value": "將設置為{0}。\n確定？\n\n<color=#FF5588>直到次日05:00無法領取記憶。\n在{1}天內無法重新設置門。\n若已發送邀請函，則將被取消。</color>"
+        "value": "将设置为{0}。\n确定吗？\n\n<color=#FF5588>直到次日05:00无法领取记忆。\n在{1}天内无法重新设置门。\n若已发送邀请函，则将被取消。<\/color>"
     },
     {
         "wordingKey": "FORMAT_MSG_CONFIRM_GATE_CHANGE_TUTORIAL",
-        "value": "將設置為{0}。\n確定？"
+        "value": "将设置为{0}。\n确定吗？"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_BLUEPRINT_NAME",
-        "value": "{0}的設計圖"
+        "value": "{0}的设计圖"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_CONVERT_SLOT_NO",
-        "value": "<size=36><color=#0faf9d>SLOT</color></size><size=80><color=#0faf9d>0{0}</color></size>"
+        "value": "<size=36><color=#0faf9d>SLOT<\/color><\/size><size=80><color=#0faf9d>0{0}<\/color><\/size>"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
-        "value": "由於世界通行證已過期{0}天，\n保存於『我的「世界」』的擴展預設槽的內容將被刪除。\n是否購買以保留內容？"
+        "value": "由于世界通行证已过期{0}天，\n保存于『我的「世界」』的扩展预设槽的内容将被删除。\n是否购买以保留内容？"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_GATE_MAX_LEVEL",
-        "value": "{0} <size=28>MAX</size>"
+        "value": "{0} <size=28>MAX<\/size>"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_GATE_VISIT_CHARACTER",
-        "value": "大門等級{0}之後來訪的角色"
+        "value": "大门等级{0}之后来访的角色"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_HARVEST_TOOL_QUANTITY",
@@ -121,7 +121,7 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PHOTO_ALBUM_PAGE_COUNT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PHOTO_FILM_QUANTITY",
@@ -129,11 +129,11 @@
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_PUT_LIMIT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_COUNT",
-        "value": "{0}/{1}次"
+        "value": "{0}\/{1}次"
     },
     {
         "wordingKey": "FORMAT_MYSEKAI_SITE_LAYOUT_SIZE",
@@ -149,7 +149,7 @@
     },
     {
         "wordingKey": "FORMAT_SECRET_SHOP_PURCHASE_CONFIRM",
-        "value": "使用<color=#ff5599>{0}顆</color>水晶購買{1}。\n確定？"
+        "value": "使用<color=#ff5599>{0}颗<\/color>水晶购买{1}。\n确定吗？"
     },
     {
         "wordingKey": "FORMAT_SEND_INVITATION_CHARACTER",
@@ -185,7 +185,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT",
-        "value": "1天观看1次“演出积分&心愿碎片礼物”广告\n可<color=#ff5599>获得30</color>演出积分。"
+        "value": "1天观看1次“演出积分&心愿碎片礼物”广告\n可<color=#ff5599>获得30<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_AD_REWARD_CONTENT_TITLE",
@@ -193,7 +193,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT",
-        "value": "每完成1个活动期间设置的奖励任务\n即可<color=#ff5599>获得50</color>演出积分。\n另外，完成全部任务即可再<color=#ff5599>获得150</color>演出积分。"
+        "value": "每完成1个活动期间设置的奖励任务\n即可<color=#ff5599>获得50<\/color>演出积分。\n另外，完成全部任务即可再<color=#ff5599>获得150<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_BONUS_MISSION_CONTENT_TITLE",
@@ -201,7 +201,7 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT",
-        "value": "每完成1次即可<color=#ff5599>获得30</color>演出积分。"
+        "value": "每完成1次即可<color=#ff5599>获得30<\/color>演出积分。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CHALLENGE_LIVE_CONTENT_TITLE",
@@ -209,15 +209,15 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT",
-        "value": "每完成1次即可<color=#ff5599>获得1</color>演出积分。\n*通过消耗演出能量即可增加获得量。"
+        "value": "每完成1次即可<color=#ff5599>获得1<\/color>演出积分。\n*通过消耗演出能量即可增加获得量。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_CONTENT_TITLE",
-        "value": "单人演出/多人演出/欢乐演出/排位赛"
+        "value": "单人演出\/多人演出\/欢乐演出\/排位赛"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT",
-        "value": "每完成1次“多人演出·欢乐演出”即可<color=#ff5599>获得10</color>演出积分，\n1天最多可获得3次。"
+        "value": "每完成1次“多人演出·欢乐演出”即可<color=#ff5599>获得10<\/color>演出积分，\n1天最多可获得3次。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_DAILY_BONUS_CONTENT_TITLE",
@@ -225,11 +225,11 @@
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_CONTENT",
-        "value": "普通體力時，消耗1記憶體力可獲得<color=#ff55AA>1點LIVE P</color>。\n提升體力時，消耗1記憶體力可獲得<color=#ff55AA>5點LIVE P</color>。\n可能出現小數點以下的LIVE P。\n小數點以下的LIVE P每累積到1點時會加入總LIVE P。\n小數點以下的LIVE P每月0:00重置，請注意。"
+        "value": "使用普通体力时，消耗1记忆体力可获得<color=#ff55AA>1点演出积分<\/color>。\n使用增强体力时，消耗1记忆体力可获得<color=#ff55AA>5点演出积分<\/color>。\n可能出现小数点以下的演出积分。\n小数点以下的演出积分每累积到1点时会加入总演出积分。\n小数点以下的演出积分每月0:00重置，请注意。"
     },
     {
         "wordingKey": "MSG_ABOUT_LIVE_POINT_HARVEST_TITLE",
-        "value": "『我的「世界」』 採集"
+        "value": "『我的「世界」』 采集"
     },
     {
         "wordingKey": "MSG_ACCESSORY_DEFAULT_HAIR",
@@ -253,7 +253,7 @@
     },
     {
         "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_AFTER_EVENT",
-        "value": "After Event僅限持有「AfterEvent票券」者\n才可參加。\n若想參加公演、請購買票券。"
+        "value": "After Event仅限持有「AfterEvent票券」者\n才可参加。\n若想参加公演、请购买票券。"
     },
     {
         "wordingKey": "MSG_ADMISSION_LIMIT_PAID_FOR_CONNECT_LIVE",
@@ -265,11 +265,11 @@
     },
     {
         "wordingKey": "MSG_AD_REWARD_BOOST_CONFIRM_DIALOG",
-        "value": "是否观看广告，\n恢复5演出能量？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。</color></size>"
+        "value": "是否观看广告，\n恢复5演出能量？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_CONFIRM_DIALOG",
-        "value": "是否开始观看广告？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。</color></size>"
+        "value": "是否开始观看广告？\n<size=24><color=#ff5599>观看一定时间后会出现“关闭标记”，点击后即可获得奖励。<\/color><\/size>"
     },
     {
         "wordingKey": "MSG_AD_REWARD_COTION",
@@ -317,11 +317,11 @@
     },
     {
         "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON",
-        "value": "使用截图功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。\n\n请打开设备的设置界面，设置为允许访问。"
+        "value": "使用截圖功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。\n\n请打开设备的设置界面，设置为允许访问。"
     },
     {
         "wordingKey": "MSG_ALBUM_PERMISSION_NOT_GRANTED_WITH_REASON_ANDROID",
-        "value": "使用截图功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。"
+        "value": "使用截圖功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。"
     },
     {
         "wordingKey": "MSG_ALERT_TIME_OVER_EXCHANGE_TICKET",
@@ -349,11 +349,11 @@
     },
     {
         "wordingKey": "MSG_ALREADY_CLEARED_LIVE_RETRY",
-        "value": "检测到连接中断，将返回标题界面。\n演出结果将正常显示。"
+        "value": "检测到连接中断，将返回标题界面。\n演出结果将正常顯示。"
     },
     {
         "wordingKey": "MSG_ALREADY_GET_BLUEPRINT",
-        "value": "已獲得此設計圖"
+        "value": "已获得此设计圖"
     },
     {
         "wordingKey": "MSG_ANDROID_RATING",
@@ -361,7 +361,7 @@
     },
     {
         "wordingKey": "MSG_AND_NAVY",
-        "value": "<color=#444466>と</color>{0}"
+        "value": "<color=#444466>と<\/color>{0}"
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_BODY",
@@ -369,11 +369,11 @@
     },
     {
         "wordingKey": "MSG_ANOTHER_3DMV_CUTIN_DETAIL_DIALOG_NOTES",
-        "value": "<color=#ff5588>*需要将成员的专家等级提升到2级。</color>"
+        "value": "<color=#ff5588>*需要将成员的专家等级提升到2级。<\/color>"
     },
     {
         "wordingKey": "MSG_ANOTHER_COLOR_ACQUISITION_CONDITIONS_NL",
-        "value": "提升“{0} {1}”的\n<color=#FF3366>专家等级</color>即可解锁\n其他颜色。"
+        "value": "提升“{0} {1}”的\n<color=#FF3366>专家等级<\/color>即可解锁\n其他颜色。"
     },
     {
         "wordingKey": "MSG_ANOTHER_VICAL_RELEASE_CONDITION",
@@ -433,7 +433,7 @@
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_2",
-        "value": "与退款等额的付费水晶已被收回。\n\n{0}个 -> {1}个\n<color=#FF5599>*对于不足购买时单价的部分，会从之前购买的付费水晶中收回。</color>"
+        "value": "与退款等额的付费水晶已被收回。\n\n{0}个 -> {1}个\n<color=#FF5599>*对于不足购买时单价的部分，会从之前购买的付费水晶中收回。<\/color>"
     },
     {
         "wordingKey": "MSG_BILLING_REFUND_DIALOG_TEXT_3",
@@ -477,7 +477,7 @@
     },
     {
         "wordingKey": "MSG_BONDS_CHARACTER_SELECT_DESCRIPTION",
-        "value": "请选择要确认与“<color=#77eedd>{0}</color>”之间牵绊等级的角色。"
+        "value": "请选择要确认与“<color=#77eedd>{0}<\/color>”之间牵绊等级的角色。"
     },
     {
         "wordingKey": "MSG_BONDS_RANK_MAX",
@@ -505,27 +505,27 @@
     },
     {
         "wordingKey": "MSG_BOOST_RECOVER_METHOD_JEWEL_CONFIRM",
-        "value": "是否消耗<color=#ff5599>{0}</color>水晶\n来恢复<color=#ff5599>{1}</color>演出能量？"
+        "value": "是否消耗<color=#ff5599>{0}<\/color>水晶\n来恢复<color=#ff5599>{1}<\/color>演出能量？"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_HARVEST_SPEED",
-        "value": "提升體力期間，採集速度大幅提升。"
+        "value": "使用增强体力期间，采集速度大幅提升。"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_COMPLETE",
-        "value": "體力已恢復。"
+        "value": "体力已恢复。"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_CONFIRM",
-        "value": "恢復<color=#ff5599>{0}</color>記憶體力並繼續提升。\n確定？"
+        "value": "恢复<color=#ff5599>{0}<\/color>记忆体力并加快采集速度。\n确定吗？"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_JEWEL_CONFIRM",
-        "value": "使用<color=#ff5599>{0}</color>顆水晶恢復<color=#ff5599>{1}</color>記憶體力，並繼續提升。"
+        "value": "使用<color=#ff5599>{0}<\/color>颗水晶恢复<color=#ff5599>{1}<\/color>记忆体力，并加快采集速度。"
     },
     {
         "wordingKey": "MSG_BOOST_STAMINA_RECOVER_METHOD_LIVE_BONUS_CONFIRM",
-        "value": "消耗<color=#ff5599>{0}</color>LIVE BONUS恢復<color=#ff5599>{1}</color>記憶體力，並繼續提升。"
+        "value": "消耗<color=#ff5599>{0}<\/color>演出能量恢复<color=#ff5599>{1}<\/color>记忆体力，并加快采集速度。"
     },
     {
         "wordingKey": "MSG_BORDER_RANKING",
@@ -533,7 +533,7 @@
     },
     {
         "wordingKey": "MSG_BROKEN_TOOL",
-        "value": "工具壞了。"
+        "value": "工具坏了。"
     },
     {
         "wordingKey": "MSG_BUY_COMPLETE",
@@ -541,7 +541,7 @@
     },
     {
         "wordingKey": "MSG_CANVAS_BONUS_DIALOG_DESCRIPTION",
-        "value": "在『我的「世界」』中將此成員畫於畫布上會提升表現力。"
+        "value": "在『我的「世界」』中将此成员画于画布上会提升表现力。"
     },
     {
         "wordingKey": "MSG_CAN_BUY_BY_COSTUME_SHOP",
@@ -573,7 +573,7 @@
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_INFO",
-        "value": "<color=#ff5599>*每周一4点重置印章。</color>"
+        "value": "<color=#ff5599>*每周一4点重置印章。<\/color>"
     },
     {
         "wordingKey": "MSG_CHALLENGE_PLAY_DAY_REWARD_RESET",
@@ -649,7 +649,7 @@
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_CHECK_JOIN_TEAM",
-        "value": "确定要选择<color=#ff5588>“{0}”</color>\n阵营吗？"
+        "value": "确定要选择<color=#ff5588>“{0}”<\/color>\n阵营吗？"
     },
     {
         "wordingKey": "MSG_CHEERFUL_CARNIVAL_TEAM_CHANGE_FIRST",
@@ -669,15 +669,15 @@
     },
     {
         "wordingKey": "MSG_COIN_DESCRIPTION",
-        "value": "硬币可以在各个区域的商店里兑换各种各样的道具。可通过演出等方式获得。"
+        "value": "硬幣可以在各个区域的商店里兑换各种各样的道具。可通过演出等方式获得。"
     },
     {
         "wordingKey": "MSG_COLLECTION_GACHA_SPIN_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n打开<color=#FF5599>{2}个</color>\n{3}？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n打开<color=#FF5599>{2}个<\/color>\n{3}？"
     },
     {
         "wordingKey": "MSG_COLLECTION_OPEN_COUNT",
-        "value": "<size=24>打开</size>{0}次"
+        "value": "<size=24>打开<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_COLORFUL_PASS_ALERT",
@@ -709,7 +709,7 @@
     },
     {
         "wordingKey": "MSG_COLORFUL_PASS_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
-        "value": "*请点击以下按键\n确认套装内容与“依据特定商业交易法第12条第6项显示”。"
+        "value": "*请点击以下按键\n确认套装内容与“依据特定商业交易法第12条第6项顯示”。"
     },
     {
         "wordingKey": "MSG_COLORFUL_SELECT_GACHA_BALLOON",
@@ -785,11 +785,11 @@
     },
     {
         "wordingKey": "MSG_COMPLETE_CANCEL_INVITATION",
-        "value": "已取消邀請。"
+        "value": "已取消邀请。"
     },
     {
         "wordingKey": "MSG_COMPLETE_READ_REWARD_TIPS",
-        "value": "不跳過・快轉閱讀完「主線劇情」「活動劇情」\n可獲得一個讀完印章。"
+        "value": "不跳过・快转阅读完「主线剧情」「活动剧情」\n可获得一个读完印章。"
     },
     {
         "wordingKey": "MSG_CONDITION_GET_CARD",
@@ -801,11 +801,11 @@
     },
     {
         "wordingKey": "MSG_CONFIRME_KICK_DIALOG",
-        "value": "將此玩家從『我的「世界」』中踢出。\n確定？"
+        "value": "将此玩家从『我的「世界」』中踢出。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONFIRME_OTHER_PLAYER_MYSEKAI_VISIT",
-        "value": "前往{0}的『我的「世界」』。\n確定？"
+        "value": "前往{0}的『我的「世界」』。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_DATA_LINK",
@@ -813,11 +813,11 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_GATE_LEVEL_UP",
-        "value": "升級{0}。\n確定？"
+        "value": "升级{0}。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_LEAVE_MYSEKAI",
-        "value": "退出{0}的『我的「世界」』。\n確定？"
+        "value": "退出{0}的『我的「世界」』。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_MYLIST_RESET",
@@ -833,11 +833,11 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_APPLE",
-        "value": "有連携Apple ID的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？？"
+        "value": "有绑定该Apple ID的玩家资料。\n要解除原本的绑定，并绑定现在的玩家资料吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_OVERWRITE_STORE_ACCOUNT_GOOGLE",
-        "value": "有連携Google的玩家資料。\n要解除原本的連携，並連携現在的玩家資料？？"
+        "value": "有绑定该Google的玩家资料。\n要解除原本的绑定，并绑定现在的玩家资料吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_PLAY_LOGIN_STORY_DIALOG",
@@ -845,7 +845,7 @@
     },
     {
         "wordingKey": "MSG_CONFIRM_RANDOM_VISIT",
-        "value": "隨機前往『我的「世界」』。\n確定？"
+        "value": "随机前往『我的「世界」』。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONFIRM_REMOVE_BOOK_MARK",
@@ -873,15 +873,15 @@
     },
     {
         "wordingKey": "MSG_CONNECT_LIVE_VOCAL_GET",
-        "value": "獲得了Connect LIVEver. Vocal。\n消費了{0}。"
+        "value": "获得了Connect LIVE ver. Vocal。\n消费了{0}。"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_COLORFULPASS_EXPIRED",
-        "value": "缤纷通行证～PRECIOUS～已过期，\n演出中断。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "缤纷通行证～PRECIOUS～已过期，\n演出中断。\n\n<color=#FF77AA>*已顯示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_EVENT_MAINTENANCE",
-        "value": "正在对活动进行维护，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。\n*无法获得维护后的活动积分和章节徽章。</color>"
+        "value": "正在对活动进行维护，\n中断自动演出。\n\n<color=#FF77AA>*已顯示中断前的演出成绩。\n*无法获得维护后的活动积分和章节徽章。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_COMPLETE",
@@ -889,11 +889,11 @@
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_ENDED_LIMITED_MUSIC",
-        "value": "歌曲的公开时间已结束，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "歌曲的公开时间已结束，\n中断自动演出。\n\n<color=#FF77AA>*已顯示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_NOT_ENOUGH",
-        "value": "演出能量不足，\n中断自动演出。\n\n<color=#FF77AA>*已显示中断前的演出成绩。</color>"
+        "value": "演出能量不足，\n中断自动演出。\n\n<color=#FF77AA>*已顯示中断前的演出成绩。<\/color>"
     },
     {
         "wordingKey": "MSG_CONSECUTIVE_AUTO_LIVE_PAUSE_AND_RESTART",
@@ -929,19 +929,19 @@
     },
     {
         "wordingKey": "MSG_CONSUME_SIZE_NUM_FORMAT",
-        "value": "消耗<size={0}>{1}</size>"
+        "value": "消耗<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_CHOICE_DESCRIPTION",
-        "value": "轉換後可隨機獲得{0}中的設計圖。"
+        "value": "转换后可随机获得{0}中的设计圖。"
     },
     {
         "wordingKey": "MSG_CONVERT_BLUEPRINT_RANDOM_BOX_DESCRIPTION",
-        "value": "轉換後可隨機獲得設計圖。"
+        "value": "转换后可随机获得设计圖。"
     },
     {
         "wordingKey": "MSG_CONVERT_ITEM_NONE",
-        "value": "沒有可轉換的道具。"
+        "value": "没有可转换的道具。"
     },
     {
         "wordingKey": "MSG_CONVERT_MESSAGE",
@@ -953,43 +953,43 @@
     },
     {
         "wordingKey": "MSG_CONVERT_NOT_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，\n無法進行轉換。"
+        "value": "由于世界通行证已过期，\n无法进行转换。"
     },
     {
         "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_CHOICE_DESCRIPTION",
-        "value": "轉換後可隨機從{0}中獲得唱片。"
+        "value": "转换后可随机从{0}中获得唱片。"
     },
     {
         "wordingKey": "MSG_CONVERT_RECORD_RANDOM_BOX_DESCRIPTION",
-        "value": "轉換後可隨機獲得唱片。"
+        "value": "转换后可随机获得唱片。"
     },
     {
         "wordingKey": "MSG_CONVERT_SLOT_LOCK_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，槽位已被鎖定。"
+        "value": "由于世界通行证已过期，槽位已被锁定。"
     },
     {
         "wordingKey": "MSG_CONVERT_SLOT_SHORTEN_CONFIRM",
-        "value": "消耗<color=#ff5588>{0}顆水晶</color>\n跳過{1}的轉換時間。\n確定？"
+        "value": "消耗<color=#ff5588>{0}颗水晶<\/color>\n跳过{1}的转换时间。\n确定吗？"
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_ATTENTION",
-        "value": "※設計圖可能會重複。"
+        "value": "※设计圖可能会重复。"
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_BLUEPRINT_CHOICE_TITLE",
-        "value": "請選擇要轉換的設計圖類別。"
+        "value": "请选择要转换的设计圖类別。"
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_ATTENTION",
-        "value": "※唱片可能會重複。"
+        "value": "※唱片可能会重复。"
     },
     {
         "wordingKey": "MSG_CONVERT_SURPLUS_RECORD_CHOICE_TITLE",
-        "value": "請選擇要轉換的團體唱片。"
+        "value": "请选择要转换的组合唱片。"
     },
     {
         "wordingKey": "MSG_CONVERT_UPPER_LIMIT_PASS",
-        "value": "由於超過世界通行證的有效期限，\n無法轉換此數量。\n請重新選擇。"
+        "value": "由于超过世界通行证的有效期限，\n无法转换此数量。\n请重新选择。"
     },
     {
         "wordingKey": "MSG_COPY_COMPLETE_ROOM_ID",
@@ -1017,7 +1017,7 @@
     },
     {
         "wordingKey": "MSG_CRAFT_REACHED_POSSESSION_LIMIT",
-        "value": "已達到可存放數量上限"
+        "value": "已达到可存放数量上限"
     },
     {
         "wordingKey": "MSG_CREATE_PRIVATE_ROOM",
@@ -1049,19 +1049,19 @@
     },
     {
         "wordingKey": "MSG_CUSTOMPROFILE_HONOR_EMPTY",
-        "value": "暂无可显示的称号。"
+        "value": "暂无可顯示的称号。"
     },
     {
         "wordingKey": "MSG_CUSTOM_PROFILE_COLLECTION_ALERT",
-        "value": "若选择的收藏持有数量变为0，\n则无法在同一套装中继续使用。\n\n*如果删除收藏图层，\n根据删除的张数会恢复收藏持有数量。\n*使用数量会以套装中的总数来计算。"
+        "value": "若选择的收藏持有数量变为0，\n则无法在同一套装中继续使用。\n\n*如果删除收藏圖层，\n根据删除的张数会恢复收藏持有数量。\n*使用数量会以套装中的总数来计算。"
     },
     {
         "wordingKey": "MSG_CUSTOM_PROFILE_PARTS_VISUAL_SELECT",
-        "value": "请选择要显示的个人资料详情。"
+        "value": "请选择要顯示的个人资料详情。"
     },
     {
         "wordingKey": "MSG_CUSTOM_PROFILE_SELECT_CARD_DETAIL",
-        "value": "请选择要显示的卡片资料详情。"
+        "value": "请选择要顯示的卡片资料详情。"
     },
     {
         "wordingKey": "MSG_CUSTOM_PROFILE_TEMPLATE_SELECT",
@@ -1081,7 +1081,7 @@
     },
     {
         "wordingKey": "MSG_DATA_LINK_RELEASE_CONFIRM_HINT",
-        "value": "<color=#ff5599>*解除后可再次同步。</color>"
+        "value": "<color=#ff5599>*解除后可再次同步。<\/color>"
     },
     {
         "wordingKey": "MSG_DATA_LINK_WARNING_OVERWRITE",
@@ -1089,7 +1089,7 @@
     },
     {
         "wordingKey": "MSG_DATE_LIMIT",
-        "value": "至{0:D4}/{1:D2}/{2:D2} {3:D2}:{4:D2}为止"
+        "value": "至{0:D4}\/{1:D2}\/{2:D2} {3:D2}:{4:D2}为止"
     },
     {
         "wordingKey": "MSG_DECIDE_CURRENT_MEMBER",
@@ -1125,7 +1125,7 @@
     },
     {
         "wordingKey": "MSG_DEFERRED_PURCHASE",
-        "value": "支付完毕后商店画面会显示商品。\n显示商品可能需要一定时间。"
+        "value": "支付完毕后商店画面会顯示商品。\n顯示商品可能需要一定时间。"
     },
     {
         "wordingKey": "MSG_DISCONNECT_LEFT_ROOM",
@@ -1133,15 +1133,15 @@
     },
     {
         "wordingKey": "MSG_DISCONNECT_LEFT_ROOM_CODE",
-        "value": "连接已中断，将返回主界面。<size=28>({0})</size>"
+        "value": "连接已中断，将返回主界面。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_DL_MYSEKAI_VOICE",
-        "value": "是否下載『我的「世界」』語音？\n\n<color=#ff5599>大約{0}MB</color>\n\n可享受『我的「世界」』中完整語音的對話。\n※可稍後於『我的「世界」』設定中打開。"
+        "value": "是否下載『我的「世界」』语音？\n\n<color=#ff5599>大约{0}MB<\/color>\n\n可享受『我的「世界」』中完整语音的对话。\n※可稍后于『我的「世界」』设置中打开。"
     },
     {
         "wordingKey": "MSG_DOUBLE_SKILL_INFO_DIALOG",
-        "value": "特訓前・特訓後各有1种技能。 \n可以通過切換顯示的卡面圖像以變更在LIVE中發動的技能。"
+        "value": "特训前・特训后各有1种技能。 \n可以通过切换顯示的卡面圖像以更换在演出中发动的技能。"
     },
     {
         "wordingKey": "MSG_DOWNLOAD_CONFIRM_1",
@@ -1169,7 +1169,7 @@
     },
     {
         "wordingKey": "MSG_EACH_COLOR_ONE_ONLY",
-        "value": "※此家具每種顏色僅能製作{0}個。"
+        "value": "※此家具每种颜色仅能制作{0}个。"
     },
     {
         "wordingKey": "MSG_EDITABLE_MYLIST",
@@ -1181,7 +1181,7 @@
     },
     {
         "wordingKey": "MSG_EMPTY_STAMP_DEFAULT",
-        "value": "暂无可显示的表情。"
+        "value": "暂无可顯示的表情。"
     },
     {
         "wordingKey": "MSG_EMPTY_STAMP_FAVORITE",
@@ -1205,11 +1205,11 @@
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_CONFIRM_TO_USE",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "MSG_ENTER_STREAMING_LIVE_WITH_TICKET_ONLY_DIALOG",
-        "value": "是否消耗\n<color=#ff5588>{1}张</color>{0}入场？"
+        "value": "是否消耗\n<color=#ff5588>{1}张<\/color>{0}入场？"
     },
     {
         "wordingKey": "MSG_ENTRY_CONFIRMATION",
@@ -1253,7 +1253,7 @@
     },
     {
         "wordingKey": "MSG_ERROR_TO_HOME",
-        "value": "發生錯誤。\n將返回主頁。"
+        "value": "发生错误。\n将返回主页。"
     },
     {
         "wordingKey": "MSG_ERROR_TO_TITLE",
@@ -1265,7 +1265,7 @@
     },
     {
         "wordingKey": "MSG_EVENT_LIVE_BOOST_EXCEPTION",
-        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}</color>。"
+        "value": "活动期间的消耗数量<color=#ff5599>最多可设置为{0}<\/color>。"
     },
     {
         "wordingKey": "MSG_EVENT_MAINTENANCE_ON_GOING_DIALOG",
@@ -1277,7 +1277,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_CONFIRM_DIALOG_FREEBIE",
-        "value": "因為重複獲得、能夠獲取道具獎勵。\n<color=#ff5588>※曾獲得過的成員已被送至休息室。</color>"
+        "value": "因为重复获得、能够获取道具奖励。\n<color=#ff5588>※曾获得过的成员已被送至休息室。<\/color>"
     },
     {
         "wordingKey": "MSG_EXCHANGE_ERROR",
@@ -1285,7 +1285,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_FREEBIE_CONFIRM_DIALOG",
-        "value": "因為重複獲得成員給予以下獎勵。"
+        "value": "因为重复获得成员给予以下奖励。"
     },
     {
         "wordingKey": "MSG_EXCHANGE_GACHA_CIEL_1",
@@ -1305,7 +1305,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_JEWEL_TO_VIRTUAL_COIN",
-        "value": "是否用<color={0}>{1}个</color>水晶兑换\n<color={0}>{2}个</color>虚拟硬币？"
+        "value": "是否用<color={0}>{1}个<\/color>水晶兑换\n<color={0}>{2}个<\/color>虚拟硬幣？"
     },
     {
         "wordingKey": "MSG_EXCHANGE_MATERIAL",
@@ -1321,7 +1321,7 @@
     },
     {
         "wordingKey": "MSG_EXCHANGE_VIRTUAL_COIN",
-        "value": "用虚拟硬币兑换"
+        "value": "用虚拟硬幣兑换"
     },
     {
         "wordingKey": "MSG_EXHCHANGE_TICKET_LIMIT_ALERT",
@@ -1337,7 +1337,7 @@
     },
     {
         "wordingKey": "MSG_EXP_FRONT_SIZE_FORMAT",
-        "value": "经验值<size={0}>{1}</size>"
+        "value": "经验值<size={0}>{1}<\/size>"
     },
     {
         "wordingKey": "MSG_EXP_PLUS",
@@ -1357,11 +1357,11 @@
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION",
-        "value": "<color=#f7a>{0}</color>与其他{1}人推荐"
+        "value": "<color=#f7a>{0}<\/color>与其他{1}人推荐"
     },
     {
         "wordingKey": "MSG_FAVORITE_COMMENT_INFORMATION_SINGLE",
-        "value": "<color=#f7a>{0}</color>推荐"
+        "value": "<color=#f7a>{0}<\/color>推荐"
     },
     {
         "wordingKey": "MSG_FEEDBACK",
@@ -1381,7 +1381,7 @@
     },
     {
         "wordingKey": "MSG_FIXTURE_ACTION_WARNING_OWNER_EDIT_MODE",
-        "value": "由於擁有者正在編輯中，無法操作家具。"
+        "value": "由于拥有者正在编辑中，无法使用家具。"
     },
     {
         "wordingKey": "MSG_FIXTURE_BONUS_UP_DIALOG",
@@ -1393,7 +1393,7 @@
     },
     {
         "wordingKey": "MSG_FIX_MIKU_COSTUME",
-        "value": "3DMV始终显示现在的初音未来"
+        "value": "3DMV始终顯示现在的初音未来"
     },
     {
         "wordingKey": "MSG_FIX_OPPONENT_PROGRESS",
@@ -1473,7 +1473,7 @@
     },
     {
         "wordingKey": "MSG_FRIEND_INVITE_REWARD_DIALOG",
-        "value": "<color=#ff5588>{0}</color>\n看完主线剧情{1}、{2}、\n{3}，完成了邀请任务，\n因此获得了奖励。"
+        "value": "<color=#ff5588>{0}<\/color>\n看完主线剧情{1}、{2}、\n{3}，完成了邀请任务，\n因此获得了奖励。"
     },
     {
         "wordingKey": "MSG_FRIEND_LIMIT_COUNT_FOR_OTHER",
@@ -1517,11 +1517,11 @@
     },
     {
         "wordingKey": "MSG_GACHA_BONUS_ITEM_DESCRIPTION",
-        "value": "ガチャボーナスが{0}に到達すると、提供割合に応じて以下のアイテムを獲得できます。"
+        "value": "ガチャボーナスが{0}に到达すると、提供割合に応じて以下のアイテムを获得できます。"
     },
     {
         "wordingKey": "MSG_GACHA_BONUS_ITEM_REWARD_SELECT_CONFIRM_TIPS",
-        "value": "將獲得這個道具。確定？"
+        "value": "将选择这个道具。确定吗？"
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_CONVERT_CONFIRM",
@@ -1529,7 +1529,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_CEIL_TICKET_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}</color>张{0}\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{1}<\/color>张{0}\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_GACHA_EXCHANGE_NUMBER_OF_PURCHASE",
@@ -1561,19 +1561,19 @@
     },
     {
         "wordingKey": "MSG_GACHA_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}个</color>{0}\n<color=#FF5599>进行{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}个<\/color>{0}\n<color=#FF5599>进行{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT",
-        "value": "<size=24>招募</size>{0}次"
+        "value": "<size=24>招募<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_COUNT_PAID",
-        "value": "<size=32>（付费）招募</size>{0}次"
+        "value": "<size=32>（付费）招募<\/size>{0}次"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_ERROR",
-        "value": "发生连接错误，将返回标题界面。\n*请在登录后确认招募结果是否正确。\n*如招募结果未能正确显示，请通过“客服”咨询。"
+        "value": "发生连接错误，将返回标题界面。\n*请在登录后确认招募结果是否正确。\n*如招募结果未能正确顯示，请通过“客服”咨询。"
     },
     {
         "wordingKey": "MSG_GACHA_SPIN_LIMIT",
@@ -1581,7 +1581,7 @@
     },
     {
         "wordingKey": "MSG_GACHA_TICKET_SPIN",
-        "value": "是否消耗<color=#FF5599>{1}张</color>{0}\n<color=#FF5599>进行{2}次</color>“{3}”招募？"
+        "value": "是否消耗<color=#FF5599>{1}张<\/color>{0}\n<color=#FF5599>进行{2}次<\/color>“{3}”招募？"
     },
     {
         "wordingKey": "MSG_GACHA_TIME_OVER",
@@ -1593,19 +1593,19 @@
     },
     {
         "wordingKey": "MSG_GATE_LEVEL_UP_INCREASE_VISITS",
-        "value": "當大門等級提升時，會有更多人來訪。"
+        "value": "当大门等级提升时，会有更多人来访。"
     },
     {
         "wordingKey": "MSG_GATE_SEND_INVITATION_CHARACTER_SELECT",
-        "value": "請選擇要發送邀請函的角色。"
+        "value": "请选择要发送邀请函的角色。"
     },
     {
         "wordingKey": "MSG_GET_BLUEPRINT",
-        "value": "已獲得「{0}」。"
+        "value": "已获得「{0}」。"
     },
     {
         "wordingKey": "MSG_GET_GACHA_BONUS",
-        "value": "獲得了招募獎勵。"
+        "value": "获得了招募奖励。"
     },
     {
         "wordingKey": "MSG_GET_LIVE_MISSION_POINT",
@@ -1613,19 +1613,19 @@
     },
     {
         "wordingKey": "MSG_GET_RECORD",
-        "value": "已獲得唱片。"
+        "value": "已获得唱片。"
     },
     {
         "wordingKey": "MSG_GET_SURPLUS_BLUEPRINT",
-        "value": "已獲得設計圖，但由於已擁有，作為「<color=#ff5588>{0}</color>」獲得。"
+        "value": "已获得设计圖，但由于已拥有，作为「<color=#ff5588>{0}<\/color>」获得。"
     },
     {
         "wordingKey": "MSG_GET_SURPLUS_RECORD",
-        "value": "已獲得唱片，但由於已擁有，作為「<color=#ff5588>多餘唱片</color>」獲得。"
+        "value": "已获得唱片，但由于已拥有，作为「<color=#ff5588>多餘唱片<\/color>」获得。"
     },
     {
         "wordingKey": "MSG_GIFT_NOT_SELECT_CONFIRM",
-        "value": "需要设置好道具，\n才能进行欢乐礼物包招募。\n要稍后设置道具吗？\n\n<color=#ff5599>*在进行招募前，\n可以自由变更道具。</color>"
+        "value": "需要设置好道具，\n才能进行欢乐礼物包招募。\n要稍后设置道具吗？\n\n<color=#ff5599>*在进行招募前，\n可以自由变更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT",
@@ -1633,7 +1633,7 @@
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_CONFIRM",
-        "value": "是否确定设置这个道具？\n<color=#ff5599>*在进行招募前，可以自由变更道具。</color>"
+        "value": "是否确定设置这个道具？\n<color=#ff5599>*在进行招募前，可以自由变更道具。<\/color>"
     },
     {
         "wordingKey": "MSG_GIFT_SELECT_INDUCTION",
@@ -1641,11 +1641,11 @@
     },
     {
         "wordingKey": "MSG_GIVE_LIVE_BONUS",
-        "value": "收到<color=#ff5599>{0}</color>赠送的\n演出能量×{1}。"
+        "value": "收到<color=#ff5599>{0}<\/color>赠送的\n演出能量×{1}。"
     },
     {
         "wordingKey": "MSG_HARVST_SITE_RELEASE_NEW_SITE",
-        "value": "已解鎖新區域。"
+        "value": "已解锁新区域。"
     },
     {
         "wordingKey": "MSG_HAS_CUTIN",
@@ -1653,19 +1653,19 @@
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_COMPLETE_REWARD",
-        "value": "达成最高得分<color=#FF5599>{0}</color>的奖励"
+        "value": "达成最高得分<color=#FF5599>{0}<\/color>的奖励"
     },
     {
         "wordingKey": "MSG_HIGH_SCORE_UPDATE_REWARD",
-        "value": "每次刷新最高得分<color=#FF5599>{0}</color>的奖励"
+        "value": "每次刷新最高得分<color=#FF5599>{0}<\/color>的奖励"
     },
     {
         "wordingKey": "MSG_HOME_SITE_SIZE_EXPAND",
-        "value": "庭院大小已擴展。"
+        "value": "庭院大小已扩展。"
     },
     {
         "wordingKey": "MSG_HOUSING_PRESET_SLOT_LOCK_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，預設槽位已被鎖定。"
+        "value": "由于世界通行证已过期，预设槽位已被锁定。"
     },
     {
         "wordingKey": "MSG_ID_NOT_FOUND",
@@ -1685,7 +1685,7 @@
     },
     {
         "wordingKey": "MSG_INHERIT_LIMIT_START",
-        "value": "已到达活动排行榜前<color=#ff5588>300名</color>。\n\n为保证活动的公平公正，\n到达排行榜前<color=#ff5588>300名</color>的玩家，\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{0}）\n限制次数：剩余{1}次\n\n感谢您的理解。"
+        "value": "已到达活动排行榜前<color=#ff5588>300名<\/color>。\n\n为保证活动的公平公正，\n到达排行榜前<color=#ff5588>300名<\/color>的玩家，\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{0}）\n限制次数：剩余{1}次\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_INHERIT_LIMT_REST",
@@ -1721,7 +1721,7 @@
     },
     {
         "wordingKey": "MSG_INVENTORY_OVER",
-        "value": "道具欄已滿。"
+        "value": "道具栏已满。"
     },
     {
         "wordingKey": "MSG_INVITE_FAILED_CHEERFUL_INVALID_TEAM",
@@ -1749,7 +1749,7 @@
     },
     {
         "wordingKey": "MSG_KICKOUT_DIALOG_TEXT",
-        "value": "由於玩家設定變更，已被踢出。\n返回自己的『我的「世界」』。"
+        "value": "由于玩家设置更换，已被踢出。\n返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_KICKOUT_TO_HOME",
@@ -1785,11 +1785,11 @@
     },
     {
         "wordingKey": "MSG_LEARN_PHENOMENA",
-        "value": "遇到了新的天氣「<color=#ff5588>{0}</color>」，可以於我的家中設定了。"
+        "value": "遇到了新的天气「<color=#ff5588>{0}<\/color>」，可以在我的家中设置了。"
     },
     {
         "wordingKey": "MSG_LEAVE_CHARACTER",
-        "value": "{0}已經離開。"
+        "value": "{0}已经离开。"
     },
     {
         "wordingKey": "MSG_LEFT_ROOM",
@@ -1837,11 +1837,11 @@
     },
     {
         "wordingKey": "MSG_LIVE_CONTINUE",
-        "value": "是否消耗<color=#FF5599>{0}</color>个水晶恢复全部生命值，\n并继续演出？"
+        "value": "是否消耗<color=#FF5599>{0}<\/color>个水晶恢复全部生命值，\n并继续演出？"
     },
     {
         "wordingKey": "MSG_LIVE_FAILED",
-        "value": "生命值已耗尽。 \n可消耗<color=#FF5599>{0}</color>个水晶恢复全部生命值，\n并继续演出。"
+        "value": "生命值已耗尽。 \n可消耗<color=#FF5599>{0}<\/color>个水晶恢复全部生命值，\n并继续演出。"
     },
     {
         "wordingKey": "MSG_LIVE_IS_FULL",
@@ -1865,7 +1865,7 @@
     },
     {
         "wordingKey": "MSG_LOGINBONUS_RECEIVE",
-        "value": "获得了<color=#ff5599>{0}</color> ！"
+        "value": "获得了<color=#ff5599>{0}<\/color> ！"
     },
     {
         "wordingKey": "MSG_LV_TEXT",
@@ -1881,7 +1881,7 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE",
-        "value": "是否消耗<color={2}>{1}</color>个{0}\n来进行专家训练？"
+        "value": "是否消耗<color={2}>{1}<\/color>个{0}\n来进行专家训练？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION",
@@ -1889,11 +1889,11 @@
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_EXECUTE_CONFIRMATION_ITEM",
-        "value": "<color={2}>{1}</color>个{0}"
+        "value": "<color={2}>{1}<\/color>个{0}"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{0}</color>个心愿碎片\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{0}<\/color>个心愿碎片\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_MASTER_LESSON_NOTHING",
@@ -1905,15 +1905,15 @@
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-        "value": "<color=#00CCBB>1级</color>解锁"
+        "value": "<color=#00CCBB>1级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-        "value": "<color=#00CCBB>3级</color>解锁"
+        "value": "<color=#00CCBB>3级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-        "value": "<color=#00CCBB>5级</color>解锁"
+        "value": "<color=#00CCBB>5级<\/color>解锁"
     },
     {
         "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -1945,11 +1945,11 @@
     },
     {
         "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM",
-        "value": "是否消耗<color=#FF5599>{1}</color>个{0}\n来兑换道具？"
+        "value": "是否消耗<color=#FF5599>{1}<\/color>个{0}\n来兑换道具？"
     },
     {
         "wordingKey": "MSG_MATERIAL_EXCHANGE_CONFIRM_BY_GACHA_CIEL",
-        "value": "要消耗<color=#FF5599>{1}</color>個{0} \n交換道具？"
+        "value": "要消耗<color=#FF5599>{1}<\/color>个{0} \n兑换道具？"
     },
     {
         "wordingKey": "MSG_MATERIAL_POSSESSION",
@@ -1961,7 +1961,7 @@
     },
     {
         "wordingKey": "MSG_MAX_PLACE_COUNT",
-        "value": "图层数已达到上限。"
+        "value": "圖层数已达到上限。"
     },
     {
         "wordingKey": "MSG_MEMBER_DETAIL_EXPLANATION_NL",
@@ -2097,11 +2097,11 @@
     },
     {
         "wordingKey": "MSG_MULTI_COSTUME_COST_CONFIRM",
-        "value": "要消耗以下道具交換服裝？"
+        "value": "要消耗以下道具兑换服装？"
     },
     {
         "wordingKey": "MSG_MULTI_COST_CONFIRM",
-        "value": "要消耗以下道具交換道具？"
+        "value": "要消耗以下道具兑换道具？"
     },
     {
         "wordingKey": "MSG_MULTI_DISSOLUSION",
@@ -2121,7 +2121,7 @@
     },
     {
         "wordingKey": "MSG_MULTI_RESULT_WAITING",
-        "value": "正在等待其他玩家……({0}/{1})"
+        "value": "正在等待其他玩家……({0}\/{1})"
     },
     {
         "wordingKey": "MSG_MULTI_WAITING",
@@ -2145,11 +2145,11 @@
     },
     {
         "wordingKey": "MSG_MUSIC_SAVE_CAPACITY_DESCRIPTION",
-        "value": "可以透過減少裝置中儲存的歌曲Vocal版本資料來降低使用容量。\n超過設定上限的歌曲Vocal版本資料將由舊至新依序刪除，並於播放時重新下載。"
+        "value": "可以通过减少设备中存储的歌曲Vocal版本数据来降低占用容量。\n超过设置上限的歌曲Vocal版本数据将按照旧到新的顺序依次删除，并在播放时重新下载。"
     },
     {
         "wordingKey": "MSG_MUSIC_SAVE_NUM_SETTING_CONFIRM",
-        "value": "歌曲Vocal版本資料數量上限是否設定如下？"
+        "value": "是否将歌曲Vocal版本数据的数量上限设置如下？"
     },
     {
         "wordingKey": "MSG_MUSIC_SHOP_PURCHASE",
@@ -2165,7 +2165,7 @@
     },
     {
         "wordingKey": "MSG_MV_DELETE_TOTAL_SIZE",
-        "value": "所占用的数据空间将减少<color=#ff5599>{0}MB</color>。"
+        "value": "所占用的数据空间将减少<color=#ff5599>{0}MB<\/color>。"
     },
     {
         "wordingKey": "MSG_MV_SAVE_SIZE_SETTING_CONFIRM",
@@ -2185,131 +2185,131 @@
     },
     {
         "wordingKey": "MSG_MYROOM_SITE_RELEASE_NEW_FLOOR",
-        "value": "已解鎖新樓層。"
+        "value": "已解锁新楼层。"
     },
     {
         "wordingKey": "MSG_MYROOM_SITE_SIZE_EXPAND",
-        "value": "房間大小已擴展。"
+        "value": "房间大小已扩展。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_COLORFUL_PASS_ALERT",
-        "value": "世界通行證已過期。\n是否重新購買？"
+        "value": "世界通行证已过期。\n是否重新购买？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_FIXTURE_JOINT_RELEASE_PUT_LIMIT",
-        "value": "我的家中可放置<color=#ff5599>柵欄和道路</color>的最大數量已提升。"
+        "value": "我的家中可放置<color=#ff5599>柵栏和道路<\/color>的最大数量已提升。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
-        "value": "我的家中可放置<color=#ff5599>家具</color>的最大數量已提升。"
+        "value": "我的家中可放置<color=#ff5599>家具<\/color>的最大数量已提升。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_CHANGE_INTERVAL_FORMAT",
-        "value": "距離可更改還需{0}"
+        "value": "距离可更改还需{0}"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_DETAIL_ATTENTION",
-        "value": "※同一虛擬歌手的子團體也能獲得加成。\n※原創虛擬歌手只能從加成最高的一個大門獲益。"
+        "value": "※同一虚拟歌手的子组合也能获得加成。\n※原创虚拟歌手只能从加成最高的一个大门获益。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_IN_INVITATION",
-        "value": "正在投遞邀請函中。"
+        "value": "正在投递邀请函中。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_IN_SETTING",
-        "value": "已設定完成"
+        "value": "已设置完成"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_NOT_ENOUGH_MATERIAL_TO_LEVEL_UP",
-        "value": "升級所需的材料不足"
+        "value": "升级所需的材料不足"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_REACHED_TO_MAX_LEVEL",
-        "value": "大門的等級已達上限"
+        "value": "大门的等级已达上限"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION",
-        "value": "投遞邀請函吧！"
+        "value": "投递邀请函吧！"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_COMPLETED",
-        "value": "已邀請{0}來到『我的「世界」』。"
+        "value": "已邀请{0}来到『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SEND_INVITATION_CONFIRM",
-        "value": "是否發送邀請函給{0}？\n<color=#FF3366>發送後需等待{1}天才能再次發送邀請函。</color>"
+        "value": "是否发送邀请函给{0}？\n<color=#FF3366>发送后需等待{1}天才能再次发送邀请函。<\/color>"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SKIN_NOT_SETUP",
-        "value": "此皮膚僅可設定於{0}。"
+        "value": "此皮肤仅可设置于{0}。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE",
-        "value": "皮膚已解鎖。"
+        "value": "皮肤已解锁。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_GATE_SKIN_RELEASE_CONFIRM",
-        "value": "是否解鎖「{0}」？"
+        "value": "是否解锁「{0}」？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_INVALID_TO_TRIPOD_MODE",
-        "value": "後方空間不足，無法放置三腳架。"
+        "value": "后方空间不足，无法放置三脚架。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_JOIN_ERROR",
-        "value": "因可訪問的人數已達上限，無法進入此玩家的『我的「世界」』。"
+        "value": "因可访问的人数已达上限，无法进入此玩家的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_LAYOUT_EDIT_PLANNING_COUNT",
-        "value": "剩餘{0}"
+        "value": "剩余{0}"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MATCHING_MODEL_ROOM_DESCRIPTION",
-        "value": "正在搜尋樣品屋…"
+        "value": "正在搜索样板房…"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MATCHING_NOW_DESCRIPTION",
-        "value": "正在搜尋『我的「世界」』…"
+        "value": "正在搜索『我的「世界」』…"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MISSION_COMING_SOON",
-        "value": "即將推出…"
+        "value": "即将推出…"
     },
     {
         "wordingKey": "MSG_MYSEKAI_MOVE_TO_PRESET_CONFIRM",
-        "value": "將保存當前佈局並移動到預設。\n是否繼續？"
+        "value": "将保存当前布局并移动到预设。\n是否继续？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_NOT_ENOUGH_PHOTO_FILM",
-        "value": "由於膠片不足，無法進行拍攝。\n膠片可透過購買或轉換獲得。"
+        "value": "由于胶片不足，无法进行拍攝。\n胶片可透过购买或转换获得。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_OPEN_SITE_MESSAGE",
-        "value": "新區域「{0}」已解鎖。"
+        "value": "新区域「{0}」已解锁。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_OWNER_LEAVE",
-        "value": "連線已中斷。\n返回自己的『我的「世界」』。"
+        "value": "连接已中断。\n返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_PHOTO_RELEASE_INFO",
-        "value": "已解除相片置頂。"
+        "value": "已解除照片置頂。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_PHOTO_SETTING_INFO",
-        "value": "已將相片設為置頂。"
+        "value": "已将照片设为置頂。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_PHOTO_SHOT_SAVE",
-        "value": "拍攝的相片已保存至相簿。"
+        "value": "拍攝的照片已保存至相簿。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_PUT_LIMIT",
-        "value": "已達到家具設置數量上限。"
+        "value": "已达到家具设置数量上限。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SECRET_SHOP_PURCHASE_LIMIT_REACHED",
-        "value": "本週的購買次數上限已達，無法再購買。"
+        "value": "已达本周的购买次数上限，无法购买。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SITE_EDIT_SAVE",
@@ -2317,11 +2317,11 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_SITE_LAYOUT_EDIT_CLEAN_UP_CONFIRM",
-        "value": "將收起編輯區域內的所有家具。\n是否繼續？"
+        "value": "将收起编辑区域內的所有家具。\n是否继续？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_CONFIRM",
-        "value": "是否在空白設計圖上描繪此家具？"
+        "value": "是否在空白设计圖上描绘此家具？"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_CRYSTAL_SHOP_GO",
@@ -2329,23 +2329,23 @@
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_HAD_BLUE_PRINT",
-        "value": "由於已擁有此家具的設計圖，無法再次描繪。"
+        "value": "由于已拥有此家具的设计圖，无法再次描绘。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_HAS_NOT_FIXTURE",
-        "value": "此『我的「世界」』中無可描繪的家具。"
+        "value": "此『我的「世界」』中无可描绘的家具。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_SPECIAL_FIXTURE",
-        "value": "無法描繪特殊家具。"
+        "value": "无法描绘特殊家具。"
     },
     {
         "wordingKey": "MSG_MYSEKAI_SKETCH_TRADE_GO",
-        "value": "前往轉換"
+        "value": "前往转换"
     },
     {
         "wordingKey": "MSG_MYSEKAI_TUTORIAL_CALL_CHARACTER_IN_PHOTO_MODE",
-        "value": "點擊以呼喚角色！"
+        "value": "点击以呼唤角色！"
     },
     {
         "wordingKey": "MSG_NAME_INPUT",
@@ -2361,11 +2361,11 @@
     },
     {
         "wordingKey": "MSG_NEED_COLORFUL_SELECT_LIST_SETTING",
-        "value": "若要进行招募，需要设置Pick Up清单。\n\n<color=#ff5599>*需要完成所有成员栏位的设置。</color>"
+        "value": "若要进行招募，需要设置Pick Up清单。\n\n<color=#ff5599>*需要完成所有成员栏位的设置。<\/color>"
     },
     {
         "wordingKey": "MSG_NEED_SELECT_LIST_SETTING",
-        "value": "若要进行招募，需要设置自选清单。\n\n<color=#ff5599>*必须完成所有成员栏位的设置。</color>"
+        "value": "若要进行招募，需要设置自选清单。\n\n<color=#ff5599>*必须完成所有成员栏位的设置。<\/color>"
     },
     {
         "wordingKey": "MSG_NETWORK_CONNECTION_ERROR",
@@ -2373,7 +2373,7 @@
     },
     {
         "wordingKey": "MSG_NEXT_EPISODE_RELEASE_DATE_AT",
-        "value": "{0}的剧情\n<color=#ff77AA>{1:MM/dd HH:mm} 解锁</color>"
+        "value": "{0}的剧情\n<color=#ff77AA>{1:MM\/dd HH:mm} 解锁<\/color>"
     },
     {
         "wordingKey": "MSG_NGWORD_BALLOON",
@@ -2405,11 +2405,11 @@
     },
     {
         "wordingKey": "MSG_NONE_INVITATION",
-        "value": "無邀請函。"
+        "value": "无邀请函。"
     },
     {
         "wordingKey": "MSG_NONE_MYSEKAI_FRIEND_LIST",
-        "value": "無可訪問的好友。"
+        "value": "无可访问的好友。"
     },
     {
         "wordingKey": "MSG_NONE_PAID_LIVE_REWARD",
@@ -2417,7 +2417,7 @@
     },
     {
         "wordingKey": "MSG_NONE_TAG_OPTIONS",
-        "value": "輸入關鍵詞以顯示標籤建議。"
+        "value": "输入关键词以顯示标签建议。"
     },
     {
         "wordingKey": "MSG_NOTHING_ACCESSORY_ITEM",
@@ -2481,7 +2481,7 @@
     },
     {
         "wordingKey": "MSG_NOT_CANCEL_INVITATION_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，\n無法取消邀請。\n返回我的家。"
+        "value": "由于世界通行证已过期，\n无法取消邀请。\n返回我的家。"
     },
     {
         "wordingKey": "MSG_NOT_CONSUME",
@@ -2489,7 +2489,7 @@
     },
     {
         "wordingKey": "MSG_NOT_EDIT_LAYOUT_VISITING_CHARACTER_FROM_GATE",
-        "value": "角色正在使用大門期間無法修改佈局。"
+        "value": "角色正在使用大门期间无法修改布局。"
     },
     {
         "wordingKey": "MSG_NOT_ENOUGH_CURRENCY",
@@ -2517,7 +2517,7 @@
     },
     {
         "wordingKey": "MSG_NOT_ENOUGH_WHITE_BLUE_PRINT",
-        "value": "無空白設計圖。\n可於水晶商店購買或於轉換機中獲得。"
+        "value": "无空白设计圖。\n可于水晶商店购买或于转换机中获得。"
     },
     {
         "wordingKey": "MSG_NOT_ENTRY_EVENT",
@@ -2533,11 +2533,11 @@
     },
     {
         "wordingKey": "MSG_NOT_HAVE_TOOL",
-        "value": "無工具。\n請於工作台製作。"
+        "value": "无工具。\n请于工作台制作。"
     },
     {
         "wordingKey": "MSG_NOT_INVITATION_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，無法邀請。\n返回我的家。"
+        "value": "由于世界通行证已过期，无法邀请。\n返回我的家。"
     },
     {
         "wordingKey": "MSG_NOT_PLAYABLE_EVENT",
@@ -2553,7 +2553,7 @@
     },
     {
         "wordingKey": "MSG_NOT_PURCHASE_SECRET_SHOP_EXPIRED_PASS",
-        "value": "由於世界通行證已過期，\n無法使用秘密商店。\n返回我的家。"
+        "value": "由于世界通行证已过期，\n无法使用秘密商店。\n返回我的家。"
     },
     {
         "wordingKey": "MSG_NOT_RESULT_CONFIRM_NOW",
@@ -2561,7 +2561,7 @@
     },
     {
         "wordingKey": "MSG_NOT_SHOW_AGAIN",
-        "value": "不再显示"
+        "value": "不再顯示"
     },
     {
         "wordingKey": "MSG_NOT_TARGET_MUSIC",
@@ -2601,7 +2601,7 @@
     },
     {
         "wordingKey": "MSG_NO_DEMETION_RANK_MATCH",
-        "value": "現在的段位不會發生降級。"
+        "value": "现在的段位不会发生降级。"
     },
     {
         "wordingKey": "MSG_NO_FILTERING_RESULT",
@@ -2625,19 +2625,19 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_BEFORE_ENTRY",
-        "value": "<color=#ff5599>{0}～开始报名！</color>"
+        "value": "<color=#ff5599>{0}～开始报名！<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_CAN_ENTRY_CONTINUOUS_BUY",
-        "value": "<color=#ff5599>继续购买缤纷通行证即可参加报名。\n*会按照超过有效期后第二天购买的情况进行计算。</color>"
+        "value": "<color=#ff5599>继续购买缤纷通行证即可参加报名。\n*会按照超过有效期后第二天购买的情况进行计算。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_ENTRY",
-        "value": "<color=#ff5599>报名时间 {0}～{1}为止</color>"
+        "value": "<color=#ff5599>报名时间 {0}～{1}为止<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_CELL_NOT_APPLICABLE",
-        "value": "<color=#ff5599>持续购买时长不满{0}个月，\n不满足该活动的报名条件。</color>"
+        "value": "<color=#ff5599>持续购买时长不满{0}个月，\n不满足该活动的报名条件。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION1",
@@ -2645,11 +2645,11 @@
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_ENTRY_CONFIRM_DIALOG_ATTENSION2",
-        "value": "*需要在报名网站提供报名ID参加抽签。\n<color=#ff5588>*报名ID为个人专用ID，\n切勿告知他人。</color>"
+        "value": "*需要在报名网站提供报名ID参加抽签。\n<color=#ff5588>*报名ID为个人专用ID，\n切勿告知他人。<\/color>"
     },
     {
         "wordingKey": "MSG_OFFLINE_EVENT_EVALUATION_PERIOD",
-        "value": "{0} ～\n{1}\n<color=#ff5588>*必须在这段时间内</color>\n<color=#ff5588>达成持续购买时长的条件。</color>"
+        "value": "{0} ～\n{1}\n<color=#ff5588>*必须在这段时间内<\/color>\n<color=#ff5588>达成持续购买时长的条件。<\/color>"
     },
     {
         "wordingKey": "MSG_OLD_COLOFRUL_PASS_USER_DIALOG_BODY",
@@ -2673,7 +2673,7 @@
     },
     {
         "wordingKey": "MSG_ONE_ONLY_CRAFT",
-        "value": "※此家具僅能製作{0}個。"
+        "value": "※此家具仅能制作{0}个。"
     },
     {
         "wordingKey": "MSG_ON_GOING_EVENT_MAINTENANCE",
@@ -2697,7 +2697,7 @@
     },
     {
         "wordingKey": "MSG_OVER_BOOST_STAMINA_RECOVER",
-        "value": "已達到上限"
+        "value": "已达到上限"
     },
     {
         "wordingKey": "MSG_OVER_RARITY_3_ONCE",
@@ -2717,7 +2717,7 @@
     },
     {
         "wordingKey": "MSG_OWNER_LEAVE_NOTICE",
-        "value": "{0}已退出。\n{1}秒後返回自己的『我的「世界」』。"
+        "value": "{0}已退出。\n{1}秒后返回自己的『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_PAID_LIVE_DISC",
@@ -2769,7 +2769,7 @@
     },
     {
         "wordingKey": "MSG_PHOTOSHOT_UNSAVE",
-        "value": "將放棄拍攝的相片並返回拍攝前的狀態。\n確定？"
+        "value": "将放弃拍攝的照片并返回拍攝前的状态。\n确定吗？"
     },
     {
         "wordingKey": "MSG_PIN_THE_LEADER",
@@ -2781,15 +2781,15 @@
     },
     {
         "wordingKey": "MSG_PLACEMENT_MATCH_COUNT",
-        "value": "离确定起始段位\n还有<color=#FF5599>{0}</color>次匹配"
+        "value": "离确定起始段位\n还有<color=#FF5599>{0}<\/color>次匹配"
     },
     {
         "wordingKey": "MSG_PLAYER_KICKOUT_AND_BLOCK_RESULT",
-        "value": "已將此玩家從『我的「世界」』封鎖並踢出。"
+        "value": "已将此玩家从『我的「世界」』封锁并踢出。"
     },
     {
         "wordingKey": "MSG_PLAYER_KICKOUT_RESULT",
-        "value": "已將此玩家從『我的「世界」』踢出。"
+        "value": "已将此玩家从『我的「世界」』踢出。"
     },
     {
         "wordingKey": "MSG_PLAYER_LEAVE_NOTICE",
@@ -2797,15 +2797,15 @@
     },
     {
         "wordingKey": "MSG_PLAYER_VISIT_NOTICE",
-        "value": "{0}來訪了『我的「世界」』。"
+        "value": "{0}来访了『我的「世界」』。"
     },
     {
         "wordingKey": "MSG_PLEASE_SELECT_REWARD",
-        "value": "請選擇要獲取的1個報酬。"
+        "value": "请选择要获取的1个报酬。"
     },
     {
         "wordingKey": "MSG_POSSESSION_OVER_LIMIT",
-        "value": "由於道具持有數量已達上限，無法領取道具。"
+        "value": "由于道具持有数量已达上限，无法领取道具。"
     },
     {
         "wordingKey": "MSG_PRACTICE_EXECUTE",
@@ -2821,7 +2821,7 @@
     },
     {
         "wordingKey": "MSG_PRACTICE_TICKET_ERROR",
-        "value": "上次练习结果未正常显示。\n为重新获取数据，将取消练习。\n\n请在查看成员等级和消耗的练习乐谱数量后，\n再次进行练习。"
+        "value": "上次练习结果未正常顯示。\n为重新获取数据，将取消练习。\n\n请在查看成员等级和消耗的练习乐谱数量后，\n再次进行练习。"
     },
     {
         "wordingKey": "MSG_PRELIMINARY_TOURNAMENT_ENDED",
@@ -2833,7 +2833,7 @@
     },
     {
         "wordingKey": "MSG_PREMIUM_MISSION_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_CONFIRM",
-        "value": "*请点击以下按键\n确认套装内容与“依据特定商业交易法第12条第6项显示”。"
+        "value": "*请点击以下按键\n确认套装内容与“依据特定商业交易法第12条第6项顯示”。"
     },
     {
         "wordingKey": "MSG_PRESENT_COUNT",
@@ -2841,11 +2841,11 @@
     },
     {
         "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_1",
-        "value": "ガチャを1回引くごとに、各種アイテムがプライズとして獲得できます。\n\n※プライズの抽選は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽選を行います。例えば提供割合1%のアイテムが100回中1回必ず出現するという仕組みではありません。\n※プライズで獲得できる「[4周年記念]ブルームフェスティバルガチャ専用チケット」は、9月30日12時開催予定の「[4周年記念]ブルームフェスティバルガチャ ドリームピック」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで獲得できる「[4周年記念]10連無料ガチャチケット」は、9月30日12時開催予定の「[4周年記念]10連無料ガチャ」でのみ使用できるガチャチケットです。また、開催期限を過ぎた場合、「[4周年記念]10連無料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
+        "value": "ガチャを1回引くごとに、各种アイテムがプライズとして获得できます。\n\n※プライズの抽选は、ガチャの結果画面にて実行されます。\n※プライズは提供割合に基づき1回ごとに抽选を行います。例えば提供割合1%のアイテムが100回中1回必ず出现するという仕组みではありません。\n※プライズで获得できる「[4周年記念]ブルームフェスティバルガチャ専用チケット」は、9月30日12时开催予定の「[4周年記念]ブルームフェスティバルガチャ ドリームピック」でのみ使用できるガチャチケットです。また、开催期限を过ぎた场合、「[4周年記念]ブルームフェスティバルガチャ専用チケット」はご利用いただけなくなりますのでご注意ください。\n※プライズで获得できる「[4周年記念]10連无料ガチャチケット」は、9月30日12时开催予定の「[4周年記念]10連无料ガチャ」でのみ使用できるガチャチケットです。また、开催期限を过ぎた场合、「[4周年記念]10連无料ガチャチケット」はご利用いただけなくなりますのでご注意ください。"
     },
     {
         "wordingKey": "MSG_PRIZE_GIFT_DESCRIPTION_2",
-        "value": "每抽取一次扭蛋，即可隨機獲得各種獎品。\n\n※獎品的抽取將於扭蛋結果畫面進行。\n※獎品根據提供比例進行逐次抽取。例如，提供比例為1%的道具並不保證100次中一定出現1次。\n※獎品中的「[2025新春]Bloom Festival扭蛋專用券」僅能在「[2025新春]Bloom Festival扭蛋」中使用，活動期限過後將無法使用。\n※獎品中的「[2025新春]新年免費扭蛋券」僅能在「[2025新春]新年免費扭蛋」中使用，活動期限過後將無法使用，請注意。"
+        "value": "每抽取一次扭蛋，即可随机获得各种奖品。\n\n※奖品的抽取将于扭蛋結果画面进行。\n※奖品根据提供比例进行逐次抽取。例如，提供比例为1%的道具并不保证100次中一定出现1次。\n※奖品中的「[2025新春]Bloom Festival扭蛋專用券」仅能在「[2025新春]Bloom Festival扭蛋」中使用，活动期限过后将无法使用。\n※奖品中的「[2025新春]新年免费扭蛋券」仅能在「[2025新春]新年免费扭蛋」中使用，活动期限过后将无法使用，请注意。"
     },
     {
         "wordingKey": "MSG_PRODUCT_IS_PENDING",
@@ -2853,11 +2853,11 @@
     },
     {
         "wordingKey": "MSG_PROFILE_HONOR_BONDS_SELECT",
-        "value": "请选择要显示称号的详情。"
+        "value": "请选择要顯示称号的详情。"
     },
     {
         "wordingKey": "MSG_PROFILE_HONOR_RANK_SELECT",
-        "value": "请选择要显示称号的等级。"
+        "value": "请选择要顯示称号的等级。"
     },
     {
         "wordingKey": "MSG_PUBLISH_ROOM",
@@ -2905,7 +2905,7 @@
     },
     {
         "wordingKey": "MSG_RANK_FORMAT",
-        "value": "等级<size={0}>{1}</size>/{2}"
+        "value": "等级<size={0}>{1}<\/size>\/{2}"
     },
     {
         "wordingKey": "MSG_RANK_LIVE_END_SEASON",
@@ -2941,7 +2941,7 @@
     },
     {
         "wordingKey": "MSG_RANK_LIVE_PLACEMENT_REQUIRED_MATCH_COUNT_FORMAT",
-        "value": "离确定起始段位\n还有<size=80> {0} </size>次匹配"
+        "value": "离确定起始段位\n还有<size=80> {0} <\/size>次匹配"
     },
     {
         "wordingKey": "MSG_RANK_MATCH_CLOSE_NEXT_TIME_FORMAT",
@@ -2977,7 +2977,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_CONVERT_REWARD",
-        "value": "已領取轉換的道具。"
+        "value": "已领取转换的道具。"
     },
     {
         "wordingKey": "MSG_RECEIVED_COSTUME",
@@ -2989,7 +2989,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_LIVE_COSTUME",
-        "value": "获得演出服装。\n<color=#ff77AA>可以在服装商店制作其他角色的演出服装了。</color>"
+        "value": "获得演出服装。\n<color=#ff77AA>可以在服装商店制作其他角色的演出服装了。<\/color>"
     },
     {
         "wordingKey": "MSG_RECEIVED_LOGIN_BONUS",
@@ -2997,7 +2997,7 @@
     },
     {
         "wordingKey": "MSG_RECEIVED_PARTIAL_REWARD_DUE_TO_POSSESSION_LIMIT",
-        "value": "由於道具持有數量已達上限，部分道具無法接收。"
+        "value": "由于道具持有数量已达上限，部分道具无法接收。"
     },
     {
         "wordingKey": "MSG_RECEIVED_PRESENT_MUSIC",
@@ -3013,43 +3013,43 @@
     },
     {
         "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_CARD",
-        "value": "今回でガチャボーナス{0}に到達！\nボーナスメンバーをセレクトしてください。"
+        "value": "今回でガチャボーナス{0}に到达！\nボーナスメンバーをセレクトしてください。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_APPEAL_SELECT_ITEM",
-        "value": "今回でガチャボーナス{0}に到達！\nボーナスアイテムをセレクトしてください。"
+        "value": "今回でガチャボーナス{0}に到达！\nボーナスアイテムをセレクトしてください。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_RANDOM_NOTICE",
-        "value": "提供メンバーの中から、未獲得のメンバーが提供される★4メンバーとして登場します。\n未獲得メンバーがいない場合は、全提供メンバーの中から登場します。"
+        "value": "提供メンバーの中から、未获得のメンバーが提供される★4メンバーとして登场します。\n未获得メンバーがいない场合は、全提供メンバーの中から登场します。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_RANDOM_ONLY_NORMAL_NOTICE",
-        "value": "恒常メンバーの中から、未獲得のメンバーが提供される★4メンバーとして登場します。\n未獲得メンバーがいない場合は、全恒常メンバーの中から登場します。"
+        "value": "恒常メンバーの中から、未获得のメンバーが提供される★4メンバーとして登场します。\n未获得メンバーがいない场合は、全恒常メンバーの中から登场します。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_SELECT",
-        "value": "請在下面選擇1名喜歡的成員"
+        "value": "请在下面选择1名喜欢的成员"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_SELECT_END_CONFIRM",
-        "value": "將設定該成員。確定？"
+        "value": "将设置该成员。确定吗？"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_SELECT_NOTICE",
-        "value": "提供メンバーの中から、ボーナスとして選択したメンバーが、★4メンバーとして登場します。"
+        "value": "提供メンバーの中から、ボーナスとして选択したメンバーが、★4メンバーとして登场します。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_SELECT_ONLY_NORMAL_NOTICE",
-        "value": "恒常メンバーの中から、ボーナスとして選択したメンバーが、★4メンバーとして登場します。"
+        "value": "恒常メンバーの中から、ボーナスとして选択したメンバーが、★4メンバーとして登场します。"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM",
-        "value": "未設定成員。\n在設定成員之前、\n無法進行選擇清單招募。\n要稍後設定成員？"
+        "value": "未设置成员。\n在设置成员之前、\n无法进行选择清单招募。\n要稍后设置成员？"
     },
     {
         "wordingKey": "MSG_RECOLLECTION_WISH_LIST_CONFIRM_TIPS",
-        "value": "※ガチャボーナスメンバーは\nボーナス獲得まで何度でも変更できます。"
+        "value": "※ガチャボーナスメンバーは\nボーナス获得まで何度でも変更できます。"
     },
     {
         "wordingKey": "MSG_RECOMMEND_SUPPORT_DECK",
@@ -3061,7 +3061,7 @@
     },
     {
         "wordingKey": "MSG_RECONNECT_CODE",
-        "value": "正在重新连接。<size=28>({0})</size>"
+        "value": "正在重新连接。<size=28>({0})<\/size>"
     },
     {
         "wordingKey": "MSG_RELEASE_ATTRIBUTE_AREA_SHOP",
@@ -3077,11 +3077,11 @@
     },
     {
         "wordingKey": "MSG_RELEASING_AT_MYSEKAI_COLORFUL_PASS_PURCHASE",
-        "value": "購買世界通行證後解鎖"
+        "value": "购买世界通行证后解锁"
     },
     {
         "wordingKey": "MSG_RELEASING_AT_MYSEKAI_MISSION_PASS_PURCHASE",
-        "value": "購買『我的「世界」』任務通行證後解鎖"
+        "value": "购买『我的「世界」』任务通行证后解锁"
     },
     {
         "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
@@ -3089,11 +3089,11 @@
     },
     {
         "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
-        "value": "还剩<size={0}>{1}次</size>"
+        "value": "还剩<size={0}>{1}次<\/size>"
     },
     {
         "wordingKey": "MSG_REPAIR_TOOL",
-        "value": "工具已損壞。\n請在工作台製作新工具。"
+        "value": "工具已损坏。\n请在工作台制作新工具。"
     },
     {
         "wordingKey": "MSG_REPLACE_CUT_IN_NOTE",
@@ -3141,15 +3141,15 @@
     },
     {
         "wordingKey": "MSG_REVIEW_GIFT",
-        "value": "查看獎勵"
+        "value": "查看奖励"
     },
     {
         "wordingKey": "MSG_REWARDED_AD_LOADING",
-        "value": "正在讀取CM。"
+        "value": "正在读取广告。"
     },
     {
         "wordingKey": "MSG_REWARDED_AD_LOAD_FAILED",
-        "value": "CM的讀取失敗了。"
+        "value": "广告的读取失败了。"
     },
     {
         "wordingKey": "MSG_REWARD_SCALE",
@@ -3221,7 +3221,7 @@
     },
     {
         "wordingKey": "MSG_SET_DISCOUNT_ANNOTATION",
-        "value": "※已套用任務通行證組合購買折扣。"
+        "value": "※已应用任务通行证组合购买折扣。"
     },
     {
         "wordingKey": "MSG_SHOP_AGE_CONFIRM",
@@ -3261,7 +3261,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE",
-        "value": "<color={0}>有效期限 {1} </color>"
+        "value": "<color={0}>有效期限 {1} <\/color>"
     },
     {
         "wordingKey": "MSG_SHOP_EXPIRATION_DATE_2",
@@ -3305,7 +3305,7 @@
     },
     {
         "wordingKey": "MSG_SHOP_REFLECT_ERROR",
-        "value": "已购买的付费道具未能正常显示。\n请稍候片刻，\n重新从标题界面登录。"
+        "value": "已购买的付费道具未能正常顯示。\n请稍候片刻，\n重新从标题界面登录。"
     },
     {
         "wordingKey": "MSG_SHOP_RESET",
@@ -3313,11 +3313,11 @@
     },
     {
         "wordingKey": "MSG_SHOP_RE_REFLECT_CONFIRM",
-        "value": "已购买的付费道具未能显示。\n请尝试再次显示。"
+        "value": "已购买的付费道具未能顯示。\n请尝试再次顯示。"
     },
     {
         "wordingKey": "MSG_SHOP_RE_REFLECT_SUCCESS",
-        "value": "未能显示的付费道具已成功显示。"
+        "value": "未能顯示的付费道具已成功顯示。"
     },
     {
         "wordingKey": "MSG_SHOP_WEEKLY_NUMBER_OF_PURCHASE",
@@ -3337,7 +3337,7 @@
     },
     {
         "wordingKey": "MSG_SKETCH_WARNING_OWNER_EDIT_MODE",
-        "value": "由於擁有者正在編輯中，無法進行描繪。"
+        "value": "由于拥有者正在编辑中，无法进行描绘。"
     },
     {
         "wordingKey": "MSG_SKILL_PRACTICE_EXECUTE",
@@ -3353,7 +3353,7 @@
     },
     {
         "wordingKey": "MSG_SKIP_SCENE_CONFIRM",
-        "value": "是否跳過此場景？"
+        "value": "是否跳过此场景？"
     },
     {
         "wordingKey": "MSG_SPECIAL_TRAINING_1_CONFIRM",
@@ -3377,7 +3377,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_BACK_SCREEN_WARNING",
-        "value": "尚未完成集点卡设置。\n选择{0}张集点卡，\n点击“任务开始”即可开始印章任务。\n是否稍后再设置集点卡？\n\n<color=#ff5588>*点击“任务开始”前\n可以自由变更集点卡。</color>"
+        "value": "尚未完成集点卡设置。\n选择{0}张集点卡，\n点击“任务开始”即可开始印章任务。\n是否稍后再设置集点卡？\n\n<color=#ff5588>*点击“任务开始”前\n可以自由变更集点卡。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_CHOOSE_TO_REQUEST",
@@ -3397,7 +3397,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_CONFIRM_WARNING",
-        "value": "<color=#ff5588>*在确定后无法更改。</color>"
+        "value": "<color=#ff5588>*在确定后无法更改。<\/color>"
     },
     {
         "wordingKey": "MSG_STAMP_CARD_SELECT_SELECTED",
@@ -3449,7 +3449,7 @@
     },
     {
         "wordingKey": "MSG_STREAMINGLIVE_AFTEREVENT_NOTICE",
-        "value": "無法進入After Event"
+        "value": "无法进入After Event"
     },
     {
         "wordingKey": "MSG_STREAMING_LIVE_FINISH",
@@ -3529,11 +3529,11 @@
     },
     {
         "wordingKey": "MSG_TRADE_MACHINE_LEVEL_UP",
-        "value": "轉換機等級提升。"
+        "value": "转换机等级提升。"
     },
     {
         "wordingKey": "MSG_TREASURE_BOX_NOTICE",
-        "value": "{0}出現了寶箱！"
+        "value": "{0}出现了宝箱！"
     },
     {
         "wordingKey": "MSG_TROUBLE_MULTILIVE",
@@ -3541,11 +3541,11 @@
     },
     {
         "wordingKey": "MSG_TUTORIAL_HARVEST_LIMIT",
-        "value": "已採集到足夠的材料。\n※若任務未達成，或未能取得掉落的素材，可能無法獲得全部素材。"
+        "value": "已采集到足够的材料。\n※若任务未达成，或未能取得掉落的素材，可能无法获得全部素材。"
     },
     {
         "wordingKey": "MSG_TUTORIAL_NEXT_CONFIRM",
-        "value": "是否進入下一個教程？"
+        "value": "是否进入下一个教程？"
     },
     {
         "wordingKey": "MSG_TUTORIAL_QUESTION1",
@@ -3561,7 +3561,7 @@
     },
     {
         "wordingKey": "MSG_TUTORIAL_REQUIRE_RECORD",
-        "value": "由於未持有唱片，無法使用。"
+        "value": "由于未持有唱片，无法使用。"
     },
     {
         "wordingKey": "MSG_TUTORIAL_UNIT_CONFIRM_BODY",
@@ -3573,11 +3573,11 @@
     },
     {
         "wordingKey": "MSG_UNABLE_CLAIM_REWARD_EXPIRED",
-        "value": "已經超過領取的時限、無法獲得報酬。"
+        "value": "已经超过领取的时限、无法获得报酬。"
     },
     {
         "wordingKey": "MSG_UNCLAIMED_REWARD",
-        "value": "報酬未領取。"
+        "value": "报酬未领取。"
     },
     {
         "wordingKey": "MSG_UNLOCK_AREAITEM",
@@ -3589,7 +3589,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_FROM_BUY_MYSEKAI_MISSION_PASS",
-        "value": "購買『我的「世界」』任務通行證後解鎖"
+        "value": "购买『我的「世界」』任务通行证后解锁"
     },
     {
         "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
@@ -3601,7 +3601,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_WITH_OVER_TOTAL_POWER",
-        "value": "综合力达到{0}后解锁/<color={1}>当前为{2}</color>"
+        "value": "综合力达到{0}后解锁\/<color={1}>当前为{2}<\/color>"
     },
     {
         "wordingKey": "MSG_UNLOCK_WORLD_BLOOM_EVENTSTORY_BODY",
@@ -3625,7 +3625,7 @@
     },
     {
         "wordingKey": "MSG_USE_120FPS_DIALOG",
-        "value": "将演出的流畅度（帧率）从最高60帧设置为120帧。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“标准”，\n并通过“联系我们”反馈。</color>"
+        "value": "将演出的流畅度（帧率）从最高60帧设置为120帧。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“标准”，\n并通过“联系我们”反馈。<\/color>"
     },
     {
         "wordingKey": "MSG_USE_VIRTUAL_LIVE_ITEM",
@@ -3633,15 +3633,15 @@
     },
     {
         "wordingKey": "MSG_USE_VSYNC_DIALOG",
-        "value": "演出的流畅度（帧率）会根据设备性能自动调整。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“开”，\n并通过“联系我们”反馈。</color>"
+        "value": "演出的流畅度（帧率）会根据设备性能自动调整。\n\n<color=#FF3366>*该选项为试用功能。\n如果该功能无法正常运作，请将设置变更为“开”，\n并通过“联系我们”反馈。<\/color>"
     },
     {
         "wordingKey": "MSG_VALID_SET_UP_IN_FLOOR",
-        "value": "可於地板上設置"
+        "value": "可于地板上设置"
     },
     {
         "wordingKey": "MSG_VALID_SET_UP_IN_WALL",
-        "value": "可於牆壁上設置"
+        "value": "可于墙壁上设置"
     },
     {
         "wordingKey": "MSG_VETERAN_ROOM_DESCRIPTION",
@@ -3653,7 +3653,7 @@
     },
     {
         "wordingKey": "MSG_VIRTUAL_COIN_DESCRIPTION",
-        "value": "虚拟硬币可以兑换虚拟道具和虚拟形象服装。可通过演出任务或心愿碎片兑换所等方式获得。"
+        "value": "虚拟硬幣可以兑换虚拟道具和虚拟形象服装。可通过演出任务或心愿碎片兑换所等方式获得。"
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_CHEER_RANKING_TITLE",
@@ -3673,7 +3673,7 @@
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_HOME_REWARD_LIST_DIALOG_BODY",
-        "value": "獲得虛擬LIVE的報酬。"
+        "value": "获得虚拟演出的报酬。"
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_IN_SESSION",
@@ -3689,15 +3689,15 @@
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON",
-        "value": "使用截图功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。"
+        "value": "使用截圖功能时，\n需要允许《初音未来：缤纷舞台》访问设备内的\n媒体或文件。"
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_CONFIRM",
-        "value": "要購入選擇的組合包？"
+        "value": "要购入选择的组合包？"
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_SHOP_DUPLICATE_WARNING",
-        "value": "選擇的組合包內含有已經獲得的道具、\n無法獲得以下道具。"
+        "value": "选择的组合包內含有已经获得的道具、\n无法获得以下道具。"
     },
     {
         "wordingKey": "MSG_VIRTUAL_LIVE_TO_BE_HELD_SOON",
@@ -3717,7 +3717,7 @@
     },
     {
         "wordingKey": "MSG_VISIT_CHARACTER",
-        "value": "從{0}的{1}來訪了。"
+        "value": "从{0}的{1}来访了。"
     },
     {
         "wordingKey": "MSG_VL_MESSAGE_CURRENCY_NOT_ENOUGH",
@@ -3753,15 +3753,15 @@
     },
     {
         "wordingKey": "MSG_WARNING_LEAVE_CHARACTER",
-        "value": "這個劇情之後、\n暁山 瑞希將暫時不會出現在「現実世界」。\n要繼續閱讀？"
+        "value": "这个剧情之后、\n晓山瑞希将暫时不会出现在「现实世界」。\n要继续阅读吗？"
     },
     {
         "wordingKey": "MSG_WARNING_SKETCH_OTHER_PLAYER",
-        "value": "由於其他玩家正在描繪，無法編輯。"
+        "value": "由于其他玩家正在描绘，无法编辑。"
     },
     {
         "wordingKey": "MSG_WARNING_USE_FIXTURE_OTHER_PLAYER",
-        "value": "由於其他玩家正在使用家具，無法編輯。"
+        "value": "由于其他玩家正在使用家具，无法编辑。"
     },
     {
         "wordingKey": "MSG_WARN_ALREADY_USE_STREAMING_LIVE_TICKET",
@@ -3781,11 +3781,11 @@
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_1",
-        "value": "·获得“<color=#FF77AAFF>[{0}]{1}</color>”后，\n即可为<color=#FF77AAFF>{1}</color>穿戴“<color=#FF77AAFF>{2}</color>”。"
+        "value": "·获得“<color=#FF77AAFF>[{0}]{1}<\/color>”后，\n即可为<color=#FF77AAFF>{1}<\/color>穿戴“<color=#FF77AAFF>{2}<\/color>”。"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_1",
-        "value": "·获得“<color=#FF77AAFF>[{0}]{1}</color>”后，\n服装商店将新增“<color=#FF77AAFF>{2}</color>”。\n\n·在服装商店指定可穿戴“<color=#FF77AAFF>{2}</color>”的角色并制作服装后，"
+        "value": "·获得“<color=#FF77AAFF>[{0}]{1}<\/color>”后，\n服装商店将新增“<color=#FF77AAFF>{2}<\/color>”。\n\n·在服装商店指定可穿戴“<color=#FF77AAFF>{2}<\/color>”的角色并制作服装后，"
     },
     {
         "wordingKey": "MSG_WEARABLE_MEMBER_2_2",
@@ -3801,7 +3801,7 @@
     },
     {
         "wordingKey": "MSG_WEAR_OUT_TOOL",
-        "value": "工具快要損壞了。"
+        "value": "工具快要损坏了。"
     },
     {
         "wordingKey": "MSG_WEB_LINK_BANNER_CONFIRM_DIALOG_BODY",
@@ -3809,7 +3809,7 @@
     },
     {
         "wordingKey": "MSG_WEB_PAYMENT_REFLECT",
-        "value": "在官方商店購入的以下道具已被反映。"
+        "value": "在官方商店购入的以下道具已被反映。"
     },
     {
         "wordingKey": "MSG_WISH_LIST_BACK_GACHA_TOP_CONFIRM",
@@ -3861,7 +3861,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_INHERIT_LIMIT_START",
-        "value": "已到达章节{0}排行榜前<color=#ff5588>{1}名</color>。\n\n为保证活动的公平公正，\n到达章节排行榜前<color=#ff5588>{2}名</color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至章节结束（{3}）\n限制次数：剩余{4}次\n<color=#ff3366>*限制次数与综合排行榜共通。</color>\n\n感谢您的理解。"
+        "value": "已到达章节{0}排行榜前<color=#ff5588>{1}名<\/color>。\n\n为保证活动的公平公正，\n到达章节排行榜前<color=#ff5588>{2}名<\/color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至章节结束（{3}）\n限制次数：剩余{4}次\n<color=#ff3366>*限制次数与综合排行榜共通。<\/color>\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_CHAPTER_YOUR_TOTAL_EVENT_POINT",
@@ -3869,7 +3869,7 @@
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_INHERIT_LIMIT_START",
-        "value": "已到达活动综合排行榜前<color=#ff5588>{0}名</color>。\n\n为保证活动的公平公正，\n到达综合排行榜前<color=#ff5588>{1}名</color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{2}）\n限制次数：剩余{3}次\n<color=#ff3366>*限制次数与各章节排行榜共通。</color>\n\n感谢您的理解。"
+        "value": "已到达活动综合排行榜前<color=#ff5588>{0}名<\/color>。\n\n为保证活动的公平公正，\n到达综合排行榜前<color=#ff5588>{1}名<\/color>的玩家\n在本次活动期间的数据继承次数将受到限制。\n\n限制时间：至活动结束（{2}）\n限制次数：剩余{3}次\n<color=#ff3366>*限制次数与各章节排行榜共通。<\/color>\n\n感谢您的理解。"
     },
     {
         "wordingKey": "MSG_WORLD_BLOOM_YOUR_TOTAL_EVENT_POINT",
@@ -3901,11 +3901,11 @@
     },
     {
         "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_CONFIRM",
-        "value": "將刪除保存於『我的「世界」』擴展預設槽的內容並遊玩『我的「世界」』。\n確定？"
+        "value": "将刪除保存于『我的「世界」』扩展预设槽的內容并游玩『我的「世界」』。\n确定吗？"
     },
     {
         "wordingKey": "MYSEKAI_EXPIRE_SITE_HOUSING_PRESET_EXTEND_SLOT_DELETE",
-        "value": "刪除並前往『我的「世界」』"
+        "value": "刪除并前往『我的「世界」』"
     },
     {
         "wordingKey": "OMIKUJI_PROVISION_TAB_TITLE",
@@ -3973,7 +3973,7 @@
     },
     {
         "wordingKey": "WARD_EXCHANGE_ANOTHER_VOCAL",
-        "value": "於另一個歌手商店交換"
+        "value": "于Another Vocal商店兑换"
     },
     {
         "wordingKey": "WORD_\bEXCHANGE_NUM",
@@ -3981,7 +3981,7 @@
     },
     {
         "wordingKey": "WORD_  REQUIRED_MATERIAL",
-        "value": "必要素材"
+        "value": "必要材料"
     },
     {
         "wordingKey": "WORD_10_SONGS",
@@ -4117,7 +4117,7 @@
     },
     {
         "wordingKey": "WORD_ACTIVATED_W_SKILL",
-        "value": "解放了第2個技能！"
+        "value": "解放了第2个技能！"
     },
     {
         "wordingKey": "WORD_ADD",
@@ -4201,7 +4201,7 @@
     },
     {
         "wordingKey": "WORD_AGGREGATION_PERIOD_FORMAT",
-        "value": "至{0}/{1} {2}:{3:00}为止"
+        "value": "至{0}\/{1} {2}:{3:00}为止"
     },
     {
         "wordingKey": "WORD_ALL",
@@ -4325,7 +4325,7 @@
     },
     {
         "wordingKey": "WORD_AP_COMBO_EFFECT",
-        "value": "AP特效显示"
+        "value": "AP特效顯示"
     },
     {
         "wordingKey": "WORD_ARCHIVE_EVENT_STORY_ERROR_TITLE",
@@ -4369,7 +4369,7 @@
     },
     {
         "wordingKey": "WORD_AROUND_DATE_TIME",
-        "value": "{0:00}/{1:00}\n {2}点左右"
+        "value": "{0:00}\/{1:00}\n {2}点左右"
     },
     {
         "wordingKey": "WORD_ARRANGEMENT_DETERMINING",
@@ -4385,7 +4385,7 @@
     },
     {
         "wordingKey": "WORD_ATRAINING_AFTER",
-        "value": "特訓後"
+        "value": "特训后"
     },
     {
         "wordingKey": "WORD_ATTRIBUTE",
@@ -4429,11 +4429,11 @@
     },
     {
         "wordingKey": "WORD_AVATOR_PENLIGHT_INFO",
-        "value": "燈光棒的設定僅適用於虛擬演唱會。"
+        "value": "灯光棒的设置仅适用于虚拟演唱会。"
     },
     {
         "wordingKey": "WORD_AXE",
-        "value": "斧頭"
+        "value": "斧头"
     },
     {
         "wordingKey": "WORD_A_PARENTHESES_B_FORMAT",
@@ -4497,7 +4497,7 @@
     },
     {
         "wordingKey": "WORD_BLOCK_AND_KICK",
-        "value": "封鎖並踢出"
+        "value": "封锁并踢出"
     },
     {
         "wordingKey": "WORD_BLOCK_LIST",
@@ -4525,7 +4525,7 @@
     },
     {
         "wordingKey": "WORD_BLOCK_PLAYER_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BODY",
@@ -4561,7 +4561,7 @@
     },
     {
         "wordingKey": "WORD_BOND_HONOR_SETTING_TITLE",
-        "value": "确认称号显示"
+        "value": "确认称号顯示"
     },
     {
         "wordingKey": "WORD_BOND_HONOR_SETTING_WORD",
@@ -4633,11 +4633,11 @@
     },
     {
         "wordingKey": "WORD_BONUS_MISSION_COMPLETE_REWARD",
-        "value": "獎勵任務 完成報酬"
+        "value": "奖励任务 完成报酬"
     },
     {
         "wordingKey": "WORD_BONUS_MISSION_EVENT_BUTTON",
-        "value": "獎勵\n任務"
+        "value": "奖励\n任务"
     },
     {
         "wordingKey": "WORD_BONUS_MISSION_TAB",
@@ -4653,7 +4653,7 @@
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_BONUS_POINT_FULL_COMBO_FORMAT",
@@ -4669,7 +4669,7 @@
     },
     {
         "wordingKey": "WORD_BONUS_TARGET",
-        "value": "加成目標"
+        "value": "加成目标"
     },
     {
         "wordingKey": "WORD_BOOKMARK",
@@ -4761,23 +4761,23 @@
     },
     {
         "wordingKey": "WORD_CANCEL_INVITATION",
-        "value": "取消邀請"
+        "value": "取消邀请"
     },
     {
         "wordingKey": "WORD_CANVAS",
-        "value": "畫布"
+        "value": "画布"
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS",
-        "value": "畫布加成"
+        "value": "画布加成"
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS_DESCRIPTION",
-        "value": "「{0} {1}」的表現力提升<color=#FF5588>{2}</color>。（每位成員僅限一次）"
+        "value": "「{0} {1}」的表现力提升<color=#FF5588>{2}<\/color>。（每位成员仅限一次）"
     },
     {
         "wordingKey": "WORD_CANVAS_BONUS_DIALOG_DESCRIPTION",
-        "value": "於『我的「世界」』的畫布上描繪可提升表現力<color=#ff5599>{0}</color>。"
+        "value": "于『我的「世界」』的画布上描绘可提升表现力<color=#ff5599>{0}<\/color>。"
     },
     {
         "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
@@ -4785,11 +4785,11 @@
     },
     {
         "wordingKey": "WORD_CANVAS_FINISH_FILTER",
-        "value": "畫布製作進度"
+        "value": "画布制作进度"
     },
     {
         "wordingKey": "WORD_CANVAS_MENBER_CARD_FINISH",
-        "value": "已製作完成，無需變更"
+        "value": "已制作完成，无需更换"
     },
     {
         "wordingKey": "WORD_CANVAS_NOT_FINISHED_FILTER",
@@ -4865,7 +4865,7 @@
     },
     {
         "wordingKey": "WORD_CATEGORY_ORDER",
-        "value": "種類順序"
+        "value": "种类顺序"
     },
     {
         "wordingKey": "WORD_CCU_BUSY",
@@ -5133,7 +5133,7 @@
     },
     {
         "wordingKey": "WORD_CHARACTER_SEARCH",
-        "value": "角色反應搜尋"
+        "value": "角色反应搜索"
     },
     {
         "wordingKey": "WORD_CHARACTER_SELECT",
@@ -5157,7 +5157,7 @@
     },
     {
         "wordingKey": "WORD_CHECK_CARD_IMAGE_TYPE",
-        "value": "确认卡片显示"
+        "value": "确认卡片顯示"
     },
     {
         "wordingKey": "WORD_CHECK_DELTE",
@@ -5233,11 +5233,11 @@
     },
     {
         "wordingKey": "WORD_CHEST_FURNITURE_NUM",
-        "value": "擁有的家具總數"
+        "value": "拥有的家具总数"
     },
     {
         "wordingKey": "WORD_CHEST_MATERIAL_NUM",
-        "value": "擁有的材料總數"
+        "value": "拥有的材料总数"
     },
     {
         "wordingKey": "WORD_CLASS",
@@ -5257,7 +5257,7 @@
     },
     {
         "wordingKey": "WORD_CLOSET",
-        "value": "衣櫃"
+        "value": "衣柜"
     },
     {
         "wordingKey": "WORD_CLOTH_COUNT",
@@ -5265,7 +5265,7 @@
     },
     {
         "wordingKey": "WORD_COIN",
-        "value": "硬币"
+        "value": "硬幣"
     },
     {
         "wordingKey": "WORD_COLLABORATION_AREA",
@@ -5345,7 +5345,7 @@
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_OTHER_PURCHASED",
-        "value": "<color=#ffffff>正在使用其他缤纷通行证</color>"
+        "value": "<color=#ffffff>正在使用其他缤纷通行证<\/color>"
     },
     {
         "wordingKey": "WORD_COLORFUL_PASS_SHOP_DETAIL_TAB",
@@ -5417,15 +5417,15 @@
     },
     {
         "wordingKey": "WORD_COMPLETE_READ_RATE",
-        "value": "劇情讀完率"
+        "value": "剧情读完率"
     },
     {
         "wordingKey": "WORD_COMPLETE_READ_STAMP",
-        "value": "讀完印章"
+        "value": "读完印章"
     },
     {
         "wordingKey": "WORD_COMPLETE_REWARD",
-        "value": "完成報酬"
+        "value": "完成报酬"
     },
     {
         "wordingKey": "WORD_COMPOSER",
@@ -5509,11 +5509,11 @@
     },
     {
         "wordingKey": "WORD_CONVERSATION_DETAIL",
-        "value": "互動角色"
+        "value": "互动角色"
     },
     {
         "wordingKey": "WORD_CONVERT_COMPLETE_FORMAT",
-        "value": "<size=60><color=#f280b7>{0}</color></size><size=60><color=#ffffff>/</color></size><size=32><color=#ffffff>{1}</color></size>"
+        "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
     },
     {
         "wordingKey": "WORD_CONVERT_COMPLETE_STATUS",
@@ -5521,7 +5521,7 @@
     },
     {
         "wordingKey": "WORD_CONVERT_FIXTURE_LEVEL_RELEASE",
-        "value": "完成『我的「世界」』任務\n解鎖"
+        "value": "完成『我的「世界」』任务\n解锁"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_END_AT",
@@ -5529,71 +5529,71 @@
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_REFRESH",
-        "value": "將於{0}重置"
+        "value": "将于{0}重置"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_REMAINING_COUNT",
-        "value": "剩餘{0}次"
+        "value": "剩余{0}次"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SELECT",
-        "value": "選擇道具"
+        "value": "选择道具"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SELECT_TAB",
-        "value": "製作道具"
+        "value": "制作道具"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_FIXTURE_MAIN_GENRE_CHOICE",
-        "value": "某種設計圖\n（隨機家具種類）"
+        "value": "某种设计圖\n（随机家具种类）"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_BLUEPRINT_RANDOM",
-        "value": "某種設計圖\n（完全隨機）"
+        "value": "某种设计圖\n（完全随机）"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_CATEGORY_CHOICE",
-        "value": "一個隨機唱片\n（在某一團體中隨機）"
+        "value": "一个随机唱片\n（在某一组合中随机）"
     },
     {
         "wordingKey": "WORD_CONVERT_ITEM_SURPLUS_RECORD_RANDOM",
-        "value": "一個隨機唱片\n（完全隨機）"
+        "value": "一个随机唱片\n（完全随机）"
     },
     {
         "wordingKey": "WORD_CONVERT_MACHINE_LEVEL",
-        "value": "轉換機等級達到Lv.{0}"
+        "value": "转换机等级达到Lv.{0}"
     },
     {
         "wordingKey": "WORD_CONVERT_NOTIFICATION",
-        "value": "轉換完成通知"
+        "value": "转换完成通知"
     },
     {
         "wordingKey": "WORD_CONVERT_PROGRESS_FORMAT",
-        "value": "<size=60><color=#f280b7>{0}</color></size><size=60><color=#ffffff>/</color></size><size=32><color=#ffffff>{1}</color></size>"
+        "value": "<size=60><color=#f280b7>{0}<\/color><\/size><size=60><color=#ffffff>\/<\/color><\/size><size=32><color=#ffffff>{1}<\/color><\/size>"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_ALL",
-        "value": "領取全部"
+        "value": "领取全部"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_COMPLETED_PART",
-        "value": "領取完成部分"
+        "value": "领取完成部分"
     },
     {
         "wordingKey": "WORD_CONVERT_RECEIVE_PROGRESS",
-        "value": "正在轉換道具"
+        "value": "正在转换道具"
     },
     {
         "wordingKey": "WORD_CONVERT_SLOT_COMPLETED_MOBILE_NOTIFICATION",
-        "value": "道具轉換已完成。"
+        "value": "道具转换已完成。"
     },
     {
         "wordingKey": "WORD_CONVERT_SLOT_SHORTEN_DECIDE",
-        "value": "跳過"
+        "value": "跳过"
     },
     {
         "wordingKey": "WORD_CONVERT_START",
-        "value": "開始轉換"
+        "value": "开始转换"
     },
     {
         "wordingKey": "WORD_COPY",
@@ -5677,11 +5677,11 @@
     },
     {
         "wordingKey": "WORD_CRAFT_COUNT",
-        "value": "製作數量"
+        "value": "制作数量"
     },
     {
         "wordingKey": "WORD_CRAFT_REACHED_POSSESSION_LIMIT",
-        "value": "無法製作"
+        "value": "无法制作"
     },
     {
         "wordingKey": "WORD_CREATE",
@@ -5689,11 +5689,11 @@
     },
     {
         "wordingKey": "WORD_CREATED",
-        "value": "已製作完成"
+        "value": "已制作完成"
     },
     {
         "wordingKey": "WORD_CREATE_CONFIRM",
-        "value": "將製作{0} <color=#ff5599>{1}個</color>。\n確定？"
+        "value": "将制作{0} <color=#ff5599>{1}个<\/color>。\n确定吗？"
     },
     {
         "wordingKey": "WORD_CREATE_PRIVATE_ROOM",
@@ -5705,7 +5705,7 @@
     },
     {
         "wordingKey": "WORD_CREATOR",
-        "value": "創作者"
+        "value": "创作者"
     },
     {
         "wordingKey": "WORD_CREATOR_NAME",
@@ -5753,11 +5753,11 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_GOODS_DISPLAY",
-        "value": "選擇展示周邊的展示台。"
+        "value": "选择展示周边的展示桌。"
     },
     {
         "wordingKey": "WORD_CUSTOM_PHOTO_DISPLAY",
-        "value": "選擇展示相片的展示台。"
+        "value": "选择展示照片的展示桌。"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE",
@@ -5777,19 +5777,19 @@
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_MAX_FORMAT",
-        "value": "<color=#ff5588>{0}/{1}</color>"
+        "value": "<color=#ff5588>{0}\/{1}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_LAYER_NUM_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_FORMAT",
-        "value": "<color=#ff5588>{0}</color>"
+        "value": "<color=#ff5588>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_CUSTOM_PROFILE_SELECT_CONTENT_TYPE_DIALOG_TITLE",
-        "value": "确认{0}显示"
+        "value": "确认{0}顯示"
     },
     {
         "wordingKey": "WORD_CUTIN_EFFECT",
@@ -5885,11 +5885,11 @@
     },
     {
         "wordingKey": "WORD_DELAY_OPTION_TIME_TITLE",
-        "value": "判定基准線的位置"
+        "value": "判定基准线的位置"
     },
     {
         "wordingKey": "WORD_DELAY_TIME_DESCRIPTION",
-        "value": "根據音符速度、改變判斷基准線的位置。"
+        "value": "根据音符速度、改变判断基准线的位置。"
     },
     {
         "wordingKey": "WORD_DELETE",
@@ -5933,7 +5933,7 @@
     },
     {
         "wordingKey": "WORD_DiSASSEMBLE_FIXTURE_CONFIRM",
-        "value": "將回收選定的家具。\n確定？"
+        "value": "将回收选择的家具。\n确定吗？"
     },
     {
         "wordingKey": "WORD_DISCONNECT",
@@ -5941,7 +5941,7 @@
     },
     {
         "wordingKey": "WORD_DISPLAY_DIFFICULTY",
-        "value": "显示难度"
+        "value": "顯示难度"
     },
     {
         "wordingKey": "WORD_DISSCONNECTED",
@@ -5965,7 +5965,7 @@
     },
     {
         "wordingKey": "WORD_DOUBLE_SKILL",
-        "value": "雙重技能"
+        "value": "双重技能"
     },
     {
         "wordingKey": "WORD_DOWNLOAD",
@@ -6009,7 +6009,7 @@
     },
     {
         "wordingKey": "WORD_DRAW_MEMBER",
-        "value": "描繪成員"
+        "value": "描绘成员"
     },
     {
         "wordingKey": "WORD_DURING_SHOW",
@@ -6017,7 +6017,7 @@
     },
     {
         "wordingKey": "WORD_EARN_MATERIAL",
-        "value": "獲得材料"
+        "value": "获得材料"
     },
     {
         "wordingKey": "WORD_EASY_FILTER",
@@ -6033,7 +6033,7 @@
     },
     {
         "wordingKey": "WORD_EDIT_MODE",
-        "value": "編輯模式"
+        "value": "编辑模式"
     },
     {
         "wordingKey": "WORD_EDIT_MYLIST",
@@ -6045,7 +6045,7 @@
     },
     {
         "wordingKey": "WORD_EDIT_SAVE_CONFIRMATION",
-        "value": "尚未保存編輯內容。\n是否保存後返回？"
+        "value": "尚未保存编辑內容。\n是否保存后返回？"
     },
     {
         "wordingKey": "WORD_EFFECT",
@@ -6065,75 +6065,75 @@
     },
     {
         "wordingKey": "WORD_ELEMENT_COUNT",
-        "value": "材料持有數量"
+        "value": "材料持有数量"
     },
     {
         "wordingKey": "WORD_ELIPSIS_SCREEN_SHOT",
-        "value": "截图"
+        "value": "截圖"
     },
     {
         "wordingKey": "WORD_EMPTY_AVATAR",
-        "value": "沒有可顯示的角色。"
+        "value": "没有可顯示的角色。"
     },
     {
         "wordingKey": "WORD_EMPTY_BACKGROUND",
-        "value": "暂无可显示的背景。"
+        "value": "暂无可顯示的背景。"
     },
     {
         "wordingKey": "WORD_EMPTY_CHEKI",
-        "value": "沒有可顯示的相片。"
+        "value": "没有可顯示的照片。"
     },
     {
         "wordingKey": "WORD_EMPTY_COLLECTION",
-        "value": "暂无可显示的收藏。"
+        "value": "暂无可顯示的收藏。"
     },
     {
         "wordingKey": "WORD_EMPTY_FURNITURE",
-        "value": "沒有家具。"
+        "value": "没有家具。"
     },
     {
         "wordingKey": "WORD_EMPTY_HONOR",
-        "value": "沒有可顯示的稱號。"
+        "value": "没有可顯示的称号。"
     },
     {
         "wordingKey": "WORD_EMPTY_ITEM",
-        "value": "沒有道具。"
+        "value": "没有道具。"
     },
     {
         "wordingKey": "WORD_EMPTY_MATERIAL",
-        "value": "沒有材料。"
+        "value": "没有材料。"
     },
     {
         "wordingKey": "WORD_EMPTY_MEMBER",
-        "value": "暂无可显示的成员。"
+        "value": "暂无可顯示的成员。"
     },
     {
         "wordingKey": "WORD_EMPTY_MYSEKAI_COLLECTION",
-        "value": "沒有可顯示的收藏。"
+        "value": "没有可顯示的收藏。"
     },
     {
         "wordingKey": "WORD_EMPTY_MYSEKAI_MEMBER",
-        "value": "沒有可顯示的成員。"
+        "value": "没有可顯示的成员。"
     },
     {
         "wordingKey": "WORD_EMPTY_PENLIGHT",
-        "value": "沒有可顯示的燈光棒。"
+        "value": "没有可顯示的灯光棒。"
     },
     {
         "wordingKey": "WORD_EMPTY_PRESET",
-        "value": "沒有可顯示的預設方案。"
+        "value": "没有可顯示的预设方案。"
     },
     {
         "wordingKey": "WORD_EMPTY_RECORDJACKET",
-        "value": "沒有可顯示的唱片封面。"
+        "value": "没有可顯示的唱片封面。"
     },
     {
         "wordingKey": "WORD_EMPTY_RECYCLE_FURNITURE",
-        "value": "沒有可回收的家具。"
+        "value": "没有可回收的家具。"
     },
     {
         "wordingKey": "WORD_EMPTY_SHAPE",
-        "value": "暂无可显示的图形。"
+        "value": "暂无可顯示的圖形。"
     },
     {
         "wordingKey": "WORD_EMPTY_SUPPORT_DECK_MEMBER",
@@ -6141,7 +6141,7 @@
     },
     {
         "wordingKey": "WORD_EMPTY_TOOL",
-        "value": "沒有工具。"
+        "value": "没有工具。"
     },
     {
         "wordingKey": "WORD_END",
@@ -6149,7 +6149,7 @@
     },
     {
         "wordingKey": "WORD_END_AT_FORMAT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}まで"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}まで"
     },
     {
         "wordingKey": "WORD_ENTER_LIMIT",
@@ -6225,7 +6225,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_SKIP_OR_FAST",
-        "value": "跳過・快轉"
+        "value": "跳过・快进"
     },
     {
         "wordingKey": "WORD_EPISODE_UNLOCK",
@@ -6241,7 +6241,7 @@
     },
     {
         "wordingKey": "WORD_EPISODE_UNREAD_OR_SKIP_OR_FAST",
-        "value": "未讀/跳過・快轉"
+        "value": "未读\/跳过・快进"
     },
     {
         "wordingKey": "WORD_EQUIP_MEMBER",
@@ -6385,7 +6385,7 @@
     },
     {
         "wordingKey": "WORD_EXCHANGE_LIMIT_FORMAT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}"
     },
     {
         "wordingKey": "WORD_EXCHANGE_SELECT_ALL_MEMBER",
@@ -6421,7 +6421,7 @@
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_ADD_COMPLETE",
-        "value": "已累计<color=#FF77AA>{1}</color>次到“{0}”EX任务。"
+        "value": "已累计<color=#FF77AA>{1}<\/color>次到“{0}”EX任务。"
     },
     {
         "wordingKey": "WORD_EX_CHARACTER_MISSION_INFORMATION_DIALOG_TITLE",
@@ -6481,7 +6481,7 @@
     },
     {
         "wordingKey": "WORD_FAST_LATE_FLICK",
-        "value": "LATE/FAST/FLICK"
+        "value": "LATE\/FAST\/FLICK"
     },
     {
         "wordingKey": "WORD_FAVORITE",
@@ -6505,7 +6505,7 @@
     },
     {
         "wordingKey": "WORD_FENCE",
-        "value": "柵欄"
+        "value": "柵栏"
     },
     {
         "wordingKey": "WORD_FEVER_EFFECT",
@@ -6525,27 +6525,27 @@
     },
     {
         "wordingKey": "WORD_FILTER_CARD_NORMAL",
-        "value": "恒常"
+        "value": "常驻"
     },
     {
         "wordingKey": "WORD_FILTER_CARD_SUPPLY_TYPE",
-        "value": "成員種類"
+        "value": "成员种类"
     },
     {
         "wordingKey": "WORD_FILTER_COLORFUL_FESTIVAL_LIMITED",
-        "value": "七彩慶典限定"
+        "value": "七彩庆典限定"
     },
     {
         "wordingKey": "WORD_FILTER_COSTUME_BODY_HEAD",
-        "value": "附服裝"
+        "value": "附服装"
     },
     {
         "wordingKey": "WORD_FILTER_COSTUME_HAIR",
-        "value": "附髮型"
+        "value": "附发型"
     },
     {
         "wordingKey": "WORD_FILTER_PERIOD_LIMITED",
-        "value": "期間限定"
+        "value": "期间限定"
     },
     {
         "wordingKey": "WORD_FILTER_SKILL_SCORE",
@@ -6569,11 +6569,11 @@
     },
     {
         "wordingKey": "WORD_FIND_FROM_SONG_TITLE_CREATOR_NAME",
-        "value": "搜尋歌曲名稱或創作者名稱"
+        "value": "搜索歌曲名称或创作者名称"
     },
     {
         "wordingKey": "WORD_FIRST_CRAFT_BONUS",
-        "value": "首次製作獎勵<size=32>＋{0}</size>"
+        "value": "首次制作奖励<size=32>＋{0}<\/size>"
     },
     {
         "wordingKey": "WORD_FIRST_REWARD",
@@ -6593,19 +6593,19 @@
     },
     {
         "wordingKey": "WORD_FIXTURE_BONUS_DESCRIPTION",
-        "value": "{0}的表現力提升<color=#FF5588>{1}%</color>。（每種大小限一次）"
+        "value": "{0}的表现力提升<color=#FF5588>{1}%<\/color>。（每种大小限一次）"
     },
     {
         "wordingKey": "WORD_FIXTURE_CRAFT_CONFIRM",
-        "value": "將製作{0} <color=#ff5599>{1}個</color>。\n確定？"
+        "value": "将制作{0} <color=#ff5599>{1}个<\/color>。\n确定吗？"
     },
     {
         "wordingKey": "WORD_FIXTURE_CREATE_RESULT",
-        "value": "家具製作已完成。"
+        "value": "家具制作已完成。"
     },
     {
         "wordingKey": "WORD_FIXTURE_DETAIL",
-        "value": "家具詳情"
+        "value": "家具详情"
     },
     {
         "wordingKey": "WORD_FIXTURE_POSSESSION",
@@ -6613,7 +6613,7 @@
     },
     {
         "wordingKey": "WORD_FIXTURE_RECYCLE_RESULT",
-        "value": "已回收家具並獲得道具。"
+        "value": "已回收家具并获得道具。"
     },
     {
         "wordingKey": "WORD_FLICK",
@@ -6633,7 +6633,7 @@
     },
     {
         "wordingKey": "WORD_FOLIAGE_PLANT",
-        "value": "觀葉植物"
+        "value": "观叶植物"
     },
     {
         "wordingKey": "WORD_FONT",
@@ -6701,7 +6701,7 @@
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE",
-        "value": "<color=#ff5599>{0}</color>发来了演出邀请。"
+        "value": "<color=#ff5599>{0}<\/color>发来了演出邀请。"
     },
     {
         "wordingKey": "WORD_FRIEND_INVITE_CODE",
@@ -6765,7 +6765,7 @@
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST",
-        "value": "<color=#ff5599>{0}</color>发来了\n好友申请。"
+        "value": "<color=#ff5599>{0}<\/color>发来了\n好友申请。"
     },
     {
         "wordingKey": "WORD_FRIEND_NOTICE_REQUEST_MESSAGE",
@@ -6845,19 +6845,19 @@
     },
     {
         "wordingKey": "WORD_GACHA_BONUS",
-        "value": "招募獎勵"
+        "value": "招募奖励"
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_ITEM_PROVISION",
-        "value": "道具出現概率"
+        "value": "道具出现概率"
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_ITEM_REWARD_SELECT_TITLE",
-        "value": "請選擇獲得的{0}。"
+        "value": "请选择获得的{0}。"
     },
     {
         "wordingKey": "WORD_GACHA_BONUS_SUMMARY",
-        "value": "關於招募獎勵"
+        "value": "关于招募奖励"
     },
     {
         "wordingKey": "WORD_GACHA_CATEGORY_ACQUISITION_FILTER_CAPTION",
@@ -6953,15 +6953,15 @@
     },
     {
         "wordingKey": "WORD_GATE_CONTENT_INVITATION",
-        "value": "邀請函"
+        "value": "邀请函"
     },
     {
         "wordingKey": "WORD_GATE_CONTENT_SKIN",
-        "value": "外觀"
+        "value": "外观"
     },
     {
         "wordingKey": "WORD_GATE_CONTENT_UNIT",
-        "value": "團體"
+        "value": "组合"
     },
     {
         "wordingKey": "WORD_GENERAL",
@@ -6985,7 +6985,7 @@
     },
     {
         "wordingKey": "WORD_GET_COSTUME_DIALOG",
-        "value": "{0} {1}\n\n<color={2}>{3}</color>"
+        "value": "{0} {1}\n\n<color={2}>{3}<\/color>"
     },
     {
         "wordingKey": "WORD_GET_EXCLAMATION_MARK",
@@ -7045,7 +7045,7 @@
     },
     {
         "wordingKey": "WORD_GOTO_SELECT_MEMBER",
-        "value": "前往選擇成員"
+        "value": "前往选择成员"
     },
     {
         "wordingKey": "WORD_GOTO_SHOP_TEXT",
@@ -7165,11 +7165,11 @@
     },
     {
         "wordingKey": "WORD_GO_TO_MYSEKAI",
-        "value": "出發"
+        "value": "出发"
     },
     {
         "wordingKey": "WORD_GO_TO_MYSEKAI＿HOUSING_COMPETITION",
-        "value": "即將推出..."
+        "value": "即将推出..."
     },
     {
         "wordingKey": "WORD_GO_TO_MY_SEKAI",
@@ -7217,7 +7217,7 @@
     },
     {
         "wordingKey": "WORD_GUIDE_ALPHA",
-        "value": "音軌的不透明度"
+        "value": "音轨的不透明度"
     },
     {
         "wordingKey": "WORD_HAIR",
@@ -7245,15 +7245,15 @@
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_1",
-        "value": "·“<color=#FF3366>{0} {1}</color>”的专家等级提升到2后即可解锁发型。"
+        "value": "·“<color=#FF3366>{0} {1}<\/color>”的专家等级提升到2后即可解锁发型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_2",
-        "value": "·“<color=#FF3366>{0}</color>”为<color=#FF3366>{1}</color>的专属发型。"
+        "value": "·“<color=#FF3366>{0}<\/color>”为<color=#FF3366>{1}<\/color>的专属发型。"
     },
     {
         "wordingKey": "WORD_HAIR_DETAIL_MESSAGE_3",
-        "value": "·“<color=#FF3366>{0}</color>”无法与部分专用饰品同时设置。"
+        "value": "·“<color=#FF3366>{0}<\/color>”无法与部分专用饰品同时设置。"
     },
     {
         "wordingKey": "WORD_HAIR_TYPE",
@@ -7261,11 +7261,11 @@
     },
     {
         "wordingKey": "WORD_HANGING_FURNITURE",
-        "value": "掛牆家具"
+        "value": "墙挂家具"
     },
     {
         "wordingKey": "WORD_HARVST_SITE_RELEASE_NEW_SITE",
-        "value": "擴展採集區域"
+        "value": "扩展采集区域"
     },
     {
         "wordingKey": "WORD_HASH_TAG_FORMAT",
@@ -7357,19 +7357,19 @@
     },
     {
         "wordingKey": "WORD_HOME_ELECTRONICS",
-        "value": "家用電器"
+        "value": "家用电器"
     },
     {
         "wordingKey": "WORD_HOME_SITE_GARDEN",
-        "value": "庭院區域"
+        "value": "庭院区域"
     },
     {
         "wordingKey": "WORD_HOME_SITE_ROOM",
-        "value": "房間區域"
+        "value": "房间区域"
     },
     {
         "wordingKey": "WORD_HOME_SITE_SIZE_EXPAND",
-        "value": "庭院尺寸擴展"
+        "value": "庭院尺寸扩展"
     },
     {
         "wordingKey": "WORD_HONOR",
@@ -7433,7 +7433,7 @@
     },
     {
         "wordingKey": "WORD_HONOR_GROUP_FILTER_BONDS",
-        "value": "羈絆"
+        "value": "牵绊"
     },
     {
         "wordingKey": "WORD_HONOR_GROUP_FILTER_CHARACTER",
@@ -7441,11 +7441,11 @@
     },
     {
         "wordingKey": "WORD_HONOR_GROUP_FILTER_EVENT",
-        "value": "活動"
+        "value": "活动"
     },
     {
         "wordingKey": "WORD_HONOR_GROUP_FILTER_TITLE",
-        "value": "稱號"
+        "value": "称号"
     },
     {
         "wordingKey": "WORD_HONOR_NO_SETTING",
@@ -7473,7 +7473,7 @@
     },
     {
         "wordingKey": "WORD_HOUSING_COMPETITION_COMING_SOON",
-        "value": "即將更新"
+        "value": "即将更新"
     },
     {
         "wordingKey": "WORD_ID",
@@ -7565,7 +7565,7 @@
     },
     {
         "wordingKey": "WORD_IN_SETTING",
-        "value": "設置中"
+        "value": "设置中"
     },
     {
         "wordingKey": "WORD_IN_VIRTUAL_LIVE",
@@ -7577,11 +7577,11 @@
     },
     {
         "wordingKey": "WORD_IS_TO_MOVING",
-        "value": "是否移動到{0}？"
+        "value": "是否移动到{0}？"
     },
     {
         "wordingKey": "WORD_IS_TO_MOVING_NOT_DROP",
-        "value": "是否移動到{0}？\n<color=#FF3366>※目前天氣無法採集此材料。</color>"
+        "value": "是否移动到{0}？\n<color=#FF3366>※目前天气无法采集此材料。<\/color>"
     },
     {
         "wordingKey": "WORD_ITEM",
@@ -7589,7 +7589,7 @@
     },
     {
         "wordingKey": "WORD_ITEM_CRYSTAL",
-        "value": "道具與水晶"
+        "value": "道具与水晶"
     },
     {
         "wordingKey": "WORD_ITEM_DETAIL",
@@ -7665,7 +7665,7 @@
     },
     {
         "wordingKey": "WORD_LAYOUT_LIST",
-        "value": "佈局列表"
+        "value": "布局列表"
     },
     {
         "wordingKey": "WORD_LEFT_ROOM",
@@ -7689,7 +7689,7 @@
     },
     {
         "wordingKey": "WORD_LEVEL_FORMAT",
-        "value": "Lv. {0}/<size=24>{1}</size>"
+        "value": "Lv. {0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_LEVEL_UP",
@@ -7721,7 +7721,7 @@
     },
     {
         "wordingKey": "WORD_LINKED",
-        "value": "連携中"
+        "value": "绑定中"
     },
     {
         "wordingKey": "WORD_LIST",
@@ -7745,15 +7745,15 @@
     },
     {
         "wordingKey": "WORD_LIVE_ASSIST_SETTING",
-        "value": "LIVE辅助设置"
+        "value": "演出辅助设置"
     },
     {
         "wordingKey": "WORD_LIVE_BONUS",
-        "value": "LIVE獎勵"
+        "value": "演出能量"
     },
     {
         "wordingKey": "WORD_LIVE_BONUS_NOT_ENOUGH",
-        "value": "LIVE獎勵不足。"
+        "value": "演出能量不足。"
     },
     {
         "wordingKey": "WORD_LIVE_BONUS_PRESENT",
@@ -7833,7 +7833,7 @@
     },
     {
         "wordingKey": "WORD_LIVE_EFFECT_SETTING",
-        "value": "显示·特效设置"
+        "value": "顯示·特效设置"
     },
     {
         "wordingKey": "WORD_LIVE_FAILED",
@@ -8041,7 +8041,7 @@
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_NEXT_REFRESH",
-        "value": "重置为{0}/{1} {2}:{3}"
+        "value": "重置为{0}\/{1} {2}:{3}"
     },
     {
         "wordingKey": "WORD_MASTER_LESSON_MATERIAL_EXCHANGE_REMAINING_NUM",
@@ -8113,7 +8113,7 @@
     },
     {
         "wordingKey": "WORD_MATERIAL_RECYCLE_RESULT",
-        "value": "已回收材料並獲得硬幣。"
+        "value": "已回收材料并获得硬幣。"
     },
     {
         "wordingKey": "WORD_MAX",
@@ -8133,7 +8133,7 @@
     },
     {
         "wordingKey": "WORD_MEMBER_CANVAS_CRAFT_CONFIRM",
-        "value": "將為以下成員製作<color=#ff5599>{0}個</color>畫布。\n確定？"
+        "value": "将为以下成员制作<color=#ff5599>{0}个<\/color>画布。\n确定吗？"
     },
     {
         "wordingKey": "WORD_MEMBER_CONFIRM",
@@ -8157,7 +8157,7 @@
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_CONFIRM_SHOP",
-        "value": "已经获得该成员，是否继续兑换？\n<color=#ff5588>*获得过的成员将被送至休息室。</color>"
+        "value": "已经获得该成员，是否继续兑换？\n<color=#ff5588>*获得过的成员将被送至休息室。<\/color>"
     },
     {
         "wordingKey": "WORD_MEMBER_EXCHANGE_SHOP",
@@ -8205,7 +8205,7 @@
     },
     {
         "wordingKey": "WORD_MENU_MYSEKAI_RANK",
-        "value": "『我的「世界」』等級"
+        "value": "『我的「世界」』等级"
     },
     {
         "wordingKey": "WORD_MESSAGE",
@@ -8269,7 +8269,7 @@
     },
     {
         "wordingKey": "WORD_MISSION_PROGRESS_FORMAT",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_MISSION_START",
@@ -8357,7 +8357,7 @@
     },
     {
         "wordingKey": "WORD_MODEL_ROOM",
-        "value": "樣品屋"
+        "value": "样板房"
     },
     {
         "wordingKey": "WORD_MODE_SETTING",
@@ -8421,7 +8421,7 @@
     },
     {
         "wordingKey": "WORD_MUSIC_DATA_SAVE_CAPACITY",
-        "value": "Vocal版本資料"
+        "value": "Vocal版本资料"
     },
     {
         "wordingKey": "WORD_MUSIC_DECIDE",
@@ -8457,7 +8457,7 @@
     },
     {
         "wordingKey": "WORD_MUSIC_PLAYER",
-        "value": "音樂播放器"
+        "value": "音乐播放器"
     },
     {
         "wordingKey": "WORD_MUSIC_REWARD",
@@ -8465,11 +8465,11 @@
     },
     {
         "wordingKey": "WORD_MUSIC_SAVE_ALL",
-        "value": "全部儲存"
+        "value": "全部保存"
     },
     {
         "wordingKey": "WORD_MUSIC_SAVE_NONE",
-        "value": "不儲存"
+        "value": "不保存"
     },
     {
         "wordingKey": "WORD_MUSIC_SAVE_NUM_CAPTION",
@@ -8553,11 +8553,11 @@
     },
     {
         "wordingKey": "WORD_MYROOM_SITE_RELEASE_NEW_FLOOR",
-        "value": "解鎖新樓層"
+        "value": "解锁新楼层"
     },
     {
         "wordingKey": "WORD_MYROOM_SITE_SIZE_EXPAND",
-        "value": "擴展房間尺寸"
+        "value": "扩展房间尺寸"
     },
     {
         "wordingKey": "WORD_MYSEKAI",
@@ -8565,11 +8565,11 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_CAN_PUT",
-        "value": "已擺放的家具"
+        "value": "已摆放的家具"
     },
     {
         "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_ALERT_TITLE",
-        "value": "有效期已過"
+        "value": "有效期已过"
     },
     {
         "wordingKey": "WORD_MYSEKAI_COLORFUL_PASS_OK",
@@ -8577,11 +8577,11 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_DETAIL",
-        "value": "缺貨"
+        "value": "缺货"
     },
     {
         "wordingKey": "WORD_MYSEKAI_CONVERT_OUT_OF_STOCK_THUMBNAIL",
-        "value": "缺貨"
+        "value": "缺货"
     },
     {
         "wordingKey": "WORD_MYSEKAI_DAILY_UPDATE",
@@ -8589,35 +8589,35 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_FIXTURE_JOINT_LAYOUT_COUNT",
-        "value": "擺放的道路和柵欄"
+        "value": "摆放的道路和柵栏"
     },
     {
         "wordingKey": "WORD_MYSEKAI_FIXTURE_LAYOUT_COUNT",
-        "value": "擺放的家具"
+        "value": "摆放的家具"
     },
     {
         "wordingKey": "WORD_MYSEKAI_FIXTURE_RELEASE_PUT_LIMIT",
-        "value": "可放置家具的數量"
+        "value": "可放置家具的数量"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_CHARACTER_VISIT_COUNT_RATE",
-        "value": "來訪人數機率"
+        "value": "来访人数机率"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_LEVEL",
-        "value": "大門等級"
+        "value": "大门等级"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_RATE",
-        "value": "表現獎勵"
+        "value": "表现奖励"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_POWER_BONUS_UNIT",
-        "value": "的成員"
+        "value": "的成员"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_VISIT_CHARACTER",
-        "value": "來訪角色"
+        "value": "来访角色"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT",
@@ -8625,27 +8625,27 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_VISIT_COUNT_LEVEL",
-        "value": "等級{0}"
+        "value": "等级{0}"
     },
     {
         "wordingKey": "WORD_MYSEKAI_GATE_VISIT_DEFAULT_CHARACTER",
-        "value": "最初來訪的角色"
+        "value": "最初来访的角色"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INFO",
-        "value": "『我的「世界」』 資訊"
+        "value": "『我的「世界」』 信息"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_ANIMATION_SPACE",
-        "value": "需要為某些家具保留動畫空間。\n請重新調整佈局。"
+        "value": "需要为某些家具保留动画空间。\n请重新调整布局。"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_LAYOUT",
-        "value": "有不正確放置的家具。\n是否捨棄所有變更並返回？"
+        "value": "有不正确放置的家具。\n是否舍弃所有更改并返回？"
     },
     {
         "wordingKey": "WORD_MYSEKAI_INVALID_PUT_SPACE",
-        "value": "沒有足夠的空間放置此家具。"
+        "value": "没有足够的空间放置此家具。"
     },
     {
         "wordingKey": "WORD_MYSEKAI_IN_DOOR_NAME",
@@ -8661,7 +8661,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CONVERT",
-        "value": "前往轉換"
+        "value": "前往转换"
     },
     {
         "wordingKey": "WORD_MYSEKAI_NOT_ENOUGH_PHOTO_FILM_TO_CRYSTAL_SHOP",
@@ -8669,7 +8669,7 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_EMPTY",
-        "value": "尚未保存任何相片。"
+        "value": "尚未保存任何照片。"
     },
     {
         "wordingKey": "WORD_MYSEKAI_PHOTO_ALBUM_NAME",
@@ -8677,19 +8677,19 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_COUNT",
-        "value": "可放置家具的數量"
+        "value": "可放置家具的数量"
     },
     {
         "wordingKey": "WORD_MYSEKAI_PUT_LIMIT_FIXTURE_JOINT_COUNT",
-        "value": "可放置道路與柵欄的數量"
+        "value": "可放置道路与柵栏的数量"
     },
     {
         "wordingKey": "WORD_MYSEKAI_RANK",
-        "value": "『我的「世界」』 等級"
+        "value": "『我的「世界」』 等级"
     },
     {
         "wordingKey": "WORD_MYSEKAI_RANK_UP_ICON_TITLE",
-        "value": "等級"
+        "value": "等级"
     },
     {
         "wordingKey": "WORD_MYSEKAI_SIZE",
@@ -8697,15 +8697,15 @@
     },
     {
         "wordingKey": "WORD_MYSEKAI_VISIST",
-        "value": "接受訪問"
+        "value": "接受访问"
     },
     {
         "wordingKey": "WORD_MYSEKAI_VOICE",
-        "value": "『我的「世界」』 語音"
+        "value": "『我的「世界」』 语音"
     },
     {
         "wordingKey": "WORD_MYSEKAI_WEEKLY_UPDATE",
-        "value": "每週一更新"
+        "value": "每周一更新"
     },
     {
         "wordingKey": "WORD_MY_FAVORITE_STORY",
@@ -8717,7 +8717,7 @@
     },
     {
         "wordingKey": "WORD_MY_SEKAI_MATERIAL_GAME_CHARACTER",
-        "value": "五彩的記憶"
+        "value": "五彩的记忆"
     },
     {
         "wordingKey": "WORD_NAME",
@@ -8773,7 +8773,7 @@
     },
     {
         "wordingKey": "WORD_NORMAL_VOICE",
-        "value": "普通語音"
+        "value": "普通语音"
     },
     {
         "wordingKey": "WORD_NOTATION",
@@ -8793,7 +8793,7 @@
     },
     {
         "wordingKey": "WORD_NOT_BLOCK_AND_KICK",
-        "value": "僅踢出，不封鎖"
+        "value": "仅踢出，不封锁"
     },
     {
         "wordingKey": "WORD_NOT_CLEAR",
@@ -8813,7 +8813,7 @@
     },
     {
         "wordingKey": "WORD_NOT_ENOUGH_VIRTUAL_COIN",
-        "value": "虚拟硬币不足"
+        "value": "虚拟硬幣不足"
     },
     {
         "wordingKey": "WORD_NOT_EXIST_MV",
@@ -8897,7 +8897,7 @@
     },
     {
         "wordingKey": "WORD_NO_BLUE_PRINT",
-        "value": "無可製作的家具。"
+        "value": "无可制作的家具。"
     },
     {
         "wordingKey": "WORD_NO_CHANGE1",
@@ -8913,7 +8913,7 @@
     },
     {
         "wordingKey": "WORD_NO_HAS_FIXTURE_TALK",
-        "value": "此家具無對應的反應。"
+        "value": "此家具无对应的反应。"
     },
     {
         "wordingKey": "WORD_NO_PLACE_CONTENT",
@@ -8933,7 +8933,7 @@
     },
     {
         "wordingKey": "WORD_NUMBER_I_HAVE",
-        "value": "持有數量"
+        "value": "持有数量"
     },
     {
         "wordingKey": "WORD_NUMBER_OF_PEPLE",
@@ -8941,11 +8941,11 @@
     },
     {
         "wordingKey": "WORD_OBTAINED_COMPLETE_READ_STAMP",
-        "value": "收集的讀完印章"
+        "value": "收集的读完印章"
     },
     {
         "wordingKey": "WORD_OBTAINING_LOCATION",
-        "value": "獲取位置"
+        "value": "获取位置"
     },
     {
         "wordingKey": "WORD_OBTAIN_ALL",
@@ -8957,7 +8957,7 @@
     },
     {
         "wordingKey": "WORD_OFFER_ITEM_LIST",
-        "value": "提供道具一覧"
+        "value": "提供道具一览"
     },
     {
         "wordingKey": "WORD_OFFLINE_EVENT_LIST_DIALOG_TITLE",
@@ -9125,7 +9125,7 @@
     },
     {
         "wordingKey": "WORD_OTHER_KIND_COUNT",
-        "value": "其他{0}種類"
+        "value": "其他{0}种类"
     },
     {
         "wordingKey": "WORD_OUTING_LIST",
@@ -9169,7 +9169,7 @@
     },
     {
         "wordingKey": "WORD_PAMPHLET_PAGE_NUM",
-        "value": "{0}/{1}"
+        "value": "{0}\/{1}"
     },
     {
         "wordingKey": "WORD_PANEL_MISSION",
@@ -9241,19 +9241,19 @@
     },
     {
         "wordingKey": "WORD_PERSON_CONVERSATION",
-        "value": "{0}人互動"
+        "value": "{0}人互动"
     },
     {
         "wordingKey": "WORD_PHENOMENA_DEFAULT",
-        "value": "隨時間變化"
+        "value": "隨时间变化"
     },
     {
         "wordingKey": "WORD_PHOTO",
-        "value": "相片"
+        "value": "照片"
     },
     {
         "wordingKey": "WORD_PHOTO_STAND",
-        "value": "桌面畫布（相框）"
+        "value": "桌面画布（相框）"
     },
     {
         "wordingKey": "WORD_PIAPRO_IDOL_STORY_TITLE",
@@ -9277,7 +9277,7 @@
     },
     {
         "wordingKey": "WORD_PICKAXE",
-        "value": "鎬"
+        "value": "镐"
     },
     {
         "wordingKey": "WORD_PICKUP_LIST",
@@ -9293,11 +9293,11 @@
     },
     {
         "wordingKey": "WORD_PLACEHOLDER_SEARCH_KEYWORD_TAG",
-        "value": "搜尋關鍵字或標籤"
+        "value": "搜索关键字或标签"
     },
     {
         "wordingKey": "WORD_PLACEHOLDER_SEARCH_TAG",
-        "value": "搜尋標籤"
+        "value": "搜索标签"
     },
     {
         "wordingKey": "WORD_PLANT",
@@ -9325,7 +9325,7 @@
     },
     {
         "wordingKey": "WORD_PLAYER_RANK_EXP",
-        "value": "玩家等級EXP"
+        "value": "玩家等级EXP"
     },
     {
         "wordingKey": "WORD_PLAYER_RANK_REWARD",
@@ -9377,7 +9377,7 @@
     },
     {
         "wordingKey": "WORD_PLEASE_SELECT_MEMBER",
-        "value": "請選擇要描繪於畫布上的成員。"
+        "value": "请选择要描绘于画布上的成员。"
     },
     {
         "wordingKey": "WORD_PLUS_PERCENT_VALUE",
@@ -9389,7 +9389,7 @@
     },
     {
         "wordingKey": "WORD_POPULARITY",
-        "value": "人氣"
+        "value": "人气"
     },
     {
         "wordingKey": "WORD_POSSESSION",
@@ -9397,7 +9397,7 @@
     },
     {
         "wordingKey": "WORD_POSSESSION_COUNT_ORDER",
-        "value": "持有數量順序"
+        "value": "持有数量顺序"
     },
     {
         "wordingKey": "WORD_POSSIBLE_TO_RECYCLED",
@@ -9405,7 +9405,7 @@
     },
     {
         "wordingKey": "WORD_POST",
-        "value": "發佈"
+        "value": "发布"
     },
     {
         "wordingKey": "WORD_PRACTICE",
@@ -9417,7 +9417,7 @@
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_FORMAT",
-        "value": "{0}/<size=24>{1}</size>"
+        "value": "{0}\/<size=24>{1}<\/size>"
     },
     {
         "wordingKey": "WORD_PRACTICE_LEVEL_MAX",
@@ -9429,7 +9429,7 @@
     },
     {
         "wordingKey": "WORD_PREFIX_SPIN_COLLECTION_GACHA",
-        "value": "<size=28>打开</size>{0}次"
+        "value": "<size=28>打开<\/size>{0}次"
     },
     {
         "wordingKey": "WORD_PREMIUM",
@@ -9473,55 +9473,55 @@
     },
     {
         "wordingKey": "WORD_PRESET",
-        "value": "預設方案"
+        "value": "预设方案"
     },
     {
         "wordingKey": "WORD_PRESET_COUNT_MAX",
-        "value": "超出家具設置數量限制，無法配置預設方案。"
+        "value": "超出家具设置数量限制，无法设置预设方案。"
     },
     {
         "wordingKey": "WORD_PRESET_DELETE_CONFIRMATION",
-        "value": "將刪除<color=#F59>{0}</color>。\n確定？"
+        "value": "将刪除<color=#F59>{0}<\/color>。\n确定吗？"
     },
     {
         "wordingKey": "WORD_PRESET_DELETE_FINISH",
-        "value": "已刪除預設方案。"
+        "value": "已刪除预设方案。"
     },
     {
         "wordingKey": "WORD_PRESET_HAD_BEEN_SET_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於『我的「世界」』。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※目前已配置的家具將先被收起後再配置預設方案。</color>"
+        "value": "将设置预设方案<color=#F59>{0}<\/color>于『我的「世界」』。\n目前设置的家具将被收起，确定吗？\n\n<color=#F36>※目前已设置的家具将先被收起后再设置预设方案。<\/color>"
     },
     {
         "wordingKey": "WORD_PRESET_NO_HAVE_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於『我的「世界」』。\n目前配置的家具將被收起，確定？\n\n<color=#F36>※預設方案中包含的未持有家具將無法配置。</color>"
+        "value": "将设置预设方案<color=#F59>{0}<\/color>于『我的「世界」』。\n目前设置的家具将被收起，确定吗？\n\n<color=#F36>※预设方案中包含的未持有家具将无法设置。<\/color>"
     },
     {
         "wordingKey": "WORD_PRESET_OVERWRITE_CONFIRMATION",
-        "value": "將目前預設方案覆蓋保存至<color=#F59>{0}</color>。\n先前保存的內容將被覆蓋，確定？"
+        "value": "将目前预设方案覆蓋保存至<color=#F59>{0}<\/color>。\n先前保存的內容将被覆蓋，确定吗？"
     },
     {
         "wordingKey": "WORD_PRESET_SAVE_FINISH",
-        "value": "已保存預設方案。"
+        "value": "已保存预设方案。"
     },
     {
         "wordingKey": "WORD_PRESET_SETUP",
-        "value": "配置"
+        "value": "设置"
     },
     {
         "wordingKey": "WORD_PRESET_SET_CONFIRMATION",
-        "value": "將配置預設方案<color=#F59>{0}</color>於『我的「世界」』。\n目前配置的家具將被收起，確定？"
+        "value": "将设置预设方案<color=#F59>{0}<\/color>于『我的「世界」』。\n目前设置的家具将被收起，确定吗？"
     },
     {
         "wordingKey": "WORD_PRESET_SET_FINISH",
-        "value": "已配置預設方案。"
+        "value": "已设置预设方案。"
     },
     {
         "wordingKey": "WORD_PRESET_SLOT_NAME",
-        "value": "預設方案"
+        "value": "预设方案"
     },
     {
         "wordingKey": "WORD_PRESET_WARNING",
-        "value": "若未在期限內重新加入世界通行證，鎖定的預設方案將被刪除。"
+        "value": "若未在期限內重新加入世界通行证，锁定的预设方案将被刪除。"
     },
     {
         "wordingKey": "WORD_PREVIEW",
@@ -9533,7 +9533,7 @@
     },
     {
         "wordingKey": "WORD_PREVIEW_NOTE_SHOW_TIME_TEXT",
-        "value": "從顯示到判定的時間"
+        "value": "从顯示到判定的时间"
     },
     {
         "wordingKey": "WORD_PRE_DOWNLOAD",
@@ -9553,15 +9553,15 @@
     },
     {
         "wordingKey": "WORD_PRIZE_GIFT",
-        "value": "獎勵"
+        "value": "奖励"
     },
     {
         "wordingKey": "WORD_PRIZE_GIFT_SUMMARY",
-        "value": "獎勵概要"
+        "value": "奖励概要"
     },
     {
         "wordingKey": "WORD_PRODUCTION",
-        "value": "製作"
+        "value": "制作"
     },
     {
         "wordingKey": "WORD_PROFILE",
@@ -9649,7 +9649,7 @@
     },
     {
         "wordingKey": "WORD_QUALITY_SETTING",
-        "value": "『我的「世界」』 品質設定"
+        "value": "『我的「世界」』 品质设置"
     },
     {
         "wordingKey": "WORD_RANGE",
@@ -9681,7 +9681,7 @@
     },
     {
         "wordingKey": "WORD_RANK_CLASS_POINT_FORMAT",
-        "value": "×<color=#bb99ff>{0}</color>"
+        "value": "×<color=#bb99ff>{0}<\/color>"
     },
     {
         "wordingKey": "WORD_RANK_LIVE_FIND_OPPONENT_FIX_BUTTON_LABEL",
@@ -9693,7 +9693,7 @@
     },
     {
         "wordingKey": "WORD_RANK_REACHING_BY_RELEASE",
-        "value": "達到『我的「世界」』等級{0}即可解鎖"
+        "value": "达到『我的「世界」』等级{0}即可解锁"
     },
     {
         "wordingKey": "WORD_RARITY",
@@ -9741,7 +9741,7 @@
     },
     {
         "wordingKey": "WORD_REACTION_CHARACTER",
-        "value": "進行互動的角色"
+        "value": "进行互动的角色"
     },
     {
         "wordingKey": "WORD_READ",
@@ -9769,7 +9769,7 @@
     },
     {
         "wordingKey": "WORD_RECOLLECTION_BONUS_PROVISION_RATE_TAB",
-        "value": "獎勵{0}"
+        "value": "奖励{0}"
     },
     {
         "wordingKey": "WORD_RECOLLECTION_CONFIRM_CARD_NAME_FORMAT",
@@ -9781,7 +9781,7 @@
     },
     {
         "wordingKey": "WORD_RECOMMEND_COMMENT_DISPLAY",
-        "value": "显示推荐评论"
+        "value": "顯示推荐评论"
     },
     {
         "wordingKey": "WORD_RECOMMEND_TO_YOU",
@@ -9821,7 +9821,7 @@
     },
     {
         "wordingKey": "WORD_RECYCLE_MATERIAL_CONFIRM",
-        "value": "將回收選定的材料。\n確定？"
+        "value": "将回收选择的材料。\n确定吗？"
     },
     {
         "wordingKey": "WORD_RECYCLE_TOOL",
@@ -9829,7 +9829,7 @@
     },
     {
         "wordingKey": "WORD_RECYCLE_TOOL_CONFIRM",
-        "value": "將回收選定的工具。\n確定？"
+        "value": "将回收选择的工具。\n确定吗？"
     },
     {
         "wordingKey": "WORD_REGISTER",
@@ -9869,7 +9869,7 @@
     },
     {
         "wordingKey": "WORD_RELEASE_FROM_TRAINING",
-        "value": "特訓で解放"
+        "value": "特训后解放"
     },
     {
         "wordingKey": "WORD_RELEASE_PROFILE",
@@ -9913,7 +9913,7 @@
     },
     {
         "wordingKey": "WORD_REPOST",
-        "value": "重新發佈"
+        "value": "重新发布"
     },
     {
         "wordingKey": "WORD_REQUEST",
@@ -9937,7 +9937,7 @@
     },
     {
         "wordingKey": "WORD_RESET_ROTATION",
-        "value": "重置旋轉"
+        "value": "重置旋转"
     },
     {
         "wordingKey": "WORD_RESTRICT_TIME",
@@ -9993,11 +9993,11 @@
     },
     {
         "wordingKey": "WORD_RESULT_VOICE_ALL_PERFECT_RELEASE_CONDITION_FORMAT",
-        "value": "將{0}編組後、在LIVE達成ALL PERFECT後播放"
+        "value": "将{0}编组后、在演出达成ALL PERFECT后播放"
     },
     {
         "wordingKey": "WORD_RESULT_VOICE_FULL_COMBO_RELEASE_CONDITION_FORMAT",
-        "value": "將{0}編組後、在LIVE達成FULL COMBO後播放"
+        "value": "将{0}编组后、在演出达成FULL COMBO后播放"
     },
     {
         "wordingKey": "WORD_RESULT_VOICE_OVER_RANK_C_RELEASE_CONDITION_FORMAT",
@@ -10045,7 +10045,7 @@
     },
     {
         "wordingKey": "WORD_REWARDED_AD_LOAD_RETRY",
-        "value": "重試"
+        "value": "重试"
     },
     {
         "wordingKey": "WORD_REWARD_AND_EXP",
@@ -10081,7 +10081,7 @@
     },
     {
         "wordingKey": "WORD_ROTATE",
-        "value": "旋轉"
+        "value": "旋转"
     },
     {
         "wordingKey": "WORD_SANDWITCH",
@@ -10145,7 +10145,7 @@
     },
     {
         "wordingKey": "WORD_SEARCH_CANDIDATES",
-        "value": "搜尋候選項"
+        "value": "搜索候选项"
     },
     {
         "wordingKey": "WORD_SEARCH_ID",
@@ -10173,11 +10173,11 @@
     },
     {
         "wordingKey": "WORD_SECRET_DAILY_PICKUP",
-        "value": "TOP>每日推薦"
+        "value": "TOP>每日推荐"
     },
     {
         "wordingKey": "WORD_SECRET_WEEKLY_PICKUP",
-        "value": "TOP>每週推薦"
+        "value": "TOP>每周推荐"
     },
     {
         "wordingKey": "WORD_SEE_CONTENT",
@@ -10185,11 +10185,11 @@
     },
     {
         "wordingKey": "WORD_SEKAI_MISSION",
-        "value": "『我的「世界」』 任務"
+        "value": "『我的「世界」』 任务"
     },
     {
         "wordingKey": "WORD_SEKAI_RANK_EXP",
-        "value": "『我的「世界」』 等級EXP"
+        "value": "『我的「世界」』 等级经验值"
     },
     {
         "wordingKey": "WORD_SEKAI_VERSION",
@@ -10205,7 +10205,7 @@
     },
     {
         "wordingKey": "WORD_SELECTABLE_REWARD",
-        "value": "以下の中から選択した報酬を1つ獲得できます。"
+        "value": "以下の中から选択した报酬を1つ获得できます。"
     },
     {
         "wordingKey": "WORD_SELECTED_MEMBER",
@@ -10237,7 +10237,7 @@
     },
     {
         "wordingKey": "WORD_SELECT_AFTER",
-        "value": "稍後選擇"
+        "value": "稍后选择"
     },
     {
         "wordingKey": "WORD_SELECT_CLEANUP_TITLE",
@@ -10285,7 +10285,7 @@
     },
     {
         "wordingKey": "WORD_SELECT_RANK",
-        "value": "确认显示等级"
+        "value": "确认顯示等级"
     },
     {
         "wordingKey": "WORD_SELECT_STAMP_CARD_CONFIRM",
@@ -10317,11 +10317,11 @@
     },
     {
         "wordingKey": "WORD_SETTINGS_QUALITY",
-        "value": "圖像品質"
+        "value": "圖像品质"
     },
     {
         "wordingKey": "WORD_SETTING_MYSITE",
-        "value": "我的家設定中"
+        "value": "我的家设置中"
     },
     {
         "wordingKey": "WORD_SETTING_UP",
@@ -10333,7 +10333,7 @@
     },
     {
         "wordingKey": "WORD_SET_MYSITE",
-        "value": "設定我的家"
+        "value": "设置我的家"
     },
     {
         "wordingKey": "WORD_SET_PROFILE",
@@ -10341,19 +10341,19 @@
     },
     {
         "wordingKey": "WORD_SET_PURCHASE",
-        "value": "購買組合包"
+        "value": "购买组合包"
     },
     {
         "wordingKey": "WORD_SHAPE",
-        "value": "图形"
+        "value": "圖形"
     },
     {
         "wordingKey": "WORD_SHAPE_COLOR",
-        "value": "图形颜色"
+        "value": "圖形颜色"
     },
     {
         "wordingKey": "WORD_SHAPE_MAIN_COLOR_SELECT",
-        "value": "选择图形颜色"
+        "value": "选择圖形颜色"
     },
     {
         "wordingKey": "WORD_SHAPE_OUTLINE_COLOR_SELECT",
@@ -10361,11 +10361,11 @@
     },
     {
         "wordingKey": "WORD_SHAPE_TRANSPARENCY",
-        "value": "图形不透明度"
+        "value": "圖形不透明度"
     },
     {
         "wordingKey": "WORD_SHELF",
-        "value": "櫃子"
+        "value": "柜子"
     },
     {
         "wordingKey": "WORD_SHOP_AD",
@@ -10393,7 +10393,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_2_NL",
-        "value": "依据资金\n结算法显示"
+        "value": "依据资金\n结算法顯示"
     },
     {
         "wordingKey": "WORD_SHOP_BUTTON_MESSAGE_3_NL",
@@ -10409,7 +10409,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_FUND_SETTLEMENT_METHOD",
-        "value": "依据资金结算法显示"
+        "value": "依据资金结算法顯示"
     },
     {
         "wordingKey": "WORD_SHOP_IN_SERVICE_CURRENCY",
@@ -10417,7 +10417,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_MISSION_PASS_SET_DETAIL",
-        "value": "任務通行證組合包詳情"
+        "value": "任务通行证组合包详情"
     },
     {
         "wordingKey": "WORD_SHOP_MONTH",
@@ -10425,11 +10425,11 @@
     },
     {
         "wordingKey": "WORD_SHOP_MYSEKAI_COLORFUL_PASS_DETAIL",
-        "value": "世界通行證詳情"
+        "value": "世界通行证详情"
     },
     {
         "wordingKey": "WORD_SHOP_MYSEKAI_MISSION_PASS_DETAIL",
-        "value": "『我的「世界」』 任務通行證詳情"
+        "value": "『我的「世界」』 任务通行证详情"
     },
     {
         "wordingKey": "WORD_SHOP_PREMIUM_MISSION_PASS_DETAIL",
@@ -10437,7 +10437,7 @@
     },
     {
         "wordingKey": "WORD_SHOP_PRICE",
-        "value": "<color={0}>¥{1}</color>"
+        "value": "<color={0}>¥{1}<\/color>"
     },
     {
         "wordingKey": "WORD_SHOP_PURCHASE",
@@ -10469,15 +10469,15 @@
     },
     {
         "wordingKey": "WORD_SHOP_RE_REFLECT",
-        "value": "再次显示"
+        "value": "再次顯示"
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW",
-        "value": "依据特定商业交易法显示"
+        "value": "依据特定商业交易法顯示"
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_12_6",
-        "value": "依据特定商业交易法第12条第6项显示"
+        "value": "依据特定商业交易法第12条第6项顯示"
     },
     {
         "wordingKey": "WORD_SHOP_SPECIFIED_COMMERCIAL_TRANSACTION_LAW_SHORT",
@@ -10489,7 +10489,7 @@
     },
     {
         "wordingKey": "WORD_SHOW_NOTE_LINE",
-        "value": "音符的開始位置"
+        "value": "音符的开始位置"
     },
     {
         "wordingKey": "WORD_SHOW_PREVIEW_SETTING",
@@ -10505,11 +10505,11 @@
     },
     {
         "wordingKey": "WORD_SIGHTSEEING",
-        "value": "觀光"
+        "value": "SIGHTSEEING"
     },
     {
         "wordingKey": "WORD_SIGHTSEEING_JP",
-        "value": "觀光"
+        "value": "观光"
     },
     {
         "wordingKey": "WORD_SIMULTANEOUS_PUSHI_LINE",
@@ -10525,15 +10525,15 @@
     },
     {
         "wordingKey": "WORD_SITE_2_NAME",
-        "value": "一樓"
+        "value": "1楼"
     },
     {
         "wordingKey": "WORD_SITE_3_NAME",
-        "value": "二樓"
+        "value": "2楼"
     },
     {
         "wordingKey": "WORD_SITE_4_NAME",
-        "value": "三樓"
+        "value": "3楼"
     },
     {
         "wordingKey": "WORD_SITE_5_NAME",
@@ -10541,31 +10541,31 @@
     },
     {
         "wordingKey": "WORD_SITE_6_NAME",
-        "value": "繽紛花田"
+        "value": "缤纷花田"
     },
     {
         "wordingKey": "WORD_SITE_7_NAME",
-        "value": "願望沙灘"
+        "value": "愿望沙滩"
     },
     {
         "wordingKey": "WORD_SITE_8_NAME",
-        "value": "被遺忘之地"
+        "value": "被遗忘之地"
     },
     {
         "wordingKey": "WORD_SITE_ENVIRONMENT",
-        "value": "天氣"
+        "value": "天气"
     },
     {
         "wordingKey": "WORD_SITE_RELEASE",
-        "value": "達到『我的「世界」』等級{0}"
+        "value": "达到『我的「世界」』等级{0}"
     },
     {
         "wordingKey": "WORD_SIZE",
-        "value": "显示"
+        "value": "顯示"
     },
     {
         "wordingKey": "WORD_SKETCH",
-        "value": "描繪"
+        "value": "描绘"
     },
     {
         "wordingKey": "WORD_SKILL",
@@ -10573,7 +10573,7 @@
     },
     {
         "wordingKey": "WORD_SKILL_CHANGE",
-        "value": "＋技能變更"
+        "value": "＋技能变更"
     },
     {
         "wordingKey": "WORD_SKILL_LEVEL",
@@ -10601,7 +10601,7 @@
     },
     {
         "wordingKey": "WORD_SKILL_PRAISE",
-        "value": "技能·活跃度显示"
+        "value": "技能·活跃度顯示"
     },
     {
         "wordingKey": "WORD_SKILL_TICKET",
@@ -10633,7 +10633,7 @@
     },
     {
         "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN",
-        "value": "会场内角色的显示数量"
+        "value": "会场内角色的顯示数量"
     },
     {
         "wordingKey": "WORD_SL_SETTINGS_MOB_PATTERN_ALL",
@@ -10653,7 +10653,7 @@
     },
     {
         "wordingKey": "WORD_SOHW_ONLINE",
-        "value": "在线显示"
+        "value": "在线顯示"
     },
     {
         "wordingKey": "WORD_SOLDOUT",
@@ -10713,11 +10713,11 @@
     },
     {
         "wordingKey": "WORD_SPECIAL_FEATURE",
-        "value": "特輯"
+        "value": "特辑"
     },
     {
         "wordingKey": "WORD_SPECIAL_OFFER_DETAIL",
-        "value": "優惠詳情"
+        "value": "优惠详情"
     },
     {
         "wordingKey": "WORD_SPECIAL_SKILL",
@@ -10797,7 +10797,7 @@
     },
     {
         "wordingKey": "WORD_STAND_IMAGE",
-        "value": "全身图"
+        "value": "全身圖"
     },
     {
         "wordingKey": "WORD_START",
@@ -10829,7 +10829,7 @@
     },
     {
         "wordingKey": "WORD_STOP_PERIOD",
-        "value": "停止期間 {0}/{1:00}/{2:00} {3:00}:{4:00}まで"
+        "value": "停止期間 {0}\/{1:00}\/{2:00} {3:00}:{4:00}まで"
     },
     {
         "wordingKey": "WORD_STORY",
@@ -10853,7 +10853,7 @@
     },
     {
         "wordingKey": "WORD_STORY_READ_STATUS",
-        "value": "読了状況"
+        "value": "阅读状况"
     },
     {
         "wordingKey": "WORD_STORY_REWARD",
@@ -10957,7 +10957,7 @@
     },
     {
         "wordingKey": "WORD_TAG_OPTIONS",
-        "value": "候選標籤"
+        "value": "候选标签"
     },
     {
         "wordingKey": "WORD_TALK",
@@ -10965,7 +10965,7 @@
     },
     {
         "wordingKey": "WORD_TALK_CHARACTER",
-        "value": "對話角色"
+        "value": "对话角色"
     },
     {
         "wordingKey": "WORD_TALK_LOG",
@@ -11009,15 +11009,15 @@
     },
     {
         "wordingKey": "WORD_THEMA",
-        "value": "主題"
+        "value": "主题"
     },
     {
         "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED",
-        "value": "此家具已製作完成"
+        "value": "此家具已制作完成"
     },
     {
         "wordingKey": "WORD_THIS_FURNITURE_IS_CREATED_COLOR",
-        "value": "此顏色已製作完成"
+        "value": "此颜色已制作完成"
     },
     {
         "wordingKey": "WORD_THREE_HYPHEN",
@@ -11037,11 +11037,11 @@
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_FROAMT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00}まで"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00}まで"
     },
     {
         "wordingKey": "WORD_TIME_LIMIT_RANGE_FORMAT",
-        "value": "{0}/{1:00}/{2:00} {3:00}:{4:00} ~ {5}/{6:00}/{7:00} {8:00}:{9:00}"
+        "value": "{0}\/{1:00}\/{2:00} {3:00}:{4:00} ~ {5}\/{6:00}\/{7:00} {8:00}:{9:00}"
     },
     {
         "wordingKey": "WORD_TIME_TO_APPEARANCE",
@@ -11085,19 +11085,19 @@
     },
     {
         "wordingKey": "WORD_TITLE_PANEL",
-        "value": "標題面板"
+        "value": "标题面板"
     },
     {
         "wordingKey": "WORD_TITLE_SEARCH_KEYWORD_TAG",
-        "value": "搜尋關鍵字或標籤"
+        "value": "搜索关键字或标签"
     },
     {
         "wordingKey": "WORD_TITLE_SEARCH_TAG",
-        "value": "搜尋標籤"
+        "value": "搜索标签"
     },
     {
         "wordingKey": "WORD_TITLE_STAND",
-        "value": "標題架"
+        "value": "标题架"
     },
     {
         "wordingKey": "WORD_TITLE_STREAMING_LIVE_TICKET_EXCHANGE_CONFIRM",
@@ -11133,15 +11133,15 @@
     },
     {
         "wordingKey": "WORD_TOOL_COUNT",
-        "value": "工具持有數量"
+        "value": "工具持有数量"
     },
     {
         "wordingKey": "WORD_TOOL_CREATE_RESULT",
-        "value": "工具製作完成"
+        "value": "工具制作完成"
     },
     {
         "wordingKey": "WORD_TOOL_RECYCLE_RESULT",
-        "value": "工具已被回收，並獲得硬幣。"
+        "value": "工具已被回收，并获得硬幣。"
     },
     {
         "wordingKey": "WORD_TOP",
@@ -11153,7 +11153,7 @@
     },
     {
         "wordingKey": "WORD_TOTAL_FURNITURE_IS_CREATED",
-        "value": "已達道具上限"
+        "value": "已达道具上限"
     },
     {
         "wordingKey": "WORD_TOTAL_MATCH_COUNT",
@@ -11177,7 +11177,7 @@
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_BONUS_RATE",
-        "value": "表現獎勵"
+        "value": "表现奖励"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_CARD",
@@ -11213,11 +11213,11 @@
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
-        "value": "家具獎勵"
+        "value": "家具奖励"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_GATE_BONUS",
-        "value": "大門獎勵"
+        "value": "大门奖励"
     },
     {
         "wordingKey": "WORD_TOTAL_POWER_HONOR_BONUS",
@@ -11281,7 +11281,7 @@
     },
     {
         "wordingKey": "WORD_TO_VISIT",
-        "value": "訪問地點"
+        "value": "访问地点"
     },
     {
         "wordingKey": "WORD_TRACE",
@@ -11289,11 +11289,11 @@
     },
     {
         "wordingKey": "WORD_TRADE_MACHINE_LEVEL_UP",
-        "value": "轉換機等級提升"
+        "value": "转换机等级提升"
     },
     {
         "wordingKey": "WORD_TRANING_BEFORE",
-        "value": "特訓前"
+        "value": "特训前"
     },
     {
         "wordingKey": "WORD_TRANSACTION_LAW_DIALOG_TITLE",
@@ -11301,15 +11301,15 @@
     },
     {
         "wordingKey": "WORD_TREE",
-        "value": "樹"
+        "value": "树"
     },
     {
         "wordingKey": "WORD_TRESURE_BOX_NOTIFICATION",
-        "value": "發現了紙飛機！"
+        "value": "发现了纸飞机！"
     },
     {
         "wordingKey": "WORD_TUTORIAL_THIS_FURNITURE_IS_CREATED",
-        "value": "教程期間無法製作"
+        "value": "教程期间无法制作"
     },
     {
         "wordingKey": "WORD_TWITTER",
@@ -11325,7 +11325,7 @@
     },
     {
         "wordingKey": "WORD_UNCREATED",
-        "value": "未製作"
+        "value": "未制作"
     },
     {
         "wordingKey": "WORD_UNDO",
@@ -11381,11 +11381,11 @@
     },
     {
         "wordingKey": "WORD_UNLINK_APPLE_ACCOUNT_BUTTON",
-        "value": "Appleと連携解除"
+        "value": "解除Apple绑定"
     },
     {
         "wordingKey": "WORD_UNLINK_GOOGLE_ACCOUNT_BUTTON",
-        "value": "Googleと連携解除"
+        "value": "解除Google绑定"
     },
     {
         "wordingKey": "WORD_UNLOCK",
@@ -11449,7 +11449,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_COIN",
-        "value": "虚拟硬币"
+        "value": "虚拟硬幣"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE",
@@ -11545,7 +11545,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SCREEN_SHOT_REQUIRED_RESON_TITLE",
-        "value": "关于截图功能"
+        "value": "关于截圖功能"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS",
@@ -11553,7 +11553,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_ACTIVE",
-        "value": "显示"
+        "value": "顯示"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_AUTO_ACTION",
@@ -11577,7 +11577,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_INACTIVE",
-        "value": "不显示"
+        "value": "不顯示"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_SETTINGS_ITEM_SE",
@@ -11625,7 +11625,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_FILTER_CHARA_STAMP",
-        "value": "此处设置为“开启”，\n就会只显示登场角色的物品！"
+        "value": "此处设置为“开启”，\n就会只顯示登场角色的物品！"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_GYRO",
@@ -11649,7 +11649,7 @@
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_TUTORIAL_ZOOM",
-        "value": "两指按住屏幕靠拢/伸开，\n就能缩小/放大哦！"
+        "value": "两指按住屏幕靠拢\/伸开，\n就能缩小\/放大哦！"
     },
     {
         "wordingKey": "WORD_VIRTUAL_LIVE_UPDATE_AVATAR",
@@ -11661,27 +11661,27 @@
     },
     {
         "wordingKey": "WORD_VISIBLE",
-        "value": "显示"
+        "value": "顯示"
     },
     {
         "wordingKey": "WORD_VISIT",
-        "value": "訪問"
+        "value": "VISIT"
     },
     {
         "wordingKey": "WORD_VISITING_MYSEKAI",
-        "value": "正在訪問"
+        "value": "正在访问"
     },
     {
         "wordingKey": "WORD_VISIT_JP",
-        "value": "訪問"
+        "value": "访问"
     },
     {
         "wordingKey": "WORD_VISIT_LIST",
-        "value": "訪問列表"
+        "value": "访问列表"
     },
     {
         "wordingKey": "WORD_VISIT_SETTING",
-        "value": "訪問設置"
+        "value": "访问设置"
     },
     {
         "wordingKey": "WORD_VL_SETTINGS_LABEL_ALL",
@@ -11697,7 +11697,7 @@
     },
     {
         "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR",
-        "value": "其他玩家的显示数量"
+        "value": "其他玩家的顯示数量"
     },
     {
         "wordingKey": "WORD_VL_SETTINGS_LOBBY_VISIBLE_AVATAR_ALL",
@@ -11729,7 +11729,7 @@
     },
     {
         "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR",
-        "value": "其他玩家的显示数量"
+        "value": "其他玩家的顯示数量"
     },
     {
         "wordingKey": "WORD_VL_SETTINGS_VISIBLE_AVATAR_ALL",
@@ -11777,11 +11777,11 @@
     },
     {
         "wordingKey": "WORD_WALL",
-        "value": "牆"
+        "value": "墙"
     },
     {
         "wordingKey": "WORD_WALLPAPER",
-        "value": "牆面"
+        "value": "墙纸"
     },
     {
         "wordingKey": "WORD_WARERABLE_MEMBER",
@@ -11801,7 +11801,7 @@
     },
     {
         "wordingKey": "WORD_WEATHER",
-        "value": "天氣預報"
+        "value": "天气预报"
     },
     {
         "wordingKey": "WORD_WEB_PAYMENT_REFLECTION_ITEM_NAME_FORMAT",
@@ -11853,7 +11853,7 @@
     },
     {
         "wordingKey": "WORD_WILL_ACTIVATE_W_SKILL",
-        "value": "解放第2個技能"
+        "value": "解放第2个技能"
     },
     {
         "wordingKey": "WORD_WIN",
@@ -11909,7 +11909,7 @@
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_DATE_PERIOD",
-        "value": "{0:MM/dd HH:mm} ～ {1:MM/dd HH:mm}为止"
+        "value": "{0:MM\/dd HH:mm} ～ {1:MM\/dd HH:mm}为止"
     },
     {
         "wordingKey": "WORD_WORLD_BLOOM_CHAPTER_ENG",

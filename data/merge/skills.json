@@ -693,7 +693,7 @@
     {
         "id": 12,
         "shortDescription": "発動時ライフが800未満ならスコア{{39;v}}%UP、\\n800以上ならスコア{{38;v}}%UP、更にライフが10増加毎に+1%UP（最大{{18;v}}%)",
-        "description": "{{38;d}}秒内，发动时若生命值不满800，则得分提高{{39;v}}%；\\n 若达到800，则得分提高{{38;v}}%，且生命值每增加10，得分多提高1%（最多{{18;v}}%)。",
+        "description": "{{38;d}}秒内，发动时若生命值不满800，则得分提高{{39;v}}%；\n若达到800，则得分提高{{38;v}}%，且生命值每增加10，得分多提高1%（最多{{18;v}}%)。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1494,7 +1494,7 @@
     {
         "id": 13,
         "shortDescription": "スコア{{41;v}}％UP、GOOD以下を出すまではスコア{{40;v}}％UP",
-        "description": "{{40;d}}秒内，得分提高{{41;v}}％。\\n 在出现GOOD及以下评价之前得分提高{{40;v}}％。",
+        "description": "{{40;d}}秒内，得分提高{{41;v}}％。\n在出现GOOD及以下评价之前得分提高{{40;v}}％。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1651,7 +1651,7 @@
     {
         "id": 15,
         "shortDescription": "スコア{{44;v}}%UP、自身を除き「Leo\/need」メンバーを1人編成する毎にスコア{{44;e}}%UP、全員一致で更に{{44;e}}%UP",
-        "description": "{{44;d}}秒内，得分提高{{44;v}}%。\\n 除自身以外，每编组1名“Leo\\/need”成员，得分提高{{44;e}}%，若所有成员所属组合相同则再提高{{44;e}}%（最多{{44;m}}%）。",
+        "description": "{{44;d}}秒内，得分提高{{44;v}}%。\n除自身以外，每编组1名“Leo\/need”成员，得分提高{{44;e}}%，若所有成员所属组合相同则再提高{{44;e}}%（最多{{44;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1706,7 +1706,7 @@
     {
         "id": 16,
         "shortDescription": "スコア{{45;v}}%UP、自身を除き「MORE MORE JUMP！」メンバーを1人編成する毎にスコア{{45;e}}%UP、全員一致で更に{{45;e}}%UP（最大{{45;m}}%)",
-        "description": "{{45;d}}秒内，得分提高{{45;v}}%。\\n 除自身以外，每编组1名“MORE MORE JUMP！”成员，得分提高{{45;e}}%，若所有成员所属组合相同则再提高{{45;e}}%（最多{{45;m}}%）。",
+        "description": "{{45;d}}秒内，得分提高{{45;v}}%。\n除自身以外，每编组1名“MORE MORE JUMP！”成员，得分提高{{45;e}}%，若所有成员所属组合相同则再提高{{45;e}}%（最多{{45;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1761,7 +1761,7 @@
     {
         "id": 17,
         "shortDescription": "スコア{{46;v}}%UP、自身を除き「Vivid BAD SQUAD」メンバーを1人編成する毎にスコア{{46;e}}%UP、全員一致で更に{{46;e}}%UP（最大{{46;m}}%)",
-        "description": "{{46;d}}秒内，得分提高{{46;v}}%。\\n 除自身以外，每编组1名“Vivid BAD SQUAD”成员，得分提高{{46;e}}%，若所有成员所属组合相同则再提高{{46;e}}%（最多{{46;m}}%）。",
+        "description": "{{46;d}}秒内，得分提高{{46;v}}%。\n除自身以外，每编组1名“Vivid BAD SQUAD”成员，得分提高{{46;e}}%，若所有成员所属组合相同则再提高{{46;e}}%（最多{{46;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1816,7 +1816,7 @@
     {
         "id": 18,
         "shortDescription": "スコア{{47;v}}%UP、自身を除き「ワンダーランズ×ショウタイム」メンバーを1人編成する毎にスコア{{47;e}}%UP、全員一致で更に{{47;e}}%UP（最大{{47;m}}%)",
-        "description": "{{47;d}}秒内，得分提高{{47;v}}%。\\n 除自身以外，每编组1名“Wonderlands×Showtime”成员，得分提高{{47;e}}%，若所有成员所属组合相同则再提高{{47;e}}%（最多{{47;m}}%）。",
+        "description": "{{47;d}}秒内，得分提高{{47;v}}%。\n除自身以外，每编组1名“Wonderlands×Showtime”成员，得分提高{{47;e}}%，若所有成员所属组合相同则再提高{{47;e}}%（最多{{47;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [
@@ -1871,7 +1871,7 @@
     {
         "id": 19,
         "shortDescription": "スコア{{48;v}}%UP、自身を除き「25時、ナイトコードで。」メンバーを1人編成する毎にスコア{{48;e}}%UP、全員一致で更に{{48;e}}%UP（最大{{48;m}}%)",
-        "description": "{{48;d}}秒内，得分提高{{48;v}}%。\\n 除自身以外，每编组1名“25点，Nightcord见。”成员，得分提高{{48;e}}%，若所有成员所属组合相同则再提高{{48;e}}%（最多{{48;m}}%）。",
+        "description": "{{48;d}}秒内，得分提高{{48;v}}%。\n除自身以外，每编组1名“25点，Nightcord见。”成员，得分提高{{48;e}}%，若所有成员所属组合相同则再提高{{48;e}}%（最多{{48;m}}%）。",
         "descriptionSpriteName": "score_up",
         "skillFilterId": 2,
         "skillEffects": [

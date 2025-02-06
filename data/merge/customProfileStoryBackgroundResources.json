@@ -3,8 +3,7 @@
         "customProfileResourceType": "story_background",
         "id": 1,
         "seq": 1,
-        "name": "教室的「世界」",
-        "pronunciation": "きょうしつのせかい",
+        "name": "教室「世界」",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0001"
@@ -13,8 +12,7 @@
         "customProfileResourceType": "story_background",
         "id": 2,
         "seq": 2,
-        "name": "舞台的「世界」",
-        "pronunciation": "すてーじのせかい",
+        "name": "舞台「世界」",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0002"
@@ -23,8 +21,7 @@
         "customProfileResourceType": "story_background",
         "id": 3,
         "seq": 3,
-        "name": "街頭的「世界」",
-        "pronunciation": "すとりーとのせかい",
+        "name": "街头「世界」",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0003"
@@ -33,8 +30,7 @@
         "customProfileResourceType": "story_background",
         "id": 4,
         "seq": 4,
-        "name": "奇幻樂園的「世界」",
-        "pronunciation": "わんだーらんどのせかい",
+        "name": "奇幻乐园「世界」",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0004"
@@ -43,8 +39,7 @@
         "customProfileResourceType": "story_background",
         "id": 5,
         "seq": 5,
-        "name": "空無一人的「世界」",
-        "pronunciation": "だれもいないせかい",
+        "name": "无人「世界」",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0005"
@@ -53,8 +48,7 @@
         "customProfileResourceType": "story_background",
         "id": 6,
         "seq": 6,
-        "name": "宮益坂女子學園的中庭",
-        "pronunciation": "みやますざかじょしがくえんのなかにわ",
+        "name": "宫益坂女子学园的中庭",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0006"
@@ -63,8 +57,7 @@
         "customProfileResourceType": "story_background",
         "id": 7,
         "seq": 7,
-        "name": "宮益坂女子學園的教室",
-        "pronunciation": "みやますざかじょしがくえんのきょうしつ",
+        "name": "宫益坂女子学园的教室",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0007"
@@ -73,8 +66,7 @@
         "customProfileResourceType": "story_background",
         "id": 8,
         "seq": 8,
-        "name": "宮益坂女子學園的頂樓",
-        "pronunciation": "みやますざかじょしがくえんのおくじょう",
+        "name": "宫益坂女子学园的天台",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0008"
@@ -83,8 +75,7 @@
         "customProfileResourceType": "story_background",
         "id": 9,
         "seq": 9,
-        "name": "神山高中的大門",
-        "pronunciation": "かみやまこうこうのこうもん",
+        "name": "神山高校的校门",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0009"
@@ -93,8 +84,7 @@
         "customProfileResourceType": "story_background",
         "id": 10,
         "seq": 10,
-        "name": "神山高中的教室",
-        "pronunciation": "かみやまこうこうのきょうしつ",
+        "name": "神山高校的教室",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0010"
@@ -103,8 +93,7 @@
         "customProfileResourceType": "story_background",
         "id": 11,
         "seq": 11,
-        "name": "神山高中的頂樓",
-        "pronunciation": "かみやまこうこうのおくじょう",
+        "name": "神山高校的天台",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0011"
@@ -113,8 +102,7 @@
         "customProfileResourceType": "story_background",
         "id": 12,
         "seq": 12,
-        "name": "十字路口",
-        "pronunciation": "すくらんぶるこうさてん",
+        "name": "全向十字路口",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0012"
@@ -123,8 +111,7 @@
         "customProfileResourceType": "story_background",
         "id": 13,
         "seq": 13,
-        "name": "唱片行",
-        "pronunciation": "おんがくしょっぷ",
+        "name": "音乐商店",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0013"
@@ -134,7 +121,6 @@
         "id": 14,
         "seq": 14,
         "name": "WEEKEND GARAGE",
-        "pronunciation": "うぃーくえんど がれーじ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0014"
@@ -143,8 +129,7 @@
         "customProfileResourceType": "story_background",
         "id": 15,
         "seq": 15,
-        "name": "鳳凰奇幻樂園",
-        "pronunciation": "ふぇにっくすわんだーらんど",
+        "name": "菲尼克斯奇幻乐园",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0015"
@@ -154,7 +139,6 @@
         "id": 16,
         "seq": 16,
         "name": "奇幻舞台",
-        "pronunciation": "わんだーすてーじ",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0016"
@@ -163,8 +147,7 @@
         "customProfileResourceType": "story_background",
         "id": 17,
         "seq": 17,
-        "name": "平價餐廳",
-        "pronunciation": "ふぁみりーれすとらん",
+        "name": "家庭餐厅",
         "resourceLoadType": "assetbundle",
         "resourceLoadVal": "custom_profile\/bg",
         "fileName": "profile_bg_story_0017"

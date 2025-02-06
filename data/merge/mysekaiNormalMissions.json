@@ -1,2082 +1,878 @@
 [
     {
         "id": 100,
-        "mysekaiNormalMissionSheetId": 1,
-        "seq": 1,
-        "sentence": "在『我的「世界」』裡尋找材料吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "在『我的「世界」』里寻找材料吧！"
     },
     {
         "id": 101,
-        "mysekaiNormalMissionSheetId": 1,
-        "seq": 2,
-        "sentence": "砍樹並收集10個心願木材",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10,
-        "conditionValue1": 1
+        "sentence": "砍树并收集10个心愿木材"
     },
     {
         "id": 102,
-        "mysekaiNormalMissionSheetId": 1,
-        "seq": 3,
-        "sentence": "從植物中收集3個柔軟棉花",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3,
-        "conditionValue1": 22
+        "sentence": "从植物中收集3个柔软棉花"
     },
     {
         "id": 200,
-        "mysekaiNormalMissionSheetId": 2,
-        "seq": 1,
-        "sentence": "製作你的第一件家具吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "制作你的第一件家具吧！"
     },
     {
         "id": 201,
-        "mysekaiNormalMissionSheetId": 2,
-        "seq": 2,
-        "sentence": "製作1個自然風格的床",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 141
+        "sentence": "制作1个自然风格的床"
     },
     {
         "id": 202,
-        "mysekaiNormalMissionSheetId": 2,
-        "seq": 3,
-        "sentence": "製作1個自然風格的抽屜櫃",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 140
+        "sentence": "制作1个自然风格的抽屉柜"
     },
     {
         "id": 203,
-        "mysekaiNormalMissionSheetId": 2,
-        "seq": 4,
-        "sentence": "將製作好的自然風格的床放置在家中",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 141,
-        "conditionValue2": 2
+        "sentence": "将制作好的自然风格的床放置在家中"
     },
     {
         "id": 204,
-        "mysekaiNormalMissionSheetId": 2,
-        "seq": 5,
-        "sentence": "將製作好的自然風格的抽屜櫃放置在家中",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 140,
-        "conditionValue2": 2
+        "sentence": "将制作好的自然风格的抽屉柜放置在家中"
     },
     {
         "id": 300,
-        "mysekaiNormalMissionSheetId": 3,
-        "seq": 1,
-        "sentence": "打造一個大家可以一起玩的庭院吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "打造一个大家可以一起玩的庭院吧！"
     },
     {
         "id": 301,
-        "mysekaiNormalMissionSheetId": 3,
-        "seq": 2,
-        "sentence": "製作2個公園輪胎",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 193
+        "sentence": "制作2个公园轮胎"
     },
     {
         "id": 302,
-        "mysekaiNormalMissionSheetId": 3,
-        "seq": 4,
-        "sentence": "將製作的家具放置在庭院中",
-        "mysekaiNormalMissionType": "put_mysekai_fixture_specific_tag_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3,
-        "conditionValue1": 33,
-        "conditionValue2": 1
+        "sentence": "将制作的家具放置在庭院中"
     },
     {
         "id": 303,
-        "mysekaiNormalMissionSheetId": 3,
-        "seq": 3,
-        "sentence": "製作1個公園長椅",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 189
+        "sentence": "制作1个公园长椅"
     },
     {
         "id": 400,
-        "mysekaiNormalMissionSheetId": 4,
-        "seq": 1,
-        "sentence": "將大門更改為『空無一人的「世界」之門』吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "将大门更改为『无人「世界」之门』吧！"
     },
     {
         "id": 401,
-        "mysekaiNormalMissionSheetId": 4,
-        "seq": 2,
-        "sentence": "接近大門，並將其更改為『空無一人的「世界」之門』",
-        "mysekaiNormalMissionType": "change_specific_mysekai_gate",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "接近大门，并将其更改为『无人「世界」之门』"
     },
     {
         "id": 500,
-        "mysekaiNormalMissionSheetId": 5,
-        "seq": 1,
-        "sentence": "將家內裝飾得更精緻吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "将家内装饰得更精致吧！"
     },
     {
         "id": 501,
-        "mysekaiNormalMissionSheetId": 5,
-        "seq": 2,
-        "sentence": "製作1個掛在牆上的法式風格的壁掛時鐘",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 278
+        "sentence": "制作1个挂在墙上的法式风格的壁挂时钟"
     },
     {
         "id": 502,
-        "mysekaiNormalMissionSheetId": 5,
-        "seq": 3,
-        "sentence": "製作1個小型家具艾可貝莉亞",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 317
+        "sentence": "制作1个小型家具多肉植物"
     },
     {
         "id": 503,
-        "mysekaiNormalMissionSheetId": 5,
-        "seq": 4,
-        "sentence": "將製作好的家具掛在家內的牆上",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 278,
-        "conditionValue2": 2
+        "sentence": "将制作好的家具挂在家内的墙上"
     },
     {
         "id": 504,
-        "mysekaiNormalMissionSheetId": 5,
-        "seq": 5,
-        "sentence": "將製作好的小型家具放置在某處",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 317
+        "sentence": "将制作好的小型家具放置在某处"
     },
     {
         "id": 600,
-        "mysekaiNormalMissionSheetId": 6,
-        "seq": 1,
-        "sentence": "將大門更改為『舞台的「世界」之門』吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "将大门更改为『舞台「世界」之门』吧！"
     },
     {
         "id": 601,
-        "mysekaiNormalMissionSheetId": 6,
-        "seq": 2,
-        "sentence": "接近大門，並將其更改為『舞台的「世界」之門』",
-        "mysekaiNormalMissionType": "change_specific_mysekai_gate",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 2
+        "sentence": "接近大门，并将其更改为『舞台「世界」之门』"
     },
     {
         "id": 700,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 1,
-        "sentence": "整理庭院並放置柵欄與道路吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 9
+        "sentence": "整理庭院并放置栅栏与道路吧！"
     },
     {
         "id": 701,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 2,
-        "sentence": "在「繽紛花田」收集5個花瓣",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 23
+        "sentence": "在「缤纷花田」收集5个花瓣"
     },
     {
         "id": 702,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 5,
-        "sentence": "製作14個泥土小徑",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 14,
-        "conditionValue1": 111
+        "sentence": "制作14个泥土小径"
     },
     {
         "id": 703,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 6,
-        "sentence": "製作8個簡約木圍欄",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8,
-        "conditionValue1": 114
+        "sentence": "制作8个简约木围栏"
     },
     {
         "id": 704,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 7,
-        "sentence": "製作2個簡約花壇",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 175
+        "sentence": "制作2个简约花坛"
     },
     {
         "id": 705,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 8,
-        "sentence": "放置14個泥土小徑",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 14,
-        "conditionValue1": 111,
-        "conditionValue2": 1
+        "sentence": "放置14个泥土小径"
     },
     {
         "id": 706,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 9,
-        "sentence": "放置8個簡約木圍欄",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8,
-        "conditionValue1": 114,
-        "conditionValue2": 1
+        "sentence": "放置8个简约木围栏"
     },
     {
         "id": 707,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 10,
-        "sentence": "將2個簡約花壇放置在庭院中",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 175,
-        "conditionValue2": 1
+        "sentence": "将2个简约花坛放置在庭院中"
     },
     {
         "id": 708,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 3,
-        "sentence": "在「最初的草原」收集3個釘子",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3,
-        "conditionValue1": 14
+        "sentence": "在「最初的草原」收集3个钉子"
     },
     {
         "id": 709,
-        "mysekaiNormalMissionSheetId": 7,
-        "seq": 4,
-        "sentence": "在「最初的草原」或「繽紛花田」收集10個心願石頭",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10,
-        "conditionValue1": 6
+        "sentence": "在「最初的草原」或「缤纷花田」收集10个心愿石头"
     },
     {
         "id": 800,
-        "mysekaiNormalMissionSheetId": 8,
-        "seq": 1,
-        "sentence": "將大門更改為『街頭的「世界」之門』吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "将大门更改为『街头「世界」之门』吧！"
     },
     {
         "id": 801,
-        "mysekaiNormalMissionSheetId": 8,
-        "seq": 2,
-        "sentence": "接近大門，並將其更改為『街頭的「世界」之門』",
-        "mysekaiNormalMissionType": "change_specific_mysekai_gate",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 3
+        "sentence": "接近大门，并将其更改为『街头「世界」之门』"
     },
     {
         "id": 900,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 1,
-        "sentence": "更換『我的「世界」』的BGM吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 5
+        "sentence": "更换『我的「世界」』的BGM吧！"
     },
     {
         "id": 901,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 4,
-        "sentence": "製作1個黑膠唱機",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 102
+        "sentence": "制作1个黑胶唱机"
     },
     {
         "id": 902,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 5,
-        "sentence": "將黑膠唱機放置在庭院中",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 102,
-        "conditionValue2": 1
+        "sentence": "将黑胶唱机放置在庭院中"
     },
     {
         "id": 903,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 2,
-        "sentence": "前往「最初的草原」，獲得1張唱片",
-        "mysekaiNormalMissionType": "collect_any_mysekai_music_record",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1
+        "sentence": "前往「最初的草原」，获得1张唱片"
     },
     {
         "id": 904,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 6,
-        "sentence": "觸碰黑膠唱機並更改『我的「世界」』的BGM",
-        "mysekaiNormalMissionType": "set_mysekai_record",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1
+        "sentence": "触碰黑胶唱机并更改『我的「世界」』的BGM"
     },
     {
         "id": 905,
-        "mysekaiNormalMissionSheetId": 9,
-        "seq": 3,
-        "sentence": "在「最初的草原」收集1個塑膠",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 15
+        "sentence": "在「最初的草原」收集1个塑料"
     },
     {
         "id": 1000,
-        "mysekaiNormalMissionSheetId": 10,
-        "seq": 1,
-        "sentence": "將大門更改為『教室的「世界」之門』吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "将大门更改为『教室「世界」之门』吧！"
     },
     {
         "id": 1001,
-        "mysekaiNormalMissionSheetId": 10,
-        "seq": 2,
-        "sentence": "接近大門，並將其更改為『教室的「世界」之門』",
-        "mysekaiNormalMissionType": "change_specific_mysekai_gate",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 1
+        "sentence": "接近大门，并将其更改为『教室「世界」之门』"
     },
     {
         "id": 1100,
-        "mysekaiNormalMissionSheetId": 11,
-        "seq": 1,
-        "sentence": "進行天體觀測吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "进行天体观测吧！"
     },
     {
         "id": 1101,
-        "mysekaiNormalMissionSheetId": 11,
-        "seq": 2,
-        "sentence": "前往「最初的草原」或「繽紛花田」，撿拾1個流星碎片",
-        "mysekaiNormalMissionType": "gather_specific_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 34
+        "sentence": "前往「最初的草原」或「缤纷花田」，捡拾1个流星碎片"
     },
     {
         "id": 1102,
-        "mysekaiNormalMissionSheetId": 11,
-        "seq": 3,
-        "sentence": "製作1個天文學家的研究室的天文望遠鏡",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 333
+        "sentence": "制作1个天文学家的研究室的天文望远镜"
     },
     {
         "id": 1103,
-        "mysekaiNormalMissionSheetId": 11,
-        "seq": 4,
-        "sentence": "將天文學家的研究室的天文望遠鏡放置在庭院中",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture_specific_mysekai_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 333,
-        "conditionValue2": 1
+        "sentence": "将天文学家的研究室的天文望远镜放置在庭院中"
     },
     {
         "id": 1200,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 1,
-        "sentence": "打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 6
+        "sentence": "打造专属于你的「世界」吧！"
     },
     {
         "id": 1201,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 2,
-        "sentence": "收集10個木材類材料",
-        "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10,
-        "conditionValue1": 1
+        "sentence": "收集10个木材类材料"
     },
     {
         "id": 1202,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 3,
-        "sentence": "收集10個岩石類材料",
-        "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10,
-        "conditionValue1": 2
+        "sentence": "收集10个岩石类材料"
     },
     {
         "id": 1203,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 4,
-        "sentence": "收集5個植物類材料",
-        "mysekaiNormalMissionType": "gather_mysekai_material_specific_type",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 3
+        "sentence": "收集5个植物类材料"
     },
     {
         "id": 1204,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 5,
-        "sentence": "收集5個工具類材料",
-        "mysekaiNormalMissionType": "gather_mysekai_material_specific_mysekai_mission_mysekai_material_group",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 1
+        "sentence": "收集5个工具类材料"
     },
     {
         "id": 1205,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 6,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 1206,
-        "mysekaiNormalMissionSheetId": 12,
-        "seq": 7,
-        "sentence": "在戶外透過「レイアウト」(佈局)更改天氣",
-        "mysekaiNormalMissionType": "set_any_mysekai_phenomena_at_home_site",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1
+        "sentence": "在户外通过「布局」更改天气"
     },
     {
         "id": 1300,
-        "mysekaiNormalMissionSheetId": 13,
-        "seq": 1,
-        "sentence": "去拜訪其他人的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "去拜访其他人的「世界」吧！"
     },
     {
         "id": 1301,
-        "mysekaiNormalMissionSheetId": 13,
-        "seq": 2,
-        "sentence": "接近大門，透過「外出」前往某個人的「世界」",
-        "mysekaiNormalMissionType": "visit_other_player_mysekai",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "requirement2": 1,
-        "conditionValue1": 1
+        "sentence": "接近大门，通过「外出」前往某个人的「世界」"
     },
     {
         "id": 1400,
-        "mysekaiNormalMissionSheetId": 14,
-        "seq": 1,
-        "sentence": "使用轉換機進行道具交換吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "使用转换机进行道具交换吧！"
     },
     {
         "id": 1401,
-        "mysekaiNormalMissionSheetId": 14,
-        "seq": 2,
-        "sentence": "製作1個木製轉換機",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 97
+        "sentence": "制作1个木制转换机"
     },
     {
         "id": 1402,
-        "mysekaiNormalMissionSheetId": 14,
-        "seq": 3,
-        "sentence": "放置1個木製轉換機",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 97
+        "sentence": "放置1个木制转换机"
     },
     {
         "id": 1403,
-        "mysekaiNormalMissionSheetId": 14,
-        "seq": 4,
-        "sentence": "選擇1個喜歡的道具進行交換並領取",
-        "mysekaiNormalMissionType": "receive_any_mysekai_convert_item",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1
+        "sentence": "选择1个喜欢的道具进行交换并领取"
     },
     {
         "id": 1500,
-        "mysekaiNormalMissionSheetId": 15,
-        "seq": 1,
-        "sentence": "裝飾你的周邊吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "装饰你的周边吧！"
     },
     {
         "id": 1501,
-        "mysekaiNormalMissionSheetId": 15,
-        "seq": 2,
-        "sentence": "從工作台選擇「展示品」，製作任意1件家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "从工作台选择「展示品」，制作任意1件家具"
     },
     {
         "id": 1502,
-        "mysekaiNormalMissionSheetId": 15,
-        "seq": 3,
-        "sentence": "透過「レイアウト」(佈局)選擇「周邊」，並將其放置在某處",
-        "mysekaiNormalMissionType": "put_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "通过「布局」选择「周边」，并将其放置在某处"
     },
     {
         "id": 1600,
-        "mysekaiNormalMissionSheetId": 16,
-        "seq": 1,
-        "sentence": "嘗試在畫布上描繪某人吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "尝试在画布上描绘某人吧！"
     },
     {
         "id": 1601,
-        "mysekaiNormalMissionSheetId": 16,
-        "seq": 2,
-        "sentence": "從工作台選擇「畫布」，並描繪某人",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 6
+        "sentence": "从工作台选择「画布」，并描绘某人"
     },
     {
         "id": 1602,
-        "mysekaiNormalMissionSheetId": 16,
-        "seq": 3,
-        "sentence": "將完成的畫布放置在某處",
-        "mysekaiNormalMissionType": "put_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 6
+        "sentence": "将完成的画布放置在某处"
     },
     {
         "id": 1700,
-        "mysekaiNormalMissionSheetId": 17,
-        "seq": 1,
-        "sentence": "嘗試訪問秘密商店吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "尝试访问秘密商店吧！"
     },
     {
         "id": 1701,
-        "mysekaiNormalMissionSheetId": 17,
-        "seq": 2,
-        "sentence": "製作1個簡約筆記型電腦",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 104
+        "sentence": "制作1个简约笔记型电脑"
     },
     {
         "id": 1702,
-        "mysekaiNormalMissionSheetId": 17,
-        "seq": 3,
-        "sentence": "放置1個簡約筆記型電腦",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 104
+        "sentence": "放置1个简约笔记型电脑"
     },
     {
         "id": 1900,
-        "mysekaiNormalMissionSheetId": 19,
-        "seq": 1,
-        "sentence": "嘗試在其他人的「世界」進行描繪吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "尝试在其他人的「世界」进行描绘吧！"
     },
     {
         "id": 1901,
-        "mysekaiNormalMissionSheetId": 19,
-        "seq": 2,
-        "sentence": "前往某人的「世界」，打開菜單並對喜歡的家具進行「描繪」",
-        "mysekaiNormalMissionType": "consume_specific_mysekai_item",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 1
+        "sentence": "前往某人的「世界」，打开菜单并对喜欢的家具进行「描绘」"
     },
     {
         "id": 2000,
-        "mysekaiNormalMissionSheetId": 20,
-        "seq": 1,
-        "sentence": "拍攝並裝飾相簿吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "拍摄并装饰相册吧！"
     },
     {
         "id": 2001,
-        "mysekaiNormalMissionSheetId": 20,
-        "seq": 2,
-        "sentence": "從菜單選擇「フォト」(相片)，進行1次拍攝",
-        "mysekaiNormalMissionType": "do_mysekai_photo_shot",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1
+        "sentence": "从菜单选择「相片」，进行1次拍摄"
     },
     {
         "id": 2002,
-        "mysekaiNormalMissionSheetId": 20,
-        "seq": 3,
-        "sentence": "從工作台選擇「展示品」，製作1個『相簿』",
-        "mysekaiNormalMissionType": "create_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 445
+        "sentence": "从工作台选择「展示品」，制作1个『相册』"
     },
     {
         "id": 2003,
-        "mysekaiNormalMissionSheetId": 20,
-        "seq": 4,
-        "sentence": "透過「レイアウト」(佈局)選擇「小型家具」→「相片」，裝飾拍攝的相片",
-        "mysekaiNormalMissionType": "put_specific_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 445
+        "sentence": "通过「布局」选择「小型家具」→「相片」，装饰拍摄的相片"
     },
     {
         "id": 2100,
-        "mysekaiNormalMissionSheetId": 21,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 2101,
-        "mysekaiNormalMissionSheetId": 21,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』2天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』2天"
     },
     {
         "id": 2200,
-        "mysekaiNormalMissionSheetId": 22,
-        "seq": 1,
-        "sentence": "繼續打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "继续打造专属于你的「世界」吧！"
     },
     {
         "id": 2201,
-        "mysekaiNormalMissionSheetId": 22,
-        "seq": 2,
-        "sentence": "在採集區收集20個材料",
-        "mysekaiNormalMissionType": "gather_any_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 20
+        "sentence": "在采集区收集20个材料"
     },
     {
         "id": 2202,
-        "mysekaiNormalMissionSheetId": 22,
-        "seq": 3,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 2203,
-        "mysekaiNormalMissionSheetId": 22,
-        "seq": 4,
-        "sentence": "製作1件一般家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 2
+        "sentence": "制作1件一般家具"
     },
     {
         "id": 2300,
-        "mysekaiNormalMissionSheetId": 23,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 2301,
-        "mysekaiNormalMissionSheetId": 23,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』3天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』3天"
     },
     {
         "id": 2400,
-        "mysekaiNormalMissionSheetId": 24,
-        "seq": 1,
-        "sentence": "繼續打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "继续打造专属于你的「世界」吧！"
     },
     {
         "id": 2401,
-        "mysekaiNormalMissionSheetId": 24,
-        "seq": 2,
-        "sentence": "在採集區收集30個材料",
-        "mysekaiNormalMissionType": "gather_any_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 30
+        "sentence": "在采集区收集30个材料"
     },
     {
         "id": 2402,
-        "mysekaiNormalMissionSheetId": 24,
-        "seq": 3,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 2403,
-        "mysekaiNormalMissionSheetId": 24,
-        "seq": 4,
-        "sentence": "製作1件小型家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 3
+        "sentence": "制作1件小型家具"
     },
     {
         "id": 2500,
-        "mysekaiNormalMissionSheetId": 25,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 2501,
-        "mysekaiNormalMissionSheetId": 25,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』4天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 4,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』4天"
     },
     {
         "id": 2600,
-        "mysekaiNormalMissionSheetId": 26,
-        "seq": 1,
-        "sentence": "繼續打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "继续打造专属于你的「世界」吧！"
     },
     {
         "id": 2601,
-        "mysekaiNormalMissionSheetId": 26,
-        "seq": 2,
-        "sentence": "在採集區收集40個材料",
-        "mysekaiNormalMissionType": "gather_any_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 40
+        "sentence": "在采集区收集40个材料"
     },
     {
         "id": 2602,
-        "mysekaiNormalMissionSheetId": 26,
-        "seq": 3,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 2603,
-        "mysekaiNormalMissionSheetId": 26,
-        "seq": 4,
-        "sentence": "製作1件牆掛家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 4
+        "sentence": "制作1件墙挂家具"
     },
     {
         "id": 2800,
-        "mysekaiNormalMissionSheetId": 28,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 2801,
-        "mysekaiNormalMissionSheetId": 28,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』5天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』5天"
     },
     {
         "id": 2900,
-        "mysekaiNormalMissionSheetId": 29,
-        "seq": 1,
-        "sentence": "繼續打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "继续打造专属于你的「世界」吧！"
     },
     {
         "id": 2901,
-        "mysekaiNormalMissionSheetId": 29,
-        "seq": 2,
-        "sentence": "在採集區收集50個材料",
-        "mysekaiNormalMissionType": "gather_any_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 50
+        "sentence": "在采集区收集50个材料"
     },
     {
         "id": 2902,
-        "mysekaiNormalMissionSheetId": 29,
-        "seq": 3,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 2903,
-        "mysekaiNormalMissionSheetId": 29,
-        "seq": 4,
-        "sentence": "製作1件展示品家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "制作1件展示品家具"
     },
     {
         "id": 3000,
-        "mysekaiNormalMissionSheetId": 30,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 3001,
-        "mysekaiNormalMissionSheetId": 30,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』6天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 6,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』6天"
     },
     {
         "id": 3100,
-        "mysekaiNormalMissionSheetId": 31,
-        "seq": 1,
-        "sentence": "繼續打造專屬於你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "继续打造专属于你的「世界」吧！"
     },
     {
         "id": 3101,
-        "mysekaiNormalMissionSheetId": 31,
-        "seq": 2,
-        "sentence": "在採集區收集50個材料",
-        "mysekaiNormalMissionType": "gather_any_mysekai_material",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 50
+        "sentence": "在采集区收集50个材料"
     },
     {
         "id": 3102,
-        "mysekaiNormalMissionSheetId": 31,
-        "seq": 3,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 3103,
-        "mysekaiNormalMissionSheetId": 31,
-        "seq": 4,
-        "sentence": "製作1件畫布家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 6
+        "sentence": "制作1件画布家具"
     },
     {
         "id": 3200,
-        "mysekaiNormalMissionSheetId": 32,
-        "seq": 1,
-        "sentence": "探索新區域吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "探索新区域吧！"
     },
     {
         "id": 3201,
-        "mysekaiNormalMissionSheetId": 32,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至5級，解放「被遺忘之地」",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "将『我的「世界」』等级提升至5级，解放「被遗忘之地」"
     },
     {
         "id": 3300,
-        "mysekaiNormalMissionSheetId": 33,
-        "seq": 1,
-        "sentence": "明天也來『我的「世界」』玩吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "明天也来『我的「世界」』玩吧！"
     },
     {
         "id": 3301,
-        "mysekaiNormalMissionSheetId": 33,
-        "seq": 2,
-        "sentence": "登入『我的「世界」』7天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 7,
-        "conditionValue1": 1
+        "sentence": "登录『我的「世界」』7天"
     },
     {
         "id": 3500,
-        "mysekaiNormalMissionSheetId": 35,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 3501,
-        "mysekaiNormalMissionSheetId": 35,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至6級，擴大房間",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 6
+        "sentence": "将『我的「世界」』等级提升至6级，扩大房间"
     },
     {
         "id": 3700,
-        "mysekaiNormalMissionSheetId": 37,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 3701,
-        "mysekaiNormalMissionSheetId": 37,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至7級，擴大庭院",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 7
+        "sentence": "将『我的「世界」』等级提升至7级，扩大庭院"
     },
     {
         "id": 3900,
-        "mysekaiNormalMissionSheetId": 39,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 3901,
-        "mysekaiNormalMissionSheetId": 39,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至8級，增建二樓",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "将『我的「世界」』等级提升至8级，增建二楼"
     },
     {
         "id": 4100,
-        "mysekaiNormalMissionSheetId": 41,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 4101,
-        "mysekaiNormalMissionSheetId": 41,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至9級，擴大庭院",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 9
+        "sentence": "将『我的「世界」』等级提升至9级，扩大庭院"
     },
     {
         "id": 4300,
-        "mysekaiNormalMissionSheetId": 43,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 4301,
-        "mysekaiNormalMissionSheetId": 43,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至10級，增建三樓",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10
+        "sentence": "将『我的「世界」』等级提升至10级，增建三楼"
     },
     {
         "id": 4700,
-        "mysekaiNormalMissionSheetId": 47,
-        "seq": 1,
-        "sentence": "擴展你的「世界」吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "扩展你的「世界」吧！"
     },
     {
         "id": 4701,
-        "mysekaiNormalMissionSheetId": 47,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至3級，擴大房間",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "将『我的「世界」』等级提升至3级，扩大房间"
     },
     {
         "id": 4800,
-        "mysekaiNormalMissionSheetId": 48,
-        "seq": 1,
-        "sentence": "探索新區域吧！",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 1
+        "sentence": "探索新区域吧！"
     },
     {
         "id": 4801,
-        "mysekaiNormalMissionSheetId": 48,
-        "seq": 2,
-        "sentence": "將『我的「世界」』等級提升至4級，解放「願望沙灘」",
-        "mysekaiNormalMissionType": "reach_mysekai_rank",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 4
+        "sentence": "将『我的「世界」』等级提升至4级，解放「愿望沙滩」"
     },
     {
         "id": 4900,
-        "mysekaiNormalMissionSheetId": 49,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第1彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第1弹）"
     },
     {
         "id": 4901,
-        "mysekaiNormalMissionSheetId": 49,
-        "seq": 2,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 4902,
-        "mysekaiNormalMissionSheetId": 49,
-        "seq": 3,
-        "sentence": "製作1件一般家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 2
+        "sentence": "制作1件一般家具"
     },
     {
         "id": 4903,
-        "mysekaiNormalMissionSheetId": 49,
-        "seq": 4,
-        "sentence": "登入『我的「世界」』8天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "登录『我的「世界」』8天"
     },
     {
         "id": 5000,
-        "mysekaiNormalMissionSheetId": 50,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第2彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第2弹）"
     },
     {
         "id": 5001,
-        "mysekaiNormalMissionSheetId": 50,
-        "seq": 2,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 5002,
-        "mysekaiNormalMissionSheetId": 50,
-        "seq": 3,
-        "sentence": "製作1件小型家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 3
+        "sentence": "制作1件小型家具"
     },
     {
         "id": 5100,
-        "mysekaiNormalMissionSheetId": 51,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第3彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第3弹）"
     },
     {
         "id": 5101,
-        "mysekaiNormalMissionSheetId": 51,
-        "seq": 2,
-        "sentence": "製作3件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 3
+        "sentence": "制作3件喜欢的家具"
     },
     {
         "id": 5102,
-        "mysekaiNormalMissionSheetId": 51,
-        "seq": 3,
-        "sentence": "製作1件牆掛家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 4
+        "sentence": "制作1件墙挂家具"
     },
     {
         "id": 5103,
-        "mysekaiNormalMissionSheetId": 51,
-        "seq": 4,
-        "sentence": "登入『我的「世界」』10天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10
+        "sentence": "登录『我的「世界」』10天"
     },
     {
         "id": 5200,
-        "mysekaiNormalMissionSheetId": 52,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第4彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第4弹）"
     },
     {
         "id": 5201,
-        "mysekaiNormalMissionSheetId": 52,
-        "seq": 2,
-        "sentence": "製作5件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "制作5件喜欢的家具"
     },
     {
         "id": 5202,
-        "mysekaiNormalMissionSheetId": 52,
-        "seq": 3,
-        "sentence": "製作1件展示品家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "制作1件展示品家具"
     },
     {
         "id": 5300,
-        "mysekaiNormalMissionSheetId": 53,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第5彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第5弹）"
     },
     {
         "id": 5301,
-        "mysekaiNormalMissionSheetId": 53,
-        "seq": 2,
-        "sentence": "製作5件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "制作5件喜欢的家具"
     },
     {
         "id": 5302,
-        "mysekaiNormalMissionSheetId": 53,
-        "seq": 3,
-        "sentence": "製作1件畫布家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 6
+        "sentence": "制作1件画布家具"
     },
     {
         "id": 5303,
-        "mysekaiNormalMissionSheetId": 53,
-        "seq": 4,
-        "sentence": "登入『我的「世界」』12天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 12
+        "sentence": "登录『我的「世界」』12天"
     },
     {
         "id": 5400,
-        "mysekaiNormalMissionSheetId": 54,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第6彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 2
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第6弹）"
     },
     {
         "id": 5401,
-        "mysekaiNormalMissionSheetId": 54,
-        "seq": 2,
-        "sentence": "製作5件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "制作5件喜欢的家具"
     },
     {
         "id": 5402,
-        "mysekaiNormalMissionSheetId": 54,
-        "seq": 3,
-        "sentence": "製作1件地毯家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 9
+        "sentence": "制作1件地毯家具"
     },
     {
         "id": 5500,
-        "mysekaiNormalMissionSheetId": 55,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第7彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第7弹）"
     },
     {
         "id": 5501,
-        "mysekaiNormalMissionSheetId": 55,
-        "seq": 2,
-        "sentence": "製作5件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "制作5件喜欢的家具"
     },
     {
         "id": 5502,
-        "mysekaiNormalMissionSheetId": 55,
-        "seq": 3,
-        "sentence": "製作1件玩偶家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 29
+        "sentence": "制作1件玩偶家具"
     },
     {
         "id": 5503,
-        "mysekaiNormalMissionSheetId": 55,
-        "seq": 4,
-        "sentence": "登入『我的「世界」』14天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 14
+        "sentence": "登录『我的「世界」』14天"
     },
     {
         "id": 5600,
-        "mysekaiNormalMissionSheetId": 56,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第8彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第8弹）"
     },
     {
         "id": 5601,
-        "mysekaiNormalMissionSheetId": 56,
-        "seq": 2,
-        "sentence": "製作5件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5
+        "sentence": "制作5件喜欢的家具"
     },
     {
         "id": 5602,
-        "mysekaiNormalMissionSheetId": 56,
-        "seq": 3,
-        "sentence": "製作1件道路家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 12
+        "sentence": "制作1件道路家具"
     },
     {
         "id": 5603,
-        "mysekaiNormalMissionSheetId": 56,
-        "seq": 4,
-        "sentence": "製作1件柵欄家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 13
+        "sentence": "制作1件栅栏家具"
     },
     {
         "id": 5700,
-        "mysekaiNormalMissionSheetId": 57,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第9彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第9弹）"
     },
     {
         "id": 5701,
-        "mysekaiNormalMissionSheetId": 57,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 5702,
-        "mysekaiNormalMissionSheetId": 57,
-        "seq": 3,
-        "sentence": "製作1件帶有「Leo\/need」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 5
+        "sentence": "制作1件带有「Leo/need」标签的家具"
     },
     {
         "id": 5703,
-        "mysekaiNormalMissionSheetId": 57,
-        "seq": 4,
-        "sentence": "製作1件帶有「MORE MORE JUMP！」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 10
+        "sentence": "制作1件带有「MORE MORE JUMP！」标签的家具"
     },
     {
         "id": 5704,
-        "mysekaiNormalMissionSheetId": 57,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』16天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 16
+        "sentence": "登录『我的「世界」』16天"
     },
     {
         "id": 5800,
-        "mysekaiNormalMissionSheetId": 58,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第10彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第10弹）"
     },
     {
         "id": 5801,
-        "mysekaiNormalMissionSheetId": 58,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 5802,
-        "mysekaiNormalMissionSheetId": 58,
-        "seq": 3,
-        "sentence": "製作1件帶有「Vivid BAD SQUAD」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 15
+        "sentence": "制作1件带有「Vivid BAD SQUAD」标签的家具"
     },
     {
         "id": 5803,
-        "mysekaiNormalMissionSheetId": 58,
-        "seq": 4,
-        "sentence": "製作1件帶有「Wonderlands×Showtime」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 20
+        "sentence": "制作1件带有「Wonderlands×Showtime」标签的家具"
     },
     {
         "id": 5900,
-        "mysekaiNormalMissionSheetId": 59,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第11彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第11弹）"
     },
     {
         "id": 5901,
-        "mysekaiNormalMissionSheetId": 59,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 5902,
-        "mysekaiNormalMissionSheetId": 59,
-        "seq": 3,
-        "sentence": "製作1件帶有「25點，Nightcord見。」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 25
+        "sentence": "制作1件带有「25点，Nightcord见。」标签的家具"
     },
     {
         "id": 5903,
-        "mysekaiNormalMissionSheetId": 59,
-        "seq": 4,
-        "sentence": "製作1件帶有「虛擬歌手」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 32
+        "sentence": "制作1件带有「虚拟歌手」标签的家具"
     },
     {
         "id": 5904,
-        "mysekaiNormalMissionSheetId": 59,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』18天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 18
+        "sentence": "登录『我的「世界」』18天"
     },
     {
         "id": 6000,
-        "mysekaiNormalMissionSheetId": 60,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第12彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第12弹）"
     },
     {
         "id": 6001,
-        "mysekaiNormalMissionSheetId": 60,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 6002,
-        "mysekaiNormalMissionSheetId": 60,
-        "seq": 3,
-        "sentence": "製作1件帶有「公園」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 33
+        "sentence": "制作1件带有「公园」标签的家具"
     },
     {
         "id": 6003,
-        "mysekaiNormalMissionSheetId": 60,
-        "seq": 4,
-        "sentence": "製作1件帶有「自然風格」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 35
+        "sentence": "制作1件带有「自然风格」标签的家具"
     },
     {
         "id": 6100,
-        "mysekaiNormalMissionSheetId": 61,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第13彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第13弹）"
     },
     {
         "id": 6101,
-        "mysekaiNormalMissionSheetId": 61,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 6102,
-        "mysekaiNormalMissionSheetId": 61,
-        "seq": 3,
-        "sentence": "製作1件帶有「花園」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 34
+        "sentence": "制作1件带有「花园」标签的家具"
     },
     {
         "id": 6103,
-        "mysekaiNormalMissionSheetId": 61,
-        "seq": 4,
-        "sentence": "製作1件帶有「簡約流行廚房」標籤的家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_tag",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 36
+        "sentence": "制作1件带有「简约流行厨房」标签的家具"
     },
     {
         "id": 6104,
-        "mysekaiNormalMissionSheetId": 61,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』20天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 20
+        "sentence": "登录『我的「世界」』20天"
     },
     {
         "id": 6200,
-        "mysekaiNormalMissionSheetId": 62,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第14彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第14弹）"
     },
     {
         "id": 6201,
-        "mysekaiNormalMissionSheetId": 62,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 6202,
-        "mysekaiNormalMissionSheetId": 62,
-        "seq": 3,
-        "sentence": "製作2件一般家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 2
+        "sentence": "制作2件一般家具"
     },
     {
         "id": 6203,
-        "mysekaiNormalMissionSheetId": 62,
-        "seq": 4,
-        "sentence": "製作2件地毯家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 9
+        "sentence": "制作2件地毯家具"
     },
     {
         "id": 6300,
-        "mysekaiNormalMissionSheetId": 63,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第15彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第15弹）"
     },
     {
         "id": 6301,
-        "mysekaiNormalMissionSheetId": 63,
-        "seq": 2,
-        "sentence": "製作10件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10
+        "sentence": "制作10件喜欢的家具"
     },
     {
         "id": 6302,
-        "mysekaiNormalMissionSheetId": 63,
-        "seq": 3,
-        "sentence": "製作2件小型家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 3
+        "sentence": "制作2件小型家具"
     },
     {
         "id": 6303,
-        "mysekaiNormalMissionSheetId": 63,
-        "seq": 4,
-        "sentence": "製作5件道路家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 12
+        "sentence": "制作5件道路家具"
     },
     {
         "id": 6304,
-        "mysekaiNormalMissionSheetId": 63,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』22天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 22
+        "sentence": "登录『我的「世界」』22天"
     },
     {
         "id": 6400,
-        "mysekaiNormalMissionSheetId": 64,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第16彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第16弹）"
     },
     {
         "id": 6401,
-        "mysekaiNormalMissionSheetId": 64,
-        "seq": 2,
-        "sentence": "製作10件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 10
+        "sentence": "制作10件喜欢的家具"
     },
     {
         "id": 6402,
-        "mysekaiNormalMissionSheetId": 64,
-        "seq": 3,
-        "sentence": "製作2件牆掛家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 4
+        "sentence": "制作2件墙挂家具"
     },
     {
         "id": 6403,
-        "mysekaiNormalMissionSheetId": 64,
-        "seq": 4,
-        "sentence": "製作5件柵欄家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 13
+        "sentence": "制作5件栅栏家具"
     },
     {
         "id": 6500,
-        "mysekaiNormalMissionSheetId": 65,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第17彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第17弹）"
     },
     {
         "id": 6501,
-        "mysekaiNormalMissionSheetId": 65,
-        "seq": 2,
-        "sentence": "製作7件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 7
+        "sentence": "制作7件喜欢的家具"
     },
     {
         "id": 6502,
-        "mysekaiNormalMissionSheetId": 65,
-        "seq": 3,
-        "sentence": "製作2件展示品家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 5
+        "sentence": "制作2件展示品家具"
     },
     {
         "id": 6503,
-        "mysekaiNormalMissionSheetId": 65,
-        "seq": 4,
-        "sentence": "製作1件玩偶家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 29
+        "sentence": "制作1件玩偶家具"
     },
     {
         "id": 6504,
-        "mysekaiNormalMissionSheetId": 65,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』24天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 24
+        "sentence": "登录『我的「世界」』24天"
     },
     {
         "id": 6600,
-        "mysekaiNormalMissionSheetId": 66,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第18彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第18弹）"
     },
     {
         "id": 6601,
-        "mysekaiNormalMissionSheetId": 66,
-        "seq": 2,
-        "sentence": "製作7件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 7
+        "sentence": "制作7件喜欢的家具"
     },
     {
         "id": 6602,
-        "mysekaiNormalMissionSheetId": 66,
-        "seq": 3,
-        "sentence": "製作2件畫布家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 6
+        "sentence": "制作2件画布家具"
     },
     {
         "id": 6603,
-        "mysekaiNormalMissionSheetId": 66,
-        "seq": 4,
-        "sentence": "製作1件「房屋」家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 11
+        "sentence": "制作1件「房屋」家具"
     },
     {
         "id": 6700,
-        "mysekaiNormalMissionSheetId": 67,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第19彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第19弹）"
     },
     {
         "id": 6701,
-        "mysekaiNormalMissionSheetId": 67,
-        "seq": 2,
-        "sentence": "製作6件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 6
+        "sentence": "制作6件喜欢的家具"
     },
     {
         "id": 6702,
-        "mysekaiNormalMissionSheetId": 67,
-        "seq": 3,
-        "sentence": "製作1件「牆壁」家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 7
+        "sentence": "制作1件「墙壁」家具"
     },
     {
         "id": 6703,
-        "mysekaiNormalMissionSheetId": 67,
-        "seq": 4,
-        "sentence": "製作1件「床」家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 8
+        "sentence": "制作1件「床」家具"
     },
     {
         "id": 6704,
-        "mysekaiNormalMissionSheetId": 67,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』26天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 26
+        "sentence": "登录『我的「世界」』26天"
     },
     {
         "id": 6800,
-        "mysekaiNormalMissionSheetId": 68,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第20彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第20弹）"
     },
     {
         "id": 6801,
-        "mysekaiNormalMissionSheetId": 68,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 6802,
-        "mysekaiNormalMissionSheetId": 68,
-        "seq": 3,
-        "sentence": "製作2件牆掛家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 4
+        "sentence": "制作2件墙挂家具"
     },
     {
         "id": 6803,
-        "mysekaiNormalMissionSheetId": 68,
-        "seq": 4,
-        "sentence": "製作1件玩偶家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 1,
-        "conditionValue1": 29
+        "sentence": "制作1件玩偶家具"
     },
     {
         "id": 6900,
-        "mysekaiNormalMissionSheetId": 69,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第21彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 4
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第21弹）"
     },
     {
         "id": 6901,
-        "mysekaiNormalMissionSheetId": 69,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 6902,
-        "mysekaiNormalMissionSheetId": 69,
-        "seq": 3,
-        "sentence": "製作2件展示品家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 5
+        "sentence": "制作2件展示品家具"
     },
     {
         "id": 6903,
-        "mysekaiNormalMissionSheetId": 69,
-        "seq": 4,
-        "sentence": "製作2件畫布家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 6
+        "sentence": "制作2件画布家具"
     },
     {
         "id": 6904,
-        "mysekaiNormalMissionSheetId": 69,
-        "seq": 5,
-        "sentence": "登入『我的「世界」』28天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 28
+        "sentence": "登录『我的「世界」』28天"
     },
     {
         "id": 7000,
-        "mysekaiNormalMissionSheetId": 70,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第22彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 3
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第22弹）"
     },
     {
         "id": 7001,
-        "mysekaiNormalMissionSheetId": 70,
-        "seq": 2,
-        "sentence": "製作8件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 8
+        "sentence": "制作8件喜欢的家具"
     },
     {
         "id": 7002,
-        "mysekaiNormalMissionSheetId": 70,
-        "seq": 3,
-        "sentence": "製作2件一般家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 2
+        "sentence": "制作2件一般家具"
     },
     {
         "id": 7003,
-        "mysekaiNormalMissionSheetId": 70,
-        "seq": 4,
-        "sentence": "製作2件小型家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 3
+        "sentence": "制作2件小型家具"
     },
     {
         "id": 7100,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 1,
-        "sentence": "在『我的「世界」』中製作各種家具吧！（第23彈）",
-        "mysekaiNormalMissionType": "complete_sheet",
-        "mysekaiNormalMissionCategory": "complete",
-        "requirement1": 5
+        "sentence": "在『我的「世界」』中制作各种家具吧！（第23弹）"
     },
     {
         "id": 7101,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 2,
-        "sentence": "製作15件喜歡的家具",
-        "mysekaiNormalMissionType": "create_any_mysekai_fixture",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 15
+        "sentence": "制作15件喜欢的家具"
     },
     {
         "id": 7102,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 3,
-        "sentence": "製作2件地毯家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 2,
-        "conditionValue1": 9
+        "sentence": "制作2件地毯家具"
     },
     {
         "id": 7103,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 4,
-        "sentence": "製作5件道路家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 12
+        "sentence": "制作5件道路家具"
     },
     {
         "id": 7104,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 5,
-        "sentence": "製作5件柵欄家具",
-        "mysekaiNormalMissionType": "create_mysekai_fixture_specific_mysekai_fixture_main_genre",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 5,
-        "conditionValue1": 13
+        "sentence": "制作5件栅栏家具"
     },
     {
         "id": 7105,
-        "mysekaiNormalMissionSheetId": 71,
-        "seq": 6,
-        "sentence": "登入『我的「世界」』30天",
-        "mysekaiNormalMissionType": "mysekai_login_total",
-        "mysekaiNormalMissionCategory": "normal",
-        "requirement1": 30
+        "sentence": "登录『我的「世界」』30天"
     }
 ]

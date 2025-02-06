@@ -36,14 +36,14 @@
     },
     {
         "id": 6,
-        "name": "25點，Nightcord見。",
+        "name": "25点，Nightcord见。",
         "seq": 7,
         "mysekaiMusicTrackType": "music",
         "unit": "school_refusal"
     },
     {
         "id": 7,
-        "name": "虛擬歌手",
+        "name": "虚拟歌手",
         "seq": 2,
         "mysekaiMusicTrackType": "music",
         "unit": "piapro"

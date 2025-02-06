@@ -4,7 +4,7 @@
         "seq": 300,
         "normalMissionType": "make_rare_costume_3d",
         "requirement": 1,
-        "sentence": "在服飾店製作1套稀有服裝吧。",
+        "sentence": "在服装商店制作1套稀有服装。",
         "rewards": [
             {
                 "id": 1,
@@ -20,7 +20,7 @@
         "seq": 1100,
         "normalMissionType": "skill_level_2",
         "requirement": 1,
-        "sentence": "讓成員的技能升級1次吧。",
+        "sentence": "提升1次成员的技能等级。",
         "rewards": [
             {
                 "id": 2,
@@ -36,7 +36,7 @@
         "seq": 1000,
         "normalMissionType": "master_rank",
         "requirement": 1,
-        "sentence": "讓成員的專精等級升級1次吧。",
+        "sentence": "提升1次成员的专家等级。",
         "rewards": [
             {
                 "id": 3,
@@ -52,7 +52,7 @@
         "seq": 200,
         "normalMissionType": "make_another_color_costume_3d",
         "requirement": 1,
-        "sentence": "在服飾店製作1套其他顏色的服裝吧。",
+        "sentence": "在服装商店制作1套其他颜色的服装。",
         "rewards": [
             {
                 "id": 4,
@@ -68,7 +68,7 @@
         "seq": 400,
         "normalMissionType": "character_rank_3",
         "requirement": 1,
-        "sentence": "將1名角色的角色等級提升至等級3吧。",
+        "sentence": "将1名角色的角色等级提升至3级。",
         "rewards": [
             {
                 "id": 5,
@@ -84,7 +84,7 @@
         "seq": 900,
         "normalMissionType": "set_honor",
         "requirement": 1,
-        "sentence": "總計設定3個稱號吧。",
+        "sentence": "总计设置3个称号。",
         "rewards": [
             {
                 "id": 6,
@@ -100,7 +100,7 @@
         "seq": 1200,
         "normalMissionType": "clear_live_another_vocal",
         "requirement": 1,
-        "sentence": "選擇Another Vocal並通過1次LIVE吧。",
+        "sentence": "选择Another Vocal完成1次演出。",
         "rewards": [
             {
                 "id": 7,
@@ -116,7 +116,7 @@
         "seq": 500,
         "normalMissionType": "clear_solo_challenge_live",
         "requirement": 1,
-        "sentence": "通過1次挑戰LIVE吧。",
+        "sentence": "游玩1次挑战演出。",
         "rewards": [
             {
                 "id": 8,
@@ -132,7 +132,7 @@
         "seq": 100,
         "normalMissionType": "read_character_profile_episode",
         "requirement": 1,
-        "sentence": "由角色個人資料觀賞任意1人的自我介紹吧。",
+        "sentence": "在角色介绍中观看1名角色的自我介绍。",
         "rewards": [
             {
                 "id": 9,
@@ -148,7 +148,7 @@
         "seq": 150,
         "normalMissionType": "read_card_episode_first",
         "requirement": 1,
-        "sentence": "觀賞1次成員的支線劇情[前篇] 吧。",
+        "sentence": "观看1篇成员的角色剧情[上篇]。",
         "rewards": [
             {
                 "id": 10,
@@ -164,7 +164,7 @@
         "seq": 151,
         "normalMissionType": "read_card_episode_second",
         "requirement": 1,
-        "sentence": "觀賞1次成員的支線劇情[後篇] 吧。",
+        "sentence": "观看1篇成员的角色剧情[下篇]。",
         "rewards": [
             {
                 "id": 11,
@@ -180,7 +180,7 @@
         "seq": 700,
         "normalMissionType": "use_virtual_item",
         "requirement": 1,
-        "sentence": "使用1次虛擬道具吧。",
+        "sentence": "使用1次虚拟道具。",
         "rewards": [
             {
                 "id": 12,
@@ -196,7 +196,7 @@
         "seq": 800,
         "normalMissionType": "buy_avatar_skin",
         "requirement": 1,
-        "sentence": "交換1次虛擬LIVE的造型服裝吧。",
+        "sentence": "兑换1次虚拟演唱会上虚拟形象的服装。",
         "rewards": [
             {
                 "id": 13,
@@ -228,7 +228,7 @@
         "seq": 600,
         "normalMissionType": "clear_virtual_live",
         "requirement": 1,
-        "sentence": "參加1次虛擬LIVE吧。",
+        "sentence": "参加1场虚拟演唱会。",
         "rewards": [
             {
                 "id": 15,
@@ -244,7 +244,7 @@
         "seq": 50,
         "normalMissionType": "live_clear",
         "requirement": 3,
-        "sentence": "通過3次LIVE吧。",
+        "sentence": "完成3次演出。",
         "rewards": [
             {
                 "id": 16,
@@ -260,7 +260,7 @@
         "seq": 51,
         "normalMissionType": "live_clear",
         "requirement": 8,
-        "sentence": "通過8次LIVE吧。",
+        "sentence": "完成8次演出。",
         "rewards": [
             {
                 "id": 17,
@@ -276,7 +276,7 @@
         "seq": 52,
         "normalMissionType": "live_clear",
         "requirement": 15,
-        "sentence": "通過15次LIVE吧。",
+        "sentence": "完成15次演出。",
         "rewards": [
             {
                 "id": 18,
@@ -292,7 +292,7 @@
         "seq": 53,
         "normalMissionType": "live_clear",
         "requirement": 25,
-        "sentence": "通過25次LIVE吧。",
+        "sentence": "完成25次演出。",
         "rewards": [
             {
                 "id": 19,
@@ -308,7 +308,7 @@
         "seq": 54,
         "normalMissionType": "live_clear",
         "requirement": 35,
-        "sentence": "通過35次LIVE吧。",
+        "sentence": "完成35次演出。",
         "rewards": [
             {
                 "id": 20,
@@ -324,7 +324,7 @@
         "seq": 55,
         "normalMissionType": "live_clear",
         "requirement": 45,
-        "sentence": "通過45次LIVE吧。",
+        "sentence": "完成45次演出。",
         "rewards": [
             {
                 "id": 21,
@@ -340,7 +340,7 @@
         "seq": 56,
         "normalMissionType": "live_clear",
         "requirement": 60,
-        "sentence": "通過60次LIVE吧。",
+        "sentence": "完成60次演出。",
         "rewards": [
             {
                 "id": 22,
@@ -356,7 +356,7 @@
         "seq": 57,
         "normalMissionType": "live_clear",
         "requirement": 75,
-        "sentence": "通過75次LIVE吧。",
+        "sentence": "完成75次演出。",
         "rewards": [
             {
                 "id": 23,
@@ -372,7 +372,7 @@
         "seq": 58,
         "normalMissionType": "live_clear",
         "requirement": 90,
-        "sentence": "通過90次LIVE吧。",
+        "sentence": "完成90次演出。",
         "rewards": [
             {
                 "id": 24,
@@ -388,7 +388,7 @@
         "seq": 59,
         "normalMissionType": "live_clear",
         "requirement": 110,
-        "sentence": "通過110次LIVE吧。",
+        "sentence": "完成110次演出。",
         "rewards": [
             {
                 "id": 25,
@@ -404,7 +404,7 @@
         "seq": 60,
         "normalMissionType": "live_clear",
         "requirement": 130,
-        "sentence": "通過130次LIVE吧。",
+        "sentence": "完成130次演出。",
         "rewards": [
             {
                 "id": 26,
@@ -420,7 +420,7 @@
         "seq": 61,
         "normalMissionType": "live_clear",
         "requirement": 150,
-        "sentence": "通過150次LIVE吧。",
+        "sentence": "完成150次演出。",
         "rewards": [
             {
                 "id": 27,
@@ -436,7 +436,7 @@
         "seq": 110,
         "normalMissionType": "make_friend",
         "requirement": 1,
-        "sentence": "結交1位好友吧。",
+        "sentence": "添加1名好友。",
         "rewards": [
             {
                 "id": 958,

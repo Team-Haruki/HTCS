@@ -8,23 +8,23 @@
     },
     {
         "id": 2,
-        "name": "星星藍框",
+        "name": "星星蓝框",
         "seq": 2,
-        "description": "星星藍框",
+        "description": "星星蓝框",
         "assetbundleName": "decoflame_unit_0001"
     },
     {
         "id": 3,
-        "name": "四葉草綠框",
+        "name": "四叶草绿框",
         "seq": 3,
-        "description": "四葉草綠框",
+        "description": "四叶草绿框",
         "assetbundleName": "decoflame_unit_0002"
     },
     {
         "id": 4,
-        "name": "鮮豔紅框",
+        "name": "鲜艳红框",
         "seq": 4,
-        "description": "鮮豔紅框",
+        "description": "鲜艳红框",
         "assetbundleName": "decoflame_unit_0003"
     },
     {
@@ -50,37 +50,37 @@
     },
     {
         "id": 9,
-        "name": "直播風框",
+        "name": "直播风框",
         "seq": 9,
-        "description": "直播風框",
+        "description": "直播风框",
         "assetbundleName": "decoflame_theme_0002"
     },
     {
         "id": 10,
-        "name": "音樂播放器風框",
+        "name": "音乐播放器风框",
         "seq": 10,
-        "description": "音樂播放器風框",
+        "description": "音乐播放器风框",
         "assetbundleName": "decoflame_theme_0003"
     },
     {
         "id": 11,
-        "name": "復古瀏覽器風框",
+        "name": "复古浏览器风框",
         "seq": 11,
-        "description": "復古瀏覽器風框",
+        "description": "复古浏览器风框",
         "assetbundleName": "decoflame_theme_0004"
     },
     {
         "id": 12,
-        "name": "生日快樂框",
+        "name": "生日快乐框",
         "seq": 12,
-        "description": "生日快樂框",
+        "description": "生日快乐框",
         "assetbundleName": "decoflame_anv_0001"
     },
     {
         "id": 13,
-        "name": "週年紀念框",
+        "name": "周年纪念框",
         "seq": 13,
-        "description": "週年紀念框",
+        "description": "周年纪念框",
         "assetbundleName": "decoflame_anv_0002"
     }
 ]

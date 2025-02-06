@@ -2,129 +2,129 @@
     {
         "id": 1,
         "seq": 20,
-        "name": "LIVE BONUS飲料（小）",
+        "name": "演出能量饮料（小）",
         "recoveryValue": 1,
         "assetBundleName": "dummy",
-        "flavorText": "恢復1 LIVE BONUS。"
+        "flavorText": "恢复1演出能量。"
     },
     {
         "id": 2,
         "seq": 30,
-        "name": "LIVE BONUS飲料（大）",
+        "name": "演出能量饮料（大）",
         "recoveryValue": 10,
         "assetBundleName": "dummy",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 3,
         "seq": 40,
-        "name": "情人節巧克力",
+        "name": "情人节巧克力",
         "recoveryValue": 10,
         "assetBundleName": "dummy",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 4,
         "seq": 50,
-        "name": "白色情人節棉花糖",
+        "name": "白色情人节棉花糖",
         "recoveryValue": 10,
         "assetBundleName": "dummy",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 5,
         "seq": 60,
-        "name": "[限定]炸雞塊君 普通份量",
+        "name": "[限定]炸鸡块君 中份",
         "recoveryValue": 10,
         "assetBundleName": "dummy",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 6,
         "seq": 70,
-        "name": "萬聖節餅乾",
+        "name": "万圣节曲奇饼干",
         "recoveryValue": 10,
         "assetBundleName": "dummy",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 7,
         "seq": 80,
-        "name": "布里歐",
+        "name": "奶油蛋卷",
         "recoveryValue": 10,
         "assetBundleName": "boost_item7",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 8,
         "seq": 90,
-        "name": "聖誕節蛋糕",
+        "name": "圣诞节蛋糕",
         "recoveryValue": 10,
         "assetBundleName": "boost_item8",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 9,
         "seq": 100,
-        "name": "甘酒",
+        "name": "无醇甜米酒",
         "recoveryValue": 10,
         "assetBundleName": "boost_item9",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 10,
         "seq": 110,
-        "name": "[限定]泡麵",
+        "name": "[限定]杯面",
         "recoveryValue": 10,
         "assetBundleName": "boost_item10",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 11,
         "seq": 120,
-        "name": "[限定]寶礦力水得",
+        "name": "[限定]宝矿力水特",
         "recoveryValue": 10,
         "assetBundleName": "boost_item11",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 12,
         "seq": 130,
-        "name": "蔥",
+        "name": "大葱",
         "recoveryValue": 1,
         "assetBundleName": "boost_item12",
-        "flavorText": "恢復1 LIVE BONUS。"
+        "flavorText": "恢复1演出能量。"
     },
     {
         "id": 13,
         "seq": 140,
-        "name": "「初音未來16週年紀念」慶祝蛋糕",
+        "name": "[初音未来16周年纪念]庆祝蛋糕",
         "recoveryValue": 10,
         "assetBundleName": "boost_item13",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 14,
         "seq": 150,
-        "name": "Hello Kitty的蘋果",
+        "name": "凯蒂猫的苹果",
         "recoveryValue": 10,
         "assetBundleName": "boost_item14",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 15,
         "seq": 10,
-        "name": "3900's LIVE BONUS飲料(大)",
+        "name": "3900's能量饮料（大）",
         "recoveryValue": 10,
         "assetBundleName": "boost_item15",
-        "flavorText": "恢復10 LIVE BONUS。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 16,
         "seq": 160,
-        "name": "[4周年記念]紀念LIVE BONUS瓶子",
+        "name": "[4周年纪念]纪念演出能量瓶子",
         "recoveryValue": 99,
         "assetBundleName": "boost_item16",
-        "flavorText": "恢復99 LIVE BONUS。"
+        "flavorText": "恢复99演出能量。"
     }
 ]

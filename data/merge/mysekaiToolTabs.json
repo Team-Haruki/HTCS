@@ -8,13 +8,13 @@
     {
         "id": 102,
         "mysekaiToolType": "axe",
-        "name": "斧頭",
+        "name": "斧头",
         "assetbundleName": "icon_axe"
     },
     {
         "id": 103,
         "mysekaiToolType": "pickaxe",
-        "name": "鎬",
+        "name": "镐",
         "assetbundleName": "icon_pickaxe"
     }
 ]

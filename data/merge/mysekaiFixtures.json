@@ -2,9 +2,9 @@
     {
         "id": 1,
         "mysekaiFixtureType": "system",
-        "name": "閃耀流星的家",
+        "name": "闪耀流星的家",
         "pronunciation": "きらめくりゅうせいのいえ",
-        "flavorText": "閃耀流星的家",
+        "flavorText": "闪耀流星的家",
         "seq": 10001001,
         "gridSize": {
             "width": 12,
@@ -35,9 +35,9 @@
     {
         "id": 2,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "閃耀流星的壁紙",
+        "name": "闪耀流星的壁纸",
         "pronunciation": "きらめくりゅうせいのかべがみ",
-        "flavorText": "閃耀流星的壁紙",
+        "flavorText": "闪耀流星的壁纸",
         "seq": 10001002,
         "gridSize": {
             "width": 0,
@@ -67,9 +67,9 @@
     {
         "id": 3,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "閃耀流星的地板",
+        "name": "闪耀流星的地板",
         "pronunciation": "きらめくりゅうせいのゆか",
-        "flavorText": "閃耀流星的地板",
+        "flavorText": "闪耀流星的地板",
         "seq": 10001003,
         "gridSize": {
             "width": 0,
@@ -100,9 +100,9 @@
     {
         "id": 4,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的窗戶",
+        "name": "闪耀流星的窗戶",
         "pronunciation": "きらめくりゅうせいのまど",
-        "flavorText": "閃耀流星的窗戶",
+        "flavorText": "闪耀流星的窗戶",
         "seq": 10001004,
         "gridSize": {
             "width": 2,
@@ -131,9 +131,9 @@
     {
         "id": 5,
         "mysekaiFixtureType": "system",
-        "name": "閃耀流星的櫃子",
+        "name": "闪耀流星的柜子",
         "pronunciation": "きらめくりゅうせいのちぇすと",
-        "flavorText": "閃耀流星的櫃子",
+        "flavorText": "闪耀流星的柜子",
         "seq": 10001005,
         "gridSize": {
             "width": 2,
@@ -163,9 +163,9 @@
     {
         "id": 6,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的床",
+        "name": "闪耀流星的床",
         "pronunciation": "きらめくりゅうせいのべっど",
-        "flavorText": "閃耀流星的床",
+        "flavorText": "闪耀流星的床",
         "seq": 10001006,
         "gridSize": {
             "width": 4,
@@ -195,9 +195,9 @@
     {
         "id": 7,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的桌子",
+        "name": "闪耀流星的桌子",
         "pronunciation": "きらめくりゅうせいのてーぶる",
-        "flavorText": "閃耀流星的桌子",
+        "flavorText": "闪耀流星的桌子",
         "seq": 10001007,
         "gridSize": {
             "width": 2,
@@ -245,9 +245,9 @@
     {
         "id": 8,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的椅子",
+        "name": "闪耀流星的椅子",
         "pronunciation": "きらめくりゅうせいのちぇあ",
-        "flavorText": "閃耀流星的椅子",
+        "flavorText": "闪耀流星的椅子",
         "seq": 10001008,
         "gridSize": {
             "width": 2,
@@ -295,9 +295,9 @@
     {
         "id": 9,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的書架",
+        "name": "闪耀流星的书架",
         "pronunciation": "きらめくりゅうせいのしぇるふ",
-        "flavorText": "閃耀流星的書架",
+        "flavorText": "闪耀流星的书架",
         "seq": 10001009,
         "gridSize": {
             "width": 2,
@@ -327,9 +327,9 @@
     {
         "id": 10,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的沙發",
+        "name": "闪耀流星的沙发",
         "pronunciation": "きらめくりゅうせいのそふぁ",
-        "flavorText": "閃耀流星的沙發",
+        "flavorText": "闪耀流星的沙发",
         "seq": 10001010,
         "gridSize": {
             "width": 4,
@@ -377,9 +377,9 @@
     {
         "id": 11,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的矮桌",
+        "name": "闪耀流星的矮桌",
         "pronunciation": "きらめくりゅうせいのろーてーぶる",
-        "flavorText": "閃耀流星的矮桌",
+        "flavorText": "闪耀流星的矮桌",
         "seq": 10001011,
         "gridSize": {
             "width": 4,
@@ -409,9 +409,9 @@
     {
         "id": 12,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的地毯",
+        "name": "闪耀流星的地毯",
         "pronunciation": "きらめくりゅうせいのらぐ",
-        "flavorText": "閃耀流星的地毯",
+        "flavorText": "闪耀流星的地毯",
         "seq": 10001012,
         "gridSize": {
             "width": 6,
@@ -442,9 +442,9 @@
     {
         "id": 13,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的書櫃",
+        "name": "闪耀流星的书柜",
         "pronunciation": "きらめくりゅうせいのほんだな",
-        "flavorText": "閃耀流星的書櫃",
+        "flavorText": "闪耀流星的书柜",
         "seq": 10001013,
         "gridSize": {
             "width": 3,
@@ -474,9 +474,9 @@
     {
         "id": 14,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的壁掛時鐘",
+        "name": "闪耀流星的壁挂时钟",
         "pronunciation": "きらめくりゅうせいのかべかけどけい",
-        "flavorText": "閃耀流星的壁掛時鐘",
+        "flavorText": "闪耀流星的壁挂时钟",
         "seq": 10001014,
         "gridSize": {
             "width": 2,
@@ -506,9 +506,9 @@
     {
         "id": 15,
         "mysekaiFixtureType": "normal",
-        "name": "閃耀流星的桌燈",
+        "name": "闪耀流星的桌灯",
         "pronunciation": "きらめくりゅうせいのてーぶるらいと",
-        "flavorText": "閃耀流星的桌燈",
+        "flavorText": "闪耀流星的桌灯",
         "seq": 10001015,
         "gridSize": {
             "width": 1,
@@ -557,9 +557,9 @@
     {
         "id": 16,
         "mysekaiFixtureType": "system",
-        "name": "閃亮三葉草的家",
+        "name": "闪耀三叶草的家",
         "pronunciation": "かがやくくろーばーのいえ",
-        "flavorText": "閃亮三葉草的家",
+        "flavorText": "闪耀三叶草的家",
         "seq": 10002001,
         "gridSize": {
             "width": 12,
@@ -590,9 +590,9 @@
     {
         "id": 17,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "閃亮三葉草的壁紙",
+        "name": "闪耀三叶草的壁纸",
         "pronunciation": "かがやくくろーばーのかべがみ",
-        "flavorText": "閃亮三葉草的壁紙",
+        "flavorText": "闪耀三叶草的壁纸",
         "seq": 10002002,
         "gridSize": {
             "width": 0,
@@ -622,9 +622,9 @@
     {
         "id": 18,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "閃亮三葉草的地板",
+        "name": "闪耀三叶草的地板",
         "pronunciation": "かがやくくろーばーのゆか",
-        "flavorText": "閃亮三葉草的地板",
+        "flavorText": "闪耀三叶草的地板",
         "seq": 10002003,
         "gridSize": {
             "width": 0,
@@ -655,9 +655,9 @@
     {
         "id": 19,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的窗戶",
+        "name": "闪耀三叶草的窗戶",
         "pronunciation": "かがやくくろーばーのまど",
-        "flavorText": "閃亮三葉草的窗戶",
+        "flavorText": "闪耀三叶草的窗戶",
         "seq": 10002004,
         "gridSize": {
             "width": 2,
@@ -687,9 +687,9 @@
     {
         "id": 20,
         "mysekaiFixtureType": "system",
-        "name": "閃亮三葉草的櫃子",
+        "name": "闪耀三叶草的柜子",
         "pronunciation": "かがやくクローバーのチェスト",
-        "flavorText": "閃亮三葉草的櫃子",
+        "flavorText": "闪耀三叶草的柜子",
         "seq": 10002005,
         "gridSize": {
             "width": 2,
@@ -719,9 +719,9 @@
     {
         "id": 21,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的床",
+        "name": "闪耀三叶草的床",
         "pronunciation": "かがやくくろーばーのべっど",
-        "flavorText": "閃亮三葉草的床",
+        "flavorText": "闪耀三叶草的床",
         "seq": 10002006,
         "gridSize": {
             "width": 4,
@@ -751,9 +751,9 @@
     {
         "id": 22,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的桌子",
+        "name": "闪耀三叶草的桌子",
         "pronunciation": "かがやくくろーばーのてーぶる",
-        "flavorText": "閃亮三葉草的桌子",
+        "flavorText": "闪耀三叶草的桌子",
         "seq": 10002007,
         "gridSize": {
             "width": 2,
@@ -801,9 +801,9 @@
     {
         "id": 23,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的椅子",
+        "name": "闪耀三叶草的椅子",
         "pronunciation": "かがやくくろーばーのちぇあ",
-        "flavorText": "閃亮三葉草的椅子",
+        "flavorText": "闪耀三叶草的椅子",
         "seq": 10002008,
         "gridSize": {
             "width": 2,
@@ -851,9 +851,9 @@
     {
         "id": 24,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的書架",
+        "name": "闪耀三叶草的书架",
         "pronunciation": "かがやくくろーばーのしぇるふ",
-        "flavorText": "閃亮三葉草的書架",
+        "flavorText": "闪耀三叶草的书架",
         "seq": 10002009,
         "gridSize": {
             "width": 2,
@@ -883,9 +883,9 @@
     {
         "id": 25,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的沙發",
+        "name": "闪耀三叶草的沙发",
         "pronunciation": "かがやくくろーばーのそふぁ",
-        "flavorText": "閃亮三葉草的沙發",
+        "flavorText": "闪耀三叶草的沙发",
         "seq": 10002010,
         "gridSize": {
             "width": 4,
@@ -933,9 +933,9 @@
     {
         "id": 26,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的矮桌",
+        "name": "闪耀三叶草的矮桌",
         "pronunciation": "かがやくくろーばーのろーてーぶる",
-        "flavorText": "閃亮三葉草的矮桌",
+        "flavorText": "闪耀三叶草的矮桌",
         "seq": 10002011,
         "gridSize": {
             "width": 4,
@@ -965,9 +965,9 @@
     {
         "id": 27,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的地毯",
+        "name": "闪耀三叶草的地毯",
         "pronunciation": "かがやくくろーばーのらぐ",
-        "flavorText": "閃亮三葉草的地毯",
+        "flavorText": "闪耀三叶草的地毯",
         "seq": 10002012,
         "gridSize": {
             "width": 6,
@@ -998,9 +998,9 @@
     {
         "id": 28,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的書櫃",
+        "name": "闪耀三叶草的书柜",
         "pronunciation": "かがやくくろーばーのほんだな",
-        "flavorText": "閃亮三葉草的書櫃",
+        "flavorText": "闪耀三叶草的书柜",
         "seq": 10002013,
         "gridSize": {
             "width": 3,
@@ -1030,9 +1030,9 @@
     {
         "id": 29,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的壁掛時鐘",
+        "name": "闪耀三叶草的壁挂时钟",
         "pronunciation": "かがやくくろーばーのかべかけどけい",
-        "flavorText": "閃亮三葉草的壁掛時鐘",
+        "flavorText": "闪耀三叶草的壁挂时钟",
         "seq": 10002014,
         "gridSize": {
             "width": 2,
@@ -1062,9 +1062,9 @@
     {
         "id": 30,
         "mysekaiFixtureType": "normal",
-        "name": "閃亮三葉草的桌燈",
+        "name": "闪耀三叶草的桌灯",
         "pronunciation": "かがやくくろーばーのてーぶるらいと",
-        "flavorText": "閃亮三葉草的桌燈",
+        "flavorText": "闪耀三叶草的桌灯",
         "seq": 10002015,
         "gridSize": {
             "width": 1,
@@ -1113,9 +1113,9 @@
     {
         "id": 31,
         "mysekaiFixtureType": "system",
-        "name": "鮮明合奏的家",
+        "name": "鲜明合奏的家",
         "pronunciation": "あざやかなゆにぞんのいえ",
-        "flavorText": "鮮明合奏的家",
+        "flavorText": "鲜明合奏的家",
         "seq": 10003001,
         "gridSize": {
             "width": 12,
@@ -1146,9 +1146,9 @@
     {
         "id": 32,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "鮮明合奏的壁紙",
+        "name": "鲜明合奏的壁纸",
         "pronunciation": "あざやかなゆにぞんのかべがみ",
-        "flavorText": "鮮明合奏的壁紙",
+        "flavorText": "鲜明合奏的壁纸",
         "seq": 10003002,
         "gridSize": {
             "width": 0,
@@ -1178,9 +1178,9 @@
     {
         "id": 33,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "鮮明合奏的地板",
+        "name": "鲜明合奏的地板",
         "pronunciation": "あざやかなゆにぞんのゆか",
-        "flavorText": "鮮明合奏的地板",
+        "flavorText": "鲜明合奏的地板",
         "seq": 10003003,
         "gridSize": {
             "width": 0,
@@ -1211,9 +1211,9 @@
     {
         "id": 34,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的窗戶",
+        "name": "鲜明合奏的窗戶",
         "pronunciation": "あざやかなゆにぞんのまど",
-        "flavorText": "鮮明合奏的窗戶",
+        "flavorText": "鲜明合奏的窗戶",
         "seq": 10003004,
         "gridSize": {
             "width": 2,
@@ -1243,9 +1243,9 @@
     {
         "id": 35,
         "mysekaiFixtureType": "system",
-        "name": "鮮明合奏的櫃子",
+        "name": "鲜明合奏的柜子",
         "pronunciation": "あざやかなゆにぞんのちぇすと",
-        "flavorText": "鮮明合奏的櫃子",
+        "flavorText": "鲜明合奏的柜子",
         "seq": 10003005,
         "gridSize": {
             "width": 2,
@@ -1275,9 +1275,9 @@
     {
         "id": 36,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的床",
+        "name": "鲜明合奏的床",
         "pronunciation": "あざやかなゆにぞんのべっど",
-        "flavorText": "鮮明合奏的床",
+        "flavorText": "鲜明合奏的床",
         "seq": 10003006,
         "gridSize": {
             "width": 4,
@@ -1307,9 +1307,9 @@
     {
         "id": 37,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的桌子",
+        "name": "鲜明合奏的桌子",
         "pronunciation": "あざやかなゆにぞんのてーぶる",
-        "flavorText": "鮮明合奏的桌子",
+        "flavorText": "鲜明合奏的桌子",
         "seq": 10003007,
         "gridSize": {
             "width": 2,
@@ -1357,9 +1357,9 @@
     {
         "id": 38,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的椅子",
+        "name": "鲜明合奏的椅子",
         "pronunciation": "あざやかなゆにぞんのちぇあ",
-        "flavorText": "鮮明合奏的椅子",
+        "flavorText": "鲜明合奏的椅子",
         "seq": 10003008,
         "gridSize": {
             "width": 2,
@@ -1407,9 +1407,9 @@
     {
         "id": 39,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的書架",
+        "name": "鲜明合奏的书架",
         "pronunciation": "あざやかなゆにぞんのしぇるふ",
-        "flavorText": "鮮明合奏的書架",
+        "flavorText": "鲜明合奏的书架",
         "seq": 10003009,
         "gridSize": {
             "width": 2,
@@ -1439,9 +1439,9 @@
     {
         "id": 40,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的沙發",
+        "name": "鲜明合奏的沙发",
         "pronunciation": "あざやかなゆにぞんのそふぁ",
-        "flavorText": "鮮明合奏的沙發",
+        "flavorText": "鲜明合奏的沙发",
         "seq": 10003010,
         "gridSize": {
             "width": 4,
@@ -1489,9 +1489,9 @@
     {
         "id": 41,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的矮桌",
+        "name": "鲜明合奏的矮桌",
         "pronunciation": "あざやかなゆにぞんのろーてーぶる",
-        "flavorText": "鮮明合奏的矮桌",
+        "flavorText": "鲜明合奏的矮桌",
         "seq": 10003011,
         "gridSize": {
             "width": 4,
@@ -1521,9 +1521,9 @@
     {
         "id": 42,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的地毯",
+        "name": "鲜明合奏的地毯",
         "pronunciation": "あざやかなゆにぞんのらぐ",
-        "flavorText": "鮮明合奏的地毯",
+        "flavorText": "鲜明合奏的地毯",
         "seq": 10003012,
         "gridSize": {
             "width": 6,
@@ -1554,9 +1554,9 @@
     {
         "id": 43,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的書櫃",
+        "name": "鲜明合奏的书柜",
         "pronunciation": "あざやかなゆにぞんのほんだな",
-        "flavorText": "鮮明合奏的書櫃",
+        "flavorText": "鲜明合奏的书柜",
         "seq": 10003013,
         "gridSize": {
             "width": 3,
@@ -1586,9 +1586,9 @@
     {
         "id": 44,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的壁掛時鐘",
+        "name": "鲜明合奏的壁挂时钟",
         "pronunciation": "あざやかなゆにぞんのかべかけどけい",
-        "flavorText": "鮮明合奏的壁掛時鐘",
+        "flavorText": "鲜明合奏的壁挂时钟",
         "seq": 10003014,
         "gridSize": {
             "width": 2,
@@ -1618,9 +1618,9 @@
     {
         "id": 45,
         "mysekaiFixtureType": "normal",
-        "name": "鮮明合奏的桌燈",
+        "name": "鲜明合奏的桌灯",
         "pronunciation": "あざやかなゆにぞんのてーぶるらいと",
-        "flavorText": "鮮明合奏的桌燈",
+        "flavorText": "鲜明合奏的桌灯",
         "seq": 10003015,
         "gridSize": {
             "width": 1,
@@ -1669,9 +1669,9 @@
     {
         "id": 46,
         "mysekaiFixtureType": "system",
-        "name": "歡樂皇冠的家",
+        "name": "欢乐皇冠的家",
         "pronunciation": "はじけるくらうんのいえ",
-        "flavorText": "歡樂皇冠的家",
+        "flavorText": "欢乐皇冠的家",
         "seq": 10004001,
         "gridSize": {
             "width": 12,
@@ -1702,9 +1702,9 @@
     {
         "id": 47,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "歡樂皇冠的壁紙",
+        "name": "欢乐皇冠的壁纸",
         "pronunciation": "はじけるくらうんのかべがみ",
-        "flavorText": "歡樂皇冠的壁紙",
+        "flavorText": "欢乐皇冠的壁纸",
         "seq": 10004002,
         "gridSize": {
             "width": 0,
@@ -1734,9 +1734,9 @@
     {
         "id": 48,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "歡樂皇冠的地板",
+        "name": "欢乐皇冠的地板",
         "pronunciation": "はじけるくらうんのゆか",
-        "flavorText": "歡樂皇冠的地板",
+        "flavorText": "欢乐皇冠的地板",
         "seq": 10004003,
         "gridSize": {
             "width": 0,
@@ -1767,9 +1767,9 @@
     {
         "id": 49,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的窗戶",
+        "name": "欢乐皇冠的窗戶",
         "pronunciation": "はじけるくらうんのまど",
-        "flavorText": "歡樂皇冠的窗戶",
+        "flavorText": "欢乐皇冠的窗戶",
         "seq": 10004004,
         "gridSize": {
             "width": 2,
@@ -1799,9 +1799,9 @@
     {
         "id": 50,
         "mysekaiFixtureType": "system",
-        "name": "歡樂皇冠的櫃子",
+        "name": "欢乐皇冠的柜子",
         "pronunciation": "はじけるくらうんのちぇすと",
-        "flavorText": "歡樂皇冠的櫃子",
+        "flavorText": "欢乐皇冠的柜子",
         "seq": 10004005,
         "gridSize": {
             "width": 2,
@@ -1831,9 +1831,9 @@
     {
         "id": 51,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的床",
+        "name": "欢乐皇冠的床",
         "pronunciation": "はじけるくらうんのべっど",
-        "flavorText": "歡樂皇冠的床",
+        "flavorText": "欢乐皇冠的床",
         "seq": 10004006,
         "gridSize": {
             "width": 4,
@@ -1863,9 +1863,9 @@
     {
         "id": 52,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的桌子",
+        "name": "欢乐皇冠的桌子",
         "pronunciation": "はじけるくらうんのてーぶる",
-        "flavorText": "歡樂皇冠的桌子",
+        "flavorText": "欢乐皇冠的桌子",
         "seq": 10004007,
         "gridSize": {
             "width": 2,
@@ -1913,9 +1913,9 @@
     {
         "id": 53,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的椅子",
+        "name": "欢乐皇冠的椅子",
         "pronunciation": "はじけるくらうんのちぇあ",
-        "flavorText": "歡樂皇冠的椅子",
+        "flavorText": "欢乐皇冠的椅子",
         "seq": 10004008,
         "gridSize": {
             "width": 2,
@@ -1963,9 +1963,9 @@
     {
         "id": 54,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的書架",
+        "name": "欢乐皇冠的书架",
         "pronunciation": "はじけるくらうんのしぇるふ",
-        "flavorText": "歡樂皇冠的書架",
+        "flavorText": "欢乐皇冠的书架",
         "seq": 10004009,
         "gridSize": {
             "width": 2,
@@ -1995,9 +1995,9 @@
     {
         "id": 55,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的沙發",
+        "name": "欢乐皇冠的沙发",
         "pronunciation": "はじけるくらうんのそふぁ",
-        "flavorText": "歡樂皇冠的沙發",
+        "flavorText": "欢乐皇冠的沙发",
         "seq": 10004010,
         "gridSize": {
             "width": 4,
@@ -2045,9 +2045,9 @@
     {
         "id": 56,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的矮桌",
+        "name": "欢乐皇冠的矮桌",
         "pronunciation": "はじけるくらうんのろーてーぶる",
-        "flavorText": "歡樂皇冠的矮桌",
+        "flavorText": "欢乐皇冠的矮桌",
         "seq": 10004011,
         "gridSize": {
             "width": 4,
@@ -2077,9 +2077,9 @@
     {
         "id": 57,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的地毯",
+        "name": "欢乐皇冠的地毯",
         "pronunciation": "はじけるくらうんのらぐ",
-        "flavorText": "歡樂皇冠的地毯",
+        "flavorText": "欢乐皇冠的地毯",
         "seq": 10004012,
         "gridSize": {
             "width": 6,
@@ -2110,9 +2110,9 @@
     {
         "id": 58,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的書櫃",
+        "name": "欢乐皇冠的书柜",
         "pronunciation": "はじけるくらうんのほんだな",
-        "flavorText": "歡樂皇冠的書櫃",
+        "flavorText": "欢乐皇冠的书柜",
         "seq": 10004013,
         "gridSize": {
             "width": 3,
@@ -2142,9 +2142,9 @@
     {
         "id": 59,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的壁掛時鐘",
+        "name": "欢乐皇冠的壁挂时钟",
         "pronunciation": "はじけるくらうんのかべかけどけい",
-        "flavorText": "歡樂皇冠的壁掛時鐘",
+        "flavorText": "欢乐皇冠的壁挂时钟",
         "seq": 10004014,
         "gridSize": {
             "width": 2,
@@ -2174,9 +2174,9 @@
     {
         "id": 60,
         "mysekaiFixtureType": "normal",
-        "name": "歡樂皇冠的桌燈",
+        "name": "欢乐皇冠的桌灯",
         "pronunciation": "はじけるくらうんのてーぶるらいと",
-        "flavorText": "歡樂皇冠的桌燈",
+        "flavorText": "欢乐皇冠的桌灯",
         "seq": 10004015,
         "gridSize": {
             "width": 1,
@@ -2258,9 +2258,9 @@
     {
         "id": 62,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "破碎之心的壁紙",
+        "name": "破碎之心的壁纸",
         "pronunciation": "ひびわれたはーとのかべがみ",
-        "flavorText": "破碎之心的壁紙",
+        "flavorText": "破碎之心的壁纸",
         "seq": 10005002,
         "gridSize": {
             "width": 0,
@@ -2355,9 +2355,9 @@
     {
         "id": 65,
         "mysekaiFixtureType": "system",
-        "name": "破碎之心的櫃子",
+        "name": "破碎之心的柜子",
         "pronunciation": "ひびわれたはーとのちぇすと",
-        "flavorText": "破碎之心的櫃子",
+        "flavorText": "破碎之心的柜子",
         "seq": 10005005,
         "gridSize": {
             "width": 2,
@@ -2519,9 +2519,9 @@
     {
         "id": 69,
         "mysekaiFixtureType": "normal",
-        "name": "破碎之心的書架",
+        "name": "破碎之心的书架",
         "pronunciation": "ひびわれたはーとのしぇるふ",
-        "flavorText": "破碎之心的書架",
+        "flavorText": "破碎之心的书架",
         "seq": 10005009,
         "gridSize": {
             "width": 2,
@@ -2551,9 +2551,9 @@
     {
         "id": 70,
         "mysekaiFixtureType": "normal",
-        "name": "破碎之心的沙發",
+        "name": "破碎之心的沙发",
         "pronunciation": "ひびわれたはーとのそふぁ",
-        "flavorText": "破碎之心的沙發",
+        "flavorText": "破碎之心的沙发",
         "seq": 10005010,
         "gridSize": {
             "width": 4,
@@ -2666,9 +2666,9 @@
     {
         "id": 73,
         "mysekaiFixtureType": "normal",
-        "name": "破碎之心的書櫃",
+        "name": "破碎之心的书柜",
         "pronunciation": "ひびわれたはーとのほんだな",
-        "flavorText": "破碎之心的書櫃",
+        "flavorText": "破碎之心的书柜",
         "seq": 10005013,
         "gridSize": {
             "width": 3,
@@ -2698,9 +2698,9 @@
     {
         "id": 74,
         "mysekaiFixtureType": "normal",
-        "name": "破碎之心的壁掛時鐘",
+        "name": "破碎之心的壁挂时钟",
         "pronunciation": "ひびわれたはーとのかべかけどけい",
-        "flavorText": "破碎之心的壁掛時鐘",
+        "flavorText": "破碎之心的壁挂时钟",
         "seq": 10005014,
         "gridSize": {
             "width": 2,
@@ -2730,9 +2730,9 @@
     {
         "id": 75,
         "mysekaiFixtureType": "normal",
-        "name": "破碎之心的桌燈",
+        "name": "破碎之心的桌灯",
         "pronunciation": "ひびわれたはーとのてーぶるらいと",
-        "flavorText": "破碎之心的桌燈",
+        "flavorText": "破碎之心的桌灯",
         "seq": 10005015,
         "gridSize": {
             "width": 1,
@@ -2814,9 +2814,9 @@
     {
         "id": 77,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "起始旋律的壁紙",
+        "name": "起始旋律的壁纸",
         "pronunciation": "はじまりのめろでぃのかべがみ",
-        "flavorText": "起始旋律的壁紙",
+        "flavorText": "起始旋律的壁纸",
         "seq": 10006002,
         "gridSize": {
             "width": 0,
@@ -2911,9 +2911,9 @@
     {
         "id": 80,
         "mysekaiFixtureType": "system",
-        "name": "起始旋律的櫃子",
+        "name": "起始旋律的柜子",
         "pronunciation": "はじまりのめろでぃのちぇすと",
-        "flavorText": "起始旋律的櫃子",
+        "flavorText": "起始旋律的柜子",
         "seq": 10006005,
         "gridSize": {
             "width": 2,
@@ -3091,9 +3091,9 @@
     {
         "id": 84,
         "mysekaiFixtureType": "normal",
-        "name": "起始旋律的書架",
+        "name": "起始旋律的书架",
         "pronunciation": "はじまりのめろでぃのしぇるふ",
-        "flavorText": "起始旋律的書架",
+        "flavorText": "起始旋律的书架",
         "seq": 10006009,
         "gridSize": {
             "width": 2,
@@ -3123,9 +3123,9 @@
     {
         "id": 85,
         "mysekaiFixtureType": "normal",
-        "name": "起始旋律的沙發",
+        "name": "起始旋律的沙发",
         "pronunciation": "はじまりのめろでぃのそふぁ",
-        "flavorText": "起始旋律的沙發",
+        "flavorText": "起始旋律的沙发",
         "seq": 10006010,
         "gridSize": {
             "width": 4,
@@ -3246,9 +3246,9 @@
     {
         "id": 88,
         "mysekaiFixtureType": "normal",
-        "name": "起始旋律的書櫃",
+        "name": "起始旋律的书柜",
         "pronunciation": "はじまりのめろでぃのほんだな",
-        "flavorText": "起始旋律的書櫃",
+        "flavorText": "起始旋律的书柜",
         "seq": 10006013,
         "gridSize": {
             "width": 3,
@@ -3278,9 +3278,9 @@
     {
         "id": 89,
         "mysekaiFixtureType": "normal",
-        "name": "起始旋律的壁掛時鐘",
+        "name": "起始旋律的壁挂时钟",
         "pronunciation": "はじまりのめろでぃのかべかけどけい",
-        "flavorText": "起始旋律的壁掛時鐘",
+        "flavorText": "起始旋律的壁挂时钟",
         "seq": 10006014,
         "gridSize": {
             "width": 2,
@@ -3310,9 +3310,9 @@
     {
         "id": 90,
         "mysekaiFixtureType": "normal",
-        "name": "起始旋律的桌燈",
+        "name": "起始旋律的桌灯",
         "pronunciation": "はじまりのめろでぃのてーぶるらいと",
-        "flavorText": "起始旋律的桌燈",
+        "flavorText": "起始旋律的桌灯",
         "seq": 10006015,
         "gridSize": {
             "width": 1,
@@ -3369,9 +3369,9 @@
     {
         "id": 91,
         "mysekaiFixtureType": "system",
-        "name": "木製工作桌",
+        "name": "木制工作桌",
         "pronunciation": "きのさぎょうてーぶる",
-        "flavorText": "木製工作桌",
+        "flavorText": "木制工作桌",
         "seq": 20001001,
         "gridSize": {
             "width": 3,
@@ -3400,9 +3400,9 @@
     {
         "id": 92,
         "mysekaiFixtureType": "system",
-        "name": "石製工作桌",
+        "name": "石制工作桌",
         "pronunciation": "いしのさぎょうてーぶる",
-        "flavorText": "石製工作桌",
+        "flavorText": "石制工作桌",
         "seq": 20001002,
         "gridSize": {
             "width": 3,
@@ -3431,9 +3431,9 @@
     {
         "id": 93,
         "mysekaiFixtureType": "system",
-        "name": "鐵製工作桌",
+        "name": "铁制工作桌",
         "pronunciation": "あいあんのさぎょうてーぶる",
-        "flavorText": "鐵製工作桌",
+        "flavorText": "铁制工作桌",
         "seq": 20001003,
         "gridSize": {
             "width": 3,
@@ -3462,9 +3462,9 @@
     {
         "id": 94,
         "mysekaiFixtureType": "system",
-        "name": "未來感工作桌",
+        "name": "未来感工作桌",
         "pronunciation": "きんみらいのさぎょうてーぶる",
-        "flavorText": "未來感工作桌",
+        "flavorText": "未来感工作桌",
         "seq": 20001004,
         "gridSize": {
             "width": 3,
@@ -3493,9 +3493,9 @@
     {
         "id": 95,
         "mysekaiFixtureType": "system",
-        "name": "簡約手帳",
+        "name": "简约手账",
         "pronunciation": "しんぷるなてちょう",
-        "flavorText": "簡約手帳",
+        "flavorText": "简约手账",
         "seq": 20002001,
         "gridSize": {
             "width": 1,
@@ -3546,9 +3546,9 @@
     {
         "id": 96,
         "mysekaiFixtureType": "system",
-        "name": "皮革活頁手帳",
+        "name": "皮革活页手账",
         "pronunciation": "かわのしすてむてちょう",
-        "flavorText": "皮革活頁手帳",
+        "flavorText": "皮革活页手账",
         "seq": 20002002,
         "gridSize": {
             "width": 1,
@@ -3577,9 +3577,9 @@
     {
         "id": 97,
         "mysekaiFixtureType": "system",
-        "name": "木製轉換機",
+        "name": "木制转换机",
         "pronunciation": "きのへんかんましん",
-        "flavorText": "木製轉換機",
+        "flavorText": "木制转换机",
         "seq": 20003001,
         "gridSize": {
             "width": 2,
@@ -3608,9 +3608,9 @@
     {
         "id": 98,
         "mysekaiFixtureType": "system",
-        "name": "石製轉換機",
+        "name": "石制转换机",
         "pronunciation": "いしのへんかんましん",
-        "flavorText": "石製轉換機",
+        "flavorText": "石制转换机",
         "seq": 20003002,
         "gridSize": {
             "width": 2,
@@ -3639,9 +3639,9 @@
     {
         "id": 99,
         "mysekaiFixtureType": "system",
-        "name": "鐵製轉換機",
+        "name": "铁制转换机",
         "pronunciation": "あいあんのへんかんましん",
-        "flavorText": "鐵製轉換機",
+        "flavorText": "铁制转换机",
         "seq": 20003003,
         "gridSize": {
             "width": 2,
@@ -3670,9 +3670,9 @@
     {
         "id": 100,
         "mysekaiFixtureType": "system",
-        "name": "未來感轉換機",
+        "name": "未来感转换机",
         "pronunciation": "きんみらいのへんかんましん",
-        "flavorText": "未來感轉換機",
+        "flavorText": "未来感转换机",
         "seq": 20003004,
         "gridSize": {
             "width": 2,
@@ -3701,9 +3701,9 @@
     {
         "id": 101,
         "mysekaiFixtureType": "system",
-        "name": "音響組合",
+        "name": "音乐组合",
         "pronunciation": "こんぽーねんとおーでぃお",
-        "flavorText": "音響組合",
+        "flavorText": "音乐组合",
         "seq": 20004001,
         "gridSize": {
             "width": 3,
@@ -3782,9 +3782,9 @@
     {
         "id": 102,
         "mysekaiFixtureType": "system",
-        "name": "黑膠唱機",
+        "name": "黑胶唱机",
         "pronunciation": "れこーどぷれーやー",
-        "flavorText": "黑膠唱機",
+        "flavorText": "黑胶唱机",
         "seq": 20004002,
         "gridSize": {
             "width": 2,
@@ -3863,9 +3863,9 @@
     {
         "id": 103,
         "mysekaiFixtureType": "system",
-        "name": "留聲機",
+        "name": "留声机",
         "pronunciation": "ちくおんき",
-        "flavorText": "留聲機",
+        "flavorText": "留声机",
         "seq": 20004003,
         "gridSize": {
             "width": 2,
@@ -3904,9 +3904,9 @@
     {
         "id": 104,
         "mysekaiFixtureType": "system",
-        "name": "簡約筆記型電腦",
+        "name": "简约笔记型电脑",
         "pronunciation": "しんぷるなのーとぱそこん",
-        "flavorText": "簡約筆記型電腦",
+        "flavorText": "简约笔记型电脑",
         "seq": 20005001,
         "gridSize": {
             "width": 2,
@@ -3961,9 +3961,9 @@
     {
         "id": 105,
         "mysekaiFixtureType": "system",
-        "name": "簡約桌上型電腦",
+        "name": "简约桌上型电脑",
         "pronunciation": "しんぷるなですくとっぷぱそこん",
-        "flavorText": "簡約桌上型電腦",
+        "flavorText": "简约桌上型电脑",
         "seq": 20005002,
         "gridSize": {
             "width": 2,
@@ -4018,9 +4018,9 @@
     {
         "id": 111,
         "mysekaiFixtureType": "normal",
-        "name": "泥土小徑",
+        "name": "泥土小径",
         "pronunciation": "つちのみち",
-        "flavorText": "泥土小徑",
+        "flavorText": "泥土小径",
         "seq": 22001001,
         "gridSize": {
             "width": 2,
@@ -4080,9 +4080,9 @@
     {
         "id": 113,
         "mysekaiFixtureType": "normal",
-        "name": "磚石路",
+        "name": "砖石路",
         "pronunciation": "れんがのみち",
-        "flavorText": "磚石路",
+        "flavorText": "砖石路",
         "seq": 22001003,
         "gridSize": {
             "width": 2,
@@ -4111,9 +4111,9 @@
     {
         "id": 114,
         "mysekaiFixtureType": "normal",
-        "name": "簡約木圍欄",
+        "name": "简约木围栏",
         "pronunciation": "しんぷるなきのさく",
-        "flavorText": "簡約木圍欄",
+        "flavorText": "简约木围栏",
         "seq": 22002001,
         "gridSize": {
             "width": 2,
@@ -4141,9 +4141,9 @@
     {
         "id": 115,
         "mysekaiFixtureType": "normal",
-        "name": "洋風石圍欄",
+        "name": "洋風石围栏",
         "pronunciation": "ようふうないしのさく",
-        "flavorText": "洋風石圍欄",
+        "flavorText": "洋風石围栏",
         "seq": 22002002,
         "gridSize": {
             "width": 2,
@@ -4171,9 +4171,9 @@
     {
         "id": 116,
         "mysekaiFixtureType": "normal",
-        "name": "鐵製園藝柵欄",
+        "name": "铁制园艺栅栏",
         "pronunciation": "あいあんのがーでにんぐふぇんす",
-        "flavorText": "鐵製園藝柵欄",
+        "flavorText": "铁制园艺栅栏",
         "seq": 22002003,
         "gridSize": {
             "width": 2,
@@ -4201,9 +4201,9 @@
     {
         "id": 117,
         "mysekaiFixtureType": "normal",
-        "name": "綠籬",
+        "name": "绿篱",
         "pronunciation": "いけがき",
-        "flavorText": "綠籬",
+        "flavorText": "绿篱",
         "seq": 22002004,
         "gridSize": {
             "width": 2,
@@ -4232,9 +4232,9 @@
     {
         "id": 118,
         "mysekaiFixtureType": "plant",
-        "name": "闊葉樹苗",
+        "name": "阔叶树苗",
         "pronunciation": "こうようじゅのなえ",
-        "flavorText": "闊葉樹苗",
+        "flavorText": "阔叶树苗",
         "seq": 21001001,
         "gridSize": {
             "width": 3,
@@ -4263,9 +4263,9 @@
     {
         "id": 119,
         "mysekaiFixtureType": "plant",
-        "name": "針葉樹苗",
+        "name": "针叶树苗",
         "pronunciation": "しんようじゅのなえ",
-        "flavorText": "針葉樹苗",
+        "flavorText": "针叶树苗",
         "seq": 21001002,
         "gridSize": {
             "width": 3,
@@ -4294,9 +4294,9 @@
     {
         "id": 120,
         "mysekaiFixtureType": "plant",
-        "name": "熱帶樹苗",
+        "name": "热带树苗",
         "pronunciation": "ねったいじゅのなえ",
-        "flavorText": "熱帶樹苗",
+        "flavorText": "热带树苗",
         "seq": 21001003,
         "gridSize": {
             "width": 3,
@@ -4325,9 +4325,9 @@
     {
         "id": 121,
         "mysekaiFixtureType": "plant",
-        "name": "夕桐苗",
+        "name": "夕桐树苗",
         "pronunciation": "ゆうぎりのなえ",
-        "flavorText": "夕桐苗",
+        "flavorText": "夕桐树苗",
         "seq": 21001004,
         "gridSize": {
             "width": 4,
@@ -4356,9 +4356,9 @@
     {
         "id": 122,
         "mysekaiFixtureType": "house_plant",
-        "name": "闊葉樹",
+        "name": "阔叶树",
         "pronunciation": "こうようじゅ",
-        "flavorText": "闊葉樹",
+        "flavorText": "阔叶树",
         "seq": 21002001,
         "gridSize": {
             "width": 3,
@@ -4418,9 +4418,9 @@
     {
         "id": 124,
         "mysekaiFixtureType": "house_plant",
-        "name": "熱帶樹",
+        "name": "针叶树",
         "pronunciation": "ねったいじゅのなえ",
-        "flavorText": "熱帶樹",
+        "flavorText": "针叶树",
         "seq": 21002003,
         "gridSize": {
             "width": 3,
@@ -4480,9 +4480,9 @@
     {
         "id": 126,
         "mysekaiFixtureType": "plant",
-        "name": "郁金香球莖\/紅",
+        "name": "郁金香球茎\/红",
         "pronunciation": "ちゅーりっぷのきゅうこんあか",
-        "flavorText": "郁金香球莖\/紅",
+        "flavorText": "郁金香球茎\/红",
         "seq": 21001101,
         "gridSize": {
             "width": 1,
@@ -4511,9 +4511,9 @@
     {
         "id": 127,
         "mysekaiFixtureType": "plant",
-        "name": "三色堇種子\/紅系",
+        "name": "三色堇种子\/红系",
         "pronunciation": "ぱんじーのたねあかけい",
-        "flavorText": "三色堇種子\/紅系",
+        "flavorText": "三色堇种子\/红系",
         "seq": 21001201,
         "gridSize": {
             "width": 1,
@@ -4542,9 +4542,9 @@
     {
         "id": 128,
         "mysekaiFixtureType": "plant",
-        "name": "繡球花種子\/紫",
+        "name": "绣球花种子\/紫",
         "pronunciation": "あじさいのたねむらさき",
-        "flavorText": "繡球花種子\/紫",
+        "flavorText": "绣球花种子\/紫",
         "seq": 21001301,
         "gridSize": {
             "width": 2,
@@ -4573,9 +4573,9 @@
     {
         "id": 129,
         "mysekaiFixtureType": "plant",
-        "name": "鈴蘭種子\/白",
+        "name": "铃兰种子\/白",
         "pronunciation": "すずらんのたねしろの",
-        "flavorText": "鈴蘭種子\/白",
+        "flavorText": "铃兰种子\/白",
         "seq": 21001401,
         "gridSize": {
             "width": 1,
@@ -4604,9 +4604,9 @@
     {
         "id": 130,
         "mysekaiFixtureType": "plant",
-        "name": "玫瑰種子\/紅",
+        "name": "玫瑰种子\/红",
         "pronunciation": "ばらのたねあか",
-        "flavorText": "玫瑰種子\/紅",
+        "flavorText": "玫瑰种子\/红",
         "seq": 21001501,
         "gridSize": {
             "width": 1,
@@ -4635,9 +4635,9 @@
     {
         "id": 131,
         "mysekaiFixtureType": "house_plant",
-        "name": "郁金香\/紅",
+        "name": "郁金香\/红",
         "pronunciation": "ちゅーりっぷあか",
-        "flavorText": "郁金香\/紅",
+        "flavorText": "郁金香\/红",
         "seq": 21003001,
         "gridSize": {
             "width": 1,
@@ -4666,9 +4666,9 @@
     {
         "id": 132,
         "mysekaiFixtureType": "house_plant",
-        "name": "三色堇\/紅系",
+        "name": "三色堇\/红系",
         "pronunciation": "ぱんじーあかけい",
-        "flavorText": "三色堇\/紅系",
+        "flavorText": "三色堇\/红系",
         "seq": 21003101,
         "gridSize": {
             "width": 1,
@@ -4697,9 +4697,9 @@
     {
         "id": 133,
         "mysekaiFixtureType": "house_plant",
-        "name": "繡球花\/紫",
+        "name": "绣球花\/紫",
         "pronunciation": "あじさいむらさき",
-        "flavorText": "繡球花\/紫",
+        "flavorText": "绣球花\/紫",
         "seq": 21003201,
         "gridSize": {
             "width": 2,
@@ -4728,9 +4728,9 @@
     {
         "id": 134,
         "mysekaiFixtureType": "house_plant",
-        "name": "鈴蘭\/白",
+        "name": "铃兰\/白",
         "pronunciation": "すずらんしろ",
-        "flavorText": "鈴蘭\/白",
+        "flavorText": "铃兰\/白",
         "seq": 21003301,
         "gridSize": {
             "width": 1,
@@ -4759,9 +4759,9 @@
     {
         "id": 135,
         "mysekaiFixtureType": "house_plant",
-        "name": "玫瑰\/紅",
+        "name": "玫瑰\/红",
         "pronunciation": "ばらあか",
-        "flavorText": "玫瑰\/紅",
+        "flavorText": "玫瑰\/红",
         "seq": 21003401,
         "gridSize": {
             "width": 1,
@@ -4790,9 +4790,9 @@
     {
         "id": 136,
         "mysekaiFixtureType": "system",
-        "name": "自然風格的房屋",
+        "name": "自然风格的房屋",
         "pronunciation": "なちゅらるないえ",
-        "flavorText": "自然風格的房屋",
+        "flavorText": "自然风格的房屋",
         "seq": 30001001,
         "gridSize": {
             "width": 12,
@@ -4823,9 +4823,9 @@
     {
         "id": 137,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "自然風格的壁紙",
+        "name": "自然风格的壁纸",
         "pronunciation": "なちゅらるなかべがみ",
-        "flavorText": "自然風格的壁紙",
+        "flavorText": "自然风格的壁纸",
         "seq": 30001002,
         "gridSize": {
             "width": 0,
@@ -4864,9 +4864,9 @@
     {
         "id": 138,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "自然風格的地板",
+        "name": "自然风格的地板",
         "pronunciation": "なちゅらるなゆか",
-        "flavorText": "自然風格的地板",
+        "flavorText": "自然风格的地板",
         "seq": 30001003,
         "gridSize": {
             "width": 0,
@@ -4906,9 +4906,9 @@
     {
         "id": 139,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的窗戶",
+        "name": "自然风格的窗戶",
         "pronunciation": "なちゅらるなまど",
-        "flavorText": "自然風格的窗戶",
+        "flavorText": "自然风格的窗戶",
         "seq": 30001004,
         "gridSize": {
             "width": 2,
@@ -4947,9 +4947,9 @@
     {
         "id": 140,
         "mysekaiFixtureType": "system",
-        "name": "自然風格的抽屜櫃",
+        "name": "自然风格的抽屉柜",
         "pronunciation": "なちゅらるなちぇすと",
-        "flavorText": "自然風格的抽屜櫃",
+        "flavorText": "自然风格的抽屉柜",
         "seq": 30001005,
         "gridSize": {
             "width": 2,
@@ -4989,9 +4989,9 @@
     {
         "id": 141,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的床",
+        "name": "自然风格的床",
         "pronunciation": "なちゅらるなべっど",
-        "flavorText": "自然風格的床",
+        "flavorText": "自然风格的床",
         "seq": 30001006,
         "gridSize": {
             "width": 4,
@@ -5030,9 +5030,9 @@
     {
         "id": 142,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的餐桌",
+        "name": "自然风格的餐桌",
         "pronunciation": "なちゅらるなだいにんぐてーぶる",
-        "flavorText": "自然風格的餐桌",
+        "flavorText": "自然风格的餐桌",
         "seq": 30001007,
         "gridSize": {
             "width": 4,
@@ -5071,9 +5071,9 @@
     {
         "id": 143,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的餐椅",
+        "name": "自然风格的餐椅",
         "pronunciation": "なちゅらるなだいにんぐちぇあ",
-        "flavorText": "自然風格的餐椅",
+        "flavorText": "自然风格的餐椅",
         "seq": 30001008,
         "gridSize": {
             "width": 2,
@@ -5112,9 +5112,9 @@
     {
         "id": 144,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的書櫃",
+        "name": "自然风格的书柜",
         "pronunciation": "なちゅらるなほんだな",
-        "flavorText": "自然風格的書櫃",
+        "flavorText": "自然风格的书柜",
         "seq": 30001009,
         "gridSize": {
             "width": 2,
@@ -5153,9 +5153,9 @@
     {
         "id": 145,
         "mysekaiFixtureType": "system",
-        "name": "自然風格的衣櫃",
+        "name": "自然风格的衣柜",
         "pronunciation": "なちゅらるなくろーぜっと",
-        "flavorText": "自然風格的衣櫃",
+        "flavorText": "自然风格的衣柜",
         "seq": 30001010,
         "gridSize": {
             "width": 3,
@@ -5195,9 +5195,9 @@
     {
         "id": 146,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的落地燈",
+        "name": "自然风格的落地灯",
         "pronunciation": "なちゅらるなふろあらいと",
-        "flavorText": "自然風格的落地燈",
+        "flavorText": "自然风格的落地灯",
         "seq": 30001011,
         "gridSize": {
             "width": 2,
@@ -5237,9 +5237,9 @@
     {
         "id": 147,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的椅凳",
+        "name": "自然风格的椅凳",
         "pronunciation": "なちゅらるなすつーる",
-        "flavorText": "自然風格的椅凳",
+        "flavorText": "自然风格的椅凳",
         "seq": 30001012,
         "gridSize": {
             "width": 2,
@@ -5278,9 +5278,9 @@
     {
         "id": 148,
         "mysekaiFixtureType": "system",
-        "name": "自然風格的梳妝台",
+        "name": "自然风格的化妆台",
         "pronunciation": "なちゅらるなどれっさー",
-        "flavorText": "自然風格的梳妝台",
+        "flavorText": "自然风格的化妆台",
         "seq": 30001013,
         "gridSize": {
             "width": 2,
@@ -5320,9 +5320,9 @@
     {
         "id": 149,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的茶几",
+        "name": "自然风格的茶几",
         "pronunciation": "なちゅらるなろーてーぶる",
-        "flavorText": "自然風格的茶几",
+        "flavorText": "自然风格的茶几",
         "seq": 30001014,
         "gridSize": {
             "width": 4,
@@ -5361,9 +5361,9 @@
     {
         "id": 150,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的雙人沙發",
+        "name": "自然风格的双人沙发",
         "pronunciation": "なちゅらるなふたりがけそふぁ",
-        "flavorText": "自然風格的雙人沙發",
+        "flavorText": "自然风格的双人沙发",
         "seq": 30001015,
         "gridSize": {
             "width": 4,
@@ -5402,9 +5402,9 @@
     {
         "id": 151,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的單人沙發",
+        "name": "自然风格的单人沙发",
         "pronunciation": "なちゅらるなひとりがけそふぁ",
-        "flavorText": "自然風格的單人沙發",
+        "flavorText": "自然风格的单人沙发",
         "seq": 30001016,
         "gridSize": {
             "width": 2,
@@ -5443,9 +5443,9 @@
     {
         "id": 152,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的掛鐘",
+        "name": "自然风格的壁挂时钟",
         "pronunciation": "なちゅらるなかべかけどけい",
-        "flavorText": "自然風格的掛鐘",
+        "flavorText": "自然风格的壁挂时钟",
         "seq": 30001017,
         "gridSize": {
             "width": 2,
@@ -5484,9 +5484,9 @@
     {
         "id": 153,
         "mysekaiFixtureType": "normal",
-        "name": "自然風格的液晶電視",
+        "name": "自然风格的液晶电视",
         "pronunciation": "なちゅらるなえきしょうてれび",
-        "flavorText": "自然風格的液晶電視",
+        "flavorText": "自然风格的液晶电视",
         "seq": 30001018,
         "gridSize": {
             "width": 4,
@@ -5567,9 +5567,9 @@
     {
         "id": 155,
         "mysekaiFixtureType": "normal",
-        "name": "爐灶",
+        "name": "炉灶",
         "pronunciation": "こんろ",
-        "flavorText": "爐灶",
+        "flavorText": "炉灶",
         "seq": 30002002,
         "gridSize": {
             "width": 3,
@@ -5690,9 +5690,9 @@
     {
         "id": 158,
         "mysekaiFixtureType": "normal",
-        "name": "廚房壁櫃",
+        "name": "廚房壁柜",
         "pronunciation": "きっちんうぉーるしぇるふ",
-        "flavorText": "廚房壁櫃",
+        "flavorText": "廚房壁柜",
         "seq": 30002005,
         "gridSize": {
             "width": 3,
@@ -5731,9 +5731,9 @@
     {
         "id": 159,
         "mysekaiFixtureType": "normal",
-        "name": "廚房掛鉤",
+        "name": "廚房挂钩",
         "pronunciation": "きっちんつーるふっく",
-        "flavorText": "廚房掛鉤",
+        "flavorText": "廚房挂钩",
         "seq": 30002006,
         "gridSize": {
             "width": 3,
@@ -5813,9 +5813,9 @@
     {
         "id": 161,
         "mysekaiFixtureType": "normal",
-        "name": "調味料架",
+        "name": "调味料架",
         "pronunciation": "ちょうみりょうらっく",
-        "flavorText": "調味料架",
+        "flavorText": "调味料架",
         "seq": 30002008,
         "gridSize": {
             "width": 2,
@@ -5854,9 +5854,9 @@
     {
         "id": 162,
         "mysekaiFixtureType": "normal",
-        "name": "疊放的餐具",
+        "name": "叠放的餐具",
         "pronunciation": "つみかさなったしょっき",
-        "flavorText": "疊放的餐具",
+        "flavorText": "叠放的餐具",
         "seq": 30002009,
         "gridSize": {
             "width": 2,
@@ -5895,9 +5895,9 @@
     {
         "id": 163,
         "mysekaiFixtureType": "normal",
-        "name": "咖啡機",
+        "name": "咖啡机",
         "pronunciation": "こーひーめーかー",
-        "flavorText": "咖啡機",
+        "flavorText": "咖啡机",
         "seq": 30002010,
         "gridSize": {
             "width": 1,
@@ -5936,9 +5936,9 @@
     {
         "id": 164,
         "mysekaiFixtureType": "normal",
-        "name": "彈出式烤麵包機",
+        "name": "弹出式烤面包机",
         "pronunciation": "ぽっぷあっぷとーすたー",
-        "flavorText": "彈出式烤麵包機",
+        "flavorText": "弹出式烤面包机",
         "seq": 30002011,
         "gridSize": {
             "width": 1,
@@ -5977,9 +5977,9 @@
     {
         "id": 165,
         "mysekaiFixtureType": "normal",
-        "name": "烤箱微波爐",
+        "name": "烤箱微波炉",
         "pronunciation": "おーぶんれんじ",
-        "flavorText": "烤箱微波爐",
+        "flavorText": "烤箱微波炉",
         "seq": 30002012,
         "gridSize": {
             "width": 2,
@@ -6018,9 +6018,9 @@
     {
         "id": 166,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "潔淨浴室壁紙",
+        "name": "洁净浴室壁纸",
         "pronunciation": "くりーんぱうだーるーむのかべがみ",
-        "flavorText": "潔淨浴室壁紙",
+        "flavorText": "洁净浴室壁纸",
         "seq": 30003001,
         "gridSize": {
             "width": 0,
@@ -6059,9 +6059,9 @@
     {
         "id": 167,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "潔淨浴室地板",
+        "name": "洁净浴室地板",
         "pronunciation": "くりーんぱうだーるーむのゆか",
-        "flavorText": "潔淨浴室地板",
+        "flavorText": "洁净浴室地板",
         "seq": 30003002,
         "gridSize": {
             "width": 0,
@@ -6100,9 +6100,9 @@
     {
         "id": 168,
         "mysekaiFixtureType": "normal",
-        "name": "洗臉台",
+        "name": "洗脸台",
         "pronunciation": "せんめんだい",
-        "flavorText": "洗臉台",
+        "flavorText": "洗脸台",
         "seq": 30003003,
         "gridSize": {
             "width": 2,
@@ -6141,9 +6141,9 @@
     {
         "id": 169,
         "mysekaiFixtureType": "normal",
-        "name": "洗衣機",
+        "name": "洗衣机",
         "pronunciation": "せんたくき",
-        "flavorText": "洗衣機",
+        "flavorText": "洗衣机",
         "seq": 30003004,
         "gridSize": {
             "width": 2,
@@ -6182,9 +6182,9 @@
     {
         "id": 170,
         "mysekaiFixtureType": "normal",
-        "name": "腳踏墊",
+        "name": "脚踏垫",
         "pronunciation": "あしふきまっと",
-        "flavorText": "腳踏墊",
+        "flavorText": "脚踏垫",
         "seq": 30003005,
         "gridSize": {
             "width": 2,
@@ -6223,9 +6223,9 @@
     {
         "id": 172,
         "mysekaiFixtureType": "normal",
-        "name": "手持吸塵器",
+        "name": "手持吸尘器",
         "pronunciation": "はんでぃそうじき",
-        "flavorText": "手持吸塵器",
+        "flavorText": "手持吸尘器",
         "seq": 30003006,
         "gridSize": {
             "width": 1,
@@ -6264,9 +6264,9 @@
     {
         "id": 173,
         "mysekaiFixtureType": "normal",
-        "name": "牙刷與杯子",
+        "name": "牙刷与杯子",
         "pronunciation": "はぶらしとこっぷ",
-        "flavorText": "牙刷與杯子",
+        "flavorText": "牙刷与杯子",
         "seq": 30003007,
         "gridSize": {
             "width": 1,
@@ -6305,9 +6305,9 @@
     {
         "id": 174,
         "mysekaiFixtureType": "normal",
-        "name": "吹風機",
+        "name": "吹风机",
         "pronunciation": "どらいやー",
-        "flavorText": "吹風機",
+        "flavorText": "吹风机",
         "seq": 30003008,
         "gridSize": {
             "width": 1,
@@ -6346,9 +6346,9 @@
     {
         "id": 175,
         "mysekaiFixtureType": "normal",
-        "name": "簡約花壇",
+        "name": "简约花坛",
         "pronunciation": "がーでんのそぼくなかだん",
-        "flavorText": "簡約花壇",
+        "flavorText": "简约花坛",
         "seq": 30004001,
         "gridSize": {
             "width": 2,
@@ -6387,9 +6387,9 @@
     {
         "id": 176,
         "mysekaiFixtureType": "normal",
-        "name": "花園遮陽桌",
+        "name": "花园遮阳桌",
         "pronunciation": "がーでんのぱらそるてーぶる",
-        "flavorText": "花園遮陽桌",
+        "flavorText": "花园遮阳桌",
         "seq": 30004002,
         "gridSize": {
             "width": 2,
@@ -6428,9 +6428,9 @@
     {
         "id": 177,
         "mysekaiFixtureType": "normal",
-        "name": "花園鐵椅",
+        "name": "花园铁椅",
         "pronunciation": "がーでんのあいあんちぇあ",
-        "flavorText": "花園鐵椅",
+        "flavorText": "花园铁椅",
         "seq": 30004003,
         "gridSize": {
             "width": 2,
@@ -6469,9 +6469,9 @@
     {
         "id": 178,
         "mysekaiFixtureType": "normal",
-        "name": "花園長椅",
+        "name": "花园长椅",
         "pronunciation": "がーでんのべんち",
-        "flavorText": "花園長椅",
+        "flavorText": "花园长椅",
         "seq": 30004004,
         "gridSize": {
             "width": 4,
@@ -6510,9 +6510,9 @@
     {
         "id": 179,
         "mysekaiFixtureType": "normal",
-        "name": "花園格子花盆架",
+        "name": "花园格子花盆架",
         "pronunciation": "がーでんのらてぃすぷらんたー",
-        "flavorText": "花園格子花盆架",
+        "flavorText": "花园格子花盆架",
         "seq": 30004005,
         "gridSize": {
             "width": 2,
@@ -6551,9 +6551,9 @@
     {
         "id": 180,
         "mysekaiFixtureType": "normal",
-        "name": "花園踏梯",
+        "name": "花园踏梯",
         "pronunciation": "がーでんのすてっぷらだー",
-        "flavorText": "花園踏梯",
+        "flavorText": "花园踏梯",
         "seq": 30004006,
         "gridSize": {
             "width": 2,
@@ -6592,9 +6592,9 @@
     {
         "id": 181,
         "mysekaiFixtureType": "normal",
-        "name": "花園工具架",
+        "name": "花园工具架",
         "pronunciation": "がーでんつーるしぇるふ",
-        "flavorText": "花園工具架",
+        "flavorText": "花园工具架",
         "seq": 30004007,
         "gridSize": {
             "width": 3,
@@ -6633,9 +6633,9 @@
     {
         "id": 182,
         "mysekaiFixtureType": "normal",
-        "name": "園藝手推車",
+        "name": "园艺手推车",
         "pronunciation": "がーでんかーと",
-        "flavorText": "園藝手推車",
+        "flavorText": "园艺手推车",
         "seq": 30004008,
         "gridSize": {
             "width": 2,
@@ -6674,9 +6674,9 @@
     {
         "id": 183,
         "mysekaiFixtureType": "normal",
-        "name": "花園鋅製澆水壺",
+        "name": "花园锌制浇水壶",
         "pronunciation": "がーでんののぶりきじょうろ",
-        "flavorText": "花園鋅製澆水壺",
+        "flavorText": "花园锌制浇水壶",
         "seq": 30004009,
         "gridSize": {
             "width": 2,
@@ -6715,9 +6715,9 @@
     {
         "id": 184,
         "mysekaiFixtureType": "normal",
-        "name": "鞦韆",
+        "name": "秋千",
         "pronunciation": "ぶらんこ",
-        "flavorText": "鞦韆",
+        "flavorText": "秋千",
         "seq": 30005001,
         "gridSize": {
             "width": 8,
@@ -6789,9 +6789,9 @@
     {
         "id": 186,
         "mysekaiFixtureType": "normal",
-        "name": "熊造型彈簧遊具",
+        "name": "熊造型弹簧游具",
         "pronunciation": "くまのすぷりんぐゆうぐ",
-        "flavorText": "熊造型彈簧遊具",
+        "flavorText": "熊造型弹簧游具",
         "seq": 30005003,
         "gridSize": {
             "width": 2,
@@ -6879,9 +6879,9 @@
     {
         "id": 188,
         "mysekaiFixtureType": "normal",
-        "name": "蹺蹺板",
+        "name": "跷跷板",
         "pronunciation": "しーそー",
-        "flavorText": "蹺蹺板",
+        "flavorText": "跷跷板",
         "seq": 30005005,
         "gridSize": {
             "width": 6,
@@ -6916,9 +6916,9 @@
     {
         "id": 189,
         "mysekaiFixtureType": "normal",
-        "name": "公園長椅",
+        "name": "公园长椅",
         "pronunciation": "こうえんのべんち",
-        "flavorText": "公園長椅",
+        "flavorText": "公园长椅",
         "seq": 30005006,
         "gridSize": {
             "width": 4,
@@ -6957,9 +6957,9 @@
     {
         "id": 190,
         "mysekaiFixtureType": "normal",
-        "name": "公園時鐘",
+        "name": "公园时钟",
         "pronunciation": "こうえんのとけい",
-        "flavorText": "公園時鐘",
+        "flavorText": "公园时钟",
         "seq": 30005007,
         "gridSize": {
             "width": 1,
@@ -6998,9 +6998,9 @@
     {
         "id": 191,
         "mysekaiFixtureType": "normal",
-        "name": "公園噴泉",
+        "name": "公园喷泉",
         "pronunciation": "こうえんのふんすい",
-        "flavorText": "公園噴泉",
+        "flavorText": "公园喷泉",
         "seq": 30005008,
         "gridSize": {
             "width": 8,
@@ -7035,9 +7035,9 @@
     {
         "id": 192,
         "mysekaiFixtureType": "normal",
-        "name": "單槓",
+        "name": "单杠",
         "pronunciation": "てつぼう",
-        "flavorText": "單槓",
+        "flavorText": "单杠",
         "seq": 30005009,
         "gridSize": {
             "width": 6,
@@ -7072,9 +7072,9 @@
     {
         "id": 193,
         "mysekaiFixtureType": "normal",
-        "name": "公園輪胎",
+        "name": "公园轮胎",
         "pronunciation": "こうえんのたいや",
-        "flavorText": "公園輪胎",
+        "flavorText": "公园轮胎",
         "seq": 30005010,
         "gridSize": {
             "width": 2,
@@ -7125,9 +7125,9 @@
     {
         "id": 194,
         "mysekaiFixtureType": "normal",
-        "name": "旋轉攀爬架",
+        "name": "旋转攀爬架",
         "pronunciation": "かいてんじゃんぐるじむ",
-        "flavorText": "旋轉攀爬架",
+        "flavorText": "旋转攀爬架",
         "seq": 30005011,
         "gridSize": {
             "width": 6,
@@ -7162,9 +7162,9 @@
     {
         "id": 195,
         "mysekaiFixtureType": "normal",
-        "name": "經典路燈",
+        "name": "经典路灯",
         "pronunciation": "くらしっくながいとう",
-        "flavorText": "經典路燈",
+        "flavorText": "经典路灯",
         "seq": 30005012,
         "gridSize": {
             "width": 1,
@@ -7204,9 +7204,9 @@
     {
         "id": 196,
         "mysekaiFixtureType": "normal",
-        "name": "水桶與鏟子",
+        "name": "水桶与铲子",
         "pronunciation": "ばけつとすこっぷ",
-        "flavorText": "水桶與鏟子",
+        "flavorText": "水桶与铲子",
         "seq": 30005013,
         "gridSize": {
             "width": 1,
@@ -7278,9 +7278,9 @@
     {
         "id": 198,
         "mysekaiFixtureType": "system",
-        "name": "和風樸素的房屋",
+        "name": "和风朴素的房屋",
         "pronunciation": "わふうのそぼくないえ",
-        "flavorText": "和風樸素的房屋",
+        "flavorText": "和风朴素的房屋",
         "seq": 30006001,
         "gridSize": {
             "width": 12,
@@ -7320,9 +7320,9 @@
     {
         "id": 199,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "和風樸素的壁紙",
+        "name": "和风朴素的壁纸",
         "pronunciation": "わふうのそぼくなかべがみ",
-        "flavorText": "和風樸素的壁紙",
+        "flavorText": "和风朴素的壁纸",
         "seq": 30006002,
         "gridSize": {
             "width": 0,
@@ -7361,9 +7361,9 @@
     {
         "id": 200,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "和風樸素的榻榻米",
+        "name": "和风朴素的榻榻米",
         "pronunciation": "わふうのそぼくなたたみ",
-        "flavorText": "和風樸素的榻榻米",
+        "flavorText": "和风朴素的榻榻米",
         "seq": 30006003,
         "gridSize": {
             "width": 0,
@@ -7402,9 +7402,9 @@
     {
         "id": 201,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的窗戶",
+        "name": "和风朴素的窗户",
         "pronunciation": "わふうのそぼくなまど",
-        "flavorText": "和風樸素的窗戶",
+        "flavorText": "和风朴素的窗户",
         "seq": 30006004,
         "gridSize": {
             "width": 4,
@@ -7443,9 +7443,9 @@
     {
         "id": 202,
         "mysekaiFixtureType": "system",
-        "name": "和風樸素的梳妝台",
+        "name": "和风朴素的化妆台",
         "pronunciation": "わふうのそぼくなきょうだい",
-        "flavorText": "和風樸素的梳妝台",
+        "flavorText": "和风朴素的化妆台",
         "seq": 30006005,
         "gridSize": {
             "width": 3,
@@ -7485,9 +7485,9 @@
     {
         "id": 203,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的矮桌",
+        "name": "和风朴素的矮桌",
         "pronunciation": "わふうのそぼくなちゃぶだい",
-        "flavorText": "和風樸素的矮桌",
+        "flavorText": "和风朴素的矮桌",
         "seq": 30006006,
         "gridSize": {
             "width": 2,
@@ -7526,9 +7526,9 @@
     {
         "id": 204,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的床墊",
+        "name": "和风朴素的床垫",
         "pronunciation": "わふうのそぼくなふとん",
-        "flavorText": "和風樸素的床墊",
+        "flavorText": "和风朴素的床垫",
         "seq": 30006007,
         "gridSize": {
             "width": 4,
@@ -7567,9 +7567,9 @@
     {
         "id": 205,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的電視",
+        "name": "和风朴素的电视",
         "pronunciation": "わふうのそぼくなてれび",
-        "flavorText": "和風樸素的電視",
+        "flavorText": "和风朴素的电视",
         "seq": 30006008,
         "gridSize": {
             "width": 2,
@@ -7608,9 +7608,9 @@
     {
         "id": 206,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的櫥櫃",
+        "name": "和风朴素的橱柜",
         "pronunciation": "わふうのそぼくなとだな",
-        "flavorText": "和風樸素的櫥櫃",
+        "flavorText": "和风朴素的橱柜",
         "seq": 30006009,
         "gridSize": {
             "width": 3,
@@ -7649,9 +7649,9 @@
     {
         "id": 207,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的掛軸",
+        "name": "和风朴素的挂轴",
         "pronunciation": "わふうのそぼくなかけじく",
-        "flavorText": "和風樸素的掛軸",
+        "flavorText": "和风朴素的挂轴",
         "seq": 30006010,
         "gridSize": {
             "width": 2,
@@ -7690,9 +7690,9 @@
     {
         "id": 208,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的壁掛古鐘",
+        "name": "和风朴素的壁挂古钟",
         "pronunciation": "わふうのそぼくなかべかけふるどけい",
-        "flavorText": "和風樸素的壁掛古鐘",
+        "flavorText": "和风朴素的壁挂古钟",
         "seq": 30006011,
         "gridSize": {
             "width": 2,
@@ -7731,9 +7731,9 @@
     {
         "id": 209,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的水壺",
+        "name": "和风朴素的水壶",
         "pronunciation": "わふうのそぼくなやかん",
-        "flavorText": "和風樸素的水壺",
+        "flavorText": "和风朴素的水壶",
         "seq": 30006012,
         "gridSize": {
             "width": 1,
@@ -7772,9 +7772,9 @@
     {
         "id": 210,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的茶壺",
+        "name": "和风朴素的茶壶",
         "pronunciation": "わふうのそぼくなきゅうす",
-        "flavorText": "和風樸素的茶壺",
+        "flavorText": "和风朴素的茶壶",
         "seq": 30006013,
         "gridSize": {
             "width": 1,
@@ -7813,9 +7813,9 @@
     {
         "id": 211,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的黑電話",
+        "name": "和风朴素的黑电话",
         "pronunciation": "わふうのそぼくなくろでんわ",
-        "flavorText": "和風樸素的黑電話",
+        "flavorText": "和风朴素的黑电话",
         "seq": 30006014,
         "gridSize": {
             "width": 1,
@@ -7854,9 +7854,9 @@
     {
         "id": 212,
         "mysekaiFixtureType": "normal",
-        "name": "和風樸素的招財貓",
+        "name": "和风朴素的招财猫",
         "pronunciation": "わふうのそぼくなまねきねこ",
-        "flavorText": "和風樸素的招財貓",
+        "flavorText": "和风朴素的招财猫",
         "seq": 30006015,
         "gridSize": {
             "width": 1,
@@ -7895,9 +7895,9 @@
     {
         "id": 213,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "兒童房的壁紙",
+        "name": "儿童房的壁纸",
         "pronunciation": "きっずるーむのかべがみ",
-        "flavorText": "兒童房的壁紙",
+        "flavorText": "儿童房的壁纸",
         "seq": 30007001,
         "gridSize": {
             "width": 0,
@@ -7936,9 +7936,9 @@
     {
         "id": 214,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "兒童房的地板",
+        "name": "儿童房的地板",
         "pronunciation": "きっずるーむのゆか",
-        "flavorText": "兒童房的地板",
+        "flavorText": "儿童房的地板",
         "seq": 30007002,
         "gridSize": {
             "width": 0,
@@ -7977,9 +7977,9 @@
     {
         "id": 215,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的熊熊窗戶",
+        "name": "儿童房的熊熊窗户",
         "pronunciation": "きっずるーむのくまさんまど",
-        "flavorText": "兒童房的熊熊窗戶",
+        "flavorText": "儿童房的熊熊窗户",
         "seq": 30007003,
         "gridSize": {
             "width": 4,
@@ -8018,9 +8018,9 @@
     {
         "id": 216,
         "mysekaiFixtureType": "system",
-        "name": "兒童房的彩色抽屜櫃",
+        "name": "儿童房的彩色抽屉柜",
         "pronunciation": "きっずるーむのからふるちぇすと",
-        "flavorText": "兒童房的彩色抽屜櫃",
+        "flavorText": "儿童房的彩色抽屉柜",
         "seq": 30007004,
         "gridSize": {
             "width": 2,
@@ -8060,9 +8060,9 @@
     {
         "id": 217,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的熊熊床",
+        "name": "儿童房的熊熊床",
         "pronunciation": "きっずるーむのくまさんべっど",
-        "flavorText": "兒童房的熊熊床",
+        "flavorText": "儿童房的熊熊床",
         "seq": 30007005,
         "gridSize": {
             "width": 4,
@@ -8101,9 +8101,9 @@
     {
         "id": 218,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的桌子",
+        "name": "儿童房的桌子",
         "pronunciation": "きっずるーむのてーぶる",
-        "flavorText": "兒童房的桌子",
+        "flavorText": "儿童房的桌子",
         "seq": 30007006,
         "gridSize": {
             "width": 3,
@@ -8142,9 +8142,9 @@
     {
         "id": 219,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的椅子",
+        "name": "儿童房的椅子",
         "pronunciation": "きっずるーむのちぇあ",
-        "flavorText": "兒童房的椅子",
+        "flavorText": "儿童房的椅子",
         "seq": 30007007,
         "gridSize": {
             "width": 2,
@@ -8183,9 +8183,9 @@
     {
         "id": 220,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的繪本書架",
+        "name": "儿童房的绘本书架",
         "pronunciation": "きっずるーむのえほんだな",
-        "flavorText": "兒童房的繪本書架",
+        "flavorText": "儿童房的绘本书架",
         "seq": 30007008,
         "gridSize": {
             "width": 2,
@@ -8224,9 +8224,9 @@
     {
         "id": 221,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的玩具箱",
+        "name": "儿童房的玩具箱",
         "pronunciation": "きっずるーむのおもちゃばこ",
-        "flavorText": "兒童房的玩具箱",
+        "flavorText": "儿童房的玩具箱",
         "seq": 30007009,
         "gridSize": {
             "width": 2,
@@ -8265,9 +8265,9 @@
     {
         "id": 222,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的木馬",
+        "name": "儿童房的木马",
         "pronunciation": "きっずるーむのもくば",
-        "flavorText": "兒童房的木馬",
+        "flavorText": "儿童房的木马",
         "seq": 30007010,
         "gridSize": {
             "width": 2,
@@ -8306,9 +8306,9 @@
     {
         "id": 223,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的火車玩具",
+        "name": "儿童房的火车玩具",
         "pronunciation": "きっずるーむのきしゃのおもちゃ",
-        "flavorText": "兒童房的火車玩具",
+        "flavorText": "儿童房的火车玩具",
         "seq": 30007011,
         "gridSize": {
             "width": 3,
@@ -8347,9 +8347,9 @@
     {
         "id": 224,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的畫",
+        "name": "儿童房的画",
         "pronunciation": "きっずるーむのえ",
-        "flavorText": "兒童房的畫",
+        "flavorText": "儿童房的画",
         "seq": 30007012,
         "gridSize": {
             "width": 3,
@@ -8388,9 +8388,9 @@
     {
         "id": 225,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的迷你車",
+        "name": "儿童房的迷你车",
         "pronunciation": "きっずるーむのみにかー",
-        "flavorText": "兒童房的迷你車",
+        "flavorText": "儿童房的迷你车",
         "seq": 30007013,
         "gridSize": {
             "width": 1,
@@ -8429,9 +8429,9 @@
     {
         "id": 226,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的大象玩偶",
+        "name": "儿童房的大象玩偶",
         "pronunciation": "きっずるーむのぞうのぬいぐるみ",
-        "flavorText": "兒童房的大象玩偶",
+        "flavorText": "儿童房的大象玩偶",
         "seq": 30007014,
         "gridSize": {
             "width": 1,
@@ -8470,9 +8470,9 @@
     {
         "id": 227,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的驚喜箱",
+        "name": "儿童房的惊喜箱",
         "pronunciation": "きっずるーむのびっくりばこ",
-        "flavorText": "兒童房的驚喜箱",
+        "flavorText": "儿童房的惊喜箱",
         "seq": 30007015,
         "gridSize": {
             "width": 1,
@@ -8511,9 +8511,9 @@
     {
         "id": 228,
         "mysekaiFixtureType": "normal",
-        "name": "兒童房的積木",
+        "name": "儿童房的积木",
         "pronunciation": "きっずるーむのつみき",
-        "flavorText": "兒童房的積木",
+        "flavorText": "儿童房的积木",
         "seq": 30007016,
         "gridSize": {
             "width": 1,
@@ -8552,9 +8552,9 @@
     {
         "id": 229,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "休閒風格的壁紙",
+        "name": "休闲风格的壁纸",
         "pronunciation": "かじゅあるなかべがみ",
-        "flavorText": "休閒風格的壁紙",
+        "flavorText": "休闲风格的壁纸",
         "seq": 30008001,
         "gridSize": {
             "width": 0,
@@ -8593,9 +8593,9 @@
     {
         "id": 230,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "休閒風格的地板",
+        "name": "休闲风格的地板",
         "pronunciation": "かじゅあるなゆか",
-        "flavorText": "休閒風格的地板",
+        "flavorText": "休闲风格的地板",
         "seq": 30008002,
         "gridSize": {
             "width": 0,
@@ -8635,9 +8635,9 @@
     {
         "id": 231,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的窗戶",
+        "name": "休闲风格的窗户",
         "pronunciation": "かじゅあるなまど",
-        "flavorText": "休閒風格的窗戶",
+        "flavorText": "休闲风格的窗户",
         "seq": 30008003,
         "gridSize": {
             "width": 4,
@@ -8676,9 +8676,9 @@
     {
         "id": 232,
         "mysekaiFixtureType": "system",
-        "name": "休閒風格的抽屜櫃",
+        "name": "休闲风格的抽屉柜",
         "pronunciation": "かじゅあるなちぇすと",
-        "flavorText": "休閒風格的抽屜櫃",
+        "flavorText": "休闲风格的抽屉柜",
         "seq": 30008004,
         "gridSize": {
             "width": 2,
@@ -8708,9 +8708,9 @@
     {
         "id": 233,
         "mysekaiFixtureType": "system",
-        "name": "休閒風格的化妝鏡",
+        "name": "休闲风格的化妆镜",
         "pronunciation": "かじゅあるなたくじょうかがみ",
-        "flavorText": "休閒風格的化妝鏡",
+        "flavorText": "休闲风格的化妆镜",
         "seq": 30008005,
         "gridSize": {
             "width": 1,
@@ -8745,9 +8745,9 @@
     {
         "id": 234,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的床",
+        "name": "休闲风格的床",
         "pronunciation": "かじゅあるなべっど",
-        "flavorText": "休閒風格的床",
+        "flavorText": "休闲风格的床",
         "seq": 30008006,
         "gridSize": {
             "width": 4,
@@ -8786,9 +8786,9 @@
     {
         "id": 235,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的書桌",
+        "name": "休闲风格的书桌",
         "pronunciation": "かじゅあるながくしゅうづくえ",
-        "flavorText": "休閒風格的書桌",
+        "flavorText": "休闲风格的书桌",
         "seq": 30008007,
         "gridSize": {
             "width": 4,
@@ -8827,9 +8827,9 @@
     {
         "id": 236,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的書椅",
+        "name": "休闲风格的书椅",
         "pronunciation": "かじゅあるながくしゅういす",
-        "flavorText": "休閒風格的書椅",
+        "flavorText": "休闲风格的书椅",
         "seq": 30008008,
         "gridSize": {
             "width": 2,
@@ -8868,9 +8868,9 @@
     {
         "id": 237,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的書櫃",
+        "name": "休闲风格的书柜",
         "pronunciation": "かじゅあるなほんだな",
-        "flavorText": "休閒風格的書櫃",
+        "flavorText": "休闲风格的书柜",
         "seq": 30008009,
         "gridSize": {
             "width": 2,
@@ -8899,9 +8899,9 @@
     {
         "id": 238,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的棋盤格地毯",
+        "name": "休闲风格的棋盘格地毯",
         "pronunciation": "かじゅあるなちぇっかーがららぐ",
-        "flavorText": "休閒風格的棋盤格地毯",
+        "flavorText": "休闲风格的棋盘格地毯",
         "seq": 30008010,
         "gridSize": {
             "width": 8,
@@ -8931,9 +8931,9 @@
     {
         "id": 239,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的海報",
+        "name": "休闲风格的海报",
         "pronunciation": "かじゅあるなぽすたー",
-        "flavorText": "休閒風格的海報",
+        "flavorText": "休闲风格的海报",
         "seq": 30008011,
         "gridSize": {
             "width": 2,
@@ -8962,9 +8962,9 @@
     {
         "id": 240,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的背包",
+        "name": "休闲风格的背包",
         "pronunciation": "かじゅあるなりゅっく",
-        "flavorText": "休閒風格的背包",
+        "flavorText": "休闲风格的背包",
         "seq": 30008012,
         "gridSize": {
             "width": 1,
@@ -8993,9 +8993,9 @@
     {
         "id": 241,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的檯燈",
+        "name": "休闲风格的台灯",
         "pronunciation": "かじゅあるなですくらいと",
-        "flavorText": "休閒風格的檯燈",
+        "flavorText": "休闲风格的台灯",
         "seq": 30008013,
         "gridSize": {
             "width": 1,
@@ -9035,9 +9035,9 @@
     {
         "id": 242,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的漫畫書",
+        "name": "休闲风格的漫画书",
         "pronunciation": "かじゅあるなよみかけのまんが",
-        "flavorText": "休閒風格的漫畫書",
+        "flavorText": "休闲风格的漫画书",
         "seq": 30008014,
         "gridSize": {
             "width": 2,
@@ -9066,9 +9066,9 @@
     {
         "id": 243,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的掌上遊戲機",
+        "name": "休闲风格的掌上游戏机",
         "pronunciation": "かじゅあるなけいたいげーむき",
-        "flavorText": "休閒風格的掌上遊戲機",
+        "flavorText": "休闲风格的掌上游戏机",
         "seq": 30008015,
         "gridSize": {
             "width": 1,
@@ -9107,9 +9107,9 @@
     {
         "id": 244,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的遙控車",
+        "name": "休闲风格的遥控车",
         "pronunciation": "かじゅあるなあーるしーかー",
-        "flavorText": "休閒風格的遙控車",
+        "flavorText": "休闲风格的遥控车",
         "seq": 30008016,
         "gridSize": {
             "width": 2,
@@ -9148,9 +9148,9 @@
     {
         "id": 245,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的鬧鐘",
+        "name": "休闲风格的闹钟",
         "pronunciation": "かじゅあるなめざましどけい",
-        "flavorText": "休閒風格的鬧鐘",
+        "flavorText": "休闲风格的闹钟",
         "seq": 30008017,
         "gridSize": {
             "width": 1,
@@ -9189,9 +9189,9 @@
     {
         "id": 246,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的比格犬玩偶",
+        "name": "休闲风格的比格犬玩偶",
         "pronunciation": "かじゅあるなびーぐるけんのぬいぐるみ",
-        "flavorText": "休閒風格的比格犬玩偶",
+        "flavorText": "休闲风格的比格犬玩偶",
         "seq": 30008018,
         "gridSize": {
             "width": 1,
@@ -9220,9 +9220,9 @@
     {
         "id": 247,
         "mysekaiFixtureType": "normal",
-        "name": "休閒風格的衣架",
+        "name": "休闲风格的衣架",
         "pronunciation": "かじゅあるなはんがーらっく",
-        "flavorText": "休閒風格的衣架",
+        "flavorText": "休闲风格的衣架",
         "seq": 30008019,
         "gridSize": {
             "width": 3,
@@ -9261,9 +9261,9 @@
     {
         "id": 248,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "可愛風格的壁紙",
+        "name": "可爱风格的壁纸",
         "pronunciation": "きゅーとなかべがみ",
-        "flavorText": "可愛風格的壁紙",
+        "flavorText": "可爱风格的壁纸",
         "seq": 30009001,
         "gridSize": {
             "width": 0,
@@ -9302,9 +9302,9 @@
     {
         "id": 249,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "可愛風格的地板",
+        "name": "可爱风格的地板",
         "pronunciation": "きゅーとなゆか",
-        "flavorText": "可愛風格的地板",
+        "flavorText": "可爱风格的地板",
         "seq": 30009002,
         "gridSize": {
             "width": 0,
@@ -9333,9 +9333,9 @@
     {
         "id": 250,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的窗戶",
+        "name": "可爱风格的窗戶",
         "pronunciation": "きゅーとなまど",
-        "flavorText": "可愛風格的窗戶",
+        "flavorText": "可爱风格的窗戶",
         "seq": 30009003,
         "gridSize": {
             "width": 2,
@@ -9374,9 +9374,9 @@
     {
         "id": 251,
         "mysekaiFixtureType": "system",
-        "name": "可愛風格的抽屜櫃",
+        "name": "可爱风格的抽屉柜",
         "pronunciation": "きゅーとなちぇすと",
-        "flavorText": "可愛風格的抽屜櫃",
+        "flavorText": "可爱风格的抽屉柜",
         "seq": 30009004,
         "gridSize": {
             "width": 2,
@@ -9416,9 +9416,9 @@
     {
         "id": 252,
         "mysekaiFixtureType": "system",
-        "name": "可愛風格的化妝桌",
+        "name": "可爱风格的化妝桌",
         "pronunciation": "きゅーとなどれっさー",
-        "flavorText": "可愛風格的化妝桌",
+        "flavorText": "可爱风格的化妝桌",
         "seq": 30009005,
         "gridSize": {
             "width": 2,
@@ -9458,9 +9458,9 @@
     {
         "id": 253,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的床",
+        "name": "可爱风格的床",
         "pronunciation": "きゅーとなべっど",
-        "flavorText": "可愛風格的床",
+        "flavorText": "可爱风格的床",
         "seq": 30009006,
         "gridSize": {
             "width": 4,
@@ -9499,9 +9499,9 @@
     {
         "id": 254,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的矮桌",
+        "name": "可爱风格的矮桌",
         "pronunciation": "きゅーとなろーてーぶる",
-        "flavorText": "可愛風格的矮桌",
+        "flavorText": "可爱风格的矮桌",
         "seq": 30009007,
         "gridSize": {
             "width": 2,
@@ -9540,9 +9540,9 @@
     {
         "id": 255,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的抱枕",
+        "name": "可爱风格的抱枕",
         "pronunciation": "きゅーとなくっしょん",
-        "flavorText": "可愛風格的抱枕",
+        "flavorText": "可爱风格的抱枕",
         "seq": 30009008,
         "gridSize": {
             "width": 2,
@@ -9581,9 +9581,9 @@
     {
         "id": 256,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的衣櫃",
+        "name": "可爱风格的衣柜",
         "pronunciation": "きゅーとなわーどろーぶ",
-        "flavorText": "可愛風格的衣櫃",
+        "flavorText": "可爱风格的衣柜",
         "seq": 30009009,
         "gridSize": {
             "width": 3,
@@ -9622,9 +9622,9 @@
     {
         "id": 257,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的立燈",
+        "name": "可爱风格的落地灯",
         "pronunciation": "きゅーとなふろあらいと",
-        "flavorText": "可愛風格的立燈",
+        "flavorText": "可爱风格的落地灯",
         "seq": 30009010,
         "gridSize": {
             "width": 2,
@@ -9664,9 +9664,9 @@
     {
         "id": 258,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的地毯",
+        "name": "可爱风格的地毯",
         "pronunciation": "きゅーとならぐ",
-        "flavorText": "可愛風格的地毯",
+        "flavorText": "可爱风格的地毯",
         "seq": 30009011,
         "gridSize": {
             "width": 8,
@@ -9706,9 +9706,9 @@
     {
         "id": 259,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的蝴蝶結椅",
+        "name": "可爱风格的蝴蝶结椅",
         "pronunciation": "きゅーとなりぼんちぇあ",
-        "flavorText": "可愛風格的蝴蝶結椅",
+        "flavorText": "可爱风格的蝴蝶结椅",
         "seq": 30009012,
         "gridSize": {
             "width": 2,
@@ -9747,9 +9747,9 @@
     {
         "id": 260,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的壁掛時鐘",
+        "name": "可爱风格的壁挂时钟",
         "pronunciation": "きゅーとなかべかけどけい",
-        "flavorText": "可愛風格的壁掛時鐘",
+        "flavorText": "可爱风格的壁挂时钟",
         "seq": 30009013,
         "gridSize": {
             "width": 2,
@@ -9788,9 +9788,9 @@
     {
         "id": 261,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的牆架",
+        "name": "可爱风格的墙架",
         "pronunciation": "きゅーとなうぉーるしぇるふ",
-        "flavorText": "可愛風格的牆架",
+        "flavorText": "可爱风格的墙架",
         "seq": 30009014,
         "gridSize": {
             "width": 2,
@@ -9829,9 +9829,9 @@
     {
         "id": 262,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的兔子玩偶",
+        "name": "可爱风格的兔子玩偶",
         "pronunciation": "きゅーとなうさぎのぬいぐるみ",
-        "flavorText": "可愛風格的兔子玩偶",
+        "flavorText": "可爱风格的兔子玩偶",
         "seq": 30009015,
         "gridSize": {
             "width": 1,
@@ -9870,9 +9870,9 @@
     {
         "id": 263,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的化妝盒",
+        "name": "可爱风格的化妆盒",
         "pronunciation": "きゅーとなめいくぼっくす",
-        "flavorText": "可愛風格的化妝盒",
+        "flavorText": "可爱风格的化妆盒",
         "seq": 30009016,
         "gridSize": {
             "width": 1,
@@ -9911,9 +9911,9 @@
     {
         "id": 264,
         "mysekaiFixtureType": "normal",
-        "name": "可愛風格的香水",
+        "name": "可爱风格的香水",
         "pronunciation": "きゅーとなこうすい",
-        "flavorText": "可愛風格的香水",
+        "flavorText": "可爱风格的香水",
         "seq": 30009017,
         "gridSize": {
             "width": 1,
@@ -9952,9 +9952,9 @@
     {
         "id": 265,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "法式風格的壁紙",
+        "name": "法式风格的壁纸",
         "pronunciation": "ふらんちすたいるのかべがみ",
-        "flavorText": "法式風格的壁紙",
+        "flavorText": "法式风格的壁纸",
         "seq": 30010001,
         "gridSize": {
             "width": 0,
@@ -9993,9 +9993,9 @@
     {
         "id": 266,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "法式風格的地板",
+        "name": "法式风格的地板",
         "pronunciation": "ふらんちすたいるのゆか",
-        "flavorText": "法式風格的地板",
+        "flavorText": "法式风格的地板",
         "seq": 30010002,
         "gridSize": {
             "width": 0,
@@ -10034,9 +10034,9 @@
     {
         "id": 267,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的窗戶",
+        "name": "法式风格的窗戶",
         "pronunciation": "ふらんちすたいるのまど",
-        "flavorText": "法式風格的窗戶",
+        "flavorText": "法式风格的窗戶",
         "seq": 30010003,
         "gridSize": {
             "width": 4,
@@ -10075,9 +10075,9 @@
     {
         "id": 268,
         "mysekaiFixtureType": "system",
-        "name": "法式風格的抽屜櫃",
+        "name": "法式风格的抽屉柜",
         "pronunciation": "ふらんちすたいるのちぇすと",
-        "flavorText": "法式風格的抽屜櫃",
+        "flavorText": "法式风格的抽屉柜",
         "seq": 30010004,
         "gridSize": {
             "width": 2,
@@ -10117,9 +10117,9 @@
     {
         "id": 269,
         "mysekaiFixtureType": "system",
-        "name": "法式風格的全身鏡",
+        "name": "法式风格的落地镜",
         "pronunciation": "ふらんちすたいるのすがたみ",
-        "flavorText": "法式風格的全身鏡",
+        "flavorText": "法式风格的落地镜",
         "seq": 30010005,
         "gridSize": {
             "width": 2,
@@ -10159,9 +10159,9 @@
     {
         "id": 270,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的床",
+        "name": "法式风格的床",
         "pronunciation": "ふらんちすたいるのべっど",
-        "flavorText": "法式風格的床",
+        "flavorText": "法式风格的床",
         "seq": 30010006,
         "gridSize": {
             "width": 4,
@@ -10200,9 +10200,9 @@
     {
         "id": 271,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的圓桌",
+        "name": "法式风格的圆桌",
         "pronunciation": "ふらんちすたいるのらうんどてーぶる",
-        "flavorText": "法式風格的圓桌",
+        "flavorText": "法式风格的圆桌",
         "seq": 30010007,
         "gridSize": {
             "width": 4,
@@ -10241,9 +10241,9 @@
     {
         "id": 272,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的沙發",
+        "name": "法式风格的沙发",
         "pronunciation": "ふらんちすたいるのそふぁ",
-        "flavorText": "法式風格的沙發",
+        "flavorText": "法式风格的沙发",
         "seq": 30010008,
         "gridSize": {
             "width": 4,
@@ -10282,9 +10282,9 @@
     {
         "id": 273,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的書架",
+        "name": "法式风格的书架",
         "pronunciation": "ふらんちすたいるのほんだな",
-        "flavorText": "法式風格的書架",
+        "flavorText": "法式风格的书架",
         "seq": 30010009,
         "gridSize": {
             "width": 3,
@@ -10323,9 +10323,9 @@
     {
         "id": 274,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的檯燈",
+        "name": "法式风格的台灯",
         "pronunciation": "ふらんちすたいるのてーぶるらいと",
-        "flavorText": "法式風格的檯燈",
+        "flavorText": "法式风格的台灯",
         "seq": 30010010,
         "gridSize": {
             "width": 1,
@@ -10365,9 +10365,9 @@
     {
         "id": 275,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的架子",
+        "name": "法式风格的架子",
         "pronunciation": "ふらんちすたいるのしぇるふ",
-        "flavorText": "法式風格的架子",
+        "flavorText": "法式风格的架子",
         "seq": 30010011,
         "gridSize": {
             "width": 2,
@@ -10406,9 +10406,9 @@
     {
         "id": 276,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的衣架",
+        "name": "法式风格的衣架",
         "pronunciation": "ふらんちすたいるのぽーるはんがー",
-        "flavorText": "法式風格的衣架",
+        "flavorText": "法式风格的衣架",
         "seq": 30010012,
         "gridSize": {
             "width": 2,
@@ -10447,9 +10447,9 @@
     {
         "id": 277,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的愛心地毯",
+        "name": "法式风格的愛心地毯",
         "pronunciation": "ふらんちすたいるのはーとらぐ",
-        "flavorText": "法式風格的愛心地毯",
+        "flavorText": "法式风格的愛心地毯",
         "seq": 30010013,
         "gridSize": {
             "width": 8,
@@ -10489,9 +10489,9 @@
     {
         "id": 278,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的壁掛時鐘",
+        "name": "法式风格的壁挂时钟",
         "pronunciation": "ふらんちすたいるのかべかけとけい",
-        "flavorText": "法式風格的壁掛時鐘",
+        "flavorText": "法式风格的壁挂时钟",
         "seq": 30010014,
         "gridSize": {
             "width": 2,
@@ -10530,9 +10530,9 @@
     {
         "id": 279,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的貓咪藝術品",
+        "name": "法式风格的猫咪艺术品",
         "pronunciation": "ふらんちすたいるのねこのあーと",
-        "flavorText": "法式風格的貓咪藝術品",
+        "flavorText": "法式风格的猫咪艺术品",
         "seq": 30010015,
         "gridSize": {
             "width": 2,
@@ -10571,9 +10571,9 @@
     {
         "id": 280,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的時尚雜誌",
+        "name": "法式风格的时尚杂志",
         "pronunciation": "ふらんちすたいるのふぁっしょんし",
-        "flavorText": "法式風格的時尚雜誌",
+        "flavorText": "法式风格的时尚杂志",
         "seq": 30010016,
         "gridSize": {
             "width": 2,
@@ -10602,9 +10602,9 @@
     {
         "id": 281,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的花瓶",
+        "name": "法式风格的花瓶",
         "pronunciation": "ふらんちすたいるのふらわーべーす",
-        "flavorText": "法式風格的花瓶",
+        "flavorText": "法式风格的花瓶",
         "seq": 30010017,
         "gridSize": {
             "width": 1,
@@ -10643,9 +10643,9 @@
     {
         "id": 282,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的香氛蠟燭",
+        "name": "法式风格的香氛蜡烛",
         "pronunciation": "ふらんちすたいるのあろまきゃんどる",
-        "flavorText": "法式風格的香氛蠟燭",
+        "flavorText": "法式风格的香氛蜡烛",
         "seq": 30010018,
         "gridSize": {
             "width": 1,
@@ -10684,9 +10684,9 @@
     {
         "id": 283,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的熊玩偶",
+        "name": "法式风格的熊玩偶",
         "pronunciation": "ふらんちすたいるのくまのぬいぐるみ",
-        "flavorText": "法式風格的熊玩偶",
+        "flavorText": "法式风格的熊玩偶",
         "seq": 30010019,
         "gridSize": {
             "width": 2,
@@ -10725,9 +10725,9 @@
     {
         "id": 284,
         "mysekaiFixtureType": "normal",
-        "name": "法式風格的茶具組",
+        "name": "法式风格的茶具组",
         "pronunciation": "ふらんちすたいるのてぃーせっと",
-        "flavorText": "法式風格的茶具組",
+        "flavorText": "法式风格的茶具组",
         "seq": 30010020,
         "gridSize": {
             "width": 2,
@@ -10766,9 +10766,9 @@
     {
         "id": 285,
         "mysekaiFixtureType": "normal",
-        "name": "飲水機",
+        "name": "饮水机",
         "pronunciation": "うぉーたーさーばー",
-        "flavorText": "飲水機",
+        "flavorText": "饮水机",
         "seq": 30012001,
         "gridSize": {
             "width": 1,
@@ -10811,9 +10811,9 @@
     {
         "id": 286,
         "mysekaiFixtureType": "normal",
-        "name": "瑜伽墊",
+        "name": "瑜伽垫",
         "pronunciation": "よがまっと",
-        "flavorText": "瑜伽墊",
+        "flavorText": "瑜伽垫",
         "seq": 30012002,
         "gridSize": {
             "width": 5,
@@ -10853,9 +10853,9 @@
     {
         "id": 287,
         "mysekaiFixtureType": "normal",
-        "name": "腹肌滾輪",
+        "name": "腹肌滚轮",
         "pronunciation": "ふっきんろーらー",
-        "flavorText": "腹肌滾輪",
+        "flavorText": "腹肌滚轮",
         "seq": 30012003,
         "gridSize": {
             "width": 2,
@@ -10935,9 +10935,9 @@
     {
         "id": 289,
         "mysekaiFixtureType": "normal",
-        "name": "空調",
+        "name": "空调",
         "pronunciation": "えあこん",
-        "flavorText": "空調",
+        "flavorText": "空调",
         "seq": 30012005,
         "gridSize": {
             "width": 4,
@@ -10980,9 +10980,9 @@
     {
         "id": 290,
         "mysekaiFixtureType": "normal",
-        "name": "健身房的鏡子",
+        "name": "健身房的镜子",
         "pronunciation": "とれーにんぐるーむのかがみ",
-        "flavorText": "健身房的鏡子",
+        "flavorText": "健身房的镜子",
         "seq": 30012006,
         "gridSize": {
             "width": 4,
@@ -11025,9 +11025,9 @@
     {
         "id": 291,
         "mysekaiFixtureType": "normal",
-        "name": "跑步機",
+        "name": "跑步机",
         "pronunciation": "らんにんぐましん",
-        "flavorText": "跑步機",
+        "flavorText": "跑步机",
         "seq": 30012007,
         "gridSize": {
             "width": 2,
@@ -11066,9 +11066,9 @@
     {
         "id": 292,
         "mysekaiFixtureType": "normal",
-        "name": "雙人跑步機",
+        "name": "双人跑步机",
         "pronunciation": "ふたりようらんにんぐましん",
-        "flavorText": "雙人跑步機",
+        "flavorText": "双人跑步机",
         "seq": 30012008,
         "gridSize": {
             "width": 6,
@@ -11107,9 +11107,9 @@
     {
         "id": 293,
         "mysekaiFixtureType": "normal",
-        "name": "健身單車",
+        "name": "健身自行车",
         "pronunciation": "ふぃっとねすばいく",
-        "flavorText": "健身單車",
+        "flavorText": "健身自行车",
         "seq": 30012009,
         "gridSize": {
             "width": 2,
@@ -11148,9 +11148,9 @@
     {
         "id": 294,
         "mysekaiFixtureType": "normal",
-        "name": "啞鈴",
+        "name": "哑铃",
         "pronunciation": "だんべる",
-        "flavorText": "啞鈴",
+        "flavorText": "哑铃",
         "seq": 30012010,
         "gridSize": {
             "width": 2,
@@ -11189,9 +11189,9 @@
     {
         "id": 295,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "錄音室的壁紙",
+        "name": "录音室的壁纸",
         "pronunciation": "すたじおのかべがみ",
-        "flavorText": "錄音室的壁紙",
+        "flavorText": "录音室的壁纸",
         "seq": 30014001,
         "gridSize": {
             "width": 0,
@@ -11230,9 +11230,9 @@
     {
         "id": 296,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "錄音室的地板",
+        "name": "录音室的地板",
         "pronunciation": "すたじおのゆか",
-        "flavorText": "錄音室的地板",
+        "flavorText": "录音室的地板",
         "seq": 30014002,
         "gridSize": {
             "width": 0,
@@ -11325,9 +11325,9 @@
     {
         "id": 298,
         "mysekaiFixtureType": "normal",
-        "name": "電吉他",
+        "name": "电吉他",
         "pronunciation": "えれきぎたー",
-        "flavorText": "電吉他",
+        "flavorText": "电吉他",
         "seq": 30014004,
         "gridSize": {
             "width": 2,
@@ -11379,9 +11379,9 @@
     {
         "id": 299,
         "mysekaiFixtureType": "normal",
-        "name": "電貝斯",
+        "name": "电貝斯",
         "pronunciation": "えれきべーす",
-        "flavorText": "電貝斯",
+        "flavorText": "电貝斯",
         "seq": 30014005,
         "gridSize": {
             "width": 2,
@@ -11433,9 +11433,9 @@
     {
         "id": 300,
         "mysekaiFixtureType": "normal",
-        "name": "鼓組",
+        "name": "鼓组",
         "pronunciation": "どらむせっと",
-        "flavorText": "鼓組",
+        "flavorText": "鼓组",
         "seq": 30014006,
         "gridSize": {
             "width": 5,
@@ -11519,9 +11519,9 @@
     {
         "id": 302,
         "mysekaiFixtureType": "normal",
-        "name": "耳機",
+        "name": "耳机",
         "pronunciation": "へっどほん",
-        "flavorText": "耳機",
+        "flavorText": "耳机",
         "seq": 30014008,
         "gridSize": {
             "width": 2,
@@ -11572,9 +11572,9 @@
     {
         "id": 303,
         "mysekaiFixtureType": "normal",
-        "name": "立麥",
+        "name": "立麦",
         "pronunciation": "すたんどまいく",
-        "flavorText": "立麥",
+        "flavorText": "立麦",
         "seq": 30014009,
         "gridSize": {
             "width": 1,
@@ -11604,9 +11604,9 @@
     {
         "id": 304,
         "mysekaiFixtureType": "normal",
-        "name": "堆積的CD",
+        "name": "堆积的CD",
         "pronunciation": "やまづみのしーでぃ",
-        "flavorText": "堆積的CD",
+        "flavorText": "堆积的CD",
         "seq": 30014010,
         "gridSize": {
             "width": 1,
@@ -11645,9 +11645,9 @@
     {
         "id": 305,
         "mysekaiFixtureType": "normal",
-        "name": "折疊會議桌",
+        "name": "折叠会议桌",
         "pronunciation": "おりたたみかいぎてーぶる",
-        "flavorText": "折疊會議桌",
+        "flavorText": "折叠会议桌",
         "seq": 30015001,
         "gridSize": {
             "width": 4,
@@ -11719,9 +11719,9 @@
     {
         "id": 307,
         "mysekaiFixtureType": "normal",
-        "name": "夾娃娃機",
+        "name": "夹娃娃机",
         "pronunciation": "くれーんげーむ",
-        "flavorText": "夾娃娃機",
+        "flavorText": "夹娃娃机",
         "seq": 30017001,
         "gridSize": {
             "width": 7,
@@ -11750,9 +11750,9 @@
     {
         "id": 308,
         "mysekaiFixtureType": "normal",
-        "name": "《魔法泡泡e運動》",
+        "name": "《魔法泡泡e运动》",
         "pronunciation": "ぷよぷよいーすぽーつ",
-        "flavorText": "《魔法泡泡e運動》",
+        "flavorText": "《魔法泡泡e运动》",
         "seq": 30017002,
         "gridSize": {
             "width": 2,
@@ -11781,9 +11781,9 @@
     {
         "id": 309,
         "mysekaiFixtureType": "normal",
-        "name": "遊戲中心的椅子",
+        "name": "游戏中心的椅子",
         "pronunciation": "げーむせんたーのいす",
-        "flavorText": "遊戲中心的椅子",
+        "flavorText": "游戏中心的椅子",
         "seq": 30017003,
         "gridSize": {
             "width": 2,
@@ -11822,9 +11822,9 @@
     {
         "id": 310,
         "mysekaiFixtureType": "normal",
-        "name": "打印機",
+        "name": "打印机",
         "pronunciation": "ぷりし",
-        "flavorText": "打印機",
+        "flavorText": "打印机",
         "seq": 30017004,
         "gridSize": {
             "width": 11,
@@ -11884,9 +11884,9 @@
     {
         "id": 312,
         "mysekaiFixtureType": "normal",
-        "name": "紅掌花",
+        "name": "红掌花",
         "pronunciation": "あんすりうむ",
-        "flavorText": "紅掌花",
+        "flavorText": "红掌花",
         "seq": 30018001,
         "gridSize": {
             "width": 1,
@@ -12031,9 +12031,9 @@
     {
         "id": 315,
         "mysekaiFixtureType": "normal",
-        "name": "龜背竹",
+        "name": "龟背竹",
         "pronunciation": "もんすてら",
-        "flavorText": "龜背竹",
+        "flavorText": "龟背竹",
         "seq": 30018004,
         "gridSize": {
             "width": 1,
@@ -12080,9 +12080,9 @@
     {
         "id": 316,
         "mysekaiFixtureType": "normal",
-        "name": "龍舌蘭",
+        "name": "龙舌兰",
         "pronunciation": "ゆっか",
-        "flavorText": "龍舌蘭",
+        "flavorText": "龙舌兰",
         "seq": 30018005,
         "gridSize": {
             "width": 1,
@@ -12129,9 +12129,9 @@
     {
         "id": 317,
         "mysekaiFixtureType": "normal",
-        "name": "艾可貝莉亞",
+        "name": "多肉植物",
         "pronunciation": "えけべりえ",
-        "flavorText": "艾可貝莉亞",
+        "flavorText": "多肉植物",
         "seq": 30018006,
         "gridSize": {
             "width": 1,
@@ -12178,9 +12178,9 @@
     {
         "id": 318,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的野餐墊",
+        "name": "溫暖野餐的野餐垫",
         "pronunciation": "ぽかぽかなぴくにっくのれじゃーしーと",
-        "flavorText": "溫暖野餐的野餐墊",
+        "flavorText": "溫暖野餐的野餐垫",
         "seq": 40001001,
         "gridSize": {
             "width": 7,
@@ -12252,9 +12252,9 @@
     {
         "id": 320,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的自行車",
+        "name": "溫暖野餐的自行车",
         "pronunciation": "ぽかぽかなぴくにっくのじてんしゃ",
-        "flavorText": "溫暖野餐的自行車",
+        "flavorText": "溫暖野餐的自行车",
         "seq": 40001003,
         "gridSize": {
             "width": 3,
@@ -12289,9 +12289,9 @@
     {
         "id": 321,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的樹樁",
+        "name": "溫暖野餐的树桩",
         "pronunciation": "ぽかぽかなぴくにっくのきりかぶ",
-        "flavorText": "溫暖野餐的樹樁",
+        "flavorText": "溫暖野餐的树桩",
         "seq": 40001004,
         "gridSize": {
             "width": 2,
@@ -12388,9 +12388,9 @@
     {
         "id": 324,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的籃子",
+        "name": "溫暖野餐的篮子",
         "pronunciation": "ぽかぽかなぴくにっくのばすけっと",
-        "flavorText": "溫暖野餐的籃子",
+        "flavorText": "溫暖野餐的篮子",
         "seq": 40001007,
         "gridSize": {
             "width": 1,
@@ -12419,9 +12419,9 @@
     {
         "id": 325,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的花籃",
+        "name": "溫暖野餐的花篮",
         "pronunciation": "ぽかぽかなぴくにっくのはなかご",
-        "flavorText": "溫暖野餐的花籃",
+        "flavorText": "溫暖野餐的花篮",
         "seq": 40001008,
         "gridSize": {
             "width": 1,
@@ -12456,9 +12456,9 @@
     {
         "id": 326,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的便當盒",
+        "name": "溫暖野餐的便当盒",
         "pronunciation": "ぽかぽかなぴくにっくのおべんとうばこ",
-        "flavorText": "溫暖野餐的便當盒",
+        "flavorText": "溫暖野餐的便当盒",
         "seq": 40001009,
         "gridSize": {
             "width": 2,
@@ -12524,9 +12524,9 @@
     {
         "id": 328,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "天文學家的研究室的壁紙",
+        "name": "天文学家的研究室壁纸",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのかべがみ",
-        "flavorText": "天文學家的研究室的壁紙",
+        "flavorText": "天文学家的研究室壁纸",
         "seq": 40004001,
         "gridSize": {
             "width": 0,
@@ -12565,9 +12565,9 @@
     {
         "id": 329,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "天文學家的研究室的地板",
+        "name": "天文学家的研究室地板",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのゆか",
-        "flavorText": "天文學家的研究室的地板",
+        "flavorText": "天文学家的研究室地板",
         "seq": 40004002,
         "gridSize": {
             "width": 0,
@@ -12606,9 +12606,9 @@
     {
         "id": 330,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的窗戶",
+        "name": "天文学家的研究室窗戶",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのまど",
-        "flavorText": "天文學家的研究室的窗戶",
+        "flavorText": "天文学家的研究室窗戶",
         "seq": 40004003,
         "gridSize": {
             "width": 4,
@@ -12637,9 +12637,9 @@
     {
         "id": 331,
         "mysekaiFixtureType": "system",
-        "name": "天文學家的研究室的抽屜櫃",
+        "name": "天文学家的研究室抽屉柜",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのちぇすと",
-        "flavorText": "天文學家的研究室的抽屜櫃",
+        "flavorText": "天文学家的研究室抽屉柜",
         "seq": 40004004,
         "gridSize": {
             "width": 2,
@@ -12679,9 +12679,9 @@
     {
         "id": 332,
         "mysekaiFixtureType": "system",
-        "name": "天文學家的研究室的鏡子",
+        "name": "天文学家的研究室镜子",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのかがみ",
-        "flavorText": "天文學家的研究室的鏡子",
+        "flavorText": "天文学家的研究室镜子",
         "seq": 40004005,
         "gridSize": {
             "width": 1,
@@ -12711,9 +12711,9 @@
     {
         "id": 333,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的天文望遠鏡",
+        "name": "天文学家的研究室天文望远镜",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのてんたいぼうえんきょう",
-        "flavorText": "天文學家的研究室的天文望遠鏡",
+        "flavorText": "天文学家的研究室天文望远镜",
         "seq": 40004006,
         "gridSize": {
             "width": 2,
@@ -12752,9 +12752,9 @@
     {
         "id": 334,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的天蓬床",
+        "name": "天文学家的研究室天蓬床",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのてんがいつきべっど",
-        "flavorText": "天文學家的研究室的天蓬床",
+        "flavorText": "天文学家的研究室天蓬床",
         "seq": 40004007,
         "gridSize": {
             "width": 4,
@@ -12793,9 +12793,9 @@
     {
         "id": 335,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的書架",
+        "name": "天文学家的研究室书架",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのほんだな",
-        "flavorText": "天文學家的研究室的書架",
+        "flavorText": "天文学家的研究室书架",
         "seq": 40004008,
         "gridSize": {
             "width": 3,
@@ -12834,9 +12834,9 @@
     {
         "id": 336,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的桌子",
+        "name": "天文学家的研究室桌子",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのつくえ",
-        "flavorText": "天文學家的研究室的桌子",
+        "flavorText": "天文学家的研究室桌子",
         "seq": 40004009,
         "gridSize": {
             "width": 4,
@@ -12875,9 +12875,9 @@
     {
         "id": 337,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的椅子",
+        "name": "天文学家的研究室椅子",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのいす",
-        "flavorText": "天文學家的研究室的椅子",
+        "flavorText": "天文学家的研究室椅子",
         "seq": 40004010,
         "gridSize": {
             "width": 2,
@@ -12916,9 +12916,9 @@
     {
         "id": 338,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的卷軸箱",
+        "name": "天文学家的研究室卷轴箱",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのまきがみいりのはこ",
-        "flavorText": "天文學家的研究室的卷軸箱",
+        "flavorText": "天文学家的研究室卷轴箱",
         "seq": 40004011,
         "gridSize": {
             "width": 1,
@@ -12957,9 +12957,9 @@
     {
         "id": 339,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的天球儀",
+        "name": "天文学家的研究室天球仪",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのてんきゅうぎ",
-        "flavorText": "天文學家的研究室的天球儀",
+        "flavorText": "天文学家的研究室天球仪",
         "seq": 40004012,
         "gridSize": {
             "width": 2,
@@ -12998,9 +12998,9 @@
     {
         "id": 340,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的堆積的書籍",
+        "name": "天文学家的研究室堆积的书籍",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのつみかさなったほん",
-        "flavorText": "天文學家的研究室的堆積的書籍",
+        "flavorText": "天文学家的研究室堆积的书籍",
         "seq": 40004013,
         "gridSize": {
             "width": 1,
@@ -13029,9 +13029,9 @@
     {
         "id": 341,
         "mysekaiFixtureType": "normal",
-        "name": "天文學家的研究室的檯燈",
+        "name": "天文学家的研究室台灯",
         "pronunciation": "てんもんがくしゃのけんきゅうしつのてーぶるらいと",
-        "flavorText": "天文學家的研究室的檯燈",
+        "flavorText": "天文学家的研究室台灯",
         "seq": 40004014,
         "gridSize": {
             "width": 1,
@@ -13445,9 +13445,9 @@
     {
         "id": 354,
         "mysekaiFixtureType": "normal",
-        "name": "實乃理的玩偶\/S",
+        "name": "实乃理的玩偶\/S",
         "pronunciation": "みのりのぬいぐるみえす",
-        "flavorText": "實乃理的玩偶\/S",
+        "flavorText": "实乃理的玩偶\/S",
         "seq": 52105001,
         "gridSize": {
             "width": 1,
@@ -13477,9 +13477,9 @@
     {
         "id": 355,
         "mysekaiFixtureType": "normal",
-        "name": "實乃理的玩偶\/M",
+        "name": "实乃理的玩偶\/M",
         "pronunciation": "みのりのぬいぐるみえむ",
-        "flavorText": "實乃理的玩偶\/M",
+        "flavorText": "实乃理的玩偶\/M",
         "seq": 52105002,
         "gridSize": {
             "width": 1,
@@ -13509,9 +13509,9 @@
     {
         "id": 356,
         "mysekaiFixtureType": "normal",
-        "name": "實乃理的玩偶\/L",
+        "name": "实乃理的玩偶\/L",
         "pronunciation": "みのりのぬいぐるみえる",
-        "flavorText": "實乃理的玩偶\/L",
+        "flavorText": "实乃理的玩偶\/L",
         "seq": 52105003,
         "gridSize": {
             "width": 2,
@@ -13541,9 +13541,9 @@
     {
         "id": 357,
         "mysekaiFixtureType": "normal",
-        "name": "遙的玩偶\/S",
+        "name": "遥的玩偶\/S",
         "pronunciation": "はるかのぬいぐるみえす",
-        "flavorText": "遙的玩偶\/S",
+        "flavorText": "遥的玩偶\/S",
         "seq": 52106001,
         "gridSize": {
             "width": 1,
@@ -13573,9 +13573,9 @@
     {
         "id": 358,
         "mysekaiFixtureType": "normal",
-        "name": "遙的玩偶\/M",
+        "name": "遥的玩偶\/M",
         "pronunciation": "はるかのぬいぐるみえむ",
-        "flavorText": "遙的玩偶\/M",
+        "flavorText": "遥的玩偶\/M",
         "seq": 52106002,
         "gridSize": {
             "width": 1,
@@ -13605,9 +13605,9 @@
     {
         "id": 359,
         "mysekaiFixtureType": "normal",
-        "name": "遙的玩偶\/L",
+        "name": "遥的玩偶\/L",
         "pronunciation": "はるかのぬいぐるみえる",
-        "flavorText": "遙的玩偶\/L",
+        "flavorText": "遥的玩偶\/L",
         "seq": 52106003,
         "gridSize": {
             "width": 2,
@@ -13637,9 +13637,9 @@
     {
         "id": 360,
         "mysekaiFixtureType": "normal",
-        "name": "愛莉的玩偶\/S",
+        "name": "爱莉的玩偶\/S",
         "pronunciation": "あいりのぬいぐるみえす",
-        "flavorText": "愛莉的玩偶\/S",
+        "flavorText": "爱莉的玩偶\/S",
         "seq": 52107001,
         "gridSize": {
             "width": 1,
@@ -13669,9 +13669,9 @@
     {
         "id": 361,
         "mysekaiFixtureType": "normal",
-        "name": "愛莉的玩偶\/M",
+        "name": "爱莉的玩偶\/M",
         "pronunciation": "あいりのぬいぐるみえむ",
-        "flavorText": "愛莉的玩偶\/M",
+        "flavorText": "爱莉的玩偶\/M",
         "seq": 52107002,
         "gridSize": {
             "width": 1,
@@ -13701,9 +13701,9 @@
     {
         "id": 362,
         "mysekaiFixtureType": "normal",
-        "name": "愛莉的玩偶\/L",
+        "name": "爱莉的玩偶\/L",
         "pronunciation": "あいりのぬいぐるみえる",
-        "flavorText": "愛莉的玩偶\/L",
+        "flavorText": "爱莉的玩偶\/L",
         "seq": 52107003,
         "gridSize": {
             "width": 2,
@@ -14117,9 +14117,9 @@
     {
         "id": 375,
         "mysekaiFixtureType": "normal",
-        "name": "冬彌的玩偶\/S",
+        "name": "冬弥的玩偶\/S",
         "pronunciation": "とうやのぬいぐるみえす",
-        "flavorText": "冬彌的玩偶\/S",
+        "flavorText": "冬弥的玩偶\/S",
         "seq": 53112001,
         "gridSize": {
             "width": 1,
@@ -14149,9 +14149,9 @@
     {
         "id": 376,
         "mysekaiFixtureType": "normal",
-        "name": "冬彌的玩偶\/M",
+        "name": "冬弥的玩偶\/M",
         "pronunciation": "とうやのぬいぐるみえむ",
-        "flavorText": "冬彌的玩偶\/M",
+        "flavorText": "冬弥的玩偶\/M",
         "seq": 53112002,
         "gridSize": {
             "width": 1,
@@ -14181,9 +14181,9 @@
     {
         "id": 377,
         "mysekaiFixtureType": "normal",
-        "name": "冬彌的玩偶\/L",
+        "name": "冬弥的玩偶\/L",
         "pronunciation": "とうやのぬいぐるみえる",
-        "flavorText": "冬彌的玩偶\/L",
+        "flavorText": "冬弥的玩偶\/L",
         "seq": 53112003,
         "gridSize": {
             "width": 2,
@@ -14309,9 +14309,9 @@
     {
         "id": 381,
         "mysekaiFixtureType": "normal",
-        "name": "笑夢的玩偶\/S",
+        "name": "笑梦的玩偶\/S",
         "pronunciation": "えむのぬいぐるみえす",
-        "flavorText": "笑夢的玩偶\/S",
+        "flavorText": "笑梦的玩偶\/S",
         "seq": 54114001,
         "gridSize": {
             "width": 1,
@@ -14341,9 +14341,9 @@
     {
         "id": 382,
         "mysekaiFixtureType": "normal",
-        "name": "笑夢的玩偶\/M",
+        "name": "笑梦的玩偶\/M",
         "pronunciation": "えむのぬいぐるみえむ",
-        "flavorText": "笑夢的玩偶\/M",
+        "flavorText": "笑梦的玩偶\/M",
         "seq": 54114002,
         "gridSize": {
             "width": 1,
@@ -14373,9 +14373,9 @@
     {
         "id": 383,
         "mysekaiFixtureType": "normal",
-        "name": "笑夢的玩偶\/L",
+        "name": "笑梦的玩偶\/L",
         "pronunciation": "えむのぬいぐるみえる",
-        "flavorText": "笑夢的玩偶\/L",
+        "flavorText": "笑梦的玩偶\/L",
         "seq": 54114003,
         "gridSize": {
             "width": 2,
@@ -14405,9 +14405,9 @@
     {
         "id": 384,
         "mysekaiFixtureType": "normal",
-        "name": "寧寧的玩偶\/S",
+        "name": "宁宁的玩偶\/S",
         "pronunciation": "ねねのぬいぐるみえす",
-        "flavorText": "寧寧的玩偶\/S",
+        "flavorText": "宁宁的玩偶\/S",
         "seq": 54115001,
         "gridSize": {
             "width": 1,
@@ -14437,9 +14437,9 @@
     {
         "id": 385,
         "mysekaiFixtureType": "normal",
-        "name": "寧寧的玩偶\/M",
+        "name": "宁宁的玩偶\/M",
         "pronunciation": "ねねのぬいぐるみえむ",
-        "flavorText": "寧寧的玩偶\/M",
+        "flavorText": "宁宁的玩偶\/M",
         "seq": 54115002,
         "gridSize": {
             "width": 1,
@@ -14469,9 +14469,9 @@
     {
         "id": 386,
         "mysekaiFixtureType": "normal",
-        "name": "寧寧的玩偶\/L",
+        "name": "宁宁的玩偶\/L",
         "pronunciation": "ねねのぬいぐるみえる",
-        "flavorText": "寧寧的玩偶\/L",
+        "flavorText": "宁宁的玩偶\/L",
         "seq": 54115003,
         "gridSize": {
             "width": 2,
@@ -14501,9 +14501,9 @@
     {
         "id": 387,
         "mysekaiFixtureType": "normal",
-        "name": "類的玩偶\/S",
+        "name": "类的玩偶\/S",
         "pronunciation": "るいのぬいぐるみえす",
-        "flavorText": "類的玩偶\/S",
+        "flavorText": "类的玩偶\/S",
         "seq": 54116001,
         "gridSize": {
             "width": 1,
@@ -14533,9 +14533,9 @@
     {
         "id": 388,
         "mysekaiFixtureType": "normal",
-        "name": "類的玩偶\/M",
+        "name": "类的玩偶\/M",
         "pronunciation": "るいのぬいぐるみえむ",
-        "flavorText": "類的玩偶\/M",
+        "flavorText": "类的玩偶\/M",
         "seq": 54116002,
         "gridSize": {
             "width": 1,
@@ -14565,9 +14565,9 @@
     {
         "id": 389,
         "mysekaiFixtureType": "normal",
-        "name": "類的玩偶\/L",
+        "name": "类的玩偶\/L",
         "pronunciation": "るいのぬいぐるみえる",
-        "flavorText": "類的玩偶\/L",
+        "flavorText": "类的玩偶\/L",
         "seq": 54116003,
         "gridSize": {
             "width": 2,
@@ -14789,9 +14789,9 @@
     {
         "id": 396,
         "mysekaiFixtureType": "normal",
-        "name": "繪名的玩偶\/S",
+        "name": "绘名的玩偶\/S",
         "pronunciation": "えなのぬいぐるみえす",
-        "flavorText": "繪名的玩偶\/S",
+        "flavorText": "绘名的玩偶\/S",
         "seq": 55119001,
         "gridSize": {
             "width": 1,
@@ -14821,9 +14821,9 @@
     {
         "id": 397,
         "mysekaiFixtureType": "normal",
-        "name": "繪名的玩偶\/M",
+        "name": "绘名的玩偶\/M",
         "pronunciation": "えなのぬいぐるみえむ",
-        "flavorText": "繪名的玩偶\/M",
+        "flavorText": "绘名的玩偶\/M",
         "seq": 55119002,
         "gridSize": {
             "width": 1,
@@ -14853,9 +14853,9 @@
     {
         "id": 398,
         "mysekaiFixtureType": "normal",
-        "name": "繪名的玩偶\/L",
+        "name": "绘名的玩偶\/L",
         "pronunciation": "えなのぬいぐるみえる",
-        "flavorText": "繪名的玩偶\/L",
+        "flavorText": "绘名的玩偶\/L",
         "seq": 55119003,
         "gridSize": {
             "width": 2,
@@ -14981,9 +14981,9 @@
     {
         "id": 402,
         "mysekaiFixtureType": "normal",
-        "name": "初音的玩偶\/S",
+        "name": "初音未来的玩偶\/S",
         "pronunciation": "みくのぬいぐるみえす",
-        "flavorText": "初音的玩偶\/S",
+        "flavorText": "初音未来的玩偶\/S",
         "seq": 56121001,
         "gridSize": {
             "width": 1,
@@ -15013,9 +15013,9 @@
     {
         "id": 403,
         "mysekaiFixtureType": "normal",
-        "name": "初音的玩偶\/M",
+        "name": "初音未来的玩偶\/M",
         "pronunciation": "みくのぬいぐるみえむ",
-        "flavorText": "初音的玩偶\/M",
+        "flavorText": "初音未来的玩偶\/M",
         "seq": 56121002,
         "gridSize": {
             "width": 1,
@@ -15045,9 +15045,9 @@
     {
         "id": 404,
         "mysekaiFixtureType": "normal",
-        "name": "初音的玩偶\/L",
+        "name": "初音未来的玩偶\/L",
         "pronunciation": "みくのぬいぐるみえる",
-        "flavorText": "初音的玩偶\/L",
+        "flavorText": "初音未来的玩偶\/L",
         "seq": 56121003,
         "gridSize": {
             "width": 2,
@@ -15077,9 +15077,9 @@
     {
         "id": 405,
         "mysekaiFixtureType": "normal",
-        "name": "鈴的玩偶\/S",
+        "name": "镜音铃的玩偶\/S",
         "pronunciation": "りんのぬいぐるみえす",
-        "flavorText": "鈴的玩偶\/S",
+        "flavorText": "镜音铃的玩偶\/S",
         "seq": 56122001,
         "gridSize": {
             "width": 1,
@@ -15109,9 +15109,9 @@
     {
         "id": 406,
         "mysekaiFixtureType": "normal",
-        "name": "鈴的玩偶\/M",
+        "name": "镜音铃的玩偶\/M",
         "pronunciation": "りんのぬいぐるみえむ",
-        "flavorText": "鈴的玩偶\/M",
+        "flavorText": "镜音铃的玩偶\/M",
         "seq": 56122002,
         "gridSize": {
             "width": 1,
@@ -15141,9 +15141,9 @@
     {
         "id": 407,
         "mysekaiFixtureType": "normal",
-        "name": "鈴的玩偶\/L",
+        "name": "镜音铃的玩偶\/L",
         "pronunciation": "りんのぬいぐるみえる",
-        "flavorText": "鈴的玩偶\/L",
+        "flavorText": "镜音铃的玩偶\/L",
         "seq": 56122003,
         "gridSize": {
             "width": 2,
@@ -15173,9 +15173,9 @@
     {
         "id": 408,
         "mysekaiFixtureType": "normal",
-        "name": "蓮的玩偶\/S",
+        "name": "镜音连的玩偶\/S",
         "pronunciation": "れんのぬいぐるみえす",
-        "flavorText": "蓮的玩偶\/S",
+        "flavorText": "镜音连的玩偶\/S",
         "seq": 56123001,
         "gridSize": {
             "width": 1,
@@ -15205,9 +15205,9 @@
     {
         "id": 409,
         "mysekaiFixtureType": "normal",
-        "name": "蓮的玩偶\/M",
+        "name": "镜音连的玩偶\/M",
         "pronunciation": "れんのぬいぐるみえむ",
-        "flavorText": "蓮的玩偶\/M",
+        "flavorText": "镜音连的玩偶\/M",
         "seq": 56123002,
         "gridSize": {
             "width": 1,
@@ -15237,9 +15237,9 @@
     {
         "id": 410,
         "mysekaiFixtureType": "normal",
-        "name": "蓮的玩偶\/L",
+        "name": "镜音连的玩偶\/L",
         "pronunciation": "れんのぬいぐるみえる",
-        "flavorText": "蓮的玩偶\/L",
+        "flavorText": "镜音连的玩偶\/L",
         "seq": 56123003,
         "gridSize": {
             "width": 2,
@@ -15269,9 +15269,9 @@
     {
         "id": 411,
         "mysekaiFixtureType": "normal",
-        "name": "露卡的玩偶\/S",
+        "name": "巡音流歌的玩偶\/S",
         "pronunciation": "るかのぬいぐるみえす",
-        "flavorText": "露卡的玩偶\/S",
+        "flavorText": "巡音流歌的玩偶\/S",
         "seq": 56124001,
         "gridSize": {
             "width": 1,
@@ -15301,9 +15301,9 @@
     {
         "id": 412,
         "mysekaiFixtureType": "normal",
-        "name": "露卡的玩偶\/M",
+        "name": "巡音流歌的玩偶\/M",
         "pronunciation": "るかのぬいぐるみえむ",
-        "flavorText": "露卡的玩偶\/M",
+        "flavorText": "巡音流歌的玩偶\/M",
         "seq": 56124002,
         "gridSize": {
             "width": 1,
@@ -15333,9 +15333,9 @@
     {
         "id": 413,
         "mysekaiFixtureType": "normal",
-        "name": "露卡的玩偶\/L",
+        "name": "巡音流歌的玩偶\/L",
         "pronunciation": "るかのぬいぐるみえる",
-        "flavorText": "露卡的玩偶\/L",
+        "flavorText": "巡音流歌的玩偶\/L",
         "seq": 56124003,
         "gridSize": {
             "width": 2,
@@ -15588,9 +15588,9 @@
     {
         "id": 421,
         "mysekaiFixtureType": "normal",
-        "name": "直播用攝影機",
+        "name": "直播用摄影机",
         "pronunciation": "はいしんようかめら",
-        "flavorText": "直播用攝影機",
+        "flavorText": "直播用摄影机",
         "seq": 52109001,
         "gridSize": {
             "width": 2,
@@ -15619,9 +15619,9 @@
     {
         "id": 422,
         "mysekaiFixtureType": "normal",
-        "name": "魔法泡泡傳說",
+        "name": "魔法泡泡传说",
         "pronunciation": "ぷよぷよつう",
-        "flavorText": "魔法泡泡傳說",
+        "flavorText": "魔法泡泡传说",
         "seq": 53113001,
         "gridSize": {
             "width": 6,
@@ -15650,9 +15650,9 @@
     {
         "id": 423,
         "mysekaiFixtureType": "normal",
-        "name": "寧寧機器人的雕像",
+        "name": "宁宁机器人的雕像",
         "pronunciation": "ねねろぼのおぶじぇ",
-        "flavorText": "寧寧機器人的雕像",
+        "flavorText": "宁宁机器人的雕像",
         "seq": 54115001,
         "gridSize": {
             "width": 2,
@@ -15681,9 +15681,9 @@
     {
         "id": 424,
         "mysekaiFixtureType": "normal",
-        "name": "熟悉的家庭餐廳座椅",
+        "name": "熟悉的家庭餐厅座椅",
         "pronunciation": "いつものふぁみれすせき",
-        "flavorText": "熟悉的家庭餐廳座椅",
+        "flavorText": "熟悉的家庭餐厅座椅",
         "seq": 55121001,
         "gridSize": {
             "width": 7,
@@ -15898,9 +15898,9 @@
     {
         "id": 435,
         "mysekaiFixtureType": "custom",
-        "name": "張貼板",
+        "name": "张贴板",
         "pronunciation": "はりつけぼーど",
-        "flavorText": "張貼板",
+        "flavorText": "张贴板",
         "seq": 100001007,
         "gridSize": {
             "width": 1,
@@ -15960,9 +15960,9 @@
     {
         "id": 437,
         "mysekaiFixtureType": "custom",
-        "name": "稱號展示架",
+        "name": "称号展示架",
         "pronunciation": "しょうごうすたんど",
-        "flavorText": "稱號展示架",
+        "flavorText": "称号展示架",
         "seq": 100001008,
         "gridSize": {
             "width": 2,
@@ -15991,9 +15991,9 @@
     {
         "id": 438,
         "mysekaiFixtureType": "custom",
-        "name": "稱號展示板",
+        "name": "称号展示板",
         "pronunciation": "しょうごうぼーど",
-        "flavorText": "稱號展示板",
+        "flavorText": "称号展示板",
         "seq": 100001009,
         "gridSize": {
             "width": 2,
@@ -16022,9 +16022,9 @@
     {
         "id": 439,
         "mysekaiFixtureType": "canvas",
-        "name": "壁掛畫布\/S",
+        "name": "壁掛画布\/S",
         "pronunciation": "かべかけきゃんばすえす",
-        "flavorText": "壁掛畫布\/S",
+        "flavorText": "壁掛画布\/S",
         "seq": 100001012,
         "gridSize": {
             "width": 1,
@@ -16053,9 +16053,9 @@
     {
         "id": 440,
         "mysekaiFixtureType": "canvas",
-        "name": "壁掛畫布\/M",
+        "name": "壁掛画布\/M",
         "pronunciation": "かべかけきゃんばすえむ",
-        "flavorText": "壁掛畫布\/M",
+        "flavorText": "壁掛画布\/M",
         "seq": 100001013,
         "gridSize": {
             "width": 3,
@@ -16084,9 +16084,9 @@
     {
         "id": 441,
         "mysekaiFixtureType": "canvas",
-        "name": "壁掛畫布\/L",
+        "name": "壁掛画布\/L",
         "pronunciation": "かべかけきゃんばすえる",
-        "flavorText": "壁掛畫布\/L",
+        "flavorText": "壁掛画布\/L",
         "seq": 100001014,
         "gridSize": {
             "width": 5,
@@ -16115,9 +16115,9 @@
     {
         "id": 442,
         "mysekaiFixtureType": "canvas",
-        "name": "桌上畫布\/S",
+        "name": "桌上画布\/S",
         "pronunciation": "たくじょうみにきゃんばすえす",
-        "flavorText": "桌上畫布\/S",
+        "flavorText": "桌上画布\/S",
         "seq": 100001015,
         "gridSize": {
             "width": 1,
@@ -16146,9 +16146,9 @@
     {
         "id": 443,
         "mysekaiFixtureType": "canvas",
-        "name": "桌上畫布\/M",
+        "name": "桌上画布\/M",
         "pronunciation": "たくじょうみにきゃんばすえむ",
-        "flavorText": "桌上畫布\/M",
+        "flavorText": "桌上画布\/M",
         "seq": 100001016,
         "gridSize": {
             "width": 1,
@@ -16177,9 +16177,9 @@
     {
         "id": 444,
         "mysekaiFixtureType": "canvas",
-        "name": "桌上畫布\/L",
+        "name": "桌上画布\/L",
         "pronunciation": "たくじょうみにきゃんばすえる",
-        "flavorText": "桌上畫布\/L",
+        "flavorText": "桌上画布\/L",
         "seq": 100001017,
         "gridSize": {
             "width": 2,
@@ -16239,9 +16239,9 @@
     {
         "id": 446,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "月夜旅館的壁紙",
+        "name": "月夜旅馆的壁纸",
         "pronunciation": "つきがみえるりょかんのかべがみ",
-        "flavorText": "月夜旅館的壁紙",
+        "flavorText": "月夜旅馆的壁纸",
         "seq": 40002001,
         "gridSize": {
             "width": 0,
@@ -16280,9 +16280,9 @@
     {
         "id": 447,
         "mysekaiFixtureType": "surface_appearance",
-        "name": "月夜旅館的榻榻米",
+        "name": "月夜旅馆的榻榻米",
         "pronunciation": "つきがみえるりょかんのたたみ",
-        "flavorText": "月夜旅館的榻榻米",
+        "flavorText": "月夜旅馆的榻榻米",
         "seq": 40002002,
         "gridSize": {
             "width": 0,
@@ -16321,9 +16321,9 @@
     {
         "id": 448,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的窗戶",
+        "name": "月夜旅馆的窗戶",
         "pronunciation": "つきがみえるりょかんのまど",
-        "flavorText": "月夜旅館的窗戶",
+        "flavorText": "月夜旅馆的窗戶",
         "seq": 40002003,
         "gridSize": {
             "width": 12,
@@ -16362,9 +16362,9 @@
     {
         "id": 449,
         "mysekaiFixtureType": "system",
-        "name": "月夜旅館的衣櫥",
+        "name": "月夜旅馆的衣橱",
         "pronunciation": "つきがみえるりょかんのようだんす",
-        "flavorText": "月夜旅館的衣櫥",
+        "flavorText": "月夜旅馆的衣橱",
         "seq": 40002004,
         "gridSize": {
             "width": 2,
@@ -16404,9 +16404,9 @@
     {
         "id": 450,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的矮桌",
+        "name": "月夜旅馆的矮桌",
         "pronunciation": "つきがみえるりょかんのざたく",
-        "flavorText": "月夜旅館的矮桌",
+        "flavorText": "月夜旅馆的矮桌",
         "seq": 40002005,
         "gridSize": {
             "width": 4,
@@ -16445,9 +16445,9 @@
     {
         "id": 451,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的座椅",
+        "name": "月夜旅馆的座椅",
         "pronunciation": "つきがみえるりょかんのざいす",
-        "flavorText": "月夜旅館的座椅",
+        "flavorText": "月夜旅馆的座椅",
         "seq": 40002006,
         "gridSize": {
             "width": 2,
@@ -16486,9 +16486,9 @@
     {
         "id": 452,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的被褥",
+        "name": "月夜旅馆的被褥",
         "pronunciation": "つきがみえるりょかんのふとん",
-        "flavorText": "月夜旅館的被褥",
+        "flavorText": "月夜旅馆的被褥",
         "seq": 40002007,
         "gridSize": {
             "width": 4,
@@ -16527,9 +16527,9 @@
     {
         "id": 453,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的茶櫃",
+        "name": "月夜旅馆的茶柜",
         "pronunciation": "つきがみえるりょかんのちゃだんす",
-        "flavorText": "月夜旅館的茶櫃",
+        "flavorText": "月夜旅馆的茶柜",
         "seq": 40002008,
         "gridSize": {
             "width": 2,
@@ -16568,9 +16568,9 @@
     {
         "id": 454,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的燈籠",
+        "name": "月夜旅馆的灯笼",
         "pronunciation": "つきがみえるりょかんのあんどん",
-        "flavorText": "月夜旅館的燈籠",
+        "flavorText": "月夜旅馆的灯笼",
         "seq": 40002009,
         "gridSize": {
             "width": 1,
@@ -16610,9 +16610,9 @@
     {
         "id": 455,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的屏風",
+        "name": "月夜旅馆的屏风",
         "pronunciation": "つきがみえるりょかんのびょうぶ",
-        "flavorText": "月夜旅館的屏風",
+        "flavorText": "月夜旅馆的屏风",
         "seq": 40002010,
         "gridSize": {
             "width": 6,
@@ -16651,9 +16651,9 @@
     {
         "id": 456,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的掛軸",
+        "name": "月夜旅馆的挂轴",
         "pronunciation": "つきがみえるりょかんのかけじく",
-        "flavorText": "月夜旅館的掛軸",
+        "flavorText": "月夜旅馆的挂轴",
         "seq": 40002011,
         "gridSize": {
             "width": 2,
@@ -16692,9 +16692,9 @@
     {
         "id": 457,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的盆栽",
+        "name": "月夜旅馆的盆栽",
         "pronunciation": "つきがみえるりょかんのぼんさい",
-        "flavorText": "月夜旅館的盆栽",
+        "flavorText": "月夜旅馆的盆栽",
         "seq": 40002012,
         "gridSize": {
             "width": 2,
@@ -16724,9 +16724,9 @@
     {
         "id": 458,
         "mysekaiFixtureType": "normal",
-        "name": "月夜旅館的花瓶",
+        "name": "月夜旅馆的花瓶",
         "pronunciation": "つきがみえるりょかんのかびん",
-        "flavorText": "月夜旅館的花瓶",
+        "flavorText": "月夜旅馆的花瓶",
         "seq": 40002013,
         "gridSize": {
             "width": 1,
@@ -16756,9 +16756,9 @@
     {
         "id": 459,
         "mysekaiFixtureType": "normal",
-        "name": "旅行者的帳篷",
+        "name": "旅行者的帐篷",
         "pronunciation": "たびびとのきゃんぷのてんと",
-        "flavorText": "旅行者的帳篷",
+        "flavorText": "旅行者的帐篷",
         "seq": 40012002,
         "gridSize": {
             "width": 6,
@@ -16879,9 +16879,9 @@
     {
         "id": 462,
         "mysekaiFixtureType": "normal",
-        "name": "旅行者的營火料理",
+        "name": "旅行者的营火料理",
         "pronunciation": "たびびとのきゃんぷのたきびりょうり",
-        "flavorText": "旅行者的營火料理",
+        "flavorText": "旅行者的营火料理",
         "seq": 40012005,
         "gridSize": {
             "width": 3,
@@ -17074,9 +17074,9 @@
     {
         "id": 467,
         "mysekaiFixtureType": "normal",
-        "name": "旅行者的燈籠",
+        "name": "旅行者的灯笼",
         "pronunciation": "たびびとのきゃんぷのらんたん",
-        "flavorText": "旅行者的燈籠",
+        "flavorText": "旅行者的灯笼",
         "seq": 40012010,
         "gridSize": {
             "width": 1,
@@ -17106,9 +17106,9 @@
     {
         "id": 468,
         "mysekaiFixtureType": "normal",
-        "name": "旅行者的水壺",
+        "name": "旅行者的水壶",
         "pronunciation": "たびびとのきゃんぷのけとる",
-        "flavorText": "旅行者的水壺",
+        "flavorText": "旅行者的水壶",
         "seq": 40012011,
         "gridSize": {
             "width": 1,
@@ -17206,9 +17206,9 @@
     {
         "id": 471,
         "mysekaiFixtureType": "normal",
-        "name": "溫暖野餐的樹",
+        "name": "溫暖野餐的树",
         "pronunciation": "ぽかぽかなぴくにっくのつりー",
-        "flavorText": "溫暖野餐的樹",
+        "flavorText": "溫暖野餐的树",
         "seq": 40001013,
         "gridSize": {
             "width": 4,
@@ -17243,9 +17243,9 @@
     {
         "id": 472,
         "mysekaiFixtureType": "system",
-        "name": "月夜旅館",
+        "name": "月夜旅馆",
         "pronunciation": "つきがみえるりょかん",
-        "flavorText": "月夜旅館",
+        "flavorText": "月夜旅馆",
         "seq": 40002014,
         "gridSize": {
             "width": 12,
@@ -17284,9 +17284,9 @@
     {
         "id": 473,
         "mysekaiFixtureType": "system",
-        "name": "天文學家的研究室的",
+        "name": "天文学家的研究室",
         "pronunciation": "てんもんがくしゃのいえ",
-        "flavorText": "天文學家的研究室的",
+        "flavorText": "天文学家的研究室",
         "seq": 40004015,
         "gridSize": {
             "width": 14,
@@ -17326,9 +17326,9 @@
     {
         "id": 474,
         "mysekaiFixtureType": "plant",
-        "name": "粉紅鬱金香球根",
+        "name": "粉红郁金香球根",
         "pronunciation": "ちゅーりっぷのきゅうこんぴんく",
-        "flavorText": "粉紅鬱金香球根",
+        "flavorText": "粉红郁金香球根",
         "seq": 21001102,
         "gridSize": {
             "width": 1,
@@ -17357,9 +17357,9 @@
     {
         "id": 475,
         "mysekaiFixtureType": "plant",
-        "name": "橙色系三色堇種子",
+        "name": "橙色系三色堇种子",
         "pronunciation": "ぱんじーのたねおれんじけい",
-        "flavorText": "橙色系三色堇種子",
+        "flavorText": "橙色系三色堇种子",
         "seq": 21001202,
         "gridSize": {
             "width": 1,
@@ -17388,9 +17388,9 @@
     {
         "id": 476,
         "mysekaiFixtureType": "plant",
-        "name": "淺藍繡球花種子",
+        "name": "淺蓝绣球花种子",
         "pronunciation": "あじさいのたねみずいろ",
-        "flavorText": "淺藍繡球花種子",
+        "flavorText": "淺蓝绣球花种子",
         "seq": 21001302,
         "gridSize": {
             "width": 2,
@@ -17419,9 +17419,9 @@
     {
         "id": 477,
         "mysekaiFixtureType": "plant",
-        "name": "粉紅鈴蘭種子",
+        "name": "粉红铃兰种子",
         "pronunciation": "すずらんのたねぴんく",
-        "flavorText": "粉紅鈴蘭種子",
+        "flavorText": "粉红铃兰种子",
         "seq": 21001402,
         "gridSize": {
             "width": 1,
@@ -17450,9 +17450,9 @@
     {
         "id": 478,
         "mysekaiFixtureType": "plant",
-        "name": "黃色玫瑰種子",
+        "name": "黄色玫瑰种子",
         "pronunciation": "ばらのたねき",
-        "flavorText": "黃色玫瑰種子",
+        "flavorText": "黄色玫瑰种子",
         "seq": 21001502,
         "gridSize": {
             "width": 1,
@@ -17481,9 +17481,9 @@
     {
         "id": 479,
         "mysekaiFixtureType": "plant",
-        "name": "黃色鬱金香球根",
+        "name": "黄色郁金香球根",
         "pronunciation": "ちゅーりっぷのきゅうこんき",
-        "flavorText": "黃色鬱金香球根",
+        "flavorText": "黄色郁金香球根",
         "seq": 21001103,
         "gridSize": {
             "width": 1,
@@ -17512,9 +17512,9 @@
     {
         "id": 480,
         "mysekaiFixtureType": "plant",
-        "name": "紫色系三色堇種子",
+        "name": "紫色系三色堇种子",
         "pronunciation": "ぱんじーのたねむらさきけい",
-        "flavorText": "紫色系三色堇種子",
+        "flavorText": "紫色系三色堇种子",
         "seq": 21001203,
         "gridSize": {
             "width": 1,
@@ -17543,9 +17543,9 @@
     {
         "id": 481,
         "mysekaiFixtureType": "plant",
-        "name": "粉紅繡球花種子",
+        "name": "粉红绣球花种子",
         "pronunciation": "あじさいのたねぴんく",
-        "flavorText": "粉紅繡球花種子",
+        "flavorText": "粉红绣球花种子",
         "seq": 21001303,
         "gridSize": {
             "width": 2,
@@ -17574,9 +17574,9 @@
     {
         "id": 482,
         "mysekaiFixtureType": "plant",
-        "name": "淺藍鈴蘭種子",
+        "name": "淺蓝铃兰种子",
         "pronunciation": "すずらんのたねみずいろ",
-        "flavorText": "淺藍鈴蘭種子",
+        "flavorText": "淺蓝铃兰种子",
         "seq": 21001403,
         "gridSize": {
             "width": 1,
@@ -17605,9 +17605,9 @@
     {
         "id": 483,
         "mysekaiFixtureType": "plant",
-        "name": "藍玫瑰種子",
+        "name": "蓝玫瑰种子",
         "pronunciation": "ばらのたねあお",
-        "flavorText": "藍玫瑰種子",
+        "flavorText": "蓝玫瑰种子",
         "seq": 21001503,
         "gridSize": {
             "width": 1,
@@ -17636,9 +17636,9 @@
     {
         "id": 484,
         "mysekaiFixtureType": "house_plant",
-        "name": "粉紅鬱金香",
+        "name": "粉红郁金香",
         "pronunciation": "ちゅーりっぷピンク",
-        "flavorText": "粉紅鬱金香",
+        "flavorText": "粉红郁金香",
         "seq": 21003002,
         "gridSize": {
             "width": 1,
@@ -17698,9 +17698,9 @@
     {
         "id": 486,
         "mysekaiFixtureType": "house_plant",
-        "name": "淺藍繡球花",
+        "name": "淺蓝绣球花",
         "pronunciation": "あじさいみずいろ",
-        "flavorText": "淺藍繡球花",
+        "flavorText": "淺蓝绣球花",
         "seq": 21003202,
         "gridSize": {
             "width": 2,
@@ -17729,9 +17729,9 @@
     {
         "id": 487,
         "mysekaiFixtureType": "house_plant",
-        "name": "粉紅鈴蘭",
+        "name": "粉红铃兰",
         "pronunciation": "すずらんぴんく",
-        "flavorText": "粉紅鈴蘭",
+        "flavorText": "粉红铃兰",
         "seq": 21003302,
         "gridSize": {
             "width": 1,
@@ -17760,9 +17760,9 @@
     {
         "id": 488,
         "mysekaiFixtureType": "house_plant",
-        "name": "黃色玫瑰",
+        "name": "黄色玫瑰",
         "pronunciation": "ばらき",
-        "flavorText": "黃色玫瑰",
+        "flavorText": "黄色玫瑰",
         "seq": 21003402,
         "gridSize": {
             "width": 1,
@@ -17791,9 +17791,9 @@
     {
         "id": 489,
         "mysekaiFixtureType": "house_plant",
-        "name": "黃色鬱金香",
+        "name": "黄色郁金香",
         "pronunciation": "ちゅーりっぷき",
-        "flavorText": "黃色鬱金香",
+        "flavorText": "黄色郁金香",
         "seq": 21003003,
         "gridSize": {
             "width": 1,
@@ -17853,9 +17853,9 @@
     {
         "id": 491,
         "mysekaiFixtureType": "house_plant",
-        "name": "粉紅繡球花",
+        "name": "粉红绣球花",
         "pronunciation": "あじさいぴんく",
-        "flavorText": "粉紅繡球花",
+        "flavorText": "粉红绣球花",
         "seq": 21003203,
         "gridSize": {
             "width": 2,
@@ -17884,9 +17884,9 @@
     {
         "id": 492,
         "mysekaiFixtureType": "house_plant",
-        "name": "淺藍鈴蘭",
+        "name": "淺蓝铃兰",
         "pronunciation": "すずらんみずいろ",
-        "flavorText": "淺藍鈴蘭",
+        "flavorText": "淺蓝铃兰",
         "seq": 21003303,
         "gridSize": {
             "width": 1,
@@ -17915,9 +17915,9 @@
     {
         "id": 493,
         "mysekaiFixtureType": "house_plant",
-        "name": "藍玫瑰",
+        "name": "蓝玫瑰",
         "pronunciation": "ばらあお",
-        "flavorText": "藍玫瑰",
+        "flavorText": "蓝玫瑰",
         "seq": 21003403,
         "gridSize": {
             "width": 1,

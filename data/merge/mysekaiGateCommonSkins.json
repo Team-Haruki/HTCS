@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "name": "通用皮膚１",
+        "name": "通用皮肤１",
         "assetbundleName": "mdl_sys_001_gen_gatelon"
     },
     {
         "id": 2,
-        "name": "通用皮膚２",
+        "name": "通用皮肤２",
         "assetbundleName": "mdl_sys_001_gen_gatelon"
     },
     {
         "id": 3,
-        "name": "通用皮膚３",
+        "name": "通用皮肤３",
         "assetbundleName": "mdl_sys_001_gen_gatelon"
     }
 ]

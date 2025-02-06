@@ -16,14 +16,14 @@
   {
     "id": 3,
     "areaId": 5,
-    "name": "星空图鉴",
+    "name": "星空圖鉴",
     "spawnPoint": "spawn-point3",
     "assetbundleName": "areaitem0503"
   },
   {
     "id": 4,
     "areaId": 5,
-    "name": "志步的贝斯",
+    "name": "志步的貝斯",
     "spawnPoint": "spawn-point4",
     "assetbundleName": "areaitem0504"
   },
@@ -44,7 +44,7 @@
   {
     "id": 7,
     "areaId": 7,
-    "name": "粉丝制作的爱莉团扇",
+    "name": "粉丝制作的爱莉團扇",
     "spawnPoint": "spawn-point3",
     "assetbundleName": "areaitem0703"
   },
@@ -79,7 +79,7 @@
   {
     "id": 12,
     "areaId": 8,
-    "name": "两支麦克风",
+    "name": "兩支麦克风",
     "spawnPoint": "spawn-point4",
     "assetbundleName": "areaitem0804"
   },
@@ -191,14 +191,14 @@
   {
     "id": 28,
     "areaId": 5,
-    "name": "巡音流歌的贝斯",
+    "name": "巡音流歌的貝斯",
     "spawnPoint": "spawn-point6",
     "assetbundleName": "areaitem0506"
   },
   {
     "id": 29,
     "areaId": 9,
-    "name": "团长的表演手杖",
+    "name": "團长的表演手杖",
     "spawnPoint": "spawn-point6",
     "assetbundleName": "areaitem0906"
   },

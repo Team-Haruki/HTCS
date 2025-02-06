@@ -3,45 +3,45 @@
         "id": 1,
         "seq": 1,
         "mysekaiItemType": "white_blueprint",
-        "name": "白紙的設計圖",
+        "name": "空白的设计圖",
         "pronunciation": "はくしのせっけいず",
-        "description": "還是全新的設計圖，可以素描其他人的「世界」中的家具。",
+        "description": "还是全新的设计圖，可以描绘其他人的「世界」中的家具。",
         "iconAssetbundleName": "item_blank_blueprint"
     },
     {
         "id": 2,
         "seq": 2,
         "mysekaiItemType": "surplus_blueprint",
-        "name": "多餘的設計圖",
+        "name": "多余的设计圖",
         "pronunciation": "あまったせっけいず",
-        "description": "已經擁有的設計圖的殘餘，能用轉換機器轉換為其他設計圖。",
+        "description": "已经拥有的设计圖的残余，能用转换机转换为其他设计圖。",
         "iconAssetbundleName": "item_surplus_blueprint"
     },
     {
         "id": 5,
         "seq": 5,
         "mysekaiItemType": "surplus_music_record",
-        "name": "多餘的唱片",
+        "name": "多余的唱片",
         "pronunciation": "あまったれこーど",
-        "description": "已經擁有的唱片的殘餘，能用轉換機器轉換為其他唱片。",
+        "description": "已经拥有的唱片的残余，能用转换机转换为其他唱片。",
         "iconAssetbundleName": "item_surplus_music_record"
     },
     {
         "id": 6,
         "seq": 6,
         "mysekaiItemType": "mysekai_photo_film",
-        "name": "照片膠卷",
+        "name": "照片胶卷",
         "pronunciation": "ふぉとふぃるむ",
-        "description": "沖洗照片所需的膠卷，拍攝照片時必須。",
+        "description": "冲洗照片所需的胶卷，拍摄照片时必须。",
         "iconAssetbundleName": "item_photofilm"
     },
     {
         "id": 7,
         "seq": 7,
         "mysekaiItemType": "blueprint_fragment",
-        "name": "設計圖的碎片",
+        "name": "设计圖的碎片",
         "pronunciation": "せっけいずのきれはし",
-        "description": "設計圖的碎片，收集後可用轉換機器轉換為隨機設計圖。",
+        "description": "设计圖的碎片，收集后可用转换机器转换为随机设计圖。",
         "iconAssetbundleName": "item_blueprint_fragment"
     }
 ]

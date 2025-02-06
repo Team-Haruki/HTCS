@@ -5,7 +5,7 @@
         "beginnerMissionType": "read_unit_story_theme_park",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞Wonderlands×Showtime的序幕吧。",
+        "sentence": "观赏Wonderlands×Showtime的序幕。",
         "rewards": [
             {
                 "id": 28,
@@ -22,7 +22,7 @@
         "beginnerMissionType": "read_unit_story_idol",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞MORE MORE JUMP！的序幕吧。",
+        "sentence": "观赏MORE MORE JUMP！的序幕。",
         "rewards": [
             {
                 "id": 29,
@@ -39,7 +39,7 @@
         "beginnerMissionType": "read_unit_story_street",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞Vivid BAD SQUAD的序幕吧。",
+        "sentence": "观赏Vivid BAD SQUAD的序幕。",
         "rewards": [
             {
                 "id": 30,
@@ -56,7 +56,7 @@
         "beginnerMissionType": "read_unit_story_light_sound",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞Leo\/need的序幕吧。",
+        "sentence": "观赏Leo\/need的序幕。",
         "rewards": [
             {
                 "id": 31,
@@ -73,7 +73,7 @@
         "beginnerMissionType": "read_unit_story_school_refusal",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞25點，Nightcord見。的序幕吧。",
+        "sentence": "观赏25点，Nightcord见。的序幕。",
         "rewards": [
             {
                 "id": 32,
@@ -90,7 +90,7 @@
         "beginnerMissionType": "read_unit_story_piapro",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "觀賞虛擬歌手的劇情吧。",
+        "sentence": "观赏虚拟歌手的剧情。",
         "rewards": [
             {
                 "id": 33,
@@ -107,7 +107,7 @@
         "beginnerMissionType": "clear_multi_live",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "通過1次多人LIVE吧。",
+        "sentence": "通过1次多人演出。",
         "rewards": [
             {
                 "id": 34,
@@ -124,7 +124,7 @@
         "beginnerMissionType": "buy_music",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "在唱片行交換歌曲吧。",
+        "sentence": "在音乐商店交换歌曲。",
         "rewards": [
             {
                 "id": 35,
@@ -141,7 +141,7 @@
         "beginnerMissionType": "make_costume_3d",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "製作演出服裝吧。",
+        "sentence": "制作演出服装。",
         "rewards": [
             {
                 "id": 37,
@@ -158,7 +158,7 @@
         "beginnerMissionType": "buy_area_item",
         "beginnerMissionCategory": "normal",
         "requirement": 1,
-        "sentence": "交換區域道具吧。",
+        "sentence": "交换区域道具。",
         "rewards": [
             {
                 "id": 38,
@@ -175,7 +175,7 @@
         "beginnerMissionType": "achieve_beginner_mission",
         "beginnerMissionCategory": "special",
         "requirement": 10,
-        "sentence": "通過所有的起跑衝刺任務吧。",
+        "sentence": "通过所有的起跑冲刺任务。",
         "rewards": [
             {
                 "id": 40,
