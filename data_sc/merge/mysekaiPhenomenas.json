@@ -14,9 +14,9 @@
     {
         "id": 2,
         "mysekaiPhenomenaBrightnessType": "bright",
-        "name": "黄昏",
+        "name": "傍晚",
         "englishName": "EVENING",
-        "description": "黄昏",
+        "description": "傍晚",
         "mysekaiPhenomenaTimePeriodType": "evening",
         "mysekaiPhenomenaBackgroundColorId": 2,
         "assetbundleName": "002_evening",
@@ -38,9 +38,9 @@
     {
         "id": 4,
         "mysekaiPhenomenaBrightnessType": "bright",
-        "name": "夏日",
+        "name": "夏天",
         "englishName": "FINE",
-        "description": "夏日",
+        "description": "夏天",
         "mysekaiPhenomenaTimePeriodType": "daytime",
         "mysekaiPhenomenaBackgroundColorId": 1,
         "assetbundleName": "004_fine",
@@ -84,11 +84,23 @@
         "iconAssetbundleName": "env_rainnight"
     },
     {
+        "id": 8,
+        "mysekaiPhenomenaBrightnessType": "dark",
+        "name": "雷电",
+        "englishName": "THUNDER",
+        "description": "雷电",
+        "mysekaiPhenomenaTimePeriodType": "night",
+        "mysekaiPhenomenaBackgroundColorId": 3,
+        "assetbundleName": "008_thunder",
+        "rampTextureAssetbundleName": "008_thunder",
+        "iconAssetbundleName": "env_thunder"
+    },
+    {
         "id": 9,
         "mysekaiPhenomenaBrightnessType": "none",
-        "name": "流星群",
+        "name": "流星雨",
         "englishName": "METEOR SHOWER",
-        "description": "流星群",
+        "description": "流星雨",
         "mysekaiPhenomenaTimePeriodType": "night",
         "mysekaiPhenomenaBackgroundColorId": 3,
         "assetbundleName": "009_meteorshower",
@@ -98,9 +110,9 @@
     {
         "id": 10,
         "mysekaiPhenomenaBrightnessType": "none",
-        "name": "下雪",
+        "name": "雪天",
         "englishName": "SNOW",
-        "description": "下雪",
+        "description": "雪天",
         "mysekaiPhenomenaTimePeriodType": "daytime",
         "mysekaiPhenomenaBackgroundColorId": 4,
         "assetbundleName": "010_snow",
@@ -118,5 +130,41 @@
         "assetbundleName": "011_snownight",
         "rampTextureAssetbundleName": "011_snownight",
         "iconAssetbundleName": "env_snownight"
+    },
+    {
+        "id": 14,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "セカイ",
+        "englishName": "SEKAI",
+        "description": "せかい",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 5,
+        "assetbundleName": "014_sekai",
+        "rampTextureAssetbundleName": "014_sekai",
+        "iconAssetbundleName": "env_sekai"
+    },
+    {
+        "id": 15,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "雲",
+        "englishName": "CLOUD",
+        "description": "くも",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 5,
+        "assetbundleName": "015_cloud",
+        "rampTextureAssetbundleName": "015_cloud",
+        "iconAssetbundleName": "env_cloud"
+    },
+    {
+        "id": 17,
+        "mysekaiPhenomenaBrightnessType": "none",
+        "name": "彩虹",
+        "englishName": "RAINBOW",
+        "description": "彩虹",
+        "mysekaiPhenomenaTimePeriodType": "daytime",
+        "mysekaiPhenomenaBackgroundColorId": 5,
+        "assetbundleName": "017_rainbow",
+        "rampTextureAssetbundleName": "017_rainbow",
+        "iconAssetbundleName": "env_rainbow"
     }
 ]

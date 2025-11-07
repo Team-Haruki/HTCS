@@ -96,7 +96,7 @@
         "displayTimelineType": "all",
         "additionalAreaType": "none",
         "name": "奇幻乐园「世界」",
-        "subName": "遊樂園",
+        "subName": "游乐园",
         "releaseConditionId": 1
     },
     {
@@ -121,7 +121,7 @@
         "viewType": "side_view",
         "displayTimelineType": "all",
         "additionalAreaType": "none",
-        "name": "神山高中",
+        "name": "神山高校",
         "releaseConditionId": 1
     },
     {
@@ -216,7 +216,7 @@
         "displayTimelineType": "next_grade",
         "additionalAreaType": "none",
         "name": "舞台「世界」",
-        "subName": "花圃",
+        "subName": "花田",
         "startAt": 1716289200000,
         "releaseConditionId": 112905,
         "releaseConditionId2": 113900
@@ -319,9 +319,37 @@
         "viewType": "side_view",
         "displayTimelineType": "next_grade",
         "additionalAreaType": "out_of_ring",
-        "name": "開かれた窓のセカイ",
+        "name": "窗扉打开的「世界」",
         "startAt": 1737039600000,
         "endAt": 4102412399000,
         "releaseConditionId": 2000000
+    },
+    {
+        "id": 26,
+        "assetbundleName": "area26",
+        "groupId": 210,
+        "isBaseArea": true,
+        "areaType": "reality_world",
+        "viewType": "side_view",
+        "displayTimelineType": "next_grade",
+        "additionalAreaType": "collaboration",
+        "name": "ASTRO FES会场",
+        "startAt": 1739599200000,
+        "endAt": 1740402000000,
+        "releaseConditionId": 1
+    },
+    {
+        "id": 27,
+        "assetbundleName": "area27",
+        "groupId": 300,
+        "isBaseArea": true,
+        "areaType": "spirit_world",
+        "viewType": "side_view",
+        "displayTimelineType": "next_grade",
+        "additionalAreaType": "center_of_ring",
+        "name": "？？？のセカイ",
+        "startAt": 1759057200000,
+        "releaseConditionId": 117902,
+        "releaseConditionId2": 1
     }
 ]

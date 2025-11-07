@@ -25,13 +25,13 @@
     },
     {
         "id": 5,
-        "name": "柜子",
+        "name": "置物类",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_closet"
     },
     {
         "id": 7,
-        "name": "盆栽植物",
+        "name": "观叶植物",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_house_plants"
     },
@@ -55,7 +55,7 @@
     },
     {
         "id": 11,
-        "name": "盆栽植物",
+        "name": "观叶植物",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_house_plants"
     },
@@ -73,13 +73,13 @@
     },
     {
         "id": 14,
-        "name": "墙挂",
+        "name": "挂壁类",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_wall_furniture"
     },
     {
         "id": 15,
-        "name": "收藏品",
+        "name": "收藏",
         "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_all",
         "assetbundleName": "icon_all"
     },
@@ -97,7 +97,7 @@
     },
     {
         "id": 18,
-        "name": "画布",
+        "name": "装饰画",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_canvas"
     },
@@ -109,13 +109,13 @@
     },
     {
         "id": 20,
-        "name": "地板材料",
+        "name": "地材",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_floor"
     },
     {
         "id": 21,
-        "name": "地毯",
+        "name": "绒毯",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_rug"
     },
@@ -133,7 +133,7 @@
     },
     {
         "id": 24,
-        "name": "建筑物",
+        "name": "建筑",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_house"
     },
@@ -151,19 +151,19 @@
     },
     {
         "id": 27,
-        "name": "斧头",
+        "name": "斧子",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_axe"
     },
     {
         "id": 28,
-        "name": "镐",
+        "name": "十字镐",
         "mysekaiFixtureSubGenreType": "none",
         "assetbundleName": "icon_pickaxe"
     },
     {
         "id": 29,
-        "name": "应援灯",
+        "name": "应援棒",
         "mysekaiFixtureSubGenreType": "penlight",
         "assetbundleName": "icon_penlight"
     },
@@ -190,5 +190,11 @@
         "name": "其他",
         "mysekaiFixtureSubGenreType": "custom_profile_resource_collection_other",
         "assetbundleName": "icon_others"
+    },
+    {
+        "id": 34,
+        "name": "彩色地砖",
+        "mysekaiFixtureSubGenreType": "none",
+        "assetbundleName": "icon_road_color"
     }
 ]

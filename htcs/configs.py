@@ -9,7 +9,7 @@ merge_keys = {
     'beginnerMissions': ['sentence'],
     'beginnerMissionV2s': ['sentence'],
     'boostItems': ['name', 'flavorText'],
-    'cards': ['cardSkillName', 'prefix', 'gachaPhrase'],
+    'cards': ['cardSkillName', 'prefix', 'gachaPhrase', 'specialTrainingSkillName'],
     'characterArchiveVoices': ['displayPhrase', 'displayPhrase2'],
     'characterMissionV2s': ['sentence', 'progressSentence'],
     'costume2dGroups': ['name'],
@@ -61,7 +61,7 @@ merge_keys = {
     'mysekaiCharacterTalkTweets': ['text']
 }
 replace_keys = [
-    'areaItemLevels',
+    # 'areaItemLevels',
     'areaItems',
     'characterArchiveVoiceTags',
     'characterProfiles',

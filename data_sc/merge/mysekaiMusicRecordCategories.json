@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "BGM",
+        "name": "背景音乐",
         "seq": 1,
         "mysekaiMusicTrackType": "music_sound_track",
         "unit": "none"

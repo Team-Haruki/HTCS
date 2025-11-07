@@ -98,7 +98,7 @@
     {
         "id": 13,
         "seq": 140,
-        "name": "[初音未来16周年纪念]庆祝蛋糕",
+        "name": "[ミク16周年記念]お祝いミクケーキ",
         "recoveryValue": 10,
         "assetBundleName": "boost_item13",
         "flavorText": "恢复10演出能量。"
@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "seq": 10,
+        "seq": 155,
         "name": "3900's能量饮料（大）",
         "recoveryValue": 10,
         "assetBundleName": "boost_item15",
@@ -122,7 +122,7 @@
     {
         "id": 16,
         "seq": 160,
-        "name": "[4周年纪念]纪念演出能量瓶子",
+        "name": "[4周年記念]メモリアルライブボーナスボトル",
         "recoveryValue": 99,
         "assetBundleName": "boost_item16",
         "flavorText": "恢复99演出能量。"
@@ -130,49 +130,89 @@
     {
         "id": 17,
         "seq": 170,
-        "name": "映画館の純白ソルトポップコーン",
+        "name": "电影院的雪白盐味爆米花",
         "recoveryValue": 10,
         "assetBundleName": "boost_item17",
-        "flavorText": "ライブボーナスを10回復する。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 18,
         "seq": 180,
-        "name": "映画館の爽やかシュワシュワソーダ",
+        "name": "电影院的清爽气泡苏打水",
         "recoveryValue": 10,
         "assetBundleName": "boost_item18",
-        "flavorText": "ライブボーナスを10回復する。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 19,
         "seq": 190,
-        "name": "映画館のあまあまメロンアイス",
+        "name": "电影院的香甜蜜瓜冰淇淋",
         "recoveryValue": 10,
         "assetBundleName": "boost_item19",
-        "flavorText": "ライブボーナスを10回復する。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 20,
         "seq": 200,
-        "name": "映画館のアツアツヒートホットドッグ",
+        "name": "电影院的滋滋冒油热狗",
         "recoveryValue": 10,
         "assetBundleName": "boost_item20",
-        "flavorText": "ライブボーナスを10回復する。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 21,
         "seq": 210,
-        "name": "映画館の揚げたてワンダフルポテト",
+        "name": "电影院的现炸奇幻薯条",
         "recoveryValue": 10,
         "assetBundleName": "boost_item21",
-        "flavorText": "ライブボーナスを10回復する。"
+        "flavorText": "恢复10演出能量。"
     },
     {
         "id": 22,
         "seq": 220,
-        "name": "映画館のほろ苦ダークチョコチュリトス",
+        "name": "电影院的微苦黑巧克力吉事果",
         "recoveryValue": 10,
         "assetBundleName": "boost_item22",
+        "flavorText": "恢复10演出能量。"
+    },
+    {
+        "id": 23,
+        "seq": 230,
+        "name": "ASTRO DRINK",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item23",
+        "flavorText": "恢复10演出能量。"
+    },
+    {
+        "id": 24,
+        "seq": 240,
+        "name": "霊夢のお茶",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item24",
+        "flavorText": "ライブボーナスを10回復する。"
+    },
+    {
+        "id": 25,
+        "seq": 250,
+        "name": "テストイベント用ライブボーナスドリンク（大）",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item25",
+        "flavorText": "ライブボーナスを10回復する。\n※テストイベント終了後、メンテナンスにて回収します。"
+    },
+    {
+        "id": 26,
+        "seq": 260,
+        "name": "卢布朗的咖喱套餐",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item26",
+        "flavorText": "恢复10演出能量。"
+    },
+    {
+        "id": 27,
+        "seq": 270,
+        "name": "おにぎり",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item27",
         "flavorText": "ライブボーナスを10回復する。"
     }
 ]

@@ -28,7 +28,22 @@ async def master_handler(original_master: Dict) -> Dict:
                         if item['id'] in modified_data_map:
                             for merge_key in keys_to_merge:
                                 if merge_key in modified_data_map[item['id']]:
-                                    item[merge_key] = modified_data_map[item['id']][merge_key]
+                                    lower_case = modified_data_map[item['id']][merge_key].lower()
+                                    if not ("happy birthday" in lower_case or "happy anniversary" in lower_case
+                                        or "2020" in lower_case
+                                        or "2021" in lower_case
+                                        or "2022" in lower_case
+                                        or "2023" in lower_case
+                                        or "2024" in lower_case
+                                        or "2025" in lower_case
+                                        or "2026" in lower_case
+                                        or "2027" in lower_case
+                                        or "2028" in lower_case
+                                        or "生日快乐" in lower_case
+                                        or "周年" in lower_case
+                                        or "新年" in lower_case
+                                    ):
+                                        item[merge_key] = modified_data_map[item['id']][merge_key]
             case MasterType.WORDINGS.value:
                 modified_file_path = os.path.join(modified_master_dir, 'merge', f"{key}.json")
                 tw_wordings = await load_data(modified_file_path)

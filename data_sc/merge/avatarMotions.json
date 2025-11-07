@@ -330,7 +330,7 @@
     {
         "id": 42,
         "seq": 42,
-        "name": "マイセカイアイドル",
+        "name": "我的「世界」偶像",
         "syncMusicFlg": false,
         "repeatCount": 1,
         "assetbundleName": "c_000_mov_idle_00"
@@ -338,7 +338,7 @@
     {
         "id": 43,
         "seq": 43,
-        "name": "マイセカイダッシュ",
+        "name": "我的「世界」冲刺",
         "syncMusicFlg": false,
         "repeatCount": 1,
         "assetbundleName": "mov_u000_site_run001_o"
@@ -346,7 +346,7 @@
     {
         "id": 44,
         "seq": 44,
-        "name": "マイセカイ歩く",
+        "name": "我的「世界」漫步",
         "syncMusicFlg": false,
         "repeatCount": 1,
         "assetbundleName": "mov_u000_site_walk001_o"

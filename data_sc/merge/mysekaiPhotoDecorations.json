@@ -1,86 +1,86 @@
 [
     {
         "id": 1,
-        "name": "音符白框",
+        "name": "音符白边框",
         "seq": 1,
-        "description": "音符白框",
+        "description": "音符白边框",
         "assetbundleName": "decoflame_simple_0001"
     },
     {
         "id": 2,
-        "name": "星星蓝框",
+        "name": "星空蓝边框",
         "seq": 2,
-        "description": "星星蓝框",
+        "description": "星空蓝边框",
         "assetbundleName": "decoflame_unit_0001"
     },
     {
         "id": 3,
-        "name": "四叶草绿框",
+        "name": "三叶草绿边框",
         "seq": 3,
-        "description": "四叶草绿框",
+        "description": "三叶草绿边框",
         "assetbundleName": "decoflame_unit_0002"
     },
     {
         "id": 4,
-        "name": "鲜艳红框",
+        "name": "Vivid红边框",
         "seq": 4,
-        "description": "鲜艳红框",
+        "description": "Vivid红边框",
         "assetbundleName": "decoflame_unit_0003"
     },
     {
         "id": 5,
-        "name": "奇妙橙框",
+        "name": "Wonder橙边框",
         "seq": 5,
-        "description": "奇妙橙框",
+        "description": "Wonder橙边框",
         "assetbundleName": "decoflame_unit_0004"
     },
     {
         "id": 6,
-        "name": "夜晚紫框",
+        "name": "Night浅紫边框",
         "seq": 6,
-        "description": "夜晚紫框",
+        "description": "Night浅紫边框",
         "assetbundleName": "decoflame_unit_0005"
     },
     {
         "id": 8,
-        "name": "粉彩流行框",
+        "name": "粉彩时尚边框",
         "seq": 8,
-        "description": "粉彩流行框",
+        "description": "粉彩时尚边框",
         "assetbundleName": "decoflame_theme_0001"
     },
     {
         "id": 9,
-        "name": "直播风框",
+        "name": "直播风格边框",
         "seq": 9,
-        "description": "直播风框",
+        "description": "直播风格边框",
         "assetbundleName": "decoflame_theme_0002"
     },
     {
         "id": 10,
-        "name": "音乐播放器风框",
+        "name": "音乐播放器风格边框",
         "seq": 10,
-        "description": "音乐播放器风框",
+        "description": "音乐播放器风格边框",
         "assetbundleName": "decoflame_theme_0003"
     },
     {
         "id": 11,
-        "name": "复古浏览器风框",
+        "name": "复古浏览器风格边框",
         "seq": 11,
-        "description": "复古浏览器风框",
+        "description": "复古浏览器风格边框",
         "assetbundleName": "decoflame_theme_0004"
     },
     {
         "id": 12,
-        "name": "生日快乐框",
+        "name": "HappyBirthDayフレーム",
         "seq": 12,
-        "description": "生日快乐框",
+        "description": "HappyBirthDayフレーム",
         "assetbundleName": "decoflame_anv_0001"
     },
     {
         "id": 13,
-        "name": "周年纪念框",
+        "name": "纪念日快乐边框",
         "seq": 13,
-        "description": "周年纪念框",
+        "description": "纪念日快乐边框",
         "assetbundleName": "decoflame_anv_0002"
     }
 ]

@@ -148,7 +148,7 @@
         "seq": 8,
         "honorMissionType": "player_rank",
         "requirement": 700,
-        "sentence": "プレイヤーランクを700まで上げよう。",
+        "sentence": "将玩家等级提升至700级。",
         "rewards": [
             {
                 "id": 10300,
@@ -156,6 +156,22 @@
                 "missionId": 208,
                 "seq": 1,
                 "resourceBoxId": 1560
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "seq": 9,
+        "honorMissionType": "player_rank",
+        "requirement": 800,
+        "sentence": "プレイヤーランクを800まで上げよう。",
+        "rewards": [
+            {
+                "id": 14721,
+                "missionType": "honor_mission",
+                "missionId": 209,
+                "seq": 1,
+                "resourceBoxId": 1788
             }
         ]
     },
@@ -252,6 +268,22 @@
                 "missionId": 405,
                 "seq": 1,
                 "resourceBoxId": 1561
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "seq": 6,
+        "honorMissionType": "login_total",
+        "requirement": 2190,
+        "sentence": "累積で2190日ログインしよう。",
+        "rewards": [
+            {
+                "id": 14722,
+                "missionType": "honor_mission",
+                "missionId": 406,
+                "seq": 1,
+                "resourceBoxId": 1789
             }
         ]
     },
@@ -576,6 +608,166 @@
         ]
     },
     {
+        "id": 521,
+        "seq": 21,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 410,
+        "sentence": "アナザーボーカルを410曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14723,
+                "missionType": "honor_mission",
+                "missionId": 521,
+                "seq": 1,
+                "resourceBoxId": 1790
+            }
+        ]
+    },
+    {
+        "id": 522,
+        "seq": 22,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 440,
+        "sentence": "アナザーボーカルを440曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14724,
+                "missionType": "honor_mission",
+                "missionId": 522,
+                "seq": 1,
+                "resourceBoxId": 1791
+            }
+        ]
+    },
+    {
+        "id": 523,
+        "seq": 23,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 470,
+        "sentence": "アナザーボーカルを470曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14725,
+                "missionType": "honor_mission",
+                "missionId": 523,
+                "seq": 1,
+                "resourceBoxId": 1792
+            }
+        ]
+    },
+    {
+        "id": 524,
+        "seq": 24,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 500,
+        "sentence": "アナザーボーカルを500曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14726,
+                "missionType": "honor_mission",
+                "missionId": 524,
+                "seq": 1,
+                "resourceBoxId": 1793
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "seq": 25,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 530,
+        "sentence": "アナザーボーカルを530曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14727,
+                "missionType": "honor_mission",
+                "missionId": 525,
+                "seq": 1,
+                "resourceBoxId": 1794
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "seq": 26,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 560,
+        "sentence": "アナザーボーカルを560曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14728,
+                "missionType": "honor_mission",
+                "missionId": 526,
+                "seq": 1,
+                "resourceBoxId": 1795
+            }
+        ]
+    },
+    {
+        "id": 527,
+        "seq": 27,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 590,
+        "sentence": "アナザーボーカルを590曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14729,
+                "missionType": "honor_mission",
+                "missionId": 527,
+                "seq": 1,
+                "resourceBoxId": 1796
+            }
+        ]
+    },
+    {
+        "id": 528,
+        "seq": 28,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 620,
+        "sentence": "アナザーボーカルを620曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14730,
+                "missionType": "honor_mission",
+                "missionId": 528,
+                "seq": 1,
+                "resourceBoxId": 1797
+            }
+        ]
+    },
+    {
+        "id": 529,
+        "seq": 29,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 650,
+        "sentence": "アナザーボーカルを650曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14731,
+                "missionType": "honor_mission",
+                "missionId": 529,
+                "seq": 1,
+                "resourceBoxId": 1798
+            }
+        ]
+    },
+    {
+        "id": 530,
+        "seq": 30,
+        "honorMissionType": "collect_another_vocal",
+        "requirement": 680,
+        "sentence": "アナザーボーカルを680曲解放しよう。",
+        "rewards": [
+            {
+                "id": 14732,
+                "missionType": "honor_mission",
+                "missionId": 530,
+                "seq": 1,
+                "resourceBoxId": 1799
+            }
+        ]
+    },
+    {
         "id": 602,
         "seq": 1,
         "honorMissionType": "read_unit_story_no_skip",
@@ -612,7 +804,7 @@
         "seq": 1,
         "honorMissionType": "character_rank_all",
         "requirement": 5,
-        "sentence": "将所有角色的角色等级提升至5级。",
+        "sentence": "将所有角色的角色收藏等级提升至5级。",
         "rewards": [
             {
                 "id": 318,
@@ -628,7 +820,7 @@
         "seq": 2,
         "honorMissionType": "character_rank_all",
         "requirement": 10,
-        "sentence": "将所有角色的角色等级提升至10级。",
+        "sentence": "将所有角色的角色收藏等级提升至10级。",
         "rewards": [
             {
                 "id": 319,
@@ -644,7 +836,7 @@
         "seq": 3,
         "honorMissionType": "character_rank_all",
         "requirement": 15,
-        "sentence": "将所有角色的角色等级提升至15级。",
+        "sentence": "将所有角色的角色收藏等级提升至15级。",
         "rewards": [
             {
                 "id": 6229,
@@ -660,7 +852,7 @@
         "seq": 4,
         "honorMissionType": "character_rank_all",
         "requirement": 20,
-        "sentence": "将所有角色的角色等级提升至20级。",
+        "sentence": "将所有角色的角色收藏等级提升至20级。",
         "rewards": [
             {
                 "id": 6230,
@@ -676,7 +868,7 @@
         "seq": 5,
         "honorMissionType": "character_rank_all",
         "requirement": 30,
-        "sentence": "将所有角色的角色等级提升至30级。",
+        "sentence": "将所有角色的角色收藏等级提升至30级。",
         "rewards": [
             {
                 "id": 6231,
@@ -692,7 +884,7 @@
         "seq": 6,
         "honorMissionType": "character_rank_all",
         "requirement": 40,
-        "sentence": "将所有角色的角色等级提升至40级。",
+        "sentence": "将所有角色的角色收藏等级提升至40级。",
         "rewards": [
             {
                 "id": 6232,
@@ -708,7 +900,7 @@
         "seq": 7,
         "honorMissionType": "character_rank_all",
         "requirement": 50,
-        "sentence": "将所有角色的角色等级提升至50级。",
+        "sentence": "将所有角色的角色收藏等级提升至50级。",
         "rewards": [
             {
                 "id": 6233,
@@ -724,7 +916,7 @@
         "seq": 8,
         "honorMissionType": "character_rank_all",
         "requirement": 60,
-        "sentence": "将所有角色的角色等级提升至60级。",
+        "sentence": "将所有角色的角色收藏等级提升至60级。",
         "rewards": [
             {
                 "id": 6234,
@@ -740,7 +932,7 @@
         "seq": 9,
         "honorMissionType": "character_rank_all",
         "requirement": 70,
-        "sentence": "将所有角色的角色等级提升至70级。",
+        "sentence": "将所有角色的角色收藏等级提升至70级。",
         "rewards": [
             {
                 "id": 6235,
@@ -756,7 +948,7 @@
         "seq": 10,
         "honorMissionType": "character_rank_all",
         "requirement": 80,
-        "sentence": "将所有角色的角色等级提升至80级。",
+        "sentence": "将所有角色的角色收藏等级提升至80级。",
         "rewards": [
             {
                 "id": 6236,
@@ -772,7 +964,7 @@
         "seq": 11,
         "honorMissionType": "character_rank_all",
         "requirement": 90,
-        "sentence": "将所有角色的角色等级提升至90级。",
+        "sentence": "将所有角色的角色收藏等级提升至90级。",
         "rewards": [
             {
                 "id": 6237,
@@ -788,7 +980,7 @@
         "seq": 12,
         "honorMissionType": "character_rank_all",
         "requirement": 100,
-        "sentence": "将所有角色的角色等级提升至100级。",
+        "sentence": "将所有角色的角色收藏等级提升至100级。",
         "rewards": [
             {
                 "id": 6238,
@@ -1396,7 +1588,7 @@
         "seq": 1,
         "honorMissionType": "clear_multi_live_full_combo_all",
         "requirement": 1,
-        "sentence": "在“多人演出·欢乐演出”中5人全部达成FULL COMBO。",
+        "sentence": "在“多人演出”中5人全部达成FULL COMBO。",
         "rewards": [
             {
                 "id": 333,
@@ -1428,7 +1620,7 @@
         "seq": 1,
         "honorMissionType": "multi_live_same_honor",
         "requirement": 1,
-        "sentence": "在“多人演出·欢乐演出”中5人均装备至少1个相同称号。",
+        "sentence": "在“多人演出”中5人均装备至少1个相同称号。",
         "rewards": [
             {
                 "id": 335,
@@ -1444,7 +1636,7 @@
         "seq": 1,
         "honorMissionType": "multi_live_stamp",
         "requirement": 1000,
-        "sentence": "在“多人演出·欢乐演出、排位赛”中发送1000次表情。",
+        "sentence": "在“多人演出、排位赛”中发送1000次表情。",
         "rewards": [
             {
                 "id": 336,
@@ -1508,7 +1700,7 @@
         "seq": 1,
         "honorMissionType": "read_story_no_skip",
         "requirement": 100,
-        "sentence": "不使用跳过或快进功能，观看100话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看100话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 340,
@@ -1524,7 +1716,7 @@
         "seq": 2,
         "honorMissionType": "read_story_no_skip",
         "requirement": 200,
-        "sentence": "不使用跳过或快进功能，观看200话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看200话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6259,
@@ -1540,7 +1732,7 @@
         "seq": 3,
         "honorMissionType": "read_story_no_skip",
         "requirement": 300,
-        "sentence": "不使用跳过或快进功能，观看300话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看300话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6260,
@@ -1556,7 +1748,7 @@
         "seq": 4,
         "honorMissionType": "read_story_no_skip",
         "requirement": 400,
-        "sentence": "不使用跳过或快进功能，观看400话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看400话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6261,
@@ -1572,7 +1764,7 @@
         "seq": 5,
         "honorMissionType": "read_story_no_skip",
         "requirement": 500,
-        "sentence": "不使用跳过或快进功能，观看500话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看500话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6262,
@@ -1588,7 +1780,7 @@
         "seq": 6,
         "honorMissionType": "read_story_no_skip",
         "requirement": 600,
-        "sentence": "不使用跳过或快进功能，观看600话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看600话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6263,
@@ -1604,7 +1796,7 @@
         "seq": 7,
         "honorMissionType": "read_story_no_skip",
         "requirement": 700,
-        "sentence": "不使用跳过或快进功能，观看700话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看700话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6264,
@@ -1620,7 +1812,7 @@
         "seq": 8,
         "honorMissionType": "read_story_no_skip",
         "requirement": 800,
-        "sentence": "不使用跳过或快进功能，观看800话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看800话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6265,
@@ -1636,7 +1828,7 @@
         "seq": 9,
         "honorMissionType": "read_story_no_skip",
         "requirement": 900,
-        "sentence": "不使用跳过或快进功能，观看900话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看900话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6266,
@@ -1652,7 +1844,7 @@
         "seq": 10,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1000,
-        "sentence": "不使用跳过或快进功能，观看1000话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1000话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6267,
@@ -1668,7 +1860,7 @@
         "seq": 11,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1100,
-        "sentence": "不使用跳过或快进功能，观看1100话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1100话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 6268,
@@ -1684,7 +1876,7 @@
         "seq": 12,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1200,
-        "sentence": "不使用跳过或快进功能，观看1200话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1200话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10285,
@@ -1700,7 +1892,7 @@
         "seq": 13,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1300,
-        "sentence": "不使用跳过或快进功能，观看1300话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1300话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10286,
@@ -1716,7 +1908,7 @@
         "seq": 14,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1400,
-        "sentence": "不使用跳过或快进功能，观看1400话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1400话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10287,
@@ -1732,7 +1924,7 @@
         "seq": 15,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1500,
-        "sentence": "不使用跳过或快进功能，观看1500话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1500话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10288,
@@ -1748,7 +1940,7 @@
         "seq": 16,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1600,
-        "sentence": "不使用跳过或快进功能，观看1600话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1600话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10289,
@@ -1764,7 +1956,7 @@
         "seq": 17,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1700,
-        "sentence": "不使用跳过或快进功能，观看1700话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1700话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10290,
@@ -1780,7 +1972,7 @@
         "seq": 18,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1800,
-        "sentence": "不使用跳过或快进功能，观看1800话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1800话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10291,
@@ -1796,7 +1988,7 @@
         "seq": 19,
         "honorMissionType": "read_story_no_skip",
         "requirement": 1900,
-        "sentence": "不使用跳过或快进功能，观看1900话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看1900话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10292,
@@ -1812,7 +2004,7 @@
         "seq": 20,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2000,
-        "sentence": "不使用跳过或快进功能，观看2000话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2000话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10293,
@@ -1828,7 +2020,7 @@
         "seq": 21,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2100,
-        "sentence": "不使用跳过或快进功能，观看2100话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2100话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10294,
@@ -1844,7 +2036,7 @@
         "seq": 22,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2200,
-        "sentence": "不使用跳过或快进功能，观看2200话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2200话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10295,
@@ -1860,7 +2052,7 @@
         "seq": 23,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2300,
-        "sentence": "不使用跳过或快进功能，观看2300话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2300话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10296,
@@ -1876,7 +2068,7 @@
         "seq": 24,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2400,
-        "sentence": "不使用跳过或快进功能，观看2400话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2400话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10297,
@@ -1892,7 +2084,7 @@
         "seq": 25,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2500,
-        "sentence": "不使用跳过或快进功能，观看2500话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2500话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10298,
@@ -1908,7 +2100,7 @@
         "seq": 26,
         "honorMissionType": "read_story_no_skip",
         "requirement": 2600,
-        "sentence": "不使用跳过或快进功能，观看2600话“主线剧情”、“活动剧情”或“角色剧情”。",
+        "sentence": "不使用跳过或快进功能，观看2600话“主线剧情”、“活动剧情”或“卡牌剧情”。",
         "rewards": [
             {
                 "id": 10299,
@@ -2036,7 +2228,7 @@
         "seq": 1,
         "honorMissionType": "multi_live_mvp",
         "requirement": 100,
-        "sentence": "在“多人演出·欢乐演出”中获得100次“MVP”。",
+        "sentence": "在“多人演出”中获得100次“MVP”。",
         "rewards": [
             {
                 "id": 346,
@@ -2052,7 +2244,7 @@
         "seq": 1,
         "honorMissionType": "multi_live_super_star",
         "requirement": 100,
-        "sentence": "在“多人演出·欢乐演出”中获得100次“SUPER STAR”。",
+        "sentence": "在“多人演出”中获得100次“SUPER STAR”。",
         "rewards": [
             {
                 "id": 347,
@@ -2068,7 +2260,7 @@
         "seq": 1,
         "honorMissionType": "collect_costume_3d",
         "requirement": 50,
-        "sentence": "获得50种服装。\n（包含获得成员时的原版服装，专家等级养成的其他颜色版本，通过服装商店制作）",
+        "sentence": "获得50种服装。\n（获得成员时的原版,专家等级养成的其他颜色版本,服装店制作的服装）",
         "rewards": [
             {
                 "id": 348,
@@ -3556,7 +3748,7 @@
         "seq": 1,
         "honorMissionType": "clear_multi_live_all_friend",
         "requirement": 1,
-        "sentence": "与4名好友一起游玩1次“多人演出·欢乐演出”。",
+        "sentence": "与4名好友一起游玩1次“多人演出”。",
         "rewards": [
             {
                 "id": 961,
@@ -4528,6 +4720,326 @@
         ]
     },
     {
+        "id": 10061,
+        "seq": 61,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 600,
+        "sentence": "難易度EASYで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5667,
+                "missionType": "honor_mission",
+                "missionId": 10061,
+                "seq": 1,
+                "resourceBoxId": 10061
+            }
+        ]
+    },
+    {
+        "id": 10062,
+        "seq": 62,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 610,
+        "sentence": "難易度EASYで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5668,
+                "missionType": "honor_mission",
+                "missionId": 10062,
+                "seq": 1,
+                "resourceBoxId": 10062
+            }
+        ]
+    },
+    {
+        "id": 10063,
+        "seq": 63,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 620,
+        "sentence": "難易度EASYで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5669,
+                "missionType": "honor_mission",
+                "missionId": 10063,
+                "seq": 1,
+                "resourceBoxId": 10063
+            }
+        ]
+    },
+    {
+        "id": 10064,
+        "seq": 64,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 630,
+        "sentence": "難易度EASYで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5670,
+                "missionType": "honor_mission",
+                "missionId": 10064,
+                "seq": 1,
+                "resourceBoxId": 10064
+            }
+        ]
+    },
+    {
+        "id": 10065,
+        "seq": 65,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 640,
+        "sentence": "難易度EASYで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5671,
+                "missionType": "honor_mission",
+                "missionId": 10065,
+                "seq": 1,
+                "resourceBoxId": 10065
+            }
+        ]
+    },
+    {
+        "id": 10066,
+        "seq": 66,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 650,
+        "sentence": "難易度EASYで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5672,
+                "missionType": "honor_mission",
+                "missionId": 10066,
+                "seq": 1,
+                "resourceBoxId": 10066
+            }
+        ]
+    },
+    {
+        "id": 10067,
+        "seq": 67,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 660,
+        "sentence": "難易度EASYで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5673,
+                "missionType": "honor_mission",
+                "missionId": 10067,
+                "seq": 1,
+                "resourceBoxId": 10067
+            }
+        ]
+    },
+    {
+        "id": 10068,
+        "seq": 68,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 670,
+        "sentence": "難易度EASYで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5674,
+                "missionType": "honor_mission",
+                "missionId": 10068,
+                "seq": 1,
+                "resourceBoxId": 10068
+            }
+        ]
+    },
+    {
+        "id": 10069,
+        "seq": 69,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 680,
+        "sentence": "難易度EASYで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5675,
+                "missionType": "honor_mission",
+                "missionId": 10069,
+                "seq": 1,
+                "resourceBoxId": 10069
+            }
+        ]
+    },
+    {
+        "id": 10070,
+        "seq": 70,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 690,
+        "sentence": "難易度EASYで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5676,
+                "missionType": "honor_mission",
+                "missionId": 10070,
+                "seq": 1,
+                "resourceBoxId": 10070
+            }
+        ]
+    },
+    {
+        "id": 10071,
+        "seq": 71,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 700,
+        "sentence": "難易度EASYで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5677,
+                "missionType": "honor_mission",
+                "missionId": 10071,
+                "seq": 1,
+                "resourceBoxId": 10071
+            }
+        ]
+    },
+    {
+        "id": 10072,
+        "seq": 72,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 710,
+        "sentence": "難易度EASYで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5678,
+                "missionType": "honor_mission",
+                "missionId": 10072,
+                "seq": 1,
+                "resourceBoxId": 10072
+            }
+        ]
+    },
+    {
+        "id": 10073,
+        "seq": 73,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 720,
+        "sentence": "難易度EASYで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5679,
+                "missionType": "honor_mission",
+                "missionId": 10073,
+                "seq": 1,
+                "resourceBoxId": 10073
+            }
+        ]
+    },
+    {
+        "id": 10074,
+        "seq": 74,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 730,
+        "sentence": "難易度EASYで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5680,
+                "missionType": "honor_mission",
+                "missionId": 10074,
+                "seq": 1,
+                "resourceBoxId": 10074
+            }
+        ]
+    },
+    {
+        "id": 10075,
+        "seq": 75,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 740,
+        "sentence": "難易度EASYで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5681,
+                "missionType": "honor_mission",
+                "missionId": 10075,
+                "seq": 1,
+                "resourceBoxId": 10075
+            }
+        ]
+    },
+    {
+        "id": 10076,
+        "seq": 76,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 750,
+        "sentence": "難易度EASYで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5682,
+                "missionType": "honor_mission",
+                "missionId": 10076,
+                "seq": 1,
+                "resourceBoxId": 10076
+            }
+        ]
+    },
+    {
+        "id": 10077,
+        "seq": 77,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 760,
+        "sentence": "難易度EASYで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5683,
+                "missionType": "honor_mission",
+                "missionId": 10077,
+                "seq": 1,
+                "resourceBoxId": 10077
+            }
+        ]
+    },
+    {
+        "id": 10078,
+        "seq": 78,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 770,
+        "sentence": "難易度EASYで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5684,
+                "missionType": "honor_mission",
+                "missionId": 10078,
+                "seq": 1,
+                "resourceBoxId": 10078
+            }
+        ]
+    },
+    {
+        "id": 10079,
+        "seq": 79,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 780,
+        "sentence": "難易度EASYで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5685,
+                "missionType": "honor_mission",
+                "missionId": 10079,
+                "seq": 1,
+                "resourceBoxId": 10079
+            }
+        ]
+    },
+    {
+        "id": 10080,
+        "seq": 80,
+        "honorMissionType": "easy_full_combo",
+        "requirement": 790,
+        "sentence": "難易度EASYで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5686,
+                "missionType": "honor_mission",
+                "missionId": 10080,
+                "seq": 1,
+                "resourceBoxId": 10080
+            }
+        ]
+    },
+    {
         "id": 11001,
         "seq": 1,
         "honorMissionType": "normal_full_combo",
@@ -5484,6 +5996,326 @@
                 "missionId": 11060,
                 "seq": 1,
                 "resourceBoxId": 11060
+            }
+        ]
+    },
+    {
+        "id": 11061,
+        "seq": 61,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 600,
+        "sentence": "難易度NORMALで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5767,
+                "missionType": "honor_mission",
+                "missionId": 11061,
+                "seq": 1,
+                "resourceBoxId": 11061
+            }
+        ]
+    },
+    {
+        "id": 11062,
+        "seq": 62,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 610,
+        "sentence": "難易度NORMALで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5768,
+                "missionType": "honor_mission",
+                "missionId": 11062,
+                "seq": 1,
+                "resourceBoxId": 11062
+            }
+        ]
+    },
+    {
+        "id": 11063,
+        "seq": 63,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 620,
+        "sentence": "難易度NORMALで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5769,
+                "missionType": "honor_mission",
+                "missionId": 11063,
+                "seq": 1,
+                "resourceBoxId": 11063
+            }
+        ]
+    },
+    {
+        "id": 11064,
+        "seq": 64,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 630,
+        "sentence": "難易度NORMALで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5770,
+                "missionType": "honor_mission",
+                "missionId": 11064,
+                "seq": 1,
+                "resourceBoxId": 11064
+            }
+        ]
+    },
+    {
+        "id": 11065,
+        "seq": 65,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 640,
+        "sentence": "難易度NORMALで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5771,
+                "missionType": "honor_mission",
+                "missionId": 11065,
+                "seq": 1,
+                "resourceBoxId": 11065
+            }
+        ]
+    },
+    {
+        "id": 11066,
+        "seq": 66,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 650,
+        "sentence": "難易度NORMALで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5772,
+                "missionType": "honor_mission",
+                "missionId": 11066,
+                "seq": 1,
+                "resourceBoxId": 11066
+            }
+        ]
+    },
+    {
+        "id": 11067,
+        "seq": 67,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 660,
+        "sentence": "難易度NORMALで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5773,
+                "missionType": "honor_mission",
+                "missionId": 11067,
+                "seq": 1,
+                "resourceBoxId": 11067
+            }
+        ]
+    },
+    {
+        "id": 11068,
+        "seq": 68,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 670,
+        "sentence": "難易度NORMALで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5774,
+                "missionType": "honor_mission",
+                "missionId": 11068,
+                "seq": 1,
+                "resourceBoxId": 11068
+            }
+        ]
+    },
+    {
+        "id": 11069,
+        "seq": 69,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 680,
+        "sentence": "難易度NORMALで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5775,
+                "missionType": "honor_mission",
+                "missionId": 11069,
+                "seq": 1,
+                "resourceBoxId": 11069
+            }
+        ]
+    },
+    {
+        "id": 11070,
+        "seq": 70,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 690,
+        "sentence": "難易度NORMALで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5776,
+                "missionType": "honor_mission",
+                "missionId": 11070,
+                "seq": 1,
+                "resourceBoxId": 11070
+            }
+        ]
+    },
+    {
+        "id": 11071,
+        "seq": 71,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 700,
+        "sentence": "難易度NORMALで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5777,
+                "missionType": "honor_mission",
+                "missionId": 11071,
+                "seq": 1,
+                "resourceBoxId": 11071
+            }
+        ]
+    },
+    {
+        "id": 11072,
+        "seq": 72,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 710,
+        "sentence": "難易度NORMALで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5778,
+                "missionType": "honor_mission",
+                "missionId": 11072,
+                "seq": 1,
+                "resourceBoxId": 11072
+            }
+        ]
+    },
+    {
+        "id": 11073,
+        "seq": 73,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 720,
+        "sentence": "難易度NORMALで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5779,
+                "missionType": "honor_mission",
+                "missionId": 11073,
+                "seq": 1,
+                "resourceBoxId": 11073
+            }
+        ]
+    },
+    {
+        "id": 11074,
+        "seq": 74,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 730,
+        "sentence": "難易度NORMALで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5780,
+                "missionType": "honor_mission",
+                "missionId": 11074,
+                "seq": 1,
+                "resourceBoxId": 11074
+            }
+        ]
+    },
+    {
+        "id": 11075,
+        "seq": 75,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 740,
+        "sentence": "難易度NORMALで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5781,
+                "missionType": "honor_mission",
+                "missionId": 11075,
+                "seq": 1,
+                "resourceBoxId": 11075
+            }
+        ]
+    },
+    {
+        "id": 11076,
+        "seq": 76,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 750,
+        "sentence": "難易度NORMALで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5782,
+                "missionType": "honor_mission",
+                "missionId": 11076,
+                "seq": 1,
+                "resourceBoxId": 11076
+            }
+        ]
+    },
+    {
+        "id": 11077,
+        "seq": 77,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 760,
+        "sentence": "難易度NORMALで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5783,
+                "missionType": "honor_mission",
+                "missionId": 11077,
+                "seq": 1,
+                "resourceBoxId": 11077
+            }
+        ]
+    },
+    {
+        "id": 11078,
+        "seq": 78,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 770,
+        "sentence": "難易度NORMALで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5784,
+                "missionType": "honor_mission",
+                "missionId": 11078,
+                "seq": 1,
+                "resourceBoxId": 11078
+            }
+        ]
+    },
+    {
+        "id": 11079,
+        "seq": 79,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 780,
+        "sentence": "難易度NORMALで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5785,
+                "missionType": "honor_mission",
+                "missionId": 11079,
+                "seq": 1,
+                "resourceBoxId": 11079
+            }
+        ]
+    },
+    {
+        "id": 11080,
+        "seq": 80,
+        "honorMissionType": "normal_full_combo",
+        "requirement": 790,
+        "sentence": "難易度NORMALで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5786,
+                "missionType": "honor_mission",
+                "missionId": 11080,
+                "seq": 1,
+                "resourceBoxId": 11080
             }
         ]
     },
@@ -6448,6 +7280,326 @@
         ]
     },
     {
+        "id": 12061,
+        "seq": 61,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 600,
+        "sentence": "難易度HARDで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5867,
+                "missionType": "honor_mission",
+                "missionId": 12061,
+                "seq": 1,
+                "resourceBoxId": 12061
+            }
+        ]
+    },
+    {
+        "id": 12062,
+        "seq": 62,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 610,
+        "sentence": "難易度HARDで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5868,
+                "missionType": "honor_mission",
+                "missionId": 12062,
+                "seq": 1,
+                "resourceBoxId": 12062
+            }
+        ]
+    },
+    {
+        "id": 12063,
+        "seq": 63,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 620,
+        "sentence": "難易度HARDで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5869,
+                "missionType": "honor_mission",
+                "missionId": 12063,
+                "seq": 1,
+                "resourceBoxId": 12063
+            }
+        ]
+    },
+    {
+        "id": 12064,
+        "seq": 64,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 630,
+        "sentence": "難易度HARDで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5870,
+                "missionType": "honor_mission",
+                "missionId": 12064,
+                "seq": 1,
+                "resourceBoxId": 12064
+            }
+        ]
+    },
+    {
+        "id": 12065,
+        "seq": 65,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 640,
+        "sentence": "難易度HARDで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5871,
+                "missionType": "honor_mission",
+                "missionId": 12065,
+                "seq": 1,
+                "resourceBoxId": 12065
+            }
+        ]
+    },
+    {
+        "id": 12066,
+        "seq": 66,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 650,
+        "sentence": "難易度HARDで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5872,
+                "missionType": "honor_mission",
+                "missionId": 12066,
+                "seq": 1,
+                "resourceBoxId": 12066
+            }
+        ]
+    },
+    {
+        "id": 12067,
+        "seq": 67,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 660,
+        "sentence": "難易度HARDで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5873,
+                "missionType": "honor_mission",
+                "missionId": 12067,
+                "seq": 1,
+                "resourceBoxId": 12067
+            }
+        ]
+    },
+    {
+        "id": 12068,
+        "seq": 68,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 670,
+        "sentence": "難易度HARDで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5874,
+                "missionType": "honor_mission",
+                "missionId": 12068,
+                "seq": 1,
+                "resourceBoxId": 12068
+            }
+        ]
+    },
+    {
+        "id": 12069,
+        "seq": 69,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 680,
+        "sentence": "難易度HARDで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5875,
+                "missionType": "honor_mission",
+                "missionId": 12069,
+                "seq": 1,
+                "resourceBoxId": 12069
+            }
+        ]
+    },
+    {
+        "id": 12070,
+        "seq": 70,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 690,
+        "sentence": "難易度HARDで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5876,
+                "missionType": "honor_mission",
+                "missionId": 12070,
+                "seq": 1,
+                "resourceBoxId": 12070
+            }
+        ]
+    },
+    {
+        "id": 12071,
+        "seq": 71,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 700,
+        "sentence": "難易度HARDで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5877,
+                "missionType": "honor_mission",
+                "missionId": 12071,
+                "seq": 1,
+                "resourceBoxId": 12071
+            }
+        ]
+    },
+    {
+        "id": 12072,
+        "seq": 72,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 710,
+        "sentence": "難易度HARDで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5878,
+                "missionType": "honor_mission",
+                "missionId": 12072,
+                "seq": 1,
+                "resourceBoxId": 12072
+            }
+        ]
+    },
+    {
+        "id": 12073,
+        "seq": 73,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 720,
+        "sentence": "難易度HARDで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5879,
+                "missionType": "honor_mission",
+                "missionId": 12073,
+                "seq": 1,
+                "resourceBoxId": 12073
+            }
+        ]
+    },
+    {
+        "id": 12074,
+        "seq": 74,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 730,
+        "sentence": "難易度HARDで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5880,
+                "missionType": "honor_mission",
+                "missionId": 12074,
+                "seq": 1,
+                "resourceBoxId": 12074
+            }
+        ]
+    },
+    {
+        "id": 12075,
+        "seq": 75,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 740,
+        "sentence": "難易度HARDで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5881,
+                "missionType": "honor_mission",
+                "missionId": 12075,
+                "seq": 1,
+                "resourceBoxId": 12075
+            }
+        ]
+    },
+    {
+        "id": 12076,
+        "seq": 76,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 750,
+        "sentence": "難易度HARDで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5882,
+                "missionType": "honor_mission",
+                "missionId": 12076,
+                "seq": 1,
+                "resourceBoxId": 12076
+            }
+        ]
+    },
+    {
+        "id": 12077,
+        "seq": 77,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 760,
+        "sentence": "難易度HARDで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5883,
+                "missionType": "honor_mission",
+                "missionId": 12077,
+                "seq": 1,
+                "resourceBoxId": 12077
+            }
+        ]
+    },
+    {
+        "id": 12078,
+        "seq": 78,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 770,
+        "sentence": "難易度HARDで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5884,
+                "missionType": "honor_mission",
+                "missionId": 12078,
+                "seq": 1,
+                "resourceBoxId": 12078
+            }
+        ]
+    },
+    {
+        "id": 12079,
+        "seq": 79,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 780,
+        "sentence": "難易度HARDで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5885,
+                "missionType": "honor_mission",
+                "missionId": 12079,
+                "seq": 1,
+                "resourceBoxId": 12079
+            }
+        ]
+    },
+    {
+        "id": 12080,
+        "seq": 80,
+        "honorMissionType": "hard_full_combo",
+        "requirement": 790,
+        "sentence": "難易度HARDで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5886,
+                "missionType": "honor_mission",
+                "missionId": 12080,
+                "seq": 1,
+                "resourceBoxId": 12080
+            }
+        ]
+    },
+    {
         "id": 13001,
         "seq": 1,
         "honorMissionType": "expert_full_combo",
@@ -7404,6 +8556,326 @@
                 "missionId": 13060,
                 "seq": 1,
                 "resourceBoxId": 13060
+            }
+        ]
+    },
+    {
+        "id": 13061,
+        "seq": 61,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 600,
+        "sentence": "難易度EXPERTで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5967,
+                "missionType": "honor_mission",
+                "missionId": 13061,
+                "seq": 1,
+                "resourceBoxId": 13061
+            }
+        ]
+    },
+    {
+        "id": 13062,
+        "seq": 62,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 610,
+        "sentence": "難易度EXPERTで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5968,
+                "missionType": "honor_mission",
+                "missionId": 13062,
+                "seq": 1,
+                "resourceBoxId": 13062
+            }
+        ]
+    },
+    {
+        "id": 13063,
+        "seq": 63,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 620,
+        "sentence": "難易度EXPERTで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5969,
+                "missionType": "honor_mission",
+                "missionId": 13063,
+                "seq": 1,
+                "resourceBoxId": 13063
+            }
+        ]
+    },
+    {
+        "id": 13064,
+        "seq": 64,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 630,
+        "sentence": "難易度EXPERTで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5970,
+                "missionType": "honor_mission",
+                "missionId": 13064,
+                "seq": 1,
+                "resourceBoxId": 13064
+            }
+        ]
+    },
+    {
+        "id": 13065,
+        "seq": 65,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 640,
+        "sentence": "難易度EXPERTで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5971,
+                "missionType": "honor_mission",
+                "missionId": 13065,
+                "seq": 1,
+                "resourceBoxId": 13065
+            }
+        ]
+    },
+    {
+        "id": 13066,
+        "seq": 66,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 650,
+        "sentence": "難易度EXPERTで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5972,
+                "missionType": "honor_mission",
+                "missionId": 13066,
+                "seq": 1,
+                "resourceBoxId": 13066
+            }
+        ]
+    },
+    {
+        "id": 13067,
+        "seq": 67,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 660,
+        "sentence": "難易度EXPERTで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5973,
+                "missionType": "honor_mission",
+                "missionId": 13067,
+                "seq": 1,
+                "resourceBoxId": 13067
+            }
+        ]
+    },
+    {
+        "id": 13068,
+        "seq": 68,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 670,
+        "sentence": "難易度EXPERTで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5974,
+                "missionType": "honor_mission",
+                "missionId": 13068,
+                "seq": 1,
+                "resourceBoxId": 13068
+            }
+        ]
+    },
+    {
+        "id": 13069,
+        "seq": 69,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 680,
+        "sentence": "難易度EXPERTで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5975,
+                "missionType": "honor_mission",
+                "missionId": 13069,
+                "seq": 1,
+                "resourceBoxId": 13069
+            }
+        ]
+    },
+    {
+        "id": 13070,
+        "seq": 70,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 690,
+        "sentence": "難易度EXPERTで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5976,
+                "missionType": "honor_mission",
+                "missionId": 13070,
+                "seq": 1,
+                "resourceBoxId": 13070
+            }
+        ]
+    },
+    {
+        "id": 13071,
+        "seq": 71,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 700,
+        "sentence": "難易度EXPERTで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5977,
+                "missionType": "honor_mission",
+                "missionId": 13071,
+                "seq": 1,
+                "resourceBoxId": 13071
+            }
+        ]
+    },
+    {
+        "id": 13072,
+        "seq": 72,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 710,
+        "sentence": "難易度EXPERTで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5978,
+                "missionType": "honor_mission",
+                "missionId": 13072,
+                "seq": 1,
+                "resourceBoxId": 13072
+            }
+        ]
+    },
+    {
+        "id": 13073,
+        "seq": 73,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 720,
+        "sentence": "難易度EXPERTで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5979,
+                "missionType": "honor_mission",
+                "missionId": 13073,
+                "seq": 1,
+                "resourceBoxId": 13073
+            }
+        ]
+    },
+    {
+        "id": 13074,
+        "seq": 74,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 730,
+        "sentence": "難易度EXPERTで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5980,
+                "missionType": "honor_mission",
+                "missionId": 13074,
+                "seq": 1,
+                "resourceBoxId": 13074
+            }
+        ]
+    },
+    {
+        "id": 13075,
+        "seq": 75,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 740,
+        "sentence": "難易度EXPERTで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5981,
+                "missionType": "honor_mission",
+                "missionId": 13075,
+                "seq": 1,
+                "resourceBoxId": 13075
+            }
+        ]
+    },
+    {
+        "id": 13076,
+        "seq": 76,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 750,
+        "sentence": "難易度EXPERTで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5982,
+                "missionType": "honor_mission",
+                "missionId": 13076,
+                "seq": 1,
+                "resourceBoxId": 13076
+            }
+        ]
+    },
+    {
+        "id": 13077,
+        "seq": 77,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 760,
+        "sentence": "難易度EXPERTで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5983,
+                "missionType": "honor_mission",
+                "missionId": 13077,
+                "seq": 1,
+                "resourceBoxId": 13077
+            }
+        ]
+    },
+    {
+        "id": 13078,
+        "seq": 78,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 770,
+        "sentence": "難易度EXPERTで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5984,
+                "missionType": "honor_mission",
+                "missionId": 13078,
+                "seq": 1,
+                "resourceBoxId": 13078
+            }
+        ]
+    },
+    {
+        "id": 13079,
+        "seq": 79,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 780,
+        "sentence": "難易度EXPERTで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5985,
+                "missionType": "honor_mission",
+                "missionId": 13079,
+                "seq": 1,
+                "resourceBoxId": 13079
+            }
+        ]
+    },
+    {
+        "id": 13080,
+        "seq": 80,
+        "honorMissionType": "expert_full_combo",
+        "requirement": 790,
+        "sentence": "難易度EXPERTで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 5986,
+                "missionType": "honor_mission",
+                "missionId": 13080,
+                "seq": 1,
+                "resourceBoxId": 13080
             }
         ]
     },
@@ -8368,6 +9840,326 @@
         ]
     },
     {
+        "id": 14061,
+        "seq": 61,
+        "honorMissionType": "master_full_combo",
+        "requirement": 600,
+        "sentence": "難易度MASTERで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6067,
+                "missionType": "honor_mission",
+                "missionId": 14061,
+                "seq": 1,
+                "resourceBoxId": 14061
+            }
+        ]
+    },
+    {
+        "id": 14062,
+        "seq": 62,
+        "honorMissionType": "master_full_combo",
+        "requirement": 610,
+        "sentence": "難易度MASTERで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6068,
+                "missionType": "honor_mission",
+                "missionId": 14062,
+                "seq": 1,
+                "resourceBoxId": 14062
+            }
+        ]
+    },
+    {
+        "id": 14063,
+        "seq": 63,
+        "honorMissionType": "master_full_combo",
+        "requirement": 620,
+        "sentence": "難易度MASTERで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6069,
+                "missionType": "honor_mission",
+                "missionId": 14063,
+                "seq": 1,
+                "resourceBoxId": 14063
+            }
+        ]
+    },
+    {
+        "id": 14064,
+        "seq": 64,
+        "honorMissionType": "master_full_combo",
+        "requirement": 630,
+        "sentence": "難易度MASTERで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6070,
+                "missionType": "honor_mission",
+                "missionId": 14064,
+                "seq": 1,
+                "resourceBoxId": 14064
+            }
+        ]
+    },
+    {
+        "id": 14065,
+        "seq": 65,
+        "honorMissionType": "master_full_combo",
+        "requirement": 640,
+        "sentence": "難易度MASTERで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6071,
+                "missionType": "honor_mission",
+                "missionId": 14065,
+                "seq": 1,
+                "resourceBoxId": 14065
+            }
+        ]
+    },
+    {
+        "id": 14066,
+        "seq": 66,
+        "honorMissionType": "master_full_combo",
+        "requirement": 650,
+        "sentence": "難易度MASTERで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6072,
+                "missionType": "honor_mission",
+                "missionId": 14066,
+                "seq": 1,
+                "resourceBoxId": 14066
+            }
+        ]
+    },
+    {
+        "id": 14067,
+        "seq": 67,
+        "honorMissionType": "master_full_combo",
+        "requirement": 660,
+        "sentence": "難易度MASTERで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6073,
+                "missionType": "honor_mission",
+                "missionId": 14067,
+                "seq": 1,
+                "resourceBoxId": 14067
+            }
+        ]
+    },
+    {
+        "id": 14068,
+        "seq": 68,
+        "honorMissionType": "master_full_combo",
+        "requirement": 670,
+        "sentence": "難易度MASTERで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6074,
+                "missionType": "honor_mission",
+                "missionId": 14068,
+                "seq": 1,
+                "resourceBoxId": 14068
+            }
+        ]
+    },
+    {
+        "id": 14069,
+        "seq": 69,
+        "honorMissionType": "master_full_combo",
+        "requirement": 680,
+        "sentence": "難易度MASTERで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6075,
+                "missionType": "honor_mission",
+                "missionId": 14069,
+                "seq": 1,
+                "resourceBoxId": 14069
+            }
+        ]
+    },
+    {
+        "id": 14070,
+        "seq": 70,
+        "honorMissionType": "master_full_combo",
+        "requirement": 690,
+        "sentence": "難易度MASTERで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6076,
+                "missionType": "honor_mission",
+                "missionId": 14070,
+                "seq": 1,
+                "resourceBoxId": 14070
+            }
+        ]
+    },
+    {
+        "id": 14071,
+        "seq": 71,
+        "honorMissionType": "master_full_combo",
+        "requirement": 700,
+        "sentence": "難易度MASTERで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6077,
+                "missionType": "honor_mission",
+                "missionId": 14071,
+                "seq": 1,
+                "resourceBoxId": 14071
+            }
+        ]
+    },
+    {
+        "id": 14072,
+        "seq": 72,
+        "honorMissionType": "master_full_combo",
+        "requirement": 710,
+        "sentence": "難易度MASTERで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6078,
+                "missionType": "honor_mission",
+                "missionId": 14072,
+                "seq": 1,
+                "resourceBoxId": 14072
+            }
+        ]
+    },
+    {
+        "id": 14073,
+        "seq": 73,
+        "honorMissionType": "master_full_combo",
+        "requirement": 720,
+        "sentence": "難易度MASTERで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6079,
+                "missionType": "honor_mission",
+                "missionId": 14073,
+                "seq": 1,
+                "resourceBoxId": 14073
+            }
+        ]
+    },
+    {
+        "id": 14074,
+        "seq": 74,
+        "honorMissionType": "master_full_combo",
+        "requirement": 730,
+        "sentence": "難易度MASTERで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6080,
+                "missionType": "honor_mission",
+                "missionId": 14074,
+                "seq": 1,
+                "resourceBoxId": 14074
+            }
+        ]
+    },
+    {
+        "id": 14075,
+        "seq": 75,
+        "honorMissionType": "master_full_combo",
+        "requirement": 740,
+        "sentence": "難易度MASTERで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6081,
+                "missionType": "honor_mission",
+                "missionId": 14075,
+                "seq": 1,
+                "resourceBoxId": 14075
+            }
+        ]
+    },
+    {
+        "id": 14076,
+        "seq": 76,
+        "honorMissionType": "master_full_combo",
+        "requirement": 750,
+        "sentence": "難易度MASTERで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6082,
+                "missionType": "honor_mission",
+                "missionId": 14076,
+                "seq": 1,
+                "resourceBoxId": 14076
+            }
+        ]
+    },
+    {
+        "id": 14077,
+        "seq": 77,
+        "honorMissionType": "master_full_combo",
+        "requirement": 760,
+        "sentence": "難易度MASTERで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6083,
+                "missionType": "honor_mission",
+                "missionId": 14077,
+                "seq": 1,
+                "resourceBoxId": 14077
+            }
+        ]
+    },
+    {
+        "id": 14078,
+        "seq": 78,
+        "honorMissionType": "master_full_combo",
+        "requirement": 770,
+        "sentence": "難易度MASTERで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6084,
+                "missionType": "honor_mission",
+                "missionId": 14078,
+                "seq": 1,
+                "resourceBoxId": 14078
+            }
+        ]
+    },
+    {
+        "id": 14079,
+        "seq": 79,
+        "honorMissionType": "master_full_combo",
+        "requirement": 780,
+        "sentence": "難易度MASTERで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6085,
+                "missionType": "honor_mission",
+                "missionId": 14079,
+                "seq": 1,
+                "resourceBoxId": 14079
+            }
+        ]
+    },
+    {
+        "id": 14080,
+        "seq": 80,
+        "honorMissionType": "master_full_combo",
+        "requirement": 790,
+        "sentence": "難易度MASTERで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6086,
+                "missionType": "honor_mission",
+                "missionId": 14080,
+                "seq": 1,
+                "resourceBoxId": 14080
+            }
+        ]
+    },
+    {
         "id": 15001,
         "seq": 1,
         "honorMissionType": "master_full_perfect",
@@ -9324,6 +11116,326 @@
                 "missionId": 15060,
                 "seq": 1,
                 "resourceBoxId": 15060
+            }
+        ]
+    },
+    {
+        "id": 15061,
+        "seq": 61,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 600,
+        "sentence": "難易度MASTERで600曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6167,
+                "missionType": "honor_mission",
+                "missionId": 15061,
+                "seq": 1,
+                "resourceBoxId": 15061
+            }
+        ]
+    },
+    {
+        "id": 15062,
+        "seq": 62,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 610,
+        "sentence": "難易度MASTERで610曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6168,
+                "missionType": "honor_mission",
+                "missionId": 15062,
+                "seq": 1,
+                "resourceBoxId": 15062
+            }
+        ]
+    },
+    {
+        "id": 15063,
+        "seq": 63,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 620,
+        "sentence": "難易度MASTERで620曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6169,
+                "missionType": "honor_mission",
+                "missionId": 15063,
+                "seq": 1,
+                "resourceBoxId": 15063
+            }
+        ]
+    },
+    {
+        "id": 15064,
+        "seq": 64,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 630,
+        "sentence": "難易度MASTERで630曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6170,
+                "missionType": "honor_mission",
+                "missionId": 15064,
+                "seq": 1,
+                "resourceBoxId": 15064
+            }
+        ]
+    },
+    {
+        "id": 15065,
+        "seq": 65,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 640,
+        "sentence": "難易度MASTERで640曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6171,
+                "missionType": "honor_mission",
+                "missionId": 15065,
+                "seq": 1,
+                "resourceBoxId": 15065
+            }
+        ]
+    },
+    {
+        "id": 15066,
+        "seq": 66,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 650,
+        "sentence": "難易度MASTERで650曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6172,
+                "missionType": "honor_mission",
+                "missionId": 15066,
+                "seq": 1,
+                "resourceBoxId": 15066
+            }
+        ]
+    },
+    {
+        "id": 15067,
+        "seq": 67,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 660,
+        "sentence": "難易度MASTERで660曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6173,
+                "missionType": "honor_mission",
+                "missionId": 15067,
+                "seq": 1,
+                "resourceBoxId": 15067
+            }
+        ]
+    },
+    {
+        "id": 15068,
+        "seq": 68,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 670,
+        "sentence": "難易度MASTERで670曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6174,
+                "missionType": "honor_mission",
+                "missionId": 15068,
+                "seq": 1,
+                "resourceBoxId": 15068
+            }
+        ]
+    },
+    {
+        "id": 15069,
+        "seq": 69,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 680,
+        "sentence": "難易度MASTERで680曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6175,
+                "missionType": "honor_mission",
+                "missionId": 15069,
+                "seq": 1,
+                "resourceBoxId": 15069
+            }
+        ]
+    },
+    {
+        "id": 15070,
+        "seq": 70,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 690,
+        "sentence": "難易度MASTERで690曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6176,
+                "missionType": "honor_mission",
+                "missionId": 15070,
+                "seq": 1,
+                "resourceBoxId": 15070
+            }
+        ]
+    },
+    {
+        "id": 15071,
+        "seq": 71,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 700,
+        "sentence": "難易度MASTERで700曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6177,
+                "missionType": "honor_mission",
+                "missionId": 15071,
+                "seq": 1,
+                "resourceBoxId": 15071
+            }
+        ]
+    },
+    {
+        "id": 15072,
+        "seq": 72,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 710,
+        "sentence": "難易度MASTERで710曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6178,
+                "missionType": "honor_mission",
+                "missionId": 15072,
+                "seq": 1,
+                "resourceBoxId": 15072
+            }
+        ]
+    },
+    {
+        "id": 15073,
+        "seq": 73,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 720,
+        "sentence": "難易度MASTERで720曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6179,
+                "missionType": "honor_mission",
+                "missionId": 15073,
+                "seq": 1,
+                "resourceBoxId": 15073
+            }
+        ]
+    },
+    {
+        "id": 15074,
+        "seq": 74,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 730,
+        "sentence": "難易度MASTERで730曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6180,
+                "missionType": "honor_mission",
+                "missionId": 15074,
+                "seq": 1,
+                "resourceBoxId": 15074
+            }
+        ]
+    },
+    {
+        "id": 15075,
+        "seq": 75,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 740,
+        "sentence": "難易度MASTERで740曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6181,
+                "missionType": "honor_mission",
+                "missionId": 15075,
+                "seq": 1,
+                "resourceBoxId": 15075
+            }
+        ]
+    },
+    {
+        "id": 15076,
+        "seq": 76,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 750,
+        "sentence": "難易度MASTERで750曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6182,
+                "missionType": "honor_mission",
+                "missionId": 15076,
+                "seq": 1,
+                "resourceBoxId": 15076
+            }
+        ]
+    },
+    {
+        "id": 15077,
+        "seq": 77,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 760,
+        "sentence": "難易度MASTERで760曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6183,
+                "missionType": "honor_mission",
+                "missionId": 15077,
+                "seq": 1,
+                "resourceBoxId": 15077
+            }
+        ]
+    },
+    {
+        "id": 15078,
+        "seq": 78,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 770,
+        "sentence": "難易度MASTERで770曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6184,
+                "missionType": "honor_mission",
+                "missionId": 15078,
+                "seq": 1,
+                "resourceBoxId": 15078
+            }
+        ]
+    },
+    {
+        "id": 15079,
+        "seq": 79,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 780,
+        "sentence": "難易度MASTERで780曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6185,
+                "missionType": "honor_mission",
+                "missionId": 15079,
+                "seq": 1,
+                "resourceBoxId": 15079
+            }
+        ]
+    },
+    {
+        "id": 15080,
+        "seq": 80,
+        "honorMissionType": "master_full_perfect",
+        "requirement": 790,
+        "sentence": "難易度MASTERで790曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 6186,
+                "missionType": "honor_mission",
+                "missionId": 15080,
+                "seq": 1,
+                "resourceBoxId": 15080
             }
         ]
     },
@@ -10288,11 +12400,331 @@
         ]
     },
     {
+        "id": 16061,
+        "seq": 61,
+        "honorMissionType": "append_full_combo",
+        "requirement": 600,
+        "sentence": "難易度APPENDで600曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9871,
+                "missionType": "honor_mission",
+                "missionId": 16061,
+                "seq": 1,
+                "resourceBoxId": 16061
+            }
+        ]
+    },
+    {
+        "id": 16062,
+        "seq": 62,
+        "honorMissionType": "append_full_combo",
+        "requirement": 610,
+        "sentence": "難易度APPENDで610曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9872,
+                "missionType": "honor_mission",
+                "missionId": 16062,
+                "seq": 1,
+                "resourceBoxId": 16062
+            }
+        ]
+    },
+    {
+        "id": 16063,
+        "seq": 63,
+        "honorMissionType": "append_full_combo",
+        "requirement": 620,
+        "sentence": "難易度APPENDで620曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9873,
+                "missionType": "honor_mission",
+                "missionId": 16063,
+                "seq": 1,
+                "resourceBoxId": 16063
+            }
+        ]
+    },
+    {
+        "id": 16064,
+        "seq": 64,
+        "honorMissionType": "append_full_combo",
+        "requirement": 630,
+        "sentence": "難易度APPENDで630曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9874,
+                "missionType": "honor_mission",
+                "missionId": 16064,
+                "seq": 1,
+                "resourceBoxId": 16064
+            }
+        ]
+    },
+    {
+        "id": 16065,
+        "seq": 65,
+        "honorMissionType": "append_full_combo",
+        "requirement": 640,
+        "sentence": "難易度APPENDで640曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9875,
+                "missionType": "honor_mission",
+                "missionId": 16065,
+                "seq": 1,
+                "resourceBoxId": 16065
+            }
+        ]
+    },
+    {
+        "id": 16066,
+        "seq": 66,
+        "honorMissionType": "append_full_combo",
+        "requirement": 650,
+        "sentence": "難易度APPENDで650曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9876,
+                "missionType": "honor_mission",
+                "missionId": 16066,
+                "seq": 1,
+                "resourceBoxId": 16066
+            }
+        ]
+    },
+    {
+        "id": 16067,
+        "seq": 67,
+        "honorMissionType": "append_full_combo",
+        "requirement": 660,
+        "sentence": "難易度APPENDで660曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9877,
+                "missionType": "honor_mission",
+                "missionId": 16067,
+                "seq": 1,
+                "resourceBoxId": 16067
+            }
+        ]
+    },
+    {
+        "id": 16068,
+        "seq": 68,
+        "honorMissionType": "append_full_combo",
+        "requirement": 670,
+        "sentence": "難易度APPENDで670曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9878,
+                "missionType": "honor_mission",
+                "missionId": 16068,
+                "seq": 1,
+                "resourceBoxId": 16068
+            }
+        ]
+    },
+    {
+        "id": 16069,
+        "seq": 69,
+        "honorMissionType": "append_full_combo",
+        "requirement": 680,
+        "sentence": "難易度APPENDで680曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9879,
+                "missionType": "honor_mission",
+                "missionId": 16069,
+                "seq": 1,
+                "resourceBoxId": 16069
+            }
+        ]
+    },
+    {
+        "id": 16070,
+        "seq": 70,
+        "honorMissionType": "append_full_combo",
+        "requirement": 690,
+        "sentence": "難易度APPENDで690曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9880,
+                "missionType": "honor_mission",
+                "missionId": 16070,
+                "seq": 1,
+                "resourceBoxId": 16070
+            }
+        ]
+    },
+    {
+        "id": 16071,
+        "seq": 71,
+        "honorMissionType": "append_full_combo",
+        "requirement": 700,
+        "sentence": "難易度APPENDで700曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9881,
+                "missionType": "honor_mission",
+                "missionId": 16071,
+                "seq": 1,
+                "resourceBoxId": 16071
+            }
+        ]
+    },
+    {
+        "id": 16072,
+        "seq": 72,
+        "honorMissionType": "append_full_combo",
+        "requirement": 710,
+        "sentence": "難易度APPENDで710曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9882,
+                "missionType": "honor_mission",
+                "missionId": 16072,
+                "seq": 1,
+                "resourceBoxId": 16072
+            }
+        ]
+    },
+    {
+        "id": 16073,
+        "seq": 73,
+        "honorMissionType": "append_full_combo",
+        "requirement": 720,
+        "sentence": "難易度APPENDで720曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9883,
+                "missionType": "honor_mission",
+                "missionId": 16073,
+                "seq": 1,
+                "resourceBoxId": 16073
+            }
+        ]
+    },
+    {
+        "id": 16074,
+        "seq": 74,
+        "honorMissionType": "append_full_combo",
+        "requirement": 730,
+        "sentence": "難易度APPENDで730曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9884,
+                "missionType": "honor_mission",
+                "missionId": 16074,
+                "seq": 1,
+                "resourceBoxId": 16074
+            }
+        ]
+    },
+    {
+        "id": 16075,
+        "seq": 75,
+        "honorMissionType": "append_full_combo",
+        "requirement": 740,
+        "sentence": "難易度APPENDで740曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9885,
+                "missionType": "honor_mission",
+                "missionId": 16075,
+                "seq": 1,
+                "resourceBoxId": 16075
+            }
+        ]
+    },
+    {
+        "id": 16076,
+        "seq": 76,
+        "honorMissionType": "append_full_combo",
+        "requirement": 750,
+        "sentence": "難易度APPENDで750曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9886,
+                "missionType": "honor_mission",
+                "missionId": 16076,
+                "seq": 1,
+                "resourceBoxId": 16076
+            }
+        ]
+    },
+    {
+        "id": 16077,
+        "seq": 77,
+        "honorMissionType": "append_full_combo",
+        "requirement": 760,
+        "sentence": "難易度APPENDで760曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9887,
+                "missionType": "honor_mission",
+                "missionId": 16077,
+                "seq": 1,
+                "resourceBoxId": 16077
+            }
+        ]
+    },
+    {
+        "id": 16078,
+        "seq": 78,
+        "honorMissionType": "append_full_combo",
+        "requirement": 770,
+        "sentence": "難易度APPENDで770曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9888,
+                "missionType": "honor_mission",
+                "missionId": 16078,
+                "seq": 1,
+                "resourceBoxId": 16078
+            }
+        ]
+    },
+    {
+        "id": 16079,
+        "seq": 79,
+        "honorMissionType": "append_full_combo",
+        "requirement": 780,
+        "sentence": "難易度APPENDで780曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9889,
+                "missionType": "honor_mission",
+                "missionId": 16079,
+                "seq": 1,
+                "resourceBoxId": 16079
+            }
+        ]
+    },
+    {
+        "id": 16080,
+        "seq": 80,
+        "honorMissionType": "append_full_combo",
+        "requirement": 790,
+        "sentence": "難易度APPENDで790曲フルコンボでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9890,
+                "missionType": "honor_mission",
+                "missionId": 16080,
+                "seq": 1,
+                "resourceBoxId": 16080
+            }
+        ]
+    },
+    {
         "id": 17001,
         "seq": 1,
         "honorMissionType": "append_full_perfect",
         "requirement": 5,
-        "sentence": "在5首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在5首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9911,
@@ -10308,7 +12740,7 @@
         "seq": 2,
         "honorMissionType": "append_full_perfect",
         "requirement": 10,
-        "sentence": "在10首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在10首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9912,
@@ -10324,7 +12756,7 @@
         "seq": 3,
         "honorMissionType": "append_full_perfect",
         "requirement": 20,
-        "sentence": "在20首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在20首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9913,
@@ -10340,7 +12772,7 @@
         "seq": 4,
         "honorMissionType": "append_full_perfect",
         "requirement": 30,
-        "sentence": "在30首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在30首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9914,
@@ -10356,7 +12788,7 @@
         "seq": 5,
         "honorMissionType": "append_full_perfect",
         "requirement": 40,
-        "sentence": "在40首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在40首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9915,
@@ -10372,7 +12804,7 @@
         "seq": 6,
         "honorMissionType": "append_full_perfect",
         "requirement": 50,
-        "sentence": "在50首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在50首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9916,
@@ -10388,7 +12820,7 @@
         "seq": 7,
         "honorMissionType": "append_full_perfect",
         "requirement": 60,
-        "sentence": "在60首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在60首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9917,
@@ -10404,7 +12836,7 @@
         "seq": 8,
         "honorMissionType": "append_full_perfect",
         "requirement": 70,
-        "sentence": "在70首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在70首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9918,
@@ -10420,7 +12852,7 @@
         "seq": 9,
         "honorMissionType": "append_full_perfect",
         "requirement": 80,
-        "sentence": "在80首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在80首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9919,
@@ -10436,7 +12868,7 @@
         "seq": 10,
         "honorMissionType": "append_full_perfect",
         "requirement": 90,
-        "sentence": "在90首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在90首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9920,
@@ -10452,7 +12884,7 @@
         "seq": 11,
         "honorMissionType": "append_full_perfect",
         "requirement": 100,
-        "sentence": "在100首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在100首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9921,
@@ -10468,7 +12900,7 @@
         "seq": 12,
         "honorMissionType": "append_full_perfect",
         "requirement": 110,
-        "sentence": "在110首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在110首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9922,
@@ -10484,7 +12916,7 @@
         "seq": 13,
         "honorMissionType": "append_full_perfect",
         "requirement": 120,
-        "sentence": "在120首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在120首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9923,
@@ -10500,7 +12932,7 @@
         "seq": 14,
         "honorMissionType": "append_full_perfect",
         "requirement": 130,
-        "sentence": "在130首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在130首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9924,
@@ -10516,7 +12948,7 @@
         "seq": 15,
         "honorMissionType": "append_full_perfect",
         "requirement": 140,
-        "sentence": "在140首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在140首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9925,
@@ -10532,7 +12964,7 @@
         "seq": 16,
         "honorMissionType": "append_full_perfect",
         "requirement": 150,
-        "sentence": "在150首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在150首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9926,
@@ -10548,7 +12980,7 @@
         "seq": 17,
         "honorMissionType": "append_full_perfect",
         "requirement": 160,
-        "sentence": "在160首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在160首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9927,
@@ -10564,7 +12996,7 @@
         "seq": 18,
         "honorMissionType": "append_full_perfect",
         "requirement": 170,
-        "sentence": "在170首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在170首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9928,
@@ -10580,7 +13012,7 @@
         "seq": 19,
         "honorMissionType": "append_full_perfect",
         "requirement": 180,
-        "sentence": "在180首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在180首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9929,
@@ -10596,7 +13028,7 @@
         "seq": 20,
         "honorMissionType": "append_full_perfect",
         "requirement": 190,
-        "sentence": "在190首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在190首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9930,
@@ -10612,7 +13044,7 @@
         "seq": 21,
         "honorMissionType": "append_full_perfect",
         "requirement": 200,
-        "sentence": "在200首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在200首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9931,
@@ -10628,7 +13060,7 @@
         "seq": 22,
         "honorMissionType": "append_full_perfect",
         "requirement": 210,
-        "sentence": "在210首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在210首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9932,
@@ -10644,7 +13076,7 @@
         "seq": 23,
         "honorMissionType": "append_full_perfect",
         "requirement": 220,
-        "sentence": "在220首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在220首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9933,
@@ -10660,7 +13092,7 @@
         "seq": 24,
         "honorMissionType": "append_full_perfect",
         "requirement": 230,
-        "sentence": "在230首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在230首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9934,
@@ -10676,7 +13108,7 @@
         "seq": 25,
         "honorMissionType": "append_full_perfect",
         "requirement": 240,
-        "sentence": "在240首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在240首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9935,
@@ -10692,7 +13124,7 @@
         "seq": 26,
         "honorMissionType": "append_full_perfect",
         "requirement": 250,
-        "sentence": "在250首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在250首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9936,
@@ -10708,7 +13140,7 @@
         "seq": 27,
         "honorMissionType": "append_full_perfect",
         "requirement": 260,
-        "sentence": "在260首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在260首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9937,
@@ -10724,7 +13156,7 @@
         "seq": 28,
         "honorMissionType": "append_full_perfect",
         "requirement": 270,
-        "sentence": "在270首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在270首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9938,
@@ -10740,7 +13172,7 @@
         "seq": 29,
         "honorMissionType": "append_full_perfect",
         "requirement": 280,
-        "sentence": "在280首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在280首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9939,
@@ -10756,7 +13188,7 @@
         "seq": 30,
         "honorMissionType": "append_full_perfect",
         "requirement": 290,
-        "sentence": "在290首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在290首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9940,
@@ -10772,7 +13204,7 @@
         "seq": 31,
         "honorMissionType": "append_full_perfect",
         "requirement": 300,
-        "sentence": "在300首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在300首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9941,
@@ -10788,7 +13220,7 @@
         "seq": 32,
         "honorMissionType": "append_full_perfect",
         "requirement": 310,
-        "sentence": "在310首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在310首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9942,
@@ -10804,7 +13236,7 @@
         "seq": 33,
         "honorMissionType": "append_full_perfect",
         "requirement": 320,
-        "sentence": "在320首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在320首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9943,
@@ -10820,7 +13252,7 @@
         "seq": 34,
         "honorMissionType": "append_full_perfect",
         "requirement": 330,
-        "sentence": "在330首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在330首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9944,
@@ -10836,7 +13268,7 @@
         "seq": 35,
         "honorMissionType": "append_full_perfect",
         "requirement": 340,
-        "sentence": "在340首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在340首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9945,
@@ -10852,7 +13284,7 @@
         "seq": 36,
         "honorMissionType": "append_full_perfect",
         "requirement": 350,
-        "sentence": "在350首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在350首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9946,
@@ -10868,7 +13300,7 @@
         "seq": 37,
         "honorMissionType": "append_full_perfect",
         "requirement": 360,
-        "sentence": "在360首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在360首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9947,
@@ -10884,7 +13316,7 @@
         "seq": 38,
         "honorMissionType": "append_full_perfect",
         "requirement": 370,
-        "sentence": "在370首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在370首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9948,
@@ -10900,7 +13332,7 @@
         "seq": 39,
         "honorMissionType": "append_full_perfect",
         "requirement": 380,
-        "sentence": "在380首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在380首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9949,
@@ -10916,7 +13348,7 @@
         "seq": 40,
         "honorMissionType": "append_full_perfect",
         "requirement": 390,
-        "sentence": "在390首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在390首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9950,
@@ -10932,7 +13364,7 @@
         "seq": 41,
         "honorMissionType": "append_full_perfect",
         "requirement": 400,
-        "sentence": "在400首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在400首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9951,
@@ -10948,7 +13380,7 @@
         "seq": 42,
         "honorMissionType": "append_full_perfect",
         "requirement": 410,
-        "sentence": "在410首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在410首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9952,
@@ -10964,7 +13396,7 @@
         "seq": 43,
         "honorMissionType": "append_full_perfect",
         "requirement": 420,
-        "sentence": "在420首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在420首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9953,
@@ -10980,7 +13412,7 @@
         "seq": 44,
         "honorMissionType": "append_full_perfect",
         "requirement": 430,
-        "sentence": "在430首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在430首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9954,
@@ -10996,7 +13428,7 @@
         "seq": 45,
         "honorMissionType": "append_full_perfect",
         "requirement": 440,
-        "sentence": "在440首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在440首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9955,
@@ -11012,7 +13444,7 @@
         "seq": 46,
         "honorMissionType": "append_full_perfect",
         "requirement": 450,
-        "sentence": "在450首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在450首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9956,
@@ -11028,7 +13460,7 @@
         "seq": 47,
         "honorMissionType": "append_full_perfect",
         "requirement": 460,
-        "sentence": "在460首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在460首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9957,
@@ -11044,7 +13476,7 @@
         "seq": 48,
         "honorMissionType": "append_full_perfect",
         "requirement": 470,
-        "sentence": "在470首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在470首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9958,
@@ -11060,7 +13492,7 @@
         "seq": 49,
         "honorMissionType": "append_full_perfect",
         "requirement": 480,
-        "sentence": "在480首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在480首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9959,
@@ -11076,7 +13508,7 @@
         "seq": 50,
         "honorMissionType": "append_full_perfect",
         "requirement": 490,
-        "sentence": "在490首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在490首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9960,
@@ -11092,7 +13524,7 @@
         "seq": 51,
         "honorMissionType": "append_full_perfect",
         "requirement": 500,
-        "sentence": "在500首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在500首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9961,
@@ -11108,7 +13540,7 @@
         "seq": 52,
         "honorMissionType": "append_full_perfect",
         "requirement": 510,
-        "sentence": "在510首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在510首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9962,
@@ -11124,7 +13556,7 @@
         "seq": 53,
         "honorMissionType": "append_full_perfect",
         "requirement": 520,
-        "sentence": "在520首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在520首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9963,
@@ -11140,7 +13572,7 @@
         "seq": 54,
         "honorMissionType": "append_full_perfect",
         "requirement": 530,
-        "sentence": "在530首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在530首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9964,
@@ -11156,7 +13588,7 @@
         "seq": 55,
         "honorMissionType": "append_full_perfect",
         "requirement": 540,
-        "sentence": "在540首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在540首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9965,
@@ -11172,7 +13604,7 @@
         "seq": 56,
         "honorMissionType": "append_full_perfect",
         "requirement": 550,
-        "sentence": "在550首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在550首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9966,
@@ -11188,7 +13620,7 @@
         "seq": 57,
         "honorMissionType": "append_full_perfect",
         "requirement": 560,
-        "sentence": "在560首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在560首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9967,
@@ -11204,7 +13636,7 @@
         "seq": 58,
         "honorMissionType": "append_full_perfect",
         "requirement": 570,
-        "sentence": "在570首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在570首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9968,
@@ -11220,7 +13652,7 @@
         "seq": 59,
         "honorMissionType": "append_full_perfect",
         "requirement": 580,
-        "sentence": "在580首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在580首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9969,
@@ -11236,7 +13668,7 @@
         "seq": 60,
         "honorMissionType": "append_full_perfect",
         "requirement": 590,
-        "sentence": "在590首歌曲的APPEND难度中达成FULL COMBO。",
+        "sentence": "在590首歌曲的APPEND难度中达成ALL PERFECT。",
         "rewards": [
             {
                 "id": 9970,
@@ -11248,11 +13680,331 @@
         ]
     },
     {
+        "id": 17061,
+        "seq": 61,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 600,
+        "sentence": "難易度APPENDで600曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9971,
+                "missionType": "honor_mission",
+                "missionId": 17061,
+                "seq": 1,
+                "resourceBoxId": 17061
+            }
+        ]
+    },
+    {
+        "id": 17062,
+        "seq": 62,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 610,
+        "sentence": "難易度APPENDで610曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9972,
+                "missionType": "honor_mission",
+                "missionId": 17062,
+                "seq": 1,
+                "resourceBoxId": 17062
+            }
+        ]
+    },
+    {
+        "id": 17063,
+        "seq": 63,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 620,
+        "sentence": "難易度APPENDで620曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9973,
+                "missionType": "honor_mission",
+                "missionId": 17063,
+                "seq": 1,
+                "resourceBoxId": 17063
+            }
+        ]
+    },
+    {
+        "id": 17064,
+        "seq": 64,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 630,
+        "sentence": "難易度APPENDで630曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9974,
+                "missionType": "honor_mission",
+                "missionId": 17064,
+                "seq": 1,
+                "resourceBoxId": 17064
+            }
+        ]
+    },
+    {
+        "id": 17065,
+        "seq": 65,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 640,
+        "sentence": "難易度APPENDで640曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9975,
+                "missionType": "honor_mission",
+                "missionId": 17065,
+                "seq": 1,
+                "resourceBoxId": 17065
+            }
+        ]
+    },
+    {
+        "id": 17066,
+        "seq": 66,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 650,
+        "sentence": "難易度APPENDで650曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9976,
+                "missionType": "honor_mission",
+                "missionId": 17066,
+                "seq": 1,
+                "resourceBoxId": 17066
+            }
+        ]
+    },
+    {
+        "id": 17067,
+        "seq": 67,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 660,
+        "sentence": "難易度APPENDで660曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9977,
+                "missionType": "honor_mission",
+                "missionId": 17067,
+                "seq": 1,
+                "resourceBoxId": 17067
+            }
+        ]
+    },
+    {
+        "id": 17068,
+        "seq": 68,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 670,
+        "sentence": "難易度APPENDで670曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9978,
+                "missionType": "honor_mission",
+                "missionId": 17068,
+                "seq": 1,
+                "resourceBoxId": 17068
+            }
+        ]
+    },
+    {
+        "id": 17069,
+        "seq": 69,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 680,
+        "sentence": "難易度APPENDで680曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9979,
+                "missionType": "honor_mission",
+                "missionId": 17069,
+                "seq": 1,
+                "resourceBoxId": 17069
+            }
+        ]
+    },
+    {
+        "id": 17070,
+        "seq": 70,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 690,
+        "sentence": "難易度APPENDで690曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9980,
+                "missionType": "honor_mission",
+                "missionId": 17070,
+                "seq": 1,
+                "resourceBoxId": 17070
+            }
+        ]
+    },
+    {
+        "id": 17071,
+        "seq": 71,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 700,
+        "sentence": "難易度APPENDで700曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9981,
+                "missionType": "honor_mission",
+                "missionId": 17071,
+                "seq": 1,
+                "resourceBoxId": 17071
+            }
+        ]
+    },
+    {
+        "id": 17072,
+        "seq": 72,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 710,
+        "sentence": "難易度APPENDで710曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9982,
+                "missionType": "honor_mission",
+                "missionId": 17072,
+                "seq": 1,
+                "resourceBoxId": 17072
+            }
+        ]
+    },
+    {
+        "id": 17073,
+        "seq": 73,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 720,
+        "sentence": "難易度APPENDで720曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9983,
+                "missionType": "honor_mission",
+                "missionId": 17073,
+                "seq": 1,
+                "resourceBoxId": 17073
+            }
+        ]
+    },
+    {
+        "id": 17074,
+        "seq": 74,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 730,
+        "sentence": "難易度APPENDで730曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9984,
+                "missionType": "honor_mission",
+                "missionId": 17074,
+                "seq": 1,
+                "resourceBoxId": 17074
+            }
+        ]
+    },
+    {
+        "id": 17075,
+        "seq": 75,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 740,
+        "sentence": "難易度APPENDで740曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9985,
+                "missionType": "honor_mission",
+                "missionId": 17075,
+                "seq": 1,
+                "resourceBoxId": 17075
+            }
+        ]
+    },
+    {
+        "id": 17076,
+        "seq": 76,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 750,
+        "sentence": "難易度APPENDで750曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9986,
+                "missionType": "honor_mission",
+                "missionId": 17076,
+                "seq": 1,
+                "resourceBoxId": 17076
+            }
+        ]
+    },
+    {
+        "id": 17077,
+        "seq": 77,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 760,
+        "sentence": "難易度APPENDで760曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9987,
+                "missionType": "honor_mission",
+                "missionId": 17077,
+                "seq": 1,
+                "resourceBoxId": 17077
+            }
+        ]
+    },
+    {
+        "id": 17078,
+        "seq": 78,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 770,
+        "sentence": "難易度APPENDで770曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9988,
+                "missionType": "honor_mission",
+                "missionId": 17078,
+                "seq": 1,
+                "resourceBoxId": 17078
+            }
+        ]
+    },
+    {
+        "id": 17079,
+        "seq": 79,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 780,
+        "sentence": "難易度APPENDで780曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9989,
+                "missionType": "honor_mission",
+                "missionId": 17079,
+                "seq": 1,
+                "resourceBoxId": 17079
+            }
+        ]
+    },
+    {
+        "id": 17080,
+        "seq": 80,
+        "honorMissionType": "append_full_perfect",
+        "requirement": 790,
+        "sentence": "難易度APPENDで790曲ALL PERFECTでクリアしよう。",
+        "rewards": [
+            {
+                "id": 9990,
+                "missionType": "honor_mission",
+                "missionId": 17080,
+                "seq": 1,
+                "resourceBoxId": 17080
+            }
+        ]
+    },
+    {
         "id": 20001,
         "seq": 15,
         "honorMissionType": "play_level_clear",
         "requirement": 15,
-        "sentence": "完成歌曲难度等级15以上的歌曲。",
+        "sentence": "完成等级至少为15的歌曲。",
         "rewards": [
             {
                 "id": 10239,
@@ -11268,7 +14020,7 @@
         "seq": 16,
         "honorMissionType": "play_level_clear",
         "requirement": 16,
-        "sentence": "完成歌曲难度等级16以上的歌曲。",
+        "sentence": "完成等级至少为16的歌曲。",
         "rewards": [
             {
                 "id": 10240,
@@ -11284,7 +14036,7 @@
         "seq": 17,
         "honorMissionType": "play_level_clear",
         "requirement": 17,
-        "sentence": "完成歌曲难度等级17以上的歌曲。",
+        "sentence": "完成等级至少为17的歌曲。",
         "rewards": [
             {
                 "id": 10241,
@@ -11300,7 +14052,7 @@
         "seq": 18,
         "honorMissionType": "play_level_clear",
         "requirement": 18,
-        "sentence": "完成歌曲难度等级18以上的歌曲。",
+        "sentence": "完成等级至少为18的歌曲。",
         "rewards": [
             {
                 "id": 10242,
@@ -11316,7 +14068,7 @@
         "seq": 19,
         "honorMissionType": "play_level_clear",
         "requirement": 19,
-        "sentence": "完成歌曲难度等级19以上的歌曲。",
+        "sentence": "完成等级至少为19的歌曲。",
         "rewards": [
             {
                 "id": 10243,
@@ -11332,7 +14084,7 @@
         "seq": 20,
         "honorMissionType": "play_level_clear",
         "requirement": 20,
-        "sentence": "完成歌曲难度等级20以上的歌曲。",
+        "sentence": "完成等级至少为20的歌曲。",
         "rewards": [
             {
                 "id": 10244,
@@ -11348,7 +14100,7 @@
         "seq": 21,
         "honorMissionType": "play_level_clear",
         "requirement": 21,
-        "sentence": "完成歌曲难度等级21以上的歌曲。",
+        "sentence": "完成等级至少为21的歌曲。",
         "rewards": [
             {
                 "id": 10245,
@@ -11364,7 +14116,7 @@
         "seq": 22,
         "honorMissionType": "play_level_clear",
         "requirement": 22,
-        "sentence": "完成歌曲难度等级22以上的歌曲。",
+        "sentence": "完成等级至少为22的歌曲。",
         "rewards": [
             {
                 "id": 10246,
@@ -11380,7 +14132,7 @@
         "seq": 23,
         "honorMissionType": "play_level_clear",
         "requirement": 23,
-        "sentence": "完成歌曲难度等级23以上的歌曲。",
+        "sentence": "完成等级至少为23的歌曲。",
         "rewards": [
             {
                 "id": 10247,
@@ -11396,7 +14148,7 @@
         "seq": 24,
         "honorMissionType": "play_level_clear",
         "requirement": 24,
-        "sentence": "完成歌曲难度等级24以上的歌曲。",
+        "sentence": "完成等级至少为24的歌曲。",
         "rewards": [
             {
                 "id": 10248,
@@ -11412,7 +14164,7 @@
         "seq": 25,
         "honorMissionType": "play_level_clear",
         "requirement": 25,
-        "sentence": "完成歌曲难度等级25以上的歌曲。",
+        "sentence": "完成等级至少为25的歌曲。",
         "rewards": [
             {
                 "id": 10249,
@@ -11428,7 +14180,7 @@
         "seq": 26,
         "honorMissionType": "play_level_clear",
         "requirement": 26,
-        "sentence": "完成歌曲难度等级26以上的歌曲。",
+        "sentence": "完成等级至少为26的歌曲。",
         "rewards": [
             {
                 "id": 10250,
@@ -11444,7 +14196,7 @@
         "seq": 27,
         "honorMissionType": "play_level_clear",
         "requirement": 27,
-        "sentence": "完成歌曲难度等级27以上的歌曲。",
+        "sentence": "完成等级至少为27的歌曲。",
         "rewards": [
             {
                 "id": 10251,
@@ -11460,7 +14212,7 @@
         "seq": 28,
         "honorMissionType": "play_level_clear",
         "requirement": 28,
-        "sentence": "完成歌曲难度等级28以上的歌曲。",
+        "sentence": "完成等级至少为28的歌曲。",
         "rewards": [
             {
                 "id": 10252,
@@ -11476,7 +14228,7 @@
         "seq": 29,
         "honorMissionType": "play_level_clear",
         "requirement": 29,
-        "sentence": "完成歌曲难度等级29以上的歌曲。",
+        "sentence": "完成等级至少为29的歌曲。",
         "rewards": [
             {
                 "id": 10253,
@@ -11492,7 +14244,7 @@
         "seq": 30,
         "honorMissionType": "play_level_clear",
         "requirement": 30,
-        "sentence": "完成歌曲难度等级30以上的歌曲。",
+        "sentence": "完成等级至少为30的歌曲。",
         "rewards": [
             {
                 "id": 10254,
@@ -11508,7 +14260,7 @@
         "seq": 31,
         "honorMissionType": "play_level_clear",
         "requirement": 31,
-        "sentence": "完成歌曲难度等级31以上的歌曲。",
+        "sentence": "完成等级至少为31的歌曲。",
         "rewards": [
             {
                 "id": 10255,
@@ -11524,7 +14276,7 @@
         "seq": 32,
         "honorMissionType": "play_level_clear",
         "requirement": 32,
-        "sentence": "完成歌曲难度等级32以上的歌曲。",
+        "sentence": "完成等级至少为32的歌曲。",
         "rewards": [
             {
                 "id": 10256,
@@ -11540,7 +14292,7 @@
         "seq": 33,
         "honorMissionType": "play_level_clear",
         "requirement": 33,
-        "sentence": "完成歌曲难度等级33以上的歌曲。",
+        "sentence": "完成等级至少为33的歌曲。",
         "rewards": [
             {
                 "id": 10257,
@@ -11556,7 +14308,7 @@
         "seq": 34,
         "honorMissionType": "play_level_clear",
         "requirement": 34,
-        "sentence": "完成歌曲难度等级34以上的歌曲。",
+        "sentence": "完成等级至少为34的歌曲。",
         "rewards": [
             {
                 "id": 10258,
@@ -11572,7 +14324,7 @@
         "seq": 35,
         "honorMissionType": "play_level_clear",
         "requirement": 35,
-        "sentence": "完成歌曲难度等级35以上的歌曲。",
+        "sentence": "完成等级至少为35的歌曲。",
         "rewards": [
             {
                 "id": 10259,
@@ -11588,7 +14340,7 @@
         "seq": 36,
         "honorMissionType": "play_level_clear",
         "requirement": 36,
-        "sentence": "完成歌曲难度等级36以上的歌曲。",
+        "sentence": "完成等级至少为36的歌曲。",
         "rewards": [
             {
                 "id": 10260,
@@ -11604,7 +14356,7 @@
         "seq": 37,
         "honorMissionType": "play_level_clear",
         "requirement": 37,
-        "sentence": "完成歌曲难度等级37以上的歌曲。",
+        "sentence": "完成等级至少为37的歌曲。",
         "rewards": [
             {
                 "id": 10261,
@@ -11620,7 +14372,7 @@
         "seq": 15,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 15,
-        "sentence": "歌曲难度等级15以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为15的歌曲。",
         "rewards": [
             {
                 "id": 10262,
@@ -11636,7 +14388,7 @@
         "seq": 16,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 16,
-        "sentence": "歌曲难度等级16以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为16的歌曲。",
         "rewards": [
             {
                 "id": 10263,
@@ -11652,7 +14404,7 @@
         "seq": 17,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 17,
-        "sentence": "歌曲难度等级17以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为17的歌曲。",
         "rewards": [
             {
                 "id": 10264,
@@ -11668,7 +14420,7 @@
         "seq": 18,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 18,
-        "sentence": "歌曲难度等级18以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为18的歌曲。",
         "rewards": [
             {
                 "id": 10265,
@@ -11684,7 +14436,7 @@
         "seq": 19,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 19,
-        "sentence": "歌曲难度等级19以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为19的歌曲。",
         "rewards": [
             {
                 "id": 10266,
@@ -11700,7 +14452,7 @@
         "seq": 20,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 20,
-        "sentence": "歌曲难度等级20以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为20的歌曲。",
         "rewards": [
             {
                 "id": 10267,
@@ -11716,7 +14468,7 @@
         "seq": 21,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 21,
-        "sentence": "歌曲难度等级21以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为21的歌曲。",
         "rewards": [
             {
                 "id": 10268,
@@ -11732,7 +14484,7 @@
         "seq": 22,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 22,
-        "sentence": "歌曲难度等级22以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为22的歌曲。",
         "rewards": [
             {
                 "id": 10269,
@@ -11748,7 +14500,7 @@
         "seq": 23,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 23,
-        "sentence": "歌曲难度等级23以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为23的歌曲。",
         "rewards": [
             {
                 "id": 10270,
@@ -11764,7 +14516,7 @@
         "seq": 24,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 24,
-        "sentence": "歌曲难度等级24以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为24的歌曲。",
         "rewards": [
             {
                 "id": 10271,
@@ -11780,7 +14532,7 @@
         "seq": 25,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 25,
-        "sentence": "歌曲难度等级25以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为25的歌曲。",
         "rewards": [
             {
                 "id": 10272,
@@ -11796,7 +14548,7 @@
         "seq": 26,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 26,
-        "sentence": "歌曲难度等级26以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为26的歌曲。",
         "rewards": [
             {
                 "id": 10273,
@@ -11812,7 +14564,7 @@
         "seq": 27,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 27,
-        "sentence": "歌曲难度等级27以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为27的歌曲。",
         "rewards": [
             {
                 "id": 10274,
@@ -11828,7 +14580,7 @@
         "seq": 28,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 28,
-        "sentence": "歌曲难度等级28以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为28的歌曲。",
         "rewards": [
             {
                 "id": 10275,
@@ -11844,7 +14596,7 @@
         "seq": 29,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 29,
-        "sentence": "歌曲难度等级29以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为29的歌曲。",
         "rewards": [
             {
                 "id": 10276,
@@ -11860,7 +14612,7 @@
         "seq": 30,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 30,
-        "sentence": "歌曲难度等级30以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为30的歌曲。",
         "rewards": [
             {
                 "id": 10277,
@@ -11876,7 +14628,7 @@
         "seq": 31,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 31,
-        "sentence": "歌曲难度等级31以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为31的歌曲。",
         "rewards": [
             {
                 "id": 10278,
@@ -11892,7 +14644,7 @@
         "seq": 32,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 32,
-        "sentence": "歌曲难度等级32以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为32的歌曲。",
         "rewards": [
             {
                 "id": 10279,
@@ -11908,7 +14660,7 @@
         "seq": 33,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 33,
-        "sentence": "歌曲难度等级33以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为33的歌曲。",
         "rewards": [
             {
                 "id": 10280,
@@ -11924,7 +14676,7 @@
         "seq": 34,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 34,
-        "sentence": "歌曲难度等级34以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为34的歌曲。",
         "rewards": [
             {
                 "id": 10281,
@@ -11940,7 +14692,7 @@
         "seq": 35,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 35,
-        "sentence": "歌曲难度等级35以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为35的歌曲。",
         "rewards": [
             {
                 "id": 10282,
@@ -11956,7 +14708,7 @@
         "seq": 36,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 36,
-        "sentence": "歌曲难度等级36以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为36的歌曲。",
         "rewards": [
             {
                 "id": 10283,
@@ -11972,7 +14724,7 @@
         "seq": 37,
         "honorMissionType": "play_level_full_combo_clear",
         "requirement": 37,
-        "sentence": "歌曲难度等级37以上的歌曲达成FULL COMBO。",
+        "sentence": "以FULL COMBO完成等级至少为37的歌曲。",
         "rewards": [
             {
                 "id": 10284,
